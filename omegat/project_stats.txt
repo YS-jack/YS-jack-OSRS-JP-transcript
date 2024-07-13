@@ -1,0 +1,19 @@
+7/13/24, 5:34 PM
+Project Statistics
+
+                 	Segments	 Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	  136042	870851	                3904651	               4637901	     6	
+Remaining:       	  136042	870851	                3904651	               4637901	     6	
+Unique:          	  101371	696592	                3145377	               3739037	     6	
+Unique Remaining:	  101371	696592	                3145377	               3739037	     6	
+
+
+Individual File Statistics:
+
+File Name                           	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+transcript_jp_actions.xliff         	          1221	              1221	           1126	                     1126	       1609	           1609	        1511	                  1511	                        12812	                            12812	                         12242	                                   12242	                       13187	                           13187	                        12614	                                  12614	
+transcript_jp_dialogue.xliff        	         91262	             91262	          58875	                    58875	     674007	         674007	      506111	                506111	                      2929349	                          2929349	                       2202429	                                 2202429	                     3511429	                         3511429	                      2649001	                                2649001	
+transcript_jp_examine.xliff         	         23041	             23041	          22210	                    22210	     139950	         139950	      136076	                136076	                       658212	                           658212	                        639885	                                  639885	                      775137	                          775137	                       753764	                                 753764	
+transcript_jp_inventoryActions.xliff	           337	               337	            232	                      232	        403	            403	         293	                   293	                         2721	                             2721	                          2056	                                    2056	                        2784	                            2784	                         2114	                                   2114	
+transcript_jp_lvl_up_msg.xliff      	          1266	              1266	           1250	                     1250	      12511	          12511	       12424	                 12424	                        61564	                            61564	                         61041	                                   61041	                       72814	                           72814	                        72220	                                  72220	
+transcript_jp_name.xliff            	         18915	             18915	          17678	                    17678	      42371	          42371	       40177	                 40177	                       239993	                           239993	                        227724	                                  227724	                      262550	                          262550	                       249324	                                 249324	
