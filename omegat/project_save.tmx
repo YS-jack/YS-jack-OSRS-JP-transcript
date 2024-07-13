@@ -6,10 +6,58 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-GB">
+        <seg>Attack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T094714Z" creationid="yumas" creationdate="20240713T094714Z">
+        <seg>を攻撃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Exchange</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T094736Z" creationid="yumas" creationdate="20240713T094705Z">
+        <seg>と交換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guess-letter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T094817Z" creationid="yumas" creationdate="20240713T094817Z">
+        <seg>文字を当てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T094807Z" creationid="yumas" creationdate="20240713T094807Z">
+        <seg>をなでる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Talk-to</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T084237Z" creationid="yumas" creationdate="20240713T084237Z">
         <seg>に話しかける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T094720Z" creationid="yumas" creationdate="20240713T094720Z">
+        <seg>と取引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Travel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T094759Z" creationid="yumas" creationdate="20240713T094759Z">
+        <seg>で移動</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
