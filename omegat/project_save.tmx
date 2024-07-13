@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pay</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T101319Z" creationid="yumas" creationdate="20240713T101319Z">
+        <seg>支払う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pet</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T094807Z" creationid="yumas" creationdate="20240713T094807Z">
@@ -80,8 +88,8 @@
       <tuv lang="en-GB">
         <seg>Skull</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240713T101311Z" creationid="yumas" creationdate="20240713T101311Z">
-        <seg>スカルを得る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T101520Z" creationid="yumas" creationdate="20240713T101311Z">
+        <seg>ドクロを得る</seg>
       </tuv>
     </tu>
     <tu>
