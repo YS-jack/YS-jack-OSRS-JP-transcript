@@ -59,7 +59,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41265">
         <xliff:source>Banish</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">消す</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Hangman game
@@ -67,7 +67,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41266">
         <xliff:source>Reset</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">リセット</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Hangman game
@@ -3107,7 +3107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41646">
         <xliff:source>Reset</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">リセット</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Shaking box
