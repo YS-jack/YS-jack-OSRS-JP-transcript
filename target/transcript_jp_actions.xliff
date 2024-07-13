@@ -11,7 +11,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41259">
         <xliff:source>Exchange</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">と交換</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Tool Leprechaun
@@ -19,7 +19,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41260">
         <xliff:source>Attack</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を攻撃</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Molanisk
@@ -27,7 +27,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41261">
         <xliff:source>Trade</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">と取引</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Hudo
@@ -35,7 +35,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41262">
         <xliff:source>Travel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で移動</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Rug Merchant
@@ -43,7 +43,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41263">
         <xliff:source>Pet</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">をなでる</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Dog
@@ -51,7 +51,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41264">
         <xliff:source>Guess-letter</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">文字を当てる</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Hangman game
@@ -3131,7 +3131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41649">
         <xliff:source>Attack</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を攻撃</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Dummy
@@ -4435,7 +4435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41812">
         <xliff:source>Travel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で移動</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spirit Tree
@@ -4651,7 +4651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41839">
         <xliff:source>Exchange</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">と交換</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Grand Exchange booth
@@ -9115,7 +9115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42397">
         <xliff:source>Pet</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">をなでる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Cat
