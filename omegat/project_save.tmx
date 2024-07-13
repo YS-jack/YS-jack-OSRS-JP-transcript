@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pick-up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T102510Z" creationid="yumas" creationdate="20240713T102510Z">
+        <seg>を拾う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T100556Z" creationid="yumas" creationdate="20240713T100556Z">
