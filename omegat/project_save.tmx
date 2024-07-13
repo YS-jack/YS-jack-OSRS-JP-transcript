@@ -62,10 +62,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Disturb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T103147Z" creationid="yumas" creationdate="20240713T103147Z">
+        <seg>を邪魔する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Exchange</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T094736Z" creationid="yumas" creationdate="20240713T094705Z">
         <seg>と交換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gauntlets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T103828Z" creationid="yumas" creationdate="20240713T103828Z">
+        <seg>ガントレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grab</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T103001Z" creationid="yumas" creationdate="20240713T103001Z">
+        <seg>を捕まえる</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,6 +110,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Kill</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T103016Z" creationid="yumas" creationdate="20240713T103016Z">
+        <seg>を殺す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Metamorphosis</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T102942Z" creationid="yumas" creationdate="20240713T102942Z">
+        <seg>に変身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pay</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T102441Z" creationid="yumas" creationdate="20240713T101319Z">
@@ -102,10 +142,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pick</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T102948Z" creationid="yumas" creationdate="20240713T102948Z">
+        <seg>を拾う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pick-up</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T102510Z" creationid="yumas" creationdate="20240713T102510Z">
         <seg>を拾う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T103013Z" creationid="yumas" creationdate="20240713T103013Z">
+        <seg>を割る</seg>
       </tuv>
     </tu>
     <tu>
