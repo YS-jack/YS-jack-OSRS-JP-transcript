@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dismiss</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T101228Z" creationid="yumas" creationdate="20240713T101228Z">
+        <seg>を解任する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Exchange</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T094736Z" creationid="yumas" creationdate="20240713T094705Z">
@@ -38,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T101034Z" creationid="yumas" creationdate="20240713T101034Z">
+        <seg>に当てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pet</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T094807Z" creationid="yumas" creationdate="20240713T094807Z">
@@ -50,6 +66,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T100556Z" creationid="yumas" creationdate="20240713T100556Z">
         <seg>リセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rewards</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T101238Z" creationid="yumas" creationdate="20240713T101238Z">
+        <seg>報酬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Skull</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T101311Z" creationid="yumas" creationdate="20240713T101311Z">
+        <seg>スカルを得る</seg>
       </tuv>
     </tu>
     <tu>
