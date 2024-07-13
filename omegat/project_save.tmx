@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Talk-to</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240713T084237Z" creationid="yumas" creationdate="20240713T084237Z">
+        <seg>に話しかける</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
