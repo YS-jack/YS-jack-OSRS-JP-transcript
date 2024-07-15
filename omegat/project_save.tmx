@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240715T204246Z" creationid="2008l" creationdate="20240715T204246Z">
+        <seg>鉱山へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mines</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T083826Z" creationid="2008l" creationdate="20240715T083826Z">
@@ -338,6 +346,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T081951Z" creationid="2008l" creationdate="20240715T081951Z">
         <seg>氷を砕く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Talk-To</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240715T204247Z" creationid="2008l" creationdate="20240715T204247Z">
+        <seg>に話しかける</seg>
       </tuv>
     </tu>
     <tu>
