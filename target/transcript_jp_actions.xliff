@@ -467,7 +467,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41316">
         <xliff:source>Push</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を押す</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Trolley
@@ -475,7 +475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41317">
         <xliff:source>Pull</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を引く</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Trolley
@@ -483,7 +483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41318">
         <xliff:source>Big-push</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を突き飛ばす</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Trolley
@@ -491,7 +491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41319">
         <xliff:source>Place</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を置く</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Trolley
@@ -499,7 +499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41320">
         <xliff:source>Claim-arrows</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">から矢を回収</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Rantz
@@ -515,7 +515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41322">
         <xliff:source>Pluck</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">から抜く</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Chompy bird
@@ -2883,7 +2883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41618">
         <xliff:source>Pull</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を引く</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Lever
@@ -3155,7 +3155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41652">
         <xliff:source>Push</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を押す</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Wall
