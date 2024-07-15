@@ -326,6 +326,14 @@
         <seg>で移動</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tuxedo-time</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240715T084639Z" creationid="2008l" creationdate="20240715T084639Z">
+        <seg>タキシードタイム</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
