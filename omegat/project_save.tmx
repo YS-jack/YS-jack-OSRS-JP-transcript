@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Knock-Out</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240715T082819Z" creationid="2008l" creationdate="20240715T082819Z">
+        <seg>をノックアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Metamorphosis</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T102942Z" creationid="yumas" creationdate="20240713T102942Z">
@@ -266,8 +274,8 @@
       <tuv lang="en-GB">
         <seg>Transport</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240715T081759Z" creationid="2008l" creationdate="20240715T081759Z">
-        <seg>移動</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240715T082459Z" creationid="2008l" creationdate="20240715T081759Z">
+        <seg>で移動</seg>
       </tuv>
     </tu>
     <tu>
