@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Big-push</seg>
+      </tuv>
+      <tuv lang="ja" changeid="b0sh" changedate="20240714T212911Z" creationid="b0sh" creationdate="20240714T212911Z">
+        <seg>を突き飛ばす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cellar</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T084126Z" creationid="2008l" creationdate="20240715T084126Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T102449Z" creationid="yumas" creationdate="20240713T102419Z">
         <seg>でペットを確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Claim-arrows</seg>
+      </tuv>
+      <tuv lang="ja" changeid="b0sh" changedate="20240714T213303Z" creationid="b0sh" creationdate="20240714T213235Z">
+        <seg>から矢を回収</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,10 +254,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Place</seg>
+      </tuv>
+      <tuv lang="ja" changeid="b0sh" changedate="20240714T212801Z" creationid="b0sh" creationdate="20240714T212801Z">
+        <seg>を置く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pluck</seg>
+      </tuv>
+      <tuv lang="ja" changeid="b0sh" changedate="20240714T215245Z" creationid="b0sh" creationdate="20240714T215245Z">
+        <seg>から抜く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pop</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T103013Z" creationid="yumas" creationdate="20240713T103013Z">
         <seg>を割る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pull</seg>
+      </tuv>
+      <tuv lang="ja" changeid="b0sh" changedate="20240714T212426Z" creationid="b0sh" creationdate="20240714T212426Z">
+        <seg>を引く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Push</seg>
+      </tuv>
+      <tuv lang="ja" changeid="b0sh" changedate="20240714T212431Z" creationid="b0sh" creationdate="20240714T212355Z">
+        <seg>を押す</seg>
       </tuv>
     </tu>
     <tu>
