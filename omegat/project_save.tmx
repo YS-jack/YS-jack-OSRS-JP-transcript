@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240715T081842Z" creationid="2008l" creationdate="20240715T081842Z">
+        <seg>で釣る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gauntlets</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T103828Z" creationid="yumas" creationdate="20240713T103828Z">
@@ -214,10 +222,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shear</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240715T082348Z" creationid="2008l" creationdate="20240715T082348Z">
+        <seg>の毛を刈る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Skull</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T101520Z" creationid="yumas" creationdate="20240713T101311Z">
         <seg>ドクロを得る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Smash-ice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240715T081951Z" creationid="2008l" creationdate="20240715T081951Z">
+        <seg>氷を砕く</seg>
       </tuv>
     </tu>
     <tu>
