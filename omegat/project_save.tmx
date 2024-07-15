@@ -32,8 +32,8 @@
       <tuv lang="en-GB">
         <seg>Bank</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240715T083013Z" creationid="2008l" creationdate="20240715T083013Z">
-        <seg>でバンクを開く</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240715T083834Z" creationid="2008l" creationdate="20240715T083013Z">
+        <seg>で銀行を開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +178,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T102942Z" creationid="yumas" creationdate="20240713T102942Z">
         <seg>に変身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mines</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240715T083826Z" creationid="2008l" creationdate="20240715T083826Z">
+        <seg>鉱山へ</seg>
       </tuv>
     </tu>
     <tu>
