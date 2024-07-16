@@ -367,6 +367,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Inspect</seg>
+      </tuv>
+      <tuv lang="ja" changeid="b0sh" changedate="20240716T190039Z" creationid="b0sh" creationdate="20240716T190039Z">
+        <seg>を観察</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Instruction manual</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T072231Z" creationid="2008l" creationdate="20240716T072231Z">
@@ -747,8 +755,8 @@
       <tuv lang="en-GB">
         <seg>Trade-General-Store</seg>
       </tuv>
-      <tuv lang="ja" changeid="b0sh" changedate="20240716T185742Z" creationid="b0sh" creationdate="20240716T185742Z">
-        <seg>と取引</seg>
+      <tuv lang="ja" changeid="b0sh" changedate="20240716T190309Z" creationid="b0sh" creationdate="20240716T185742Z">
+        <seg>と一般商店で取引</seg>
       </tuv>
     </tu>
     <tu>
