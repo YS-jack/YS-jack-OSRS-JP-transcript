@@ -427,7 +427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41311">
         <xliff:source>Talk-To</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">に話しかける</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Tarquin
@@ -459,7 +459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41315">
         <xliff:source>Mine</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">鉱山へ</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Elemental rock
@@ -3419,7 +3419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41685">
         <xliff:source>Mine</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">鉱山へ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Rock slide
@@ -5619,7 +5619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41960">
         <xliff:source>Talk-To</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">に話しかける</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Pirate Captain
