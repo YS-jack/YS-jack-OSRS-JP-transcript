@@ -641,8 +641,8 @@
       <tuv lang="en-GB">
         <seg>Scale</seg>
       </tuv>
-      <tuv lang="ja" changeid="b0sh" changedate="20240716T185353Z" creationid="b0sh" creationdate="20240716T185353Z">
-        <seg>を</seg>
+      <tuv lang="ja" changeid="b0sh" changedate="20240716T185425Z" creationid="b0sh" creationdate="20240716T185353Z">
+        <seg>を登る</seg>
       </tuv>
     </tu>
     <tu>
@@ -691,6 +691,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T075839Z" creationid="2008l" creationdate="20240716T075839Z">
         <seg>鋼鉄の矢じり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-boat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="b0sh" changedate="20240716T185539Z" creationid="b0sh" creationdate="20240716T185539Z">
+        <seg>ボートを取る</seg>
       </tuv>
     </tu>
     <tu>
