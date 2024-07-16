@@ -53,11 +53,28 @@
       </tuv>
     </tu>
     <tu>
+      <note>大砲かキャノンどっち？</note>
+      <tuv lang="en-GB">
+        <seg>Cannon barrels</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240716T072431Z" creationid="2008l" creationdate="20240716T072431Z">
+        <seg>大砲の砲身</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-GB">
         <seg>Cannon base</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T072334Z" creationid="2008l" creationdate="20240716T072334Z">
         <seg>大砲の台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cannon furnace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240716T072638Z" creationid="2008l" creationdate="20240716T072638Z">
+        <seg>大砲の炉</seg>
       </tuv>
     </tu>
     <tu>
