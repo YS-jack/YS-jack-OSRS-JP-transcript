@@ -207,6 +207,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Collect-reward</seg>
+      </tuv>
+      <tuv lang="ja" changeid="b0sh" changedate="20240716T184603Z" creationid="b0sh" creationdate="20240716T184517Z">
+        <seg>から報酬を回収</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Confront</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T081613Z" creationid="2008l" creationdate="20240715T080519Z">
@@ -227,6 +235,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T103147Z" creationid="yumas" creationdate="20240713T103147Z">
         <seg>を邪魔する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dream</seg>
+      </tuv>
+      <tuv lang="ja" changeid="b0sh" changedate="20240716T184421Z" creationid="b0sh" creationdate="20240716T184421Z">
+        <seg>夢をみる</seg>
       </tuv>
     </tu>
     <tu>
@@ -705,6 +721,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Trade-with</seg>
+      </tuv>
+      <tuv lang="ja" changeid="b0sh" changedate="20240716T184525Z" creationid="b0sh" creationdate="20240716T184525Z">
+        <seg>と取引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Transport</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T082459Z" creationid="2008l" creationdate="20240715T081759Z">
@@ -725,6 +749,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T084639Z" creationid="2008l" creationdate="20240715T084639Z">
         <seg>タキシードタイム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Walk-to</seg>
+      </tuv>
+      <tuv lang="ja" changeid="b0sh" changedate="20240716T184757Z" creationid="b0sh" creationdate="20240716T184757Z">
+        <seg>に歩く</seg>
       </tuv>
     </tu>
     <tu>
