@@ -355,7 +355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41302">
         <xliff:source>Sew</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を縫う</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Patchy
@@ -363,7 +363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41303">
         <xliff:source>Dream</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">夢をみる</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Dominic Onion
@@ -371,7 +371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41304">
         <xliff:source>Take-boat</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ボートを取る</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Monk of Entrana
@@ -379,7 +379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41305">
         <xliff:source>Inspect</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を観察</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Lumbridge Guide
@@ -387,7 +387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41306">
         <xliff:source>Trade-General-Store</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">と一般商店で取引</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Razmire Keelgan
@@ -395,7 +395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41307">
         <xliff:source>Trade-Builders-Store</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">と建材店で取引</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Razmire Keelgan
@@ -1483,7 +1483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41443">
         <xliff:source>Trade-with</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">と取引</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Rewards Guardian
@@ -2819,7 +2819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41610">
         <xliff:source>Inspect</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を観察</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Broken multicannon
@@ -6403,7 +6403,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42058">
         <xliff:source>Take-remains</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">から遺体を取る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Kruk
@@ -6411,7 +6411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42059">
         <xliff:source>Scale</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を登る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Rocks
@@ -6419,7 +6419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42060">
         <xliff:source>Walk on</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を渡る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Vine
@@ -9539,7 +9539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42450">
         <xliff:source>Reload</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">をリーロド</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Steps
@@ -9547,7 +9547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42451">
         <xliff:source>Collect-reward</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">から報酬を回収</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Table
@@ -9563,7 +9563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42453">
         <xliff:source>Walk-to</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">に歩く</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Blue tile
