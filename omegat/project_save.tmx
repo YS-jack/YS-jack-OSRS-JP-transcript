@@ -527,6 +527,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Oak longbow (u)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240718T072018Z" creationid="2008l" creationdate="20240718T072018Z">
+        <seg>オークの長弓（未完成）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Oak shortbow (u)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240718T071919Z" creationid="2008l" creationdate="20240718T071853Z">
+        <seg>オークの短弓（未完成）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Opal bolt tips</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T090401Z" creationid="2008l" creationdate="20240716T090401Z">
@@ -877,6 +893,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T074452Z" creationid="2008l" creationdate="20240716T074452Z">
         <seg>白い歯車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Willow longbow (u)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240718T072138Z" creationid="2008l" creationdate="20240718T072138Z">
+        <seg>柳の長弓（未完成）</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
