@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Arrow shaft</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240718T085742Z" creationid="2008l" creationdate="20240718T085742Z">
+        <seg>矢のシャフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Attack</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T094714Z" creationid="yumas" creationdate="20240713T094714Z">
@@ -331,6 +339,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T094817Z" creationid="yumas" creationdate="20240713T094817Z">
         <seg>文字を当てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Headless arrow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240718T085846Z" creationid="2008l" creationdate="20240718T085846Z">
+        <seg>矢柄</seg>
       </tuv>
     </tu>
     <tu>
