@@ -347,7 +347,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="44">
         <xliff:source>Arrow shaft</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">矢のシャフト</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Arrow shaft
@@ -355,7 +355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="45">
         <xliff:source>Headless arrow</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">矢柄</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Headless arrow
@@ -363,7 +363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="46">
         <xliff:source>Oak shortbow (u)</xliff:source>
-        <xliff:target state="translated">オークの短弓（未完成）</xliff:target>
+        <xliff:target state="translated">オークの短弓（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak shortbow (u)
@@ -371,7 +371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="47">
         <xliff:source>Oak longbow (u)</xliff:source>
-        <xliff:target state="translated">オークの長弓（未完成）</xliff:target>
+        <xliff:target state="translated">オークの長弓（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak longbow (u)
@@ -379,7 +379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="48">
         <xliff:source>Willow longbow (u)</xliff:source>
-        <xliff:target state="translated">柳の長弓（未完成）</xliff:target>
+        <xliff:target state="translated">柳の長弓（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Willow longbow (u)
@@ -387,7 +387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="49">
         <xliff:source>Willow shortbow (u)</xliff:source>
-        <xliff:target state="translated">柳の短弓（未完成）</xliff:target>
+        <xliff:target state="translated">柳の短弓（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Willow shortbow (u)
@@ -395,7 +395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="50">
         <xliff:source>Maple longbow (u)</xliff:source>
-        <xliff:target state="translated">楓の長弓（未完成）</xliff:target>
+        <xliff:target state="translated">楓の長弓（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Maple longbow (u)
@@ -403,7 +403,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="51">
         <xliff:source>Maple shortbow (u)</xliff:source>
-        <xliff:target state="translated">楓の短弓（未完成）</xliff:target>
+        <xliff:target state="translated">楓の短弓（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Maple shortbow (u)
@@ -411,7 +411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="52">
         <xliff:source>Yew longbow (u)</xliff:source>
-        <xliff:target state="translated">イチイの長弓（未完成）</xliff:target>
+        <xliff:target state="translated">イチイの長弓（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Yew longbow (u)
@@ -419,7 +419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="53">
         <xliff:source>Yew shortbow (u)</xliff:source>
-        <xliff:target state="translated">イチイの短弓（未完成）</xliff:target>
+        <xliff:target state="translated">イチイの短弓（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Yew shortbow (u)
@@ -427,7 +427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="54">
         <xliff:source>Magic longbow (u)</xliff:source>
-        <xliff:target state="translated">魔法の長弓（未完成）</xliff:target>
+        <xliff:target state="translated">魔法の長弓（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Magic longbow (u)
@@ -435,7 +435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="55">
         <xliff:source>Magic shortbow (u)</xliff:source>
-        <xliff:target state="translated">魔法の短弓（未完成）</xliff:target>
+        <xliff:target state="translated">魔法の短弓（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Magic shortbow (u)
