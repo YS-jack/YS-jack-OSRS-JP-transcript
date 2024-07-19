@@ -57,7 +57,6 @@ khazard	カザード	ある強いNPCの名
 helmet	鉄兜	med helmを似ているヘルメットのこと
 med helm	鉄兜	頭を守防具のこと
 armour	防具	プレイヤーをある程度守るアイテム、守備力のボーナスをあげるアイテム
-armour	鎧	体の胸のところに着る防具の一つ
 cell	監房	悪いことをすると閉じ込められる場所
 Khali	カリ	たぶん場所の名
 brew	醸造酒	強い酒の種類
@@ -86,3 +85,11 @@ whistle	笛	アイテム名でしよう
 grail	聖杯	holy grailと同じ　アイテム名でしよう
 guam	グアム	ハーブ系の一つ
 potion	薬液	効果が無い、飲めないポーション
+potion	増強薬	効果がある、強化されるポーション
+platebody	胸甲	（きょうこう）アイテム名でしよう
+chainbody	鎖甲	（くさりこう）アイテム名でしよう
+full　helm	全頭甲	（ぜんとうこう）アイテム名でしよう
+platelegs	脚甲	（きゃっこう）アイテム名でしよう
+plateskirt	裙甲	（くんこう）
+gloves	籠手	金属なら（こて）
+gloves	手袋	布なら
