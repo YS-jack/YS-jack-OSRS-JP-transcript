@@ -523,7 +523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="66">
         <xliff:source>Boots of lightness</xliff:source>
-        <xliff:target state="translated">軽さのブーツ</xliff:target>
+        <xliff:target state="translated">軽さの靴</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Boots of lightness
@@ -547,7 +547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="69">
         <xliff:source>Marrentill potion (unf)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マレンテルの薬液（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Marrentill potion (unf)
@@ -555,7 +555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="70">
         <xliff:source>Tarromin potion (unf)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">タロミンの薬液（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Tarromin potion (unf)
@@ -563,7 +563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="71">
         <xliff:source>Harralander potion (unf)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ハラランダーの薬液（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Harralander potion (unf)
@@ -571,7 +571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="72">
         <xliff:source>Ranarr potion (unf)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ラナーの薬液（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ranarr potion (unf)
@@ -579,7 +579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="73">
         <xliff:source>Irit potion (unf)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アイリットの薬液（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Irit potion (unf)
@@ -587,7 +587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="74">
         <xliff:source>Avantoe potion (unf)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アバントーの薬液（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Avantoe potion (unf)
@@ -595,7 +595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="75">
         <xliff:source>Kwuarm potion (unf)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クワームの薬液（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Kwuarm potion (unf)
@@ -603,7 +603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="76">
         <xliff:source>Cadantine potion (unf)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">カンダタインの薬液（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Cadantine potion (unf)
@@ -611,7 +611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="77">
         <xliff:source>Dwarf weed potion (unf)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ドワーフ草の薬液（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dwarf weed potion (unf)
@@ -619,7 +619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="78">
         <xliff:source>Torstol potion (unf)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">トーストルの薬液（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Torstol potion (unf)
@@ -627,7 +627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="79">
         <xliff:source>Strength potion(4)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">腕力増強薬（４）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Strength potion(4)
@@ -635,7 +635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="80">
         <xliff:source>Strength potion(3)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">腕力増強薬（３）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Strength potion(3)
@@ -643,7 +643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="81">
         <xliff:source>Strength potion(2)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">腕力増強薬（２）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Strength potion(2)
@@ -651,7 +651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="82">
         <xliff:source>Strength potion(1)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">腕力増強薬（１）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Strength potion(1)
@@ -659,7 +659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="83">
         <xliff:source>Attack potion(3)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">攻撃力増強薬（３）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Attack potion(3)
@@ -667,7 +667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="84">
         <xliff:source>Attack potion(2)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">攻撃力増強薬（２）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Attack potion(2)
@@ -675,7 +675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="85">
         <xliff:source>Attack potion(1)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">攻撃力増強薬（１）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Attack potion(1)
@@ -707,7 +707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="89">
         <xliff:source>Defence potion(3)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">守備力増強薬（３）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Defence potion(3)
@@ -715,7 +715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="90">
         <xliff:source>Defence potion(2)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">守備力増強薬（２）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Defence potion(2)
@@ -723,7 +723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="91">
         <xliff:source>Defence potion(1)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">守備力増強薬（１）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Defence potion(1)
@@ -731,7 +731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="92">
         <xliff:source>Prayer potion(3)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">祈り増強薬（３）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Prayer potion(3)
@@ -739,7 +739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="93">
         <xliff:source>Prayer potion(2)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">祈り増強薬（２）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Prayer potion(2)
@@ -747,7 +747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="94">
         <xliff:source>Prayer potion(1)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">祈り増強薬（１）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Prayer potion(1)
@@ -779,7 +779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="98">
         <xliff:source>Fishing potion(3)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">釣り増強薬（３）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Fishing potion(3)
@@ -787,7 +787,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="99">
         <xliff:source>Fishing potion(2)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">釣り増強薬（２）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Fishing potion(2)
@@ -795,7 +795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="100">
         <xliff:source>Fishing potion(1)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">釣り増強薬（１）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Fishing potion(1)
@@ -851,7 +851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="107">
         <xliff:source>Ranging potion(3)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">弓増強薬（３）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ranging potion(3)
@@ -859,7 +859,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="108">
         <xliff:source>Ranging potion(2)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">弓増強薬（２）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ranging potion(2)
@@ -867,7 +867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="109">
         <xliff:source>Ranging potion(1)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">弓増強薬（１）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ranging potion(1)
@@ -875,7 +875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="110">
         <xliff:source>Antipoison(3)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">解毒剤（３）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Antipoison(3)
@@ -883,7 +883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="111">
         <xliff:source>Antipoison(2)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">解毒剤（２）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Antipoison(2)
@@ -891,7 +891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="112">
         <xliff:source>Antipoison(1)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">解毒剤（１）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Antipoison(1)
@@ -923,7 +923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="116">
         <xliff:source>Weapon poison</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">武器用毒</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Weapon poison
@@ -955,7 +955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="120">
         <xliff:source>Potion</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">薬液</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Potion
