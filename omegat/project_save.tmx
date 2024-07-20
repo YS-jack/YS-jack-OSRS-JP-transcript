@@ -54,6 +54,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Attack potion(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240720T070710Z" creationid="2008l" creationdate="20240720T070710Z">
+        <seg>攻撃力増強薬（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Attack potion(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240720T070708Z" creationid="2008l" creationdate="20240720T070708Z">
+        <seg>攻撃力増強薬（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Attack potion(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240720T070706Z" creationid="2008l" creationdate="20240720T070706Z">
+        <seg>攻撃力増強薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Avantoe potion (unf)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T070406Z" creationid="2008l" creationdate="20240720T070406Z">
@@ -274,6 +298,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T081613Z" creationid="2008l" creationdate="20240715T080519Z">
         <seg>を対峙する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Defence potion(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240720T070921Z" creationid="2008l" creationdate="20240720T070921Z">
+        <seg>守備力増強薬（３）</seg>
       </tuv>
     </tu>
     <tu>
@@ -962,6 +994,30 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T075839Z" creationid="2008l" creationdate="20240716T075839Z">
         <seg>鋼鉄の矢じり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strength potion(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240720T070620Z" creationid="2008l" creationdate="20240720T070620Z">
+        <seg>腕力増強薬（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strength potion(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240720T070618Z" creationid="2008l" creationdate="20240720T070618Z">
+        <seg>腕力増強薬（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strength potion(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240720T070615Z" creationid="2008l" creationdate="20240720T070615Z">
+        <seg>腕力増強薬（３）</seg>
       </tuv>
     </tu>
     <tu>
