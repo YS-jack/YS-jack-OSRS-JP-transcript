@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Poison chalice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240721T065530Z" creationid="2008l" creationdate="20240721T065530Z">
+        <seg>毒杯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pop</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T103013Z" creationid="yumas" creationdate="20240713T103013Z">
@@ -1018,6 +1026,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T100556Z" creationid="yumas" creationdate="20240713T100556Z">
         <seg>リセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Restore potion(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240721T065400Z" creationid="2008l" creationdate="20240721T065400Z">
+        <seg>回復薬（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Restore potion(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240721T065358Z" creationid="2008l" creationdate="20240721T065358Z">
+        <seg>回復薬（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Restore potion(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240721T065356Z" creationid="2008l" creationdate="20240721T065356Z">
+        <seg>回復薬（３）</seg>
       </tuv>
     </tu>
     <tu>
