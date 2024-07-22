@@ -542,10 +542,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Glarial's amulet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240722T064540Z" creationid="2008l" creationdate="20240722T064540Z">
+        <seg>グラリアルのお守り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Glarial's pebble</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T064349Z" creationid="2008l" creationdate="20240722T064349Z">
         <seg>グラリアルの小石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Glarial's urn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240722T064610Z" creationid="2008l" creationdate="20240722T064610Z">
+        <seg>グラリアルの壺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Glarial's urn (empty)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240722T064623Z" creationid="2008l" creationdate="20240722T064623Z">
+        <seg>グラリアルの壺（空）</seg>
       </tuv>
     </tu>
     <tu>
@@ -918,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lobster pot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240722T064821Z" creationid="2008l" creationdate="20240722T064821Z">
+        <seg>ロブスターポット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Longbow (u)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T071514Z" creationid="2008l" creationdate="20240718T071514Z">
@@ -1018,6 +1050,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T075908Z" creationid="2008l" creationdate="20240716T075908Z">
         <seg>ミスリルの矢じり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mithril seeds</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240722T064632Z" creationid="2008l" creationdate="20240722T064632Z">
+        <seg>ミスリルの種</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rat's tail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240722T064650Z" creationid="2008l" creationdate="20240722T064650Z">
+        <seg>ネズミの尻尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Red cog</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T074512Z" creationid="2008l" creationdate="20240716T074512Z">
@@ -1514,6 +1562,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T101520Z" creationid="yumas" creationdate="20240713T101311Z">
         <seg>ドクロを得る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Small fishing net</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240722T064941Z" creationid="2008l" creationdate="20240722T064941Z">
+        <seg>小さい</seg>
       </tuv>
     </tu>
     <tu>
