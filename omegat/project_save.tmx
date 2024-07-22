@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Big fishing net</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240722T064946Z" creationid="2008l" creationdate="20240722T064946Z">
+        <seg>大きい漁網</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Big-push</seg>
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240714T212911Z" creationid="b0sh" creationdate="20240714T212911Z">
@@ -522,6 +530,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T071010Z" creationid="2008l" creationdate="20240720T071010Z">
         <seg>釣り増強薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fishing rod</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240722T065012Z" creationid="2008l" creationdate="20240722T065012Z">
+        <seg>釣竿</seg>
       </tuv>
     </tu>
     <tu>
@@ -1568,8 +1584,8 @@
       <tuv lang="en-GB">
         <seg>Small fishing net</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240722T064941Z" creationid="2008l" creationdate="20240722T064941Z">
-        <seg>小さい</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240722T064950Z" creationid="2008l" creationdate="20240722T064941Z">
+        <seg>小さい漁網</seg>
       </tuv>
     </tu>
     <tu>
