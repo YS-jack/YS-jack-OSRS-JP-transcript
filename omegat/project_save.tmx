@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Feather</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240722T065708Z" creationid="2008l" creationdate="20240722T065708Z">
+        <seg>羽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fish</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T081842Z" creationid="2008l" creationdate="20240715T081842Z">
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062525Z" creationid="2008l" creationdate="20240722T062525Z">
         <seg>魚の餌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fishing bait</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240722T065702Z" creationid="2008l" creationdate="20240722T065702Z">
+        <seg>釣り餌</seg>
       </tuv>
     </tu>
     <tu>
@@ -722,6 +738,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T094817Z" creationid="yumas" creationdate="20240713T094817Z">
         <seg>文字を当てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Harpoon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240722T065659Z" creationid="2008l" creationdate="20240722T065659Z">
+        <seg>銛</seg>
       </tuv>
     </tu>
     <tu>
