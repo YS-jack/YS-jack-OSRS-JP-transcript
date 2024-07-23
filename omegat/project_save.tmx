@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cod</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063222Z" creationid="2008l" creationdate="20240723T063222Z">
+        <seg>タラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Collect</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T083232Z" creationid="2008l" creationdate="20240715T083232Z">
@@ -594,6 +602,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T103828Z" creationid="yumas" creationdate="20240713T103828Z">
         <seg>ガントレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Giant carp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063044Z" creationid="2008l" creationdate="20240723T063044Z">
+        <seg>巨大な鯉</seg>
       </tuv>
     </tu>
     <tu>
@@ -1434,6 +1450,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T062400Z" creationid="2008l" creationdate="20240723T062400Z">
         <seg>生のアンチョビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raw giant carp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063051Z" creationid="2008l" creationdate="20240723T063051Z">
+        <seg>生の巨大な鯉</seg>
       </tuv>
     </tu>
     <tu>
