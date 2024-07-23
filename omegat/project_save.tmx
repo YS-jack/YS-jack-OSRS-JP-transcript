@@ -1246,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Medical gown</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T065739Z" creationid="2008l" creationdate="20240723T065739Z">
+        <seg>医療用ガウン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Metamorphosis</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T102942Z" creationid="yumas" creationdate="20240713T102942Z">
@@ -1432,8 +1440,8 @@
       <tuv lang="en-GB">
         <seg>Pigeon cage</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240723T065315Z" creationid="2008l" creationdate="20240723T065315Z">
-        <seg>鳩</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T065329Z" creationid="2008l" creationdate="20240723T065315Z">
+        <seg>鳩の檻</seg>
       </tuv>
     </tu>
     <tu>
@@ -1554,6 +1562,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062450Z" creationid="2008l" creationdate="20240722T062450Z">
         <seg>圧力計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Priest gown</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T065510Z" creationid="2008l" creationdate="20240723T065510Z">
+        <seg>司祭の衣服</seg>
       </tuv>
     </tu>
     <tu>
