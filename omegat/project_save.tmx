@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Herring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063240Z" creationid="2008l" creationdate="20240723T063240Z">
+        <seg>ニシン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hit</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T101034Z" creationid="yumas" creationdate="20240713T101034Z">
@@ -1262,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pike</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063427Z" creationid="2008l" creationdate="20240723T063427Z">
+        <seg>パイク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Place</seg>
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240714T212801Z" creationid="b0sh" creationdate="20240714T212801Z">
@@ -1454,10 +1470,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Raw cod</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063227Z" creationid="2008l" creationdate="20240723T063227Z">
+        <seg>生のタラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Raw giant carp</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T063051Z" creationid="2008l" creationdate="20240723T063051Z">
         <seg>生の巨大な鯉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raw herring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063236Z" creationid="2008l" creationdate="20240723T063236Z">
+        <seg>生のニシン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raw mackerel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063611Z" creationid="2008l" creationdate="20240723T063611Z">
+        <seg>生のサバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raw pike</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063423Z" creationid="2008l" creationdate="20240723T063423Z">
+        <seg>生のパイク</seg>
       </tuv>
     </tu>
     <tu>
