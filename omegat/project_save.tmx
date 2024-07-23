@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Anchovies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T062356Z" creationid="2008l" creationdate="20240723T062356Z">
+        <seg>アンチョビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Antipoison(1)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T071049Z" creationid="2008l" creationdate="20240720T071049Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T075304Z" creationid="2008l" creationdate="20240716T075304Z">
         <seg>ワックスの入たバケツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burnt fish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T062440Z" creationid="2008l" creationdate="20240723T062440Z">
+        <seg>焦げた魚</seg>
       </tuv>
     </tu>
     <tu>
@@ -1414,6 +1430,46 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Raw anchovies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T062400Z" creationid="2008l" creationdate="20240723T062400Z">
+        <seg>生のアンチョビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raw salmon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T062501Z" creationid="2008l" creationdate="20240723T062501Z">
+        <seg>生のサーモン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raw sardine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T062449Z" creationid="2008l" creationdate="20240723T062449Z">
+        <seg>生のイワシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raw shrimps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T062349Z" creationid="2008l" creationdate="20240723T062349Z">
+        <seg>生のエビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raw trout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T062509Z" creationid="2008l" creationdate="20240723T062509Z">
+        <seg>生のマス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Red cog</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T074512Z" creationid="2008l" creationdate="20240716T074512Z">
@@ -1518,6 +1574,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Salmon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T062456Z" creationid="2008l" creationdate="20240723T062456Z">
+        <seg>サーモン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sardine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T062445Z" creationid="2008l" creationdate="20240723T062445Z">
+        <seg>イワシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Scale</seg>
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240716T185425Z" creationid="b0sh" creationdate="20240716T185353Z">
@@ -1608,8 +1680,8 @@
       <tuv lang="en-GB">
         <seg>Shrimps</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240723T062156Z" creationid="2008l" creationdate="20240723T062156Z">
-        <seg>シュリンプ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T062344Z" creationid="2008l" creationdate="20240723T062156Z">
+        <seg>エビ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1908,6 +1980,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T094759Z" creationid="yumas" creationdate="20240713T094759Z">
         <seg>で移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T062505Z" creationid="2008l" creationdate="20240723T062505Z">
+        <seg>マス</seg>
       </tuv>
     </tu>
     <tu>
