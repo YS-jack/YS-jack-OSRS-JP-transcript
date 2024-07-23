@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bass</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063813Z" creationid="2008l" creationdate="20240723T063813Z">
+        <seg>スズキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Big fishing net</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T064946Z" creationid="2008l" creationdate="20240722T064946Z">
@@ -242,6 +250,30 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T062440Z" creationid="2008l" creationdate="20240723T062440Z">
         <seg>焦げた魚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burnt lobster</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063931Z" creationid="2008l" creationdate="20240723T063931Z">
+        <seg>焦げたロブスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burnt shark</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T064008Z" creationid="2008l" creationdate="20240723T064008Z">
+        <seg>焦げたサメ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burnt swordfish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063911Z" creationid="2008l" creationdate="20240723T063911Z">
+        <seg>焦げたカジキ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lobster</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063925Z" creationid="2008l" creationdate="20240723T063925Z">
+        <seg>ロブスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lobster pot</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T064821Z" creationid="2008l" creationdate="20240722T064821Z">
@@ -1082,6 +1122,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T074322Z" creationid="2008l" creationdate="20240716T074322Z">
         <seg>魔法の笛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Manta ray</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T064110Z" creationid="2008l" creationdate="20240723T064110Z">
+        <seg>マンタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1510,10 +1558,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Raw lobster</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063919Z" creationid="2008l" creationdate="20240723T063919Z">
+        <seg>生のロブスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Raw mackerel</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T063611Z" creationid="2008l" creationdate="20240723T063611Z">
         <seg>生のサバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raw manta ray</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T064016Z" creationid="2008l" creationdate="20240723T064016Z">
+        <seg>生のマンタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1542,10 +1606,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Raw shark</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063951Z" creationid="2008l" creationdate="20240723T063951Z">
+        <seg>生のサメ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Raw shrimps</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T062349Z" creationid="2008l" creationdate="20240723T062349Z">
         <seg>生のエビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raw swordfish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063824Z" creationid="2008l" creationdate="20240723T063824Z">
+        <seg>生のカジキ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1706,6 +1786,14 @@
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240716T184333Z" creationid="b0sh" creationdate="20240716T184333Z">
         <seg>を縫う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shark</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063952Z" creationid="2008l" creationdate="20240723T063952Z">
+        <seg>サメ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1954,6 +2042,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T064953Z" creationid="2008l" creationdate="20240721T064953Z">
         <seg>超解毒剤（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Swordfish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T063827Z" creationid="2008l" creationdate="20240723T063827Z">
+        <seg>カジキ</seg>
       </tuv>
     </tu>
     <tu>
