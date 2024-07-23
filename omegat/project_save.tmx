@@ -262,6 +262,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Burnt manta ray</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T064115Z" creationid="2008l" creationdate="20240723T064115Z">
+        <seg>焦げたマンタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burnt sea turtle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T064203Z" creationid="2008l" creationdate="20240723T064203Z">
+        <seg>焦げたウミガメ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Burnt shark</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064008Z" creationid="2008l" creationdate="20240723T064008Z">
@@ -338,6 +354,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T071252Z" creationid="2008l" creationdate="20240716T071026Z">
         <seg>キャノンボール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Casket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T064519Z" creationid="2008l" creationdate="20240723T064519Z">
+        <seg>木箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -514,6 +538,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T070525Z" creationid="2008l" creationdate="20240720T070525Z">
         <seg>ドワーフ草の薬液（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Edible seaweed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T064250Z" creationid="2008l" creationdate="20240723T064250Z">
+        <seg>食用海藻</seg>
       </tuv>
     </tu>
     <tu>
@@ -1606,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Raw sea turtle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T064155Z" creationid="2008l" creationdate="20240723T064155Z">
+        <seg>生のウミガメ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Raw shark</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T063951Z" creationid="2008l" creationdate="20240723T063951Z">
@@ -1774,10 +1814,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sea turtle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T064157Z" creationid="2008l" creationdate="20240723T064157Z">
+        <seg>ウミガメ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Search</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T081537Z" creationid="2008l" creationdate="20240715T061239Z">
         <seg>を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Seaweed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240723T064231Z" creationid="2008l" creationdate="20240723T064231Z">
+        <seg>海藻</seg>
       </tuv>
     </tu>
     <tu>
