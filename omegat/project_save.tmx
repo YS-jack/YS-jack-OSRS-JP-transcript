@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ashes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T063755Z" creationid="2008l" creationdate="20240725T063755Z">
+        <seg>灰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Attack</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T094714Z" creationid="yumas" creationdate="20240713T094714Z">
@@ -1086,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gnome amulet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T063639Z" creationid="2008l" creationdate="20240725T063639Z">
+        <seg>ノームのお守り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Goblin mail</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T063940Z" creationid="2008l" creationdate="20240722T063940Z">
@@ -1534,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lit torch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T063829Z" creationid="2008l" creationdate="20240725T063829Z">
+        <seg>火のついた松明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lobster</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T063925Z" creationid="2008l" creationdate="20240723T063925Z">
@@ -1809,6 +1833,14 @@
         <seg>Orb of protection</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T063618Z" creationid="2008l" creationdate="20240725T063618Z">
+        <seg>防御の球体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Orbs of protection</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T063620Z" creationid="2008l" creationdate="20240725T063620Z">
         <seg>防御の球体</seg>
       </tuv>
     </tu>
@@ -2848,10 +2880,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tinderbox</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T063738Z" creationid="2008l" creationdate="20240725T063738Z">
+        <seg>火口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Toolkit</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T071001Z" creationid="2008l" creationdate="20240716T071001Z">
         <seg>ツールキット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Torch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T063833Z" creationid="2008l" creationdate="20240725T063833Z">
+        <seg>松明</seg>
       </tuv>
     </tu>
     <tu>
