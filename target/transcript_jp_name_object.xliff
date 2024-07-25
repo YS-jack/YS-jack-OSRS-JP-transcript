@@ -1379,7 +1379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14530">
         <xliff:source>Animal skull</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">動物の頭蓋骨</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Animal skull
@@ -1707,7 +1707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14571">
         <xliff:source>Portrait</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">肖像画</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Portrait
@@ -11051,7 +11051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15739">
         <xliff:source>Torch</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">松明</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Torch
@@ -16667,7 +16667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16441">
         <xliff:source>Panning tray</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">パンニングのトレイ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Panning tray
@@ -20395,7 +20395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16907">
         <xliff:source>Coins</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">コイン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Coins
@@ -21235,7 +21235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17012">
         <xliff:source>Chaos rune</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">混沌のルーン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Chaos rune
@@ -21243,7 +21243,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17013">
         <xliff:source>Death rune</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">死のルーン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Death rune
@@ -21251,7 +21251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17014">
         <xliff:source>Blood rune</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血のルーン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Blood rune
@@ -21259,7 +21259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17015">
         <xliff:source>Air rune</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">大気のルーン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Air rune
@@ -21267,7 +21267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17016">
         <xliff:source>Water rune</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">水のルーン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Water rune
@@ -21275,7 +21275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17017">
         <xliff:source>Earth rune</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">土のルーン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Earth rune
@@ -21283,7 +21283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17018">
         <xliff:source>Fire rune</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">火のルーン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Fire rune
@@ -25923,7 +25923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17598">
         <xliff:source>Tinderbox</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">火口</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Tinderbox
