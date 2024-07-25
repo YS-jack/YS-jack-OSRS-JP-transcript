@@ -704,16 +704,16 @@
       <tuv lang="en-GB">
         <seg>Druid's robe</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240724T071316Z" creationid="2008l" creationdate="20240724T071316Z">
-        <seg>ドルイドのローブ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T062124Z" creationid="2008l" creationdate="20240724T071316Z">
+        <seg>ドルイドのローブ下</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Druid's robe top</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240724T071356Z" creationid="2008l" creationdate="20240724T071356Z">
-        <seg>ドルイドのローブトップ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T062132Z" creationid="2008l" creationdate="20240724T071356Z">
+        <seg>ドルイドのローブ上</seg>
       </tuv>
     </tu>
     <tu>
@@ -1574,6 +1574,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Monk's robe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T062243Z" creationid="2008l" creationdate="20240725T062243Z">
+        <seg>修道士のローブ下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Monk's robe top</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T062249Z" creationid="2008l" creationdate="20240725T062249Z">
+        <seg>修道士のローブ上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Null</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T075517Z" creationid="2008l" creationdate="20240716T075517Z">
@@ -2274,6 +2290,22 @@
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240716T184333Z" creationid="b0sh" creationdate="20240716T184333Z">
         <seg>を縫う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shade robe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T062340Z" creationid="2008l" creationdate="20240725T062340Z">
+        <seg>影のローブ下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shade robe top</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T062326Z" creationid="2008l" creationdate="20240725T062326Z">
+        <seg>影のローブ上</seg>
       </tuv>
     </tu>
     <tu>
