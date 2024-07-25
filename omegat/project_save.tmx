@@ -382,6 +382,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bone key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T064540Z" creationid="2008l" creationdate="20240725T064540Z">
+        <seg>骨の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bone shard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T064536Z" creationid="2008l" creationdate="20240725T064536Z">
+        <seg>骨の破片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bones</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070618Z" creationid="2008l" creationdate="20240724T070618Z">
@@ -2706,6 +2722,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T065957Z" creationid="2008l" creationdate="20240724T065957Z">
         <seg>鋼鉄のつるはしヘッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stone-plaque</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T064924Z" creationid="2008l" creationdate="20240725T064924Z">
+        <seg>石板</seg>
       </tuv>
     </tu>
     <tu>
