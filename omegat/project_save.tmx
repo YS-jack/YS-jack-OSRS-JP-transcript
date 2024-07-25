@@ -534,10 +534,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken glass</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T072303Z" creationid="2008l" creationdate="20240725T072303Z">
+        <seg>割れたグラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken pickaxe</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070134Z" creationid="2008l" creationdate="20240724T065618Z">
         <seg>壊れたつるはし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken staff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T072239Z" creationid="2008l" creationdate="20240725T072239Z">
+        <seg>折れた杖</seg>
       </tuv>
     </tu>
     <tu>
@@ -1754,6 +1770,30 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T064353Z" creationid="2008l" creationdate="20240725T064353Z">
         <seg>レンズの鋳型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Level 1 certificate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T072444Z" creationid="2008l" creationdate="20240725T072444Z">
+        <seg>レベル1証書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Level 2 certificate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T072447Z" creationid="2008l" creationdate="20240725T072447Z">
+        <seg>レベル２証書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Level 3 certificate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240725T072451Z" creationid="2008l" creationdate="20240725T072451Z">
+        <seg>レベル３証書</seg>
       </tuv>
     </tu>
     <tu>
