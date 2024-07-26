@@ -2531,7 +2531,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="317">
         <xliff:source>Unpowered orb</xliff:source>
-        <xliff:target state="translated">無料のオーブ</xliff:target>
+        <xliff:target state="translated">無力のオーブ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Unpowered orb
@@ -3339,7 +3339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="418">
         <xliff:source>Clue scroll</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">宝探しの巻物</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Clue scroll
