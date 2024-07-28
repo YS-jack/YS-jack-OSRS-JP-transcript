@@ -62,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adamant dart tip</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060511Z" creationid="2008l" creationdate="20240728T060511Z">
+        <seg>アダマンタイトのダーツの先端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant dart(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060311Z" creationid="2008l" creationdate="20240728T060311Z">
+        <seg>アダマンタイトのダーツ（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant pick head</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070009Z" creationid="2008l" creationdate="20240724T070009Z">
@@ -714,6 +730,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T060034Z" creationid="2008l" creationdate="20240728T060034Z">
         <seg>銅のダーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze dart tip</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060435Z" creationid="2008l" creationdate="20240728T060435Z">
+        <seg>銅のダーツの先端</seg>
       </tuv>
     </tu>
     <tu>
@@ -2158,6 +2182,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Iron dart tip</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060443Z" creationid="2008l" creationdate="20240728T060443Z">
+        <seg>鉄のダーツの先端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Iron ore</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T064559Z" creationid="2008l" creationdate="20240724T064559Z">
@@ -2606,6 +2638,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mithril dart tip</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060501Z" creationid="2008l" creationdate="20240728T060501Z">
+        <seg>ミスリルのダーツの先端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mithril dart(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060304Z" creationid="2008l" creationdate="20240728T060304Z">
+        <seg>ミスリルのダーツ（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mithril ore</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T064852Z" creationid="2008l" creationdate="20240724T064852Z">
@@ -3046,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Poisoned dart(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060407Z" creationid="2008l" creationdate="20240728T060407Z">
+        <seg>毒されたダーツ（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Poisoned fish food</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062657Z" creationid="2008l" creationdate="20240722T062657Z">
@@ -3478,6 +3534,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rune dart(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060322Z" creationid="2008l" creationdate="20240728T060322Z">
+        <seg>ルーンのダーツ（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rune pick head</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070026Z" creationid="2008l" creationdate="20240724T070026Z">
@@ -3842,6 +3906,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T060117Z" creationid="2008l" creationdate="20240728T060117Z">
         <seg>鋼鉄のダーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel dart tip</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060451Z" creationid="2008l" creationdate="20240728T060451Z">
+        <seg>鋼鉄のダーツの先端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel dart(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060219Z" creationid="2008l" creationdate="20240728T060219Z">
+        <seg>鋼鉄のダーツ（毒）</seg>
       </tuv>
     </tu>
     <tu>
