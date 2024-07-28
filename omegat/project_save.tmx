@@ -1166,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crossbow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T055724Z" creationid="2008l" creationdate="20240728T055724Z">
+        <seg>洋弓銃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crumpled scroll</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T065104Z" creationid="2008l" creationdate="20240725T065104Z">
@@ -2342,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Longbow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T055735Z" creationid="2008l" creationdate="20240728T055735Z">
+        <seg>長弓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Longbow (u)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T071514Z" creationid="2008l" creationdate="20240718T071514Z">
@@ -2414,10 +2430,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Maple longbow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T055856Z" creationid="2008l" creationdate="20240728T055856Z">
+        <seg>楓の長弓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Maple longbow (u)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T090026Z" creationid="2008l" creationdate="20240718T072250Z">
         <seg>楓の長弓（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Maple shortbow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T055904Z" creationid="2008l" creationdate="20240728T055904Z">
+        <seg>楓の短弓</seg>
       </tuv>
     </tu>
     <tu>
@@ -2614,10 +2646,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Oak longbow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T055810Z" creationid="2008l" creationdate="20240728T055810Z">
+        <seg>オークの長弓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Oak longbow (u)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T090005Z" creationid="2008l" creationdate="20240718T072018Z">
         <seg>オークの長弓（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Oak shortbow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T055754Z" creationid="2008l" creationdate="20240728T055754Z">
+        <seg>オークの短弓</seg>
       </tuv>
     </tu>
     <tu>
@@ -3574,6 +3622,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shortbow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T055742Z" creationid="2008l" creationdate="20240728T055742Z">
+        <seg>短弓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shortbow (u)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T071808Z" creationid="2008l" creationdate="20240718T071808Z">
@@ -4312,10 +4368,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Willow longbow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T055846Z" creationid="2008l" creationdate="20240728T055846Z">
+        <seg>柳の長弓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Willow longbow (u)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T090020Z" creationid="2008l" creationdate="20240718T072138Z">
         <seg>柳の長弓（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Willow shortbow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T055852Z" creationid="2008l" creationdate="20240728T055852Z">
+        <seg>柳の短弓</seg>
       </tuv>
     </tu>
     <tu>
