@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adamant dart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060128Z" creationid="2008l" creationdate="20240728T060128Z">
+        <seg>アダマンタイトのダーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant pick head</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070009Z" creationid="2008l" creationdate="20240724T070009Z">
@@ -698,6 +706,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070253Z" creationid="2008l" creationdate="20240724T070253Z">
         <seg>銅の斧ヘッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze dart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060034Z" creationid="2008l" creationdate="20240728T060034Z">
+        <seg>銅のダーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze dart(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060151Z" creationid="2008l" creationdate="20240728T060151Z">
+        <seg>銅のダーツ（毒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,6 +2142,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Iron dart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060112Z" creationid="2008l" creationdate="20240728T060112Z">
+        <seg>鉄のダーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iron dart (p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060208Z" creationid="2008l" creationdate="20240728T060208Z">
+        <seg>鉄のダーツ（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Iron ore</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T064559Z" creationid="2008l" creationdate="20240724T064559Z">
@@ -2398,10 +2438,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Magic longbow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T055918Z" creationid="2008l" creationdate="20240728T055918Z">
+        <seg>魔法の長弓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Magic longbow (u)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T090038Z" creationid="2008l" creationdate="20240718T072553Z">
         <seg>魔法の長弓（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic shortbow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T055925Z" creationid="2008l" creationdate="20240728T055925Z">
+        <seg>魔法の短弓</seg>
       </tuv>
     </tu>
     <tu>
@@ -2538,6 +2594,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070424Z" creationid="2008l" creationdate="20240724T070424Z">
         <seg>ミスリルの斧ヘッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mithril dart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060124Z" creationid="2008l" creationdate="20240728T060124Z">
+        <seg>ミスリルのダーツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3406,6 +3470,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rune dart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060135Z" creationid="2008l" creationdate="20240728T060135Z">
+        <seg>ルートのダーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rune pick head</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070026Z" creationid="2008l" creationdate="20240724T070026Z">
@@ -3762,6 +3834,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070334Z" creationid="2008l" creationdate="20240724T070334Z">
         <seg>鋼鉄の斧ヘッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel dart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T060117Z" creationid="2008l" creationdate="20240728T060117Z">
+        <seg>鋼鉄のダーツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -4408,10 +4488,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Yew longbow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T055908Z" creationid="2008l" creationdate="20240728T055908Z">
+        <seg>イチイの長弓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Yew longbow (u)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T090031Z" creationid="2008l" creationdate="20240718T072412Z">
         <seg>イチイの長弓（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yew shortbow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240728T055913Z" creationid="2008l" creationdate="20240728T055913Z">
+        <seg>イチイの短弓</seg>
       </tuv>
     </tu>
     <tu>
