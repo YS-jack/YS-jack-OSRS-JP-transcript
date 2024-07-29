@@ -38,6 +38,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adamant arrow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061339Z" creationid="2008l" creationdate="20240729T061339Z">
+        <seg>アダマンタイトの矢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant arrow(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061344Z" creationid="2008l" creationdate="20240729T061344Z">
+        <seg>アダマンタイトの矢（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant arrowtips</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T065054Z" creationid="2008l" creationdate="20240718T065054Z">
@@ -370,6 +386,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T090928Z" creationid="2008l" creationdate="20240716T090928Z">
         <seg>とげのあるボルト先端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Barbed bolts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061241Z" creationid="2008l" creationdate="20240729T061241Z">
+        <seg>とげのあるボルト</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,6 +782,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bronze arrow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061255Z" creationid="2008l" creationdate="20240729T061255Z">
+        <seg>銅の矢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze arrow(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061300Z" creationid="2008l" creationdate="20240729T061300Z">
+        <seg>銅の矢（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bronze arrowtips</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T075812Z" creationid="2008l" creationdate="20240716T075812Z">
@@ -770,6 +810,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070253Z" creationid="2008l" creationdate="20240724T070253Z">
         <seg>銅の斧ヘッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze bolts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061134Z" creationid="2008l" creationdate="20240729T061134Z">
+        <seg>銅のボルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze bolts (p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061208Z" creationid="2008l" creationdate="20240729T061138Z">
+        <seg>銅のボルト（毒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2238,6 +2294,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Iron arrow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061305Z" creationid="2008l" creationdate="20240729T061305Z">
+        <seg>鉄の矢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iron arrow(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061310Z" creationid="2008l" creationdate="20240729T061310Z">
+        <seg>鉄の矢（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Iron arrowtips</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T075823Z" creationid="2008l" creationdate="20240716T075823Z">
@@ -2734,6 +2806,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mithril arrow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061327Z" creationid="2008l" creationdate="20240729T061327Z">
+        <seg>ミスリルの矢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mithril arrow(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061333Z" creationid="2008l" creationdate="20240729T061333Z">
+        <seg>ミスリルの矢（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mithril arrowtips</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T075908Z" creationid="2008l" creationdate="20240716T075908Z">
@@ -2982,6 +3070,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Opal bolts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061221Z" creationid="2008l" creationdate="20240729T061221Z">
+        <seg>オパールのボルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Orange goblin mail</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T063858Z" creationid="2008l" creationdate="20240722T063858Z">
@@ -3058,6 +3154,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T090431Z" creationid="2008l" creationdate="20240716T090431Z">
         <seg>パールのボルト先端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pearl bolts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061228Z" creationid="2008l" creationdate="20240729T061228Z">
+        <seg>パールのボルト</seg>
       </tuv>
     </tu>
     <tu>
@@ -4074,6 +4178,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240719T063827Z" creationid="2008l" creationdate="20240719T063827Z">
         <seg>アーマディルの杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel arrow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061314Z" creationid="2008l" creationdate="20240729T061314Z">
+        <seg>鋼鉄の（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel arrow(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061320Z" creationid="2008l" creationdate="20240729T061320Z">
+        <seg>鋼鉄の矢（毒）</seg>
       </tuv>
     </tu>
     <tu>
