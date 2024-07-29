@@ -83,7 +83,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11">
         <xliff:source>Railing</xliff:source>
-        <xliff:target state="translated">手摺</xliff:target>
+        <xliff:target state="translated">手すり</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Railing
@@ -171,7 +171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22">
         <xliff:source>Red vine worm</xliff:source>
-        <xliff:target state="translated">赤ブドウの虫</xliff:target>
+        <xliff:target state="translated">赤いツル虫</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Red vine worm
@@ -187,7 +187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="24">
         <xliff:source>Fishing pass</xliff:source>
-        <xliff:target state="translated">釣りパス</xliff:target>
+        <xliff:target state="translated">釣り許可証</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Fishing pass
@@ -203,7 +203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="26">
         <xliff:source>Bucket of wax</xliff:source>
-        <xliff:target state="translated">ワックスの入たバケツ</xliff:target>
+        <xliff:target state="translated">ロウのバケツ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bucket of wax
@@ -211,7 +211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27">
         <xliff:source>Lit black candle</xliff:source>
-        <xliff:target state="translated">火のついた黒いろうそく</xliff:target>
+        <xliff:target state="translated">火のついた黒いロウソク</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Lit black candle
@@ -219,7 +219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="28">
         <xliff:source>Lit candle</xliff:source>
-        <xliff:target state="translated">火のついたろうそく</xliff:target>
+        <xliff:target state="translated">火のついたロウソク</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Lit candle
@@ -243,7 +243,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31">
         <xliff:source>Candle</xliff:source>
-        <xliff:target state="translated">ろうそく</xliff:target>
+        <xliff:target state="translated">ロウソク</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Candle
@@ -251,7 +251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="32">
         <xliff:source>Black candle</xliff:source>
-        <xliff:target state="translated">黒いろうそく</xliff:target>
+        <xliff:target state="translated">黒いロウソク</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Black candle
@@ -323,7 +323,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41">
         <xliff:source>Barb bolttips</xliff:source>
-        <xliff:target state="translated">とげのあるボルト先端</xliff:target>
+        <xliff:target state="translated">棘のあるボルト先端</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Barb bolttips
@@ -331,7 +331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42">
         <xliff:source>Longbow (u)</xliff:source>
-        <xliff:target state="translated">長弓（未完成）</xliff:target>
+        <xliff:target state="translated">長弓（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Longbow (u)
@@ -339,7 +339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="43">
         <xliff:source>Shortbow (u)</xliff:source>
-        <xliff:target state="translated">短弓（未完成）</xliff:target>
+        <xliff:target state="translated">短弓（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Shortbow (u)
@@ -523,7 +523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="66">
         <xliff:source>Boots of lightness</xliff:source>
-        <xliff:target state="translated">軽さの靴</xliff:target>
+        <xliff:target state="translated">軽快な靴</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Boots of lightness
@@ -731,7 +731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="92">
         <xliff:source>Prayer potion(3)</xliff:source>
-        <xliff:target state="translated">祈り増強薬（３）</xliff:target>
+        <xliff:target state="translated">祈りの薬液（３）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Prayer potion(3)
@@ -739,7 +739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="93">
         <xliff:source>Prayer potion(2)</xliff:source>
-        <xliff:target state="translated">祈り増強薬（２）</xliff:target>
+        <xliff:target state="translated">祈りの薬液（２）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Prayer potion(2)
@@ -747,7 +747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="94">
         <xliff:source>Prayer potion(1)</xliff:source>
-        <xliff:target state="translated">祈り増強薬（１）</xliff:target>
+        <xliff:target state="translated">祈りの薬液（１）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Prayer potion(1)
@@ -1163,7 +1163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="146">
         <xliff:source>Jangerberries</xliff:source>
-        <xliff:target state="translated">ジャンが―ベリー</xliff:target>
+        <xliff:target state="translated">ジャンガベリー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Jangerberries
@@ -10411,7 +10411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1302">
         <xliff:source>Prayer potion(4)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">祈りの薬液（４）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Prayer potion(4)
@@ -10419,7 +10419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1303">
         <xliff:source>Super attack(4)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">超攻撃力薬（１）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Super attack(4)
