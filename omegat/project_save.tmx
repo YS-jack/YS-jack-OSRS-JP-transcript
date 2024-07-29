@@ -5450,5 +5450,16 @@
         <seg>ドクロを付与</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41329</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Ammo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240729T124547Z" creationid="yumas" creationdate="20240729T124547Z">
+        <seg>で弾を作成</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
