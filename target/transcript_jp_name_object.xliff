@@ -2779,7 +2779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14705">
         <xliff:source>Rock</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">岩石</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Rock
@@ -2787,7 +2787,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14706">
         <xliff:source>Rope</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">縄</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Rope
@@ -4483,7 +4483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14918">
         <xliff:source>Plank</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">板</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Plank
@@ -4979,7 +4979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14980">
         <xliff:source>Cooking pot</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">調理鍋</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Cooking pot
@@ -10499,7 +10499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15670">
         <xliff:source>Spade</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">スコップ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Spade
@@ -30019,7 +30019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18110">
         <xliff:source>Tile</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">タイル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Tile
