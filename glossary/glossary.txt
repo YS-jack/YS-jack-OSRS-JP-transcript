@@ -35,15 +35,15 @@ adamant	アダマンタイト	マイニングのレベルが高くなると採�
 rune	ルーン	採掘のスキルでの一番強い鉱石の訳
 bolttips	ボルト先端	木材加工のスキルを上げる時にボルトに付けるものの訳
 bolt　tips	ボルト先端	木材加工のスキルを上げる時にボルトに付けるものの訳
-barb	とげのある	アイテム名でしよう
-barbed	とげのある	アイテム名でしよう
+barb	とげのある	アイテム名で使用
+barbed	とげのある	アイテム名で使用
 longbow	長弓	読み方は「ちょうきゅう」　短弓「たんきゅう」よりDPSは低いので使うことは結構珍しい
 ice	氷	温度が低いときに水がなることの訳
 arrow	矢	弓が使ってるものの訳
 arrows	矢	arrowの複数形
-lever	レバー	アイテム名前でしよう
-shiny	光沢のある	アイテム名でしよう
-key	鍵	アイテム名でしよう
+lever	レバー	アイテム名前で使用
+shiny	光沢のある	アイテム名で使用
+key	鍵	アイテム名で使用
 (u)	（未）	まだ未完成の弓の略
 shortbow	短弓	読み方は「たんきゅう」ほとんどのプレイヤーに使われている種類の弓の訳
 oak	オーク	レベル１５になると切ることができる木の種類の訳
@@ -65,9 +65,9 @@ lucien	ルシエン	あるNPCのな
 lightness	軽さ	重さが少ない性質
 child	子供	小さい人間
 blanket	毛布	寝るときに体を温めるために使うもの
-pendant	首飾り	くびかざり　アイテム名でしよう
+pendant	首飾り	くびかざり　アイテム名で使用
 amulet	お守り	色んなボーナスをあげることが多いアイテム
-necklace	ネックレス	お守りと同じく　アイテム名でしよう
+necklace	ネックレス	お守りと同じく　アイテム名で使用
 ring	指輪	指にはめる色んなボーナスを与えるアイテム
 bracelet	腕輪	うでわ
 staff	杖	魔法で使われている武器の一つ
@@ -75,20 +75,20 @@ dwarf	ドワーフ	背が低いやつ
 toolkit	ツールキット	様々な道具が入たもの
 cannonball	キャノンボール	大砲が打つもの
 Nulodion	ヌロディオン	ドワーフの一人
-notes	メモ	アイテム名でしよう
-ammo	弾薬	銃類が打つもの
-instruction manual	取扱説明書	アイテム名でしよう
-cannon	大砲	アイテム名でしよう
-railing	手摺	アイテム名でしよう
-whistle	笛	アイテム名でしよう
-grail	聖杯	holy grailと同じ　アイテム名でしよう
+notes	メモ	アイテム名で使用
+ammo	大砲の弾	dwafcannonが放つ弾
+instruction manual	取扱説明書	アイテム名で使用
+cannon	大砲	アイテム名で使用
+railing	手摺	アイテム名で使用
+whistle	笛	アイテム名で使用
+grail	聖杯	holy grailと同じ　アイテム名で使用
 guam	グアム	ハーブ系の一つ
 potion	薬液	効果が無い、飲めないポーション
 potion	増強薬	効果がある、強化されるポーション
-platebody	胸甲	（きょうこう）アイテム名でしよう
-chainbody	鎖甲	（くさりこう）アイテム名でしよう
-full　helm	全頭甲	（ぜんとうこう）アイテム名でしよう
-platelegs	脚甲	（きゃっこう）アイテム名でしよう
+platebody	胸甲	（きょうこう）アイテム名で使用
+chainbody	鎖甲	（くさりこう）アイテム名で使用
+full　helm	全頭甲	（ぜんとうこう）アイテム名で使用
+platelegs	脚甲	（きゃっこう）アイテム名で使用
 plateskirt	裙甲	（くんこう）
 gloves	籠手	金属なら（こて）
 gloves	手袋	布なら
@@ -104,34 +104,34 @@ kwuarm	クワーム	ハーブ類
 cadantine	カンダタイン	ハーブ類
 dwarf weed	ドワーフ草	ハーブ類
 torstol	トーストル	ハーブ類
-antipoison	解毒剤	調合系　アイテム名でしよう
+antipoison	解毒剤	調合系　アイテム名で使用
 weapon	武器	アイテム名でしよ
 poison	毒	アイテム名でしよ
-super	超	super ○○ potionの場合しよう
+super	超	super ○○ potionの場合使用
 zamorak	ザモラック	悪の神
-restore	回復	アイテム名でしよう、調合系
-eye	目	アイテム名でしよう
-newt	イモリ	アイテム名でしよう
+restore	回復	アイテム名で使用、調合系
+eye	目	アイテム名で使用
+newt	イモリ	アイテム名で使用
 limpwurt	リンプワート	調合系のアイテム名
 vial	瓶	調合系のやつ
 grimy	汚れた	調合系のアイテム名
 snape	スネイプ	調合系のアイテム名
 dragon	ドラゴン	NPC名
-scale	鱗	ドラゴンの鱗の粉でアイテム名でしよう
+scale	鱗	ドラゴンの鱗の粉でアイテム名で使用
 jangerberries	ジャンが―ベリー	ベリーの種類
-pressure	圧力	アイテム名でしよう
-gauge	計器	アイテム名でしよう
-rubber	ゴム	アイテム名でしよう
-tube	管	アイテム名でしよう
-plague	疫病	アイテム名でしよう
-jacket	ジャケット	アイテム名でしよう
-trousers	ズボン	アイテム名でしよう
+pressure	圧力	アイテム名で使用
+gauge	計器	アイテム名で使用
+rubber	ゴム	アイテム名で使用
+tube	管	アイテム名で使用
+plague	疫病	アイテム名で使用
+jacket	ジャケット	アイテム名で使用
+trousers	ズボン	アイテム名で使用
 mail	かたびら	長い衣類のアイテム名
 glarial	グラリアル	NPC名
-fishing net	漁網	アイテム名でしよう
-harpoon	銛	アイテム名でしよう
+fishing net	漁網	アイテム名で使用
+harpoon	銛	アイテム名で使用
 burnt	焦げた	料理の失敗
-seaweed	海藻	アイテム名でしよう
+seaweed	海藻	アイテム名で使用
 priest	司祭	教会でいろんなことをする者
 karamja	カラムジャ	地名
 clay	粘土	採掘系
@@ -146,19 +146,19 @@ adamantite	アダマンタイト	採掘系
 runite	ルーン	採掘系
 coal	石炭	採掘系
 pickaxe	つるはし
-axe	斧	アイテム名でしよう
-pickaxe	つるはし	アイテム名でしよう
+axe	斧	アイテム名で使用
+pickaxe	つるはし	アイテム名で使用
 steel	鋼鉄	採掘系
 bat	コウモリ	黒くて小さい飛ぶやつ
-bones	骨	アイテム名でしよう
+bones	骨	アイテム名で使用
 dragon	龍	NPC名
 enchant	魔法付与	動詞の場合
 enchanted	魔法の	なにか特別な能力を持つアイテム
 babydragon	幼竜	「ようりゅう」小さい龍
 blurite	ブルライト	採掘系
-clue scroll	宝探しの巻物	アイテム名でしよう
-gem	宝石	アイテム名でしよう
-bag	袋	アイテム名でしよう
+clue scroll	宝探しの巻物	アイテム名で使用
+gem	宝石	アイテム名で使用
+bag	袋	アイテム名で使用
 Ardougne	アルドイン	地名
 Falador	ファラドー	地名
 crossbow	洋弓銃	武器名
@@ -166,13 +166,13 @@ Dramen	ドラメン	木の名
 bark	樹皮
 translation	翻訳
 Glough	グロー	NPC名
-thrownaxe	投げ斧	アイテム名でしよう
+thrownaxe	投げ斧	アイテム名で使用
 bronze	銅	採掘系
 dart	ダーツ	武器名
-dart tip	ダーツの先端	アイテム名でしよう
+dart tip	ダーツの先端	アイテム名で使用
 javelin	投槍	武器名
 knife	ナイフ	武器名
 bolts	ボルト	武器系
-apron	エプロン	アイテム名でしよう
-cape	マント	アイテム名でしよう
+apron	エプロン	アイテム名で使用
+cape	マント	アイテム名で使用
 plank	板	建築に使うplankは板で統一
