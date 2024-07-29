@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T064137Z" creationid="2008l" creationdate="20240729T064137Z">
+        <seg>黒いマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black cog</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T074458Z" creationid="2008l" creationdate="20240716T074458Z">
@@ -582,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blue cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T064141Z" creationid="2008l" creationdate="20240729T064141Z">
+        <seg>青いマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blue cog</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T074504Z" creationid="2008l" creationdate="20240716T074504Z">
@@ -632,8 +648,8 @@
       <tuv lang="en-GB">
         <seg>Blue skirt</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240729T064052Z" creationid="2008l" creationdate="20240729T064039Z">
-        <seg>青色のスカート</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T064119Z" creationid="2008l" creationdate="20240729T064039Z">
+        <seg>青のスカート</seg>
       </tuv>
     </tu>
     <tu>
@@ -3432,8 +3448,8 @@
       <tuv lang="en-GB">
         <seg>Pink skirt</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240729T064059Z" creationid="2008l" creationdate="20240729T064059Z">
-        <seg>ピンク色のスカート</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T064116Z" creationid="2008l" creationdate="20240729T064059Z">
+        <seg>ピンクのスカート</seg>
       </tuv>
     </tu>
     <tu>
@@ -3914,6 +3930,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T101238Z" creationid="yumas" creationdate="20240713T101238Z">
         <seg>報酬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Right eye patch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T064533Z" creationid="2008l" creationdate="20240729T064533Z">
+        <seg>右目の眼帯</seg>
       </tuv>
     </tu>
     <tu>
@@ -5168,10 +5192,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wizard hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T064131Z" creationid="2008l" creationdate="20240729T064131Z">
+        <seg>魔法使いの帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Worm</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T061653Z" creationid="2008l" creationdate="20240729T061653Z">
         <seg>ワーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yellow cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T064156Z" creationid="2008l" creationdate="20240729T064156Z">
+        <seg>黄色いマント</seg>
       </tuv>
     </tu>
     <tu>
