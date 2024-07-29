@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bronze fire arrow (lit)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061608Z" creationid="2008l" creationdate="20240729T061608Z">
+        <seg>銅の火矢（点火された）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bronze javelin</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T060806Z" creationid="2008l" creationdate="20240728T060806Z">
@@ -3766,6 +3774,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rune arrow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061351Z" creationid="2008l" creationdate="20240729T061351Z">
+        <seg>ルーンの矢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rune arrow(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061356Z" creationid="2008l" creationdate="20240729T061356Z">
+        <seg>ルーンの矢（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rune arrowtips</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T065115Z" creationid="2008l" creationdate="20240718T065115Z">
@@ -4908,6 +4932,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T071600Z" creationid="2008l" creationdate="20240721T071600Z">
         <seg>ザモラックのワイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Worm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T061653Z" creationid="2008l" creationdate="20240729T061653Z">
+        <seg>ワーム</seg>
       </tuv>
     </tu>
     <tu>
