@@ -12387,7 +12387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15906">
         <xliff:source>Skulls</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">頭蓋骨</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Skulls
@@ -13075,7 +13075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15992">
         <xliff:source>Skull</xliff:source>
-        <xliff:target state="translated">ドクロを回収</xliff:target>
+        <xliff:target state="translated">頭蓋骨</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Skull
