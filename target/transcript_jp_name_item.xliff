@@ -427,7 +427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="54">
         <xliff:source>Magic longbow (u)</xliff:source>
-        <xliff:target state="translated">魔法の長弓（未）</xliff:target>
+        <xliff:target state="translated">魔法樹の長弓（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Magic longbow (u)
@@ -435,7 +435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="55">
         <xliff:source>Magic shortbow (u)</xliff:source>
-        <xliff:target state="translated">魔法の短弓（未）</xliff:target>
+        <xliff:target state="translated">魔法樹の短弓（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Magic shortbow (u)
@@ -731,7 +731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="92">
         <xliff:source>Prayer potion(3)</xliff:source>
-        <xliff:target state="translated">祈りの薬液（３）</xliff:target>
+        <xliff:target state="translated">祈祷の薬液（３）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Prayer potion(3)
@@ -739,7 +739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="93">
         <xliff:source>Prayer potion(2)</xliff:source>
-        <xliff:target state="translated">祈りの薬液（２）</xliff:target>
+        <xliff:target state="translated">祈祷の薬液（２）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Prayer potion(2)
@@ -747,7 +747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="94">
         <xliff:source>Prayer potion(1)</xliff:source>
-        <xliff:target state="translated">祈りの薬液（１）</xliff:target>
+        <xliff:target state="translated">祈祷の薬液（１）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Prayer potion(1)
@@ -4235,7 +4235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="530">
         <xliff:source>Magic longbow</xliff:source>
-        <xliff:target state="translated">魔法の長弓</xliff:target>
+        <xliff:target state="translated">魔法樹の長弓</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Magic longbow
@@ -4243,7 +4243,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="531">
         <xliff:source>Magic shortbow</xliff:source>
-        <xliff:target state="translated">魔法の短弓</xliff:target>
+        <xliff:target state="translated">魔法樹の短弓</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Magic shortbow
@@ -10411,7 +10411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1302">
         <xliff:source>Prayer potion(4)</xliff:source>
-        <xliff:target state="translated">祈りの薬液（４）</xliff:target>
+        <xliff:target state="translated">祈祷の薬液（４）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Prayer potion(4)
