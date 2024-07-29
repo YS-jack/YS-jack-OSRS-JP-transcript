@@ -76,7 +76,6 @@ toolkit	ツールキット	様々な道具が入たもの
 cannonball	キャノンボール	大砲が打つもの
 Nulodion	ヌロディオン	ドワーフの一人
 notes	メモ	アイテム名で使用
-ammo	大砲の弾	dwafcannonが放つ弾
 instruction manual	取扱説明書	アイテム名で使用
 cannon	大砲	アイテム名で使用
 railing	手摺	アイテム名で使用
@@ -177,3 +176,4 @@ apron	エプロン	アイテム名で使用
 cape	マント	アイテム名で使用
 plank	板	建築に使うplankは板で統一
 ammo	ボルト	ボルトもしくは矢を刺すこともある
+ammo	大砲弾	dwafcannonが放つ弾
