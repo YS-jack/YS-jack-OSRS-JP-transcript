@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bunny ears</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T064930Z" creationid="2008l" creationdate="20240729T064930Z">
+        <seg>うさ耳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Burnt bones</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070626Z" creationid="2008l" creationdate="20240724T070626Z">
@@ -5324,6 +5332,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T064846Z" creationid="2008l" creationdate="20240729T064846Z">
         <seg>ザモラックモンク下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak monk top</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240729T064857Z" creationid="2008l" creationdate="20240729T064857Z">
+        <seg>ザモラックモンク上</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
