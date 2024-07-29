@@ -4440,8 +4440,8 @@
       <tuv lang="en-GB">
         <seg>Skull</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240728T210801Z" creationid="yumas" creationdate="20240713T101311Z">
-        <seg>ドクロを回収</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240729T115327Z" creationid="yumas" creationdate="20240713T101311Z">
+        <seg>頭蓋骨</seg>
       </tuv>
     </tu>
     <tu>
@@ -5431,5 +5431,16 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41270</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Skull</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240729T115816Z" creationid="yumas" creationdate="20240729T115816Z">
+        <seg>スカルを付与</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
