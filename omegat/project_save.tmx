@@ -1486,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Canyon-count (east)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T110909Z" creationid="yumas" creationdate="20240730T110909Z">
+        <seg>数（東）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cape of legends</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T065257Z" creationid="2008l" creationdate="20240729T065257Z">
@@ -3466,6 +3474,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110119Z" creationid="yumas" creationdate="20240713T103016Z">
         <seg>を殺す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kill-count</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T110616Z" creationid="yumas" creationdate="20240730T110616Z">
+        <seg>キル数</seg>
       </tuv>
     </tu>
     <tu>
