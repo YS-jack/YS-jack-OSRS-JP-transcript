@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ascend</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214901Z" creationid="yumas" creationdate="20240730T214901Z">
+        <seg>を上る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ashes</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T063755Z" creationid="2008l" creationdate="20240725T063755Z">
@@ -1934,6 +1942,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chop-down</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214743Z" creationid="yumas" creationdate="20240730T214743Z">
+        <seg>を切り倒す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Christmas cracker</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T062614Z" creationid="2008l" creationdate="20240729T062614Z">
@@ -2398,6 +2414,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cut down</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214822Z" creationid="yumas" creationdate="20240730T214822Z">
+        <seg>を切り倒す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Daconia rock</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T054814Z" creationid="2008l" creationdate="20240728T054814Z">
@@ -2498,6 +2522,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093557Z" creationid="yumas" creationdate="20240730T093557Z">
         <seg>でアイテムを預ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Descend</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214842Z" creationid="yumas" creationdate="20240730T214842Z">
+        <seg>を下りる</seg>
       </tuv>
     </tu>
     <tu>
@@ -4174,6 +4206,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jump-Over</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214659Z" creationid="yumas" creationdate="20240730T214659Z">
+        <seg>を飛び越える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jump-over</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214801Z" creationid="yumas" creationdate="20240730T214801Z">
+        <seg>を飛び越える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jump-up</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T212313Z" creationid="yumas" creationdate="20240730T212313Z">
@@ -4392,8 +4440,8 @@
       <tuv lang="en-GB">
         <seg>Leave</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T092810Z" creationid="yumas" creationdate="20240730T092810Z">
-        <seg>から離れる</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214636Z" creationid="yumas" creationdate="20240730T092810Z">
+        <seg>で去る</seg>
       </tuv>
     </tu>
     <tu>
@@ -4442,6 +4490,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T071117Z" creationid="2008l" creationdate="20240718T071117Z">
         <seg>レバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lift</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214811Z" creationid="yumas" creationdate="20240730T214811Z">
+        <seg>を持ち上げる</seg>
       </tuv>
     </tu>
     <tu>
@@ -4566,6 +4622,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Look</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214803Z" creationid="yumas" creationdate="20240730T214803Z">
+        <seg>を見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Look at</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214250Z" creationid="yumas" creationdate="20240730T214250Z">
@@ -4594,6 +4658,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214301Z" creationid="yumas" creationdate="20240730T214301Z">
         <seg>をの中を見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Look-under</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214714Z" creationid="yumas" creationdate="20240730T214714Z">
+        <seg>の下を確認</seg>
       </tuv>
     </tu>
     <tu>
@@ -5378,6 +5450,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T065554Z" creationid="2008l" creationdate="20240725T065554Z">
         <seg>パラマヤのチケット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pass-through</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214833Z" creationid="yumas" creationdate="20240730T214833Z">
+        <seg>を通り抜ける</seg>
       </tuv>
     </tu>
     <tu>
@@ -6966,6 +7046,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214816Z" creationid="yumas" creationdate="20240730T214816Z">
+        <seg>を揺らす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shaman's tome</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T071422Z" creationid="2008l" creationdate="20240726T071353Z">
@@ -7234,6 +7322,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T081951Z" creationid="2008l" creationdate="20240715T081951Z">
         <seg>氷を砕く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Smash-to-bits</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214758Z" creationid="yumas" creationdate="20240730T214758Z">
+        <seg>粉砕</seg>
       </tuv>
     </tu>
     <tu>
@@ -7602,6 +7698,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T055151Z" creationid="2008l" creationdate="20240728T055151Z">
         <seg>鋼鉄の投げ斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Step-into</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214741Z" creationid="yumas" creationdate="20240730T214741Z">
+        <seg>に足を踏み入れる</seg>
       </tuv>
     </tu>
     <tu>
@@ -8192,6 +8296,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Touch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214747Z" creationid="yumas" creationdate="20240730T214747Z">
+        <seg>触れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Touch paper</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T054020Z" creationid="2008l" creationdate="20240723T065049Z">
@@ -8316,6 +8428,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T063715Z" creationid="2008l" creationdate="20240723T063715Z">
         <seg>マグロ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Turn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214706Z" creationid="yumas" creationdate="20240730T214706Z">
+        <seg>を回す</seg>
       </tuv>
     </tu>
     <tu>
@@ -8884,6 +9004,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T082613Z" creationid="2008l" creationdate="20240729T064857Z">
         <seg>ザモラック僧侶上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>search</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214748Z" creationid="yumas" creationdate="20240730T214748Z">
+        <seg>探す</seg>
       </tuv>
     </tu>
     <tu>
