@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Burst</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211852Z" creationid="yumas" creationdate="20240730T211852Z">
+        <seg>を割る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Buttons</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T072221Z" creationid="2008l" creationdate="20240725T072221Z">
@@ -2186,6 +2194,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T125432Z" creationid="yumas" creationdate="20240730T125432Z">
         <seg>破片を変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211847Z" creationid="yumas" creationdate="20240730T211847Z">
+        <seg>で調理</seg>
       </tuv>
     </tu>
     <tu>
@@ -4074,6 +4090,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T090213Z" creationid="yumas" creationdate="20240730T090213Z">
         <seg>チームに参加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jump-up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T212313Z" creationid="yumas" creationdate="20240730T212313Z">
+        <seg>跳びあがる</seg>
       </tuv>
     </tu>
     <tu>
