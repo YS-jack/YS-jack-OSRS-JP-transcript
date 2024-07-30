@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Claim-Tokens</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091153Z" creationid="yumas" creationdate="20240730T091153Z">
+        <seg>からトークンを請求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Claim-arrows</seg>
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240714T213303Z" creationid="b0sh" creationdate="20240714T213235Z">
@@ -2710,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091213Z" creationid="yumas" creationdate="20240730T091213Z">
+        <seg>と履歴を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hit</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T101034Z" creationid="yumas" creationdate="20240713T101034Z">
@@ -3062,6 +3078,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jatizso</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091111Z" creationid="yumas" creationdate="20240730T091111Z">
+        <seg>でジャチゾへ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Join-Crew</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T090208Z" creationid="yumas" creationdate="20240730T090208Z">
@@ -3122,6 +3146,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240719T121838Z" creationid="2008l" creationdate="20240719T062255Z">
         <seg>カザードの鉄兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kick</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091142Z" creationid="yumas" creationdate="20240730T091142Z">
+        <seg>を蹴る</seg>
       </tuv>
     </tu>
     <tu>
@@ -3794,6 +3826,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062846Z" creationid="2008l" creationdate="20240725T062846Z">
         <seg>自然のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Neitiznot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091042Z" creationid="yumas" creationdate="20240730T091042Z">
+        <seg>でネイチズノットへ移動</seg>
       </tuv>
     </tu>
     <tu>
@@ -4648,8 +4688,8 @@
       <tuv lang="en-GB">
         <seg>Rellekka</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T090951Z" creationid="yumas" creationdate="20240730T090951Z">
-        <seg>レレカへ移動</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091046Z" creationid="yumas" creationdate="20240730T090951Z">
+        <seg>でレレカへ移動</seg>
       </tuv>
     </tu>
     <tu>
@@ -6164,6 +6204,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T054941Z" creationid="2008l" creationdate="20240728T054941Z">
         <seg>軍艦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Watch-shouting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091134Z" creationid="yumas" creationdate="20240730T091134Z">
+        <seg>の口喧嘩を観る</seg>
       </tuv>
     </tu>
     <tu>
