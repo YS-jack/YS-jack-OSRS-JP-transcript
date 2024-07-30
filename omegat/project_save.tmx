@@ -552,8 +552,8 @@
       <tuv lang="en-GB">
         <seg>Black axe head</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T061654Z" creationid="2008l" creationdate="20240724T070413Z">
-        <seg>黒い斧の金属部分</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240730T071114Z" creationid="2008l" creationdate="20240724T070413Z">
+        <seg>黒鉄の斧の金属部分</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,8 +600,8 @@
       <tuv lang="en-GB">
         <seg>Black knife</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240728T205717Z" creationid="2008l" creationdate="20240728T205717Z">
-        <seg>黒いナイフ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240730T071139Z" creationid="2008l" creationdate="20240728T205717Z">
+        <seg>黒鉄のナイフ</seg>
       </tuv>
     </tu>
     <tu>
@@ -658,6 +658,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T064115Z" creationid="2008l" creationdate="20240729T064115Z">
         <seg>黒いスカート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black sq shield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240730T071043Z" creationid="2008l" creationdate="20240730T071043Z">
+        <seg>黒鉄の角盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -2818,6 +2826,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T203957Z" creationid="2008l" creationdate="20240729T203957Z">
         <seg>鉄の裙甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iron sq shield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240730T070858Z" creationid="2008l" creationdate="20240730T070858Z">
+        <seg>鉄の角盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -5090,6 +5106,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204004Z" creationid="2008l" creationdate="20240729T204004Z">
         <seg>鋼鉄の裙甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel sq shield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240730T070901Z" creationid="2008l" creationdate="20240730T070901Z">
+        <seg>鋼鉄の角盾</seg>
       </tuv>
     </tu>
     <tu>
