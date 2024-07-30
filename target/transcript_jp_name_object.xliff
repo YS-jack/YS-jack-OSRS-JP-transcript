@@ -4539,7 +4539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14925">
         <xliff:source>Cage</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">でカゴで釣る</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Cage
@@ -5043,7 +5043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14988">
         <xliff:source>Exit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で出る</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Exit
@@ -5611,7 +5611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15059">
         <xliff:source>Tap</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">タップ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Tap
@@ -7227,7 +7227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15261">
         <xliff:source>Armour</xliff:source>
-        <xliff:target state="translated">防具</xliff:target>
+        <xliff:target state="translated">から防具をもらう</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Armour
@@ -11075,7 +11075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15742">
         <xliff:source>Bank</xliff:source>
-        <xliff:target state="translated">に預ける</xliff:target>
+        <xliff:target state="translated">銀行にアクセス</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Bank
@@ -13827,7 +13827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16086">
         <xliff:source>Net</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で網で釣る</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Net
@@ -14427,7 +14427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16161">
         <xliff:source>Sand</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">砂を請求</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Sand
@@ -22995,7 +22995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17232">
         <xliff:source>Coffer</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">前払い金を確認</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Coffer
@@ -26691,7 +26691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17694">
         <xliff:source>Potions</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">薬液</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Potions
@@ -26819,7 +26819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17710">
         <xliff:source>History</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">と履歴を確認</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: History

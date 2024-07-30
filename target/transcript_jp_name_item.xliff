@@ -1515,7 +1515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="190">
         <xliff:source>Harpoon</xliff:source>
-        <xliff:target state="translated">もり</xliff:target>
+        <xliff:target state="translated">でもりで釣る</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Harpoon
@@ -10955,7 +10955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1370">
         <xliff:source>Watch</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を眺める</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Watch
@@ -26747,7 +26747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3344">
         <xliff:source>Sand</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">砂を請求</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Sand
@@ -26779,7 +26779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3348">
         <xliff:source>Roll</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を転がす</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Roll
