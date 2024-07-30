@@ -4550,10 +4550,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Look at</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214250Z" creationid="yumas" creationdate="20240730T214250Z">
+        <seg>を見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Look-at</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T213622Z" creationid="yumas" creationdate="20240730T213622Z">
         <seg>を見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Look-in</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214301Z" creationid="yumas" creationdate="20240730T214301Z">
+        <seg>をの中を見る</seg>
       </tuv>
     </tu>
     <tu>
@@ -5312,8 +5328,8 @@
       <tuv lang="en-GB">
         <seg>Pan</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T214026Z" creationid="yumas" creationdate="20240730T214026Z">
-        <seg>フルイにかける</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214048Z" creationid="yumas" creationdate="20240730T214026Z">
+        <seg>でフルイにかける</seg>
       </tuv>
     </tu>
     <tu>
@@ -6344,8 +6360,8 @@
       <tuv lang="en-GB">
         <seg>Repair</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T122822Z" creationid="yumas" creationdate="20240730T122822Z">
-        <seg>修復</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214228Z" creationid="yumas" creationdate="20240730T122822Z">
+        <seg>を修復</seg>
       </tuv>
     </tu>
     <tu>
@@ -6490,6 +6506,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T062204Z" creationid="2008l" creationdate="20240729T062204Z">
         <seg>縄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rotate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214109Z" creationid="yumas" creationdate="20240730T214109Z">
+        <seg>を回す</seg>
       </tuv>
     </tu>
     <tu>
@@ -8456,6 +8480,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Walk-Down</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214231Z" creationid="yumas" creationdate="20240730T214231Z">
+        <seg>を歩いて下りる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Walk-Up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214246Z" creationid="yumas" creationdate="20240730T214246Z">
+        <seg>を歩いて上る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Walk-down</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214209Z" creationid="yumas" creationdate="20240730T214209Z">
+        <seg>を歩いて下りる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Walk-past</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085521Z" creationid="yumas" creationdate="20240730T085521Z">
@@ -8468,6 +8516,14 @@
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240716T184757Z" creationid="b0sh" creationdate="20240716T184757Z">
         <seg>に歩く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Walk-up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214222Z" creationid="yumas" creationdate="20240730T214222Z">
+        <seg>を歩いて上る</seg>
       </tuv>
     </tu>
     <tu>
