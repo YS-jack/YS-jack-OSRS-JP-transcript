@@ -576,8 +576,8 @@
       <tuv lang="en-GB">
         <seg>Big-push</seg>
       </tuv>
-      <tuv lang="ja" changeid="b0sh" changedate="20240714T212911Z" creationid="b0sh" creationdate="20240714T212911Z">
-        <seg>を突き飛ばす</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T085339Z" creationid="b0sh" creationdate="20240714T212911Z">
+        <seg>を強く押す</seg>
       </tuv>
     </tu>
     <tu>
@@ -2218,6 +2218,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T065457Z" creationid="2008l" creationdate="20240727T065457Z">
         <seg>金色のトーテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Give-Sword</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T085323Z" creationid="yumas" creationdate="20240730T085323Z">
+        <seg>に剣を渡す</seg>
       </tuv>
     </tu>
     <tu>
@@ -4104,8 +4112,8 @@
       <tuv lang="en-GB">
         <seg>Pluck</seg>
       </tuv>
-      <tuv lang="ja" changeid="b0sh" changedate="20240714T215245Z" creationid="b0sh" creationdate="20240714T215245Z">
-        <seg>から抜く</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T085429Z" creationid="b0sh" creationdate="20240714T215245Z">
+        <seg>から羽をむしる</seg>
       </tuv>
     </tu>
     <tu>
@@ -4250,6 +4258,14 @@
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240714T212431Z" creationid="b0sh" creationdate="20240714T212355Z">
         <seg>を押す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Quick-falcon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T085201Z" creationid="yumas" creationdate="20240730T085201Z">
+        <seg>からハヤブサを借りる</seg>
       </tuv>
     </tu>
     <tu>
@@ -4570,6 +4586,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T065356Z" creationid="2008l" creationdate="20240721T065356Z">
         <seg>回復薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Retrieve</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T085316Z" creationid="yumas" creationdate="20240730T085316Z">
+        <seg>を呼び戻す</seg>
       </tuv>
     </tu>
     <tu>
