@@ -3694,6 +3694,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Land's End</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T121230Z" creationid="yumas" creationdate="20240730T121230Z">
+        <seg>地の果てへ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lathas' amulet</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T065204Z" creationid="2008l" creationdate="20240723T065204Z">
@@ -4662,6 +4670,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pay (Celastrus tree)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T121124Z" creationid="yumas" creationdate="20240730T121106Z">
+        <seg>に支払う（セラストラスの木）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pay (Fruit tree)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T120622Z" creationid="yumas" creationdate="20240730T120622Z">
@@ -4680,8 +4696,8 @@
       <tuv lang="en-GB">
         <seg>Pay (Spirit tree)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T120930Z" creationid="yumas" creationdate="20240730T120930Z">
-        <seg>に支払う（精霊樹）（</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T121115Z" creationid="yumas" creationdate="20240730T120930Z">
+        <seg>に支払う（精霊樹）</seg>
       </tuv>
     </tu>
     <tu>
@@ -6794,6 +6810,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085918Z" creationid="yumas" creationdate="20240730T085918Z">
         <seg>に物資を渡す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Swap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T120947Z" creationid="yumas" creationdate="20240730T120947Z">
+        <seg>入れ替える</seg>
       </tuv>
     </tu>
     <tu>
