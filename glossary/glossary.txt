@@ -1,7 +1,5 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 skull	ドクロ	Wildernessで頭上に表示されるSkullの訳。普通の文章のSkullは頭蓋骨が訳
-Gauntlets	ガントレット	手袋を意味する場合。Corrupted Gauntletはどうするか別途検討
-Gauntlet	ガントレット	手袋（単数）を意味する場合。Corrupted Gauntletはどうするか別途検討
 mould	鋳型	工作のスキルでなにかの金属棒から特定の物を作りたい時に使ってるアイテムの訳
 remain	遺体	NPCの死体の訳
 remains	遺体	remainの複数形
@@ -233,3 +231,5 @@ Phoenix	フェニックス	varrock の暗部組織名
 hq	本部	head quaters の略の場合
 Certificate	証明書
 cloak	マント
+Gauntlet	籠手	金属なら籠手。Corrupted Gauntletは別途検討
+Gauntlet	手袋	布なら手袋。Corrupted Gauntletは別途検討
