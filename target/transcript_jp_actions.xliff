@@ -2035,7 +2035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41512">
         <xliff:source>Join Castle Wars</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">キャッスル・ウォーズに参加</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Saradominist recruiter
@@ -2043,7 +2043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41513">
         <xliff:source>Holiday-items</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">とイベントアイテムを売買</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Diango
@@ -2051,7 +2051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41514">
         <xliff:source>Tan-hides</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">革をなす</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Eodan
@@ -2059,7 +2059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41515">
         <xliff:source>Ardougne</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">でアルドインへ移動</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Captain Barnaby
@@ -2067,7 +2067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41516">
         <xliff:source>Brimhaven</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">でブリムヘブンへ移動</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Captain Barnaby
@@ -2075,7 +2075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41517">
         <xliff:source>Rimmington</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">でリミングトンへ移動</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Captain Barnaby
@@ -2083,7 +2083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41518">
         <xliff:source>Enchant</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魔法付与</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Eluned
@@ -2091,7 +2091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41519">
         <xliff:source>Quick-escape</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">即離脱</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Elena
@@ -2099,7 +2099,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41520">
         <xliff:source>Investigate</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">調査する</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Elderly Elf
@@ -3291,7 +3291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41669">
         <xliff:source>Investigate</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">調査する</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Strange looking stone
@@ -4619,7 +4619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41835">
         <xliff:source>Ardougne</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">でアルドインへ移動</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Lever
@@ -4955,7 +4955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41877">
         <xliff:source>Quick-escape</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">即離脱</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Door
