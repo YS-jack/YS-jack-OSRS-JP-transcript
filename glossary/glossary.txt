@@ -318,3 +318,5 @@ Tempestus	テンペスタス	地名
 wave	ウェーブ	敵の波の場合の訳
 Rumour	ルーマー	ハンターギルドのポイントの訳
 Recharge	チャージ	エネルギー等を溜めなおすこと
+Private	専用	private instance の文脈で使われるときの訳。private instance = 専用インスタンス
+instance	インスタンス	private instance の意味で使われるときの訳。private instance = 専用インスタンス
