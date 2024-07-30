@@ -1896,8 +1896,8 @@
       <tuv lang="en-GB">
         <seg>Dream</seg>
       </tuv>
-      <tuv lang="ja" changeid="b0sh" changedate="20240716T184421Z" creationid="b0sh" creationdate="20240716T184421Z">
-        <seg>夢をみる</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T084724Z" creationid="b0sh" creationdate="20240716T184421Z">
+        <seg>夢を見る</seg>
       </tuv>
     </tu>
     <tu>
@@ -2562,6 +2562,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T094817Z" creationid="yumas" creationdate="20240713T094817Z">
         <seg>文字を当てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Haircut</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T084956Z" creationid="yumas" creationdate="20240730T084915Z">
+        <seg>で髪をセット</seg>
       </tuv>
     </tu>
     <tu>
@@ -3338,6 +3346,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T074322Z" creationid="2008l" creationdate="20240716T074322Z">
         <seg>魔法の笛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Makeover</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T085046Z" creationid="yumas" creationdate="20240730T084952Z">
+        <seg>で作り直す</seg>
       </tuv>
     </tu>
     <tu>
@@ -4934,6 +4950,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T084958Z" creationid="yumas" creationdate="20240730T084936Z">
+        <seg>でヒゲをセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shear</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T082348Z" creationid="2008l" creationdate="20240715T082348Z">
@@ -5706,16 +5730,16 @@
       <tuv lang="en-GB">
         <seg>Trade-Builders-Store</seg>
       </tuv>
-      <tuv lang="ja" changeid="b0sh" changedate="20240716T191119Z" creationid="b0sh" creationdate="20240716T190348Z">
-        <seg>と建材店で取引</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T084849Z" creationid="b0sh" creationdate="20240716T190348Z">
+        <seg>と建材用品を売買</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Trade-General-Store</seg>
       </tuv>
-      <tuv lang="ja" changeid="b0sh" changedate="20240716T190309Z" creationid="b0sh" creationdate="20240716T185742Z">
-        <seg>と一般商店で取引</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T084855Z" creationid="b0sh" creationdate="20240716T185742Z">
+        <seg>と雑貨を売買</seg>
       </tuv>
     </tu>
     <tu>
