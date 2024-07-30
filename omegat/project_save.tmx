@@ -2694,6 +2694,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T220926Z" creationid="yumas" creationdate="20240730T220926Z">
+        <seg>捨てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dwarf remains</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T070659Z" creationid="2008l" creationdate="20240716T070659Z">
@@ -7750,6 +7758,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Step-over</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T220947Z" creationid="yumas" creationdate="20240730T220947Z">
+        <seg>またいで渡る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stone tablet</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T062859Z" creationid="2008l" creationdate="20240726T062859Z">
@@ -9169,6 +9185,28 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T131741Z" creationid="yumas" creationdate="20240730T131741Z">
         <seg>ロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41731</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Toggle-warning</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T220831Z" creationid="yumas" creationdate="20240730T220831Z">
+        <seg>警告表示を切り替える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41734</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Pass</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221019Z" creationid="yumas" creationdate="20240730T221019Z">
+        <seg>を通り越す</seg>
       </tuv>
     </tu>
   </body>
