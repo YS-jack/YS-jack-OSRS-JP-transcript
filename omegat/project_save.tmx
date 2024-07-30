@@ -2062,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Deboard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T114719Z" creationid="yumas" creationdate="20240730T114705Z">
+        <seg>下船</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Decant</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T094104Z" creationid="yumas" creationdate="20240730T094104Z">
@@ -5038,6 +5046,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Purchase Amulet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T114600Z" creationid="yumas" creationdate="20240730T114600Z">
+        <seg>からお守りを購入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Purple cape</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T082500Z" creationid="2008l" creationdate="20240729T064646Z">
@@ -6238,6 +6254,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Staves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T114647Z" creationid="yumas" creationdate="20240730T114647Z">
+        <seg>杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Steal-from</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093357Z" creationid="yumas" creationdate="20240730T093357Z">
@@ -6836,6 +6860,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100013Z" creationid="yumas" creationdate="20240730T100013Z">
         <seg>カウンターの切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Toggle Fossils</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T114747Z" creationid="yumas" creationdate="20240730T114747Z">
+        <seg>化石の設定を切り替える</seg>
       </tuv>
     </tu>
     <tu>
