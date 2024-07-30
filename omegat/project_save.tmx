@@ -4662,6 +4662,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pay (Fruit tree)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T120622Z" creationid="yumas" creationdate="20240730T120622Z">
+        <seg>に支払う（果物の木）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pay (Redwood tree)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T120808Z" creationid="yumas" creationdate="20240730T120808Z">
+        <seg>に支払う（セコイア）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pay (Spirit tree)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T120930Z" creationid="yumas" creationdate="20240730T120930Z">
+        <seg>に支払う（精霊樹）（</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pay (north)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091843Z" creationid="yumas" creationdate="20240730T091843Z">
@@ -4706,6 +4730,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110951Z" creationid="yumas" creationdate="20240730T110951Z">
         <seg>に支払う（南西）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pay (tree patch)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T120634Z" creationid="yumas" creationdate="20240730T120634Z">
+        <seg>に支払う（木）</seg>
       </tuv>
     </tu>
     <tu>
