@@ -1678,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Charter-to Aldarin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T134510Z" creationid="yumas" creationdate="20240730T134510Z">
+        <seg>とアルダリンまで契約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Charter-to Brimhaven</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T123205Z" creationid="yumas" creationdate="20240730T123205Z">
@@ -1690,6 +1698,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T123314Z" creationid="yumas" creationdate="20240730T123314Z">
         <seg>とカサビーまで契約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Charter-to Civitas illa Fortis</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T134435Z" creationid="yumas" creationdate="20240730T134435Z">
+        <seg>とシビリタス・イラ・フォーチスまで契約</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,6 +1794,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T123619Z" creationid="yumas" creationdate="20240730T123619Z">
         <seg>と造船所まで契約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Charter-to Sunset Coast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T134619Z" creationid="yumas" creationdate="20240730T134619Z">
+        <seg>とサンセット・コーストまで契約</seg>
       </tuv>
     </tu>
     <tu>
@@ -4490,6 +4514,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T090028Z" creationid="2008l" creationdate="20240718T072259Z">
         <seg>楓の短弓（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mark</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T134244Z" creationid="yumas" creationdate="20240730T134244Z">
+        <seg>マーク</seg>
       </tuv>
     </tu>
     <tu>
@@ -7916,6 +7948,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T063707Z" creationid="2008l" creationdate="20240725T063904Z">
         <seg>未点火の松明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Unmark</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T134257Z" creationid="yumas" creationdate="20240730T134247Z">
+        <seg>マークを外す</seg>
       </tuv>
     </tu>
     <tu>
