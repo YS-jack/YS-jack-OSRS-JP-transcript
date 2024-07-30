@@ -9583,5 +9583,16 @@
         <seg>巻く</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41784</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Ring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T222859Z" creationid="yumas" creationdate="20240730T222859Z">
+        <seg>を鳴らす</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
