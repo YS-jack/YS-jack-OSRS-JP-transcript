@@ -1574,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T133310Z" creationid="yumas" creationdate="20240730T133310Z">
+        <seg>投げる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Catch</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T090005Z" creationid="yumas" creationdate="20240730T090005Z">
@@ -2318,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Deposit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T133217Z" creationid="yumas" creationdate="20240730T133217Z">
+        <seg>に預ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Deposit buckets</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110211Z" creationid="yumas" creationdate="20240730T110211Z">
@@ -2514,6 +2530,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064250Z" creationid="2008l" creationdate="20240723T064250Z">
         <seg>食用海藻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Emote</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T133212Z" creationid="yumas" creationdate="20240730T133212Z">
+        <seg>エモート</seg>
       </tuv>
     </tu>
     <tu>
@@ -6006,6 +6030,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Reset-room</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T133319Z" creationid="yumas" creationdate="20240730T133319Z">
+        <seg>部屋をリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Restore potion(1)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T065400Z" creationid="2008l" creationdate="20240721T065400Z">
@@ -6360,8 +6392,8 @@
       <tuv lang="en-GB">
         <seg>Scare-away</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T133020Z" creationid="yumas" creationdate="20240730T133020Z">
-        <seg>追い払う</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T133046Z" creationid="yumas" creationdate="20240730T133020Z">
+        <seg>を追い払う</seg>
       </tuv>
     </tu>
     <tu>
@@ -7350,6 +7382,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-lure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T133350Z" creationid="yumas" creationdate="20240730T133350Z">
+        <seg>ルアーを取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-net</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T131756Z" creationid="yumas" creationdate="20240730T131756Z">
@@ -7460,6 +7500,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T090151Z" creationid="yumas" creationdate="20240730T090151Z">
         <seg>ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tend-to</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T133050Z" creationid="yumas" creationdate="20240730T133050Z">
+        <seg>の世話をする</seg>
       </tuv>
     </tu>
     <tu>
