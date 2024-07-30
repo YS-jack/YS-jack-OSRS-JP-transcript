@@ -2030,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Deposit buckets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T110211Z" creationid="yumas" creationdate="20240730T110211Z">
+        <seg>にバケツを預ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Deposit-box</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100546Z" creationid="yumas" creationdate="20240730T100546Z">
@@ -3878,6 +3886,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Maxhit Variant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T110530Z" creationid="yumas" creationdate="20240730T110530Z">
+        <seg>最高ヒットの種類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Medical gown</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T065739Z" creationid="2008l" creationdate="20240723T065739Z">
@@ -4206,6 +4222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>New-maze</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T110408Z" creationid="yumas" creationdate="20240730T110408Z">
+        <seg>新たな迷路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Newcomer map</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T061936Z" creationid="2008l" creationdate="20240725T062425Z">
@@ -4282,6 +4306,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T064518Z" creationid="2008l" creationdate="20240725T064518Z">
         <seg>天文台のレンズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Observe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T110332Z" creationid="yumas" creationdate="20240730T110332Z">
+        <seg>眺める</seg>
       </tuv>
     </tu>
     <tu>
@@ -5186,6 +5218,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T092334Z" creationid="yumas" creationdate="20240730T092334Z">
         <seg>を取り除く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Remove PvP Protection</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T110317Z" creationid="yumas" creationdate="20240730T110317Z">
+        <seg>でPvP防止を解除する</seg>
       </tuv>
     </tu>
     <tu>
@@ -6588,6 +6628,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100013Z" creationid="yumas" creationdate="20240730T100013Z">
         <seg>カウンターの切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Toggle warnings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T110231Z" creationid="yumas" creationdate="20240730T110231Z">
+        <seg>で警告表示を切り替える</seg>
       </tuv>
     </tu>
     <tu>
