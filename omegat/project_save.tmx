@@ -3886,6 +3886,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lap-count</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T130019Z" creationid="yumas" creationdate="20240730T130019Z">
+        <seg>周回数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lathas' amulet</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T065204Z" creationid="2008l" creationdate="20240723T065204Z">
@@ -7588,6 +7596,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085849Z" creationid="yumas" creationdate="20240730T085849Z">
         <seg>竿を使う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T130257Z" creationid="yumas" creationdate="20240730T130257Z">
+        <seg>価値</seg>
       </tuv>
     </tu>
     <tu>
