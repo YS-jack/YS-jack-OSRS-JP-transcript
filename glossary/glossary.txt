@@ -166,8 +166,6 @@ plank	板	建築に使うplankは板で統一
 ammo	ボルト	ボルトもしくは矢を刺すこともある
 ammo	大砲弾	dwafcannonが放つ弾
 candle	ロウソク	カタカナで表記、「蝋燭」はどっちも常用漢字だけではないのでダメ
-barb	棘のある	アイテム名で使用
-barbed	棘のある	アイテム名で使用
 adamant	アダマント	マイニングのレベルが高くなると採掘することができるかなり強い金属棒の訳
 adamantite	アダマンタイト	アダマントを作るための鉱石の名前
 jangerberries	ジャンガベリー	ベリーの種類
@@ -236,3 +234,5 @@ Gauntlet	手袋	布なら手袋。Corrupted Gauntletは別途検討
 Hazelmere	ヘイゼルミア	NPC名
 scroll	巻物
 Daconia	ダコニア
+barb	トゲのある	アイテム名で使用
+barbed	トゲのある	アイテム名で使用
