@@ -4270,6 +4270,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jump-across</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221655Z" creationid="yumas" creationdate="20240730T221655Z">
+        <seg>飛び越える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jump-on</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T220541Z" creationid="yumas" creationdate="20240730T220541Z">
@@ -6590,6 +6598,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Remove-room</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221651Z" creationid="yumas" creationdate="20240730T221651Z">
+        <seg>部屋を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Repair</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214228Z" creationid="yumas" creationdate="20240730T122822Z">
@@ -8832,6 +8848,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>View-game</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221700Z" creationid="yumas" creationdate="20240730T221700Z">
+        <seg>ゲームを見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Walk here</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091744Z" creationid="yumas" creationdate="20240730T091744Z">
@@ -9020,6 +9044,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T213058Z" creationid="yumas" creationdate="20240730T213052Z">
         <seg>で編む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T222230Z" creationid="yumas" creationdate="20240730T222230Z">
+        <seg>雑草</seg>
       </tuv>
     </tu>
     <tu>
