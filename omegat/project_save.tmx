@@ -6254,6 +6254,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rumour</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T210737Z" creationid="yumas" creationdate="20240730T210737Z">
+        <seg>ルーマー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rumour-settings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T210852Z" creationid="yumas" creationdate="20240730T210852Z">
+        <seg>ルーマー設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rune arrow</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T061351Z" creationid="2008l" creationdate="20240729T061351Z">
@@ -6506,6 +6522,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T133046Z" creationid="yumas" creationdate="20240730T133020Z">
         <seg>を追い払う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Scoreboard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T210726Z" creationid="yumas" creationdate="20240730T210726Z">
+        <seg>得点版</seg>
       </tuv>
     </tu>
     <tu>
