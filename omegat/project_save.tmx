@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check Scores</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T111612Z" creationid="yumas" creationdate="20240730T111612Z">
+        <seg>得点を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check-Approval</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084629Z" creationid="2008l" creationdate="20240715T083625Z">
@@ -1866,6 +1874,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084447Z" creationid="2008l" creationdate="20240715T080519Z">
         <seg>対峙する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Contract</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T111647Z" creationid="yumas" creationdate="20240730T111647Z">
+        <seg>と契約</seg>
       </tuv>
     </tu>
     <tu>
@@ -3430,6 +3446,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Join</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T111453Z" creationid="yumas" creationdate="20240730T111453Z">
+        <seg>参加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Join-Crew</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T090208Z" creationid="yumas" creationdate="20240730T090208Z">
@@ -3738,6 +3762,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T064107Z" creationid="2008l" creationdate="20240725T065312Z">
         <seg>定位の水晶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Locking</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T111600Z" creationid="yumas" creationdate="20240730T111600Z">
+        <seg>の色を固定</seg>
       </tuv>
     </tu>
     <tu>
@@ -7108,6 +7140,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100235Z" creationid="yumas" creationdate="20240730T100227Z">
         <seg>でウオーターバース島へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Watermill</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T111444Z" creationid="yumas" creationdate="20240730T111444Z">
+        <seg>と水車まで移動</seg>
       </tuv>
     </tu>
     <tu>
