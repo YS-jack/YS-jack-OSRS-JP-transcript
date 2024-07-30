@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Craft</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213636Z" creationid="yumas" creationdate="20240730T213636Z">
+        <seg>作る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Craft-goods</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T090853Z" creationid="yumas" creationdate="20240730T090853Z">
@@ -2506,6 +2514,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T133501Z" creationid="yumas" creationdate="20240730T133501Z">
         <seg>を解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Disembark</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213703Z" creationid="yumas" creationdate="20240730T213703Z">
+        <seg>下船する</seg>
       </tuv>
     </tu>
     <tu>
@@ -4522,6 +4538,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T133136Z" creationid="2008l" creationdate="20240718T071514Z">
         <seg>長弓（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Look-at</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213622Z" creationid="yumas" creationdate="20240730T213622Z">
+        <seg>を見る</seg>
       </tuv>
     </tu>
     <tu>
@@ -7146,6 +7170,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T064224Z" creationid="2008l" creationdate="20240727T064224Z">
         <seg>割れたガラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Smelt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213435Z" creationid="yumas" creationdate="20240730T213435Z">
+        <seg>溶解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Smith</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213607Z" creationid="yumas" creationdate="20240730T213607Z">
+        <seg>鍛える</seg>
       </tuv>
     </tu>
     <tu>
