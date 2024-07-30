@@ -8712,10 +8712,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Walk-across</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T220434Z" creationid="yumas" creationdate="20240730T220434Z">
+        <seg>を渡る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Walk-down</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214209Z" creationid="yumas" creationdate="20240730T214209Z">
         <seg>を歩いて下りる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Walk-on</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T220403Z" creationid="yumas" creationdate="20240730T220403Z">
+        <seg>を渡る</seg>
       </tuv>
     </tu>
     <tu>
