@@ -363,7 +363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="46">
         <xliff:source>Oak shortbow (u)</xliff:source>
-        <xliff:target state="translated">オークの短弓（未）</xliff:target>
+        <xliff:target state="translated">楓の短弓（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak shortbow (u)
@@ -371,7 +371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="47">
         <xliff:source>Oak longbow (u)</xliff:source>
-        <xliff:target state="translated">オークの長弓（未）</xliff:target>
+        <xliff:target state="translated">楓の長弓（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak longbow (u)
@@ -2627,7 +2627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="329">
         <xliff:source>Tinderbox</xliff:source>
-        <xliff:target state="translated">火口</xliff:target>
+        <xliff:target state="translated">火打石の箱</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Tinderbox
@@ -2643,7 +2643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="331">
         <xliff:source>Lit torch</xliff:source>
-        <xliff:target state="translated">火のついた松明</xliff:target>
+        <xliff:target state="translated">点火された松明</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Lit torch
@@ -2659,7 +2659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="333">
         <xliff:source>Unlit torch</xliff:source>
-        <xliff:target state="translated">消えた松明</xliff:target>
+        <xliff:target state="translated">未点火の松明</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Unlit torch
@@ -2747,7 +2747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="344">
         <xliff:source>Rashiliyia corpse</xliff:source>
-        <xliff:target state="translated">ラシリヤの死体</xliff:target>
+        <xliff:target state="translated">ラシリーアの死体</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rashiliyia corpse
@@ -2763,7 +2763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="346">
         <xliff:source>Locating crystal</xliff:source>
-        <xliff:target state="translated">位置決めの水晶</xliff:target>
+        <xliff:target state="translated">定位の水晶</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Locating crystal
@@ -2819,7 +2819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="353">
         <xliff:source>Bervirius notes</xliff:source>
-        <xliff:target state="translated">ベルヴィラスのメモ</xliff:target>
+        <xliff:target state="translated">ベルビリウスのメモ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bervirius notes
@@ -2867,7 +2867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="359">
         <xliff:source>Turquoise boots</xliff:source>
-        <xliff:target state="translated">ターコイズ色の靴</xliff:target>
+        <xliff:target state="translated">トルコ石色の靴</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Turquoise boots
@@ -2907,7 +2907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="364">
         <xliff:source>Turquoise robe top</xliff:source>
-        <xliff:target state="translated">ターコイズ色のローブ上</xliff:target>
+        <xliff:target state="translated">トルコ石色のローブ上</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Turquoise robe top
@@ -4171,7 +4171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="522">
         <xliff:source>Oak shortbow</xliff:source>
-        <xliff:target state="translated">オークの短弓</xliff:target>
+        <xliff:target state="translated">楓の短弓</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak shortbow
@@ -4179,7 +4179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="523">
         <xliff:source>Oak longbow</xliff:source>
-        <xliff:target state="translated">オークの長弓</xliff:target>
+        <xliff:target state="translated">楓の長弓</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak longbow
@@ -4947,7 +4947,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="619">
         <xliff:source>Leather vambraces</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">革の腕甲</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Leather vambraces
