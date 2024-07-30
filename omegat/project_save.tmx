@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fur Clothing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T092450Z" creationid="yumas" creationdate="20240730T092450Z">
+        <seg>に革製品作成を依頼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gauntlets</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T074402Z" creationid="yumas" creationdate="20240713T103828Z">
@@ -4806,6 +4814,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T092334Z" creationid="yumas" creationdate="20240730T092334Z">
+        <seg>を取り除く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Repairs</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091647Z" creationid="yumas" creationdate="20240730T091647Z">
@@ -5322,6 +5338,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T065601Z" creationid="2008l" creationdate="20240725T065601Z">
         <seg>船のチケット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shoo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T092355Z" creationid="yumas" creationdate="20240730T092355Z">
+        <seg>を追い払う</seg>
       </tuv>
     </tu>
     <tu>
@@ -6268,6 +6292,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T071731Z" creationid="2008l" creationdate="20240725T071731Z">
         <seg>切手のない手紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Upgrade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T092327Z" creationid="yumas" creationdate="20240730T092327Z">
+        <seg>を強化する</seg>
       </tuv>
     </tu>
     <tu>
