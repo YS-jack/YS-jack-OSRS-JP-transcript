@@ -2350,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Enchant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T122653Z" creationid="yumas" creationdate="20240730T122653Z">
+        <seg>魔法付与</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Enchanted bear</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T061927Z" creationid="2008l" creationdate="20240725T061900Z">
@@ -3346,6 +3354,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T054916Z" creationid="2008l" creationdate="20240728T054916Z">
         <seg>侵攻の計画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Investigate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T122708Z" creationid="yumas" creationdate="20240730T122703Z">
+        <seg>調査する</seg>
       </tuv>
     </tu>
     <tu>
@@ -5234,6 +5250,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T115117Z" creationid="yumas" creationdate="20240730T115117Z">
         <seg>すぐに移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Quick-escape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T122700Z" creationid="yumas" creationdate="20240730T122700Z">
+        <seg>即離脱</seg>
       </tuv>
     </tu>
     <tu>
