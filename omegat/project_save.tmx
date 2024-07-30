@@ -2054,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Climb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213240Z" creationid="yumas" creationdate="20240730T213240Z">
+        <seg>に乗る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Climb-down</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T211546Z" creationid="yumas" creationdate="20240730T211546Z">
@@ -2178,6 +2186,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T132705Z" creationid="yumas" creationdate="20240730T132705Z">
         <seg>から委任を受ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Commune</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213208Z" creationid="yumas" creationdate="20240730T213208Z">
+        <seg>交信する</seg>
       </tuv>
     </tu>
     <tu>
@@ -2578,6 +2594,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084724Z" creationid="b0sh" creationdate="20240716T184421Z">
         <seg>夢を見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Drink From</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213422Z" creationid="yumas" creationdate="20240730T213422Z">
+        <seg>から飲む</seg>
       </tuv>
     </tu>
     <tu>
@@ -3034,6 +3058,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T120609Z" creationid="yumas" creationdate="20240730T120609Z">
         <seg>から鳥をもらう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Get in</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213304Z" creationid="yumas" creationdate="20240730T213304Z">
+        <seg>に入る</seg>
       </tuv>
     </tu>
     <tu>
@@ -6150,6 +6182,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Read</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213105Z" creationid="yumas" creationdate="20240730T213105Z">
+        <seg>を読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Recharge-whistle</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T211433Z" creationid="yumas" creationdate="20240730T211433Z">
@@ -7678,6 +7718,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Swim to</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213216Z" creationid="yumas" creationdate="20240730T213216Z">
+        <seg>まで泳ぐ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sword pommel</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T065747Z" creationid="2008l" creationdate="20240725T065747Z">
@@ -7706,6 +7754,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093354Z" creationid="yumas" creationdate="20240730T093354Z">
         <seg>取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take treasure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213225Z" creationid="yumas" creationdate="20240730T213225Z">
+        <seg>宝を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213123Z" creationid="yumas" creationdate="20240730T213123Z">
+        <seg>から１個取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-10</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213141Z" creationid="yumas" creationdate="20240730T213141Z">
+        <seg>から１０個取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-5</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213128Z" creationid="yumas" creationdate="20240730T213128Z">
+        <seg>から５個取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -8426,8 +8506,8 @@
       <tuv lang="en-GB">
         <seg>Weave</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T213052Z" creationid="yumas" creationdate="20240730T213052Z">
-        <seg>編む</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213058Z" creationid="yumas" creationdate="20240730T213052Z">
+        <seg>で編む</seg>
       </tuv>
     </tu>
     <tu>
