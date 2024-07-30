@@ -1950,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Count-log</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T120536Z" creationid="yumas" creationdate="20240730T120536Z">
+        <seg>ログを数える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cracked sample</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T071101Z" creationid="2008l" creationdate="20240725T071101Z">
@@ -2622,6 +2630,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Get bird</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T120609Z" creationid="yumas" creationdate="20240730T120609Z">
+        <seg>から鳥をもらう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Get job (easy)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091629Z" creationid="yumas" creationdate="20240730T091629Z">
@@ -2634,6 +2650,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091643Z" creationid="yumas" creationdate="20240730T091643Z">
         <seg>から仕事をもらう（難関）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Get-log</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T120530Z" creationid="yumas" creationdate="20240730T120530Z">
+        <seg>からログをもらう</seg>
       </tuv>
     </tu>
     <tu>
