@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Big Net</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T085837Z" creationid="yumas" creationdate="20240730T085837Z">
+        <seg>で大きな魚網で釣る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Big bones</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070836Z" creationid="2008l" creationdate="20240724T070836Z">
@@ -1366,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T085814Z" creationid="yumas" creationdate="20240730T085814Z">
+        <seg>でカゴで釣る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Candle</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T131323Z" creationid="2008l" creationdate="20240716T075541Z">
@@ -1486,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chase</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T085949Z" creationid="yumas" creationdate="20240730T085949Z">
+        <seg>を追いかける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check-Approval</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084629Z" creationid="2008l" creationdate="20240715T083625Z">
@@ -1554,6 +1578,14 @@
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240714T213303Z" creationid="b0sh" creationdate="20240714T213235Z">
         <seg>から矢を回収</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Claim-runes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T085943Z" creationid="yumas" creationdate="20240730T085943Z">
+        <seg>ルーンを請求</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,6 +2042,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T064122Z" creationid="2008l" creationdate="20240727T064122Z">
         <seg>魔法の瓶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Escort</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T085902Z" creationid="yumas" creationdate="20240730T085902Z">
+        <seg>をエスコート</seg>
       </tuv>
     </tu>
     <tu>
@@ -2592,8 +2632,8 @@
       <tuv lang="en-GB">
         <seg>Harpoon</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T052808Z" creationid="2008l" creationdate="20240722T065659Z">
-        <seg>もり</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T085827Z" creationid="2008l" creationdate="20240722T065659Z">
+        <seg>でもりで釣る</seg>
       </tuv>
     </tu>
     <tu>
@@ -2746,6 +2786,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T065853Z" creationid="2008l" creationdate="20240727T065853Z">
         <seg>報告書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Interact</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T090001Z" creationid="yumas" creationdate="20240730T090001Z">
+        <seg>とやり取りをする</seg>
       </tuv>
     </tu>
     <tu>
@@ -5614,6 +5662,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Supply</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T085918Z" creationid="yumas" creationdate="20240730T085918Z">
+        <seg>に物資を渡す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sword pommel</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T065747Z" creationid="2008l" creationdate="20240725T065747Z">
@@ -5956,6 +6012,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T071731Z" creationid="2008l" creationdate="20240725T071731Z">
         <seg>切手のない手紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Use-rod</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T085849Z" creationid="yumas" creationdate="20240730T085849Z">
+        <seg>竿を使う</seg>
       </tuv>
     </tu>
     <tu>
