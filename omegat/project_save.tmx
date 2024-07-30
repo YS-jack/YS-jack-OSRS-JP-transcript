@@ -2022,6 +2022,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Deposit-box</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T100546Z" creationid="yumas" creationdate="20240730T100546Z">
+        <seg>預け物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Deposit-items</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093557Z" creationid="yumas" creationdate="20240730T093557Z">
@@ -4142,6 +4150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Move</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T100551Z" creationid="yumas" creationdate="20240730T100551Z">
+        <seg>動かす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Muddy key</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T063738Z" creationid="2008l" creationdate="20240729T063738Z">
@@ -4450,6 +4466,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T061228Z" creationid="2008l" creationdate="20240729T061228Z">
         <seg>パールのボルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Peek</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T100534Z" creationid="yumas" creationdate="20240730T100534Z">
+        <seg>覗く</seg>
       </tuv>
     </tu>
     <tu>
@@ -5590,6 +5614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Send-parcel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T100528Z" creationid="yumas" creationdate="20240730T100528Z">
+        <seg>小包を送る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sets</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091223Z" creationid="yumas" creationdate="20240730T091223Z">
@@ -6612,6 +6644,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100459Z" creationid="yumas" creationdate="20240730T100459Z">
         <seg>とCo-opを売買</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trade-Drinks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T100505Z" creationid="yumas" creationdate="20240730T100505Z">
+        <seg>と飲み物を売買</seg>
       </tuv>
     </tu>
     <tu>
