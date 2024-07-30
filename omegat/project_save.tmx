@@ -1566,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Challenge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T115102Z" creationid="yumas" creationdate="20240730T115102Z">
+        <seg>挑戦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Chaos gauntlets</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T060715Z" creationid="2008l" creationdate="20240728T054012Z">
@@ -1698,6 +1706,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093108Z" creationid="yumas" creationdate="20240730T093100Z">
         <seg>に請求する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Claim Pet Rock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T115311Z" creationid="yumas" creationdate="20240730T115311Z">
+        <seg>ペットの石を請求</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,6 +2362,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T064122Z" creationid="2008l" creationdate="20240727T064122Z">
         <seg>魔法の瓶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T115135Z" creationid="yumas" creationdate="20240730T115135Z">
+        <seg>離脱</seg>
       </tuv>
     </tu>
     <tu>
@@ -5102,6 +5126,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Quick-Travel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T115117Z" creationid="yumas" creationdate="20240730T115117Z">
+        <seg>すぐに移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Quick-falcon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085201Z" creationid="yumas" creationdate="20240730T085201Z">
@@ -5854,6 +5886,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Scry</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T115214Z" creationid="yumas" creationdate="20240730T115210Z">
+        <seg>透視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sea turtle</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064157Z" creationid="2008l" creationdate="20240723T064157Z">
@@ -6266,6 +6306,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240719T063827Z" creationid="2008l" creationdate="20240719T063827Z">
         <seg>アーマディルの杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Standard Variant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T120443Z" creationid="yumas" creationdate="20240730T120443Z">
+        <seg>を通常版に戻す</seg>
       </tuv>
     </tu>
     <tu>
