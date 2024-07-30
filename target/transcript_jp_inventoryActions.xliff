@@ -12,7 +12,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
     <xliff:trans-unit id="40922"><xliff:source>Drop</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Cannonball
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2</xliff:note></xliff:trans-unit><xliff:trans-unit id="40923"><xliff:source>Read</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2</xliff:note></xliff:trans-unit><xliff:trans-unit id="40923"><xliff:source>Read</xliff:source><xliff:target state="translated">を読む</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Nulodion's notes
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3</xliff:note></xliff:trans-unit><xliff:trans-unit id="40924"><xliff:source>Set-up</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -36,7 +36,7 @@ source: Excalibur
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=35</xliff:note></xliff:trans-unit><xliff:trans-unit id="40930"><xliff:source>Wear</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Khazard helmet
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=74</xliff:note></xliff:trans-unit><xliff:trans-unit id="40931"><xliff:source>Empty</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=74</xliff:note></xliff:trans-unit><xliff:trans-unit id="40931"><xliff:source>Empty</xliff:source><xliff:target state="translated">を空にする</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Guam potion (unf)
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=91</xliff:note></xliff:trans-unit><xliff:trans-unit id="40932"><xliff:source>Drink</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -54,7 +54,7 @@ source: Cattleprod
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=278</xliff:note></xliff:trans-unit><xliff:trans-unit id="40936"><xliff:source>Plant</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Mithril seeds
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=299</xliff:note></xliff:trans-unit><xliff:trans-unit id="40937"><xliff:source>Open</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=299</xliff:note></xliff:trans-unit><xliff:trans-unit id="40937"><xliff:source>Open</xliff:source><xliff:target state="translated">開く</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Casket
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=405</xliff:note></xliff:trans-unit><xliff:trans-unit id="40938"><xliff:source>Throw</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -63,7 +63,7 @@ source: Bird feed
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=422</xliff:note></xliff:trans-unit><xliff:trans-unit id="40939"><xliff:source>Bury</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Bones
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=526</xliff:note></xliff:trans-unit><xliff:trans-unit id="40940"><xliff:source>Inspect</xliff:source><xliff:target state="translated">を観察</xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=526</xliff:note></xliff:trans-unit><xliff:trans-unit id="40940"><xliff:source>Inspect</xliff:source><xliff:target state="translated">を調べる</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Ghost's skull
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=553</xliff:note></xliff:trans-unit><xliff:trans-unit id="40941"><xliff:source>Bail-with</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -78,7 +78,7 @@ source: Panning tray
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=677</xliff:note></xliff:trans-unit><xliff:trans-unit id="40944"><xliff:source>Polish</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Buttons
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=688</xliff:note></xliff:trans-unit><xliff:trans-unit id="40945"><xliff:source>Look-at</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=688</xliff:note></xliff:trans-unit><xliff:trans-unit id="40945"><xliff:source>Look-at</xliff:source><xliff:target state="translated">を見る</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Level 1 certificate
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=691</xliff:note></xliff:trans-unit><xliff:trans-unit id="40946"><xliff:source>Complete</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -87,7 +87,7 @@ source: Radimus notes
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=714</xliff:note></xliff:trans-unit><xliff:trans-unit id="40947"><xliff:source>Swing</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Bullroarer
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=716</xliff:note></xliff:trans-unit><xliff:trans-unit id="40948"><xliff:source>Look</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=716</xliff:note></xliff:trans-unit><xliff:trans-unit id="40948"><xliff:source>Look</xliff:source><xliff:target state="translated">を見る</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Sketch
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=720</xliff:note></xliff:trans-unit><xliff:trans-unit id="40949"><xliff:source>Enchant-Vials</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -102,7 +102,7 @@ source: Holy force
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=748</xliff:note></xliff:trans-unit><xliff:trans-unit id="40952"><xliff:source>Hold</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Gnomeball
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=751</xliff:note></xliff:trans-unit><xliff:trans-unit id="40953"><xliff:source>Dig</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=751</xliff:note></xliff:trans-unit><xliff:trans-unit id="40953"><xliff:source>Dig</xliff:source><xliff:target state="translated">掘る</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Spade
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=952</xliff:note></xliff:trans-unit><xliff:trans-unit id="40954"><xliff:source>Blackout</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -117,7 +117,7 @@ source: Air talisman
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1438</xliff:note></xliff:trans-unit><xliff:trans-unit id="40957"><xliff:source>Rub-together</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Dry sticks
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1468</xliff:note></xliff:trans-unit><xliff:trans-unit id="40958"><xliff:source>Study</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1468</xliff:note></xliff:trans-unit><xliff:trans-unit id="40958"><xliff:source>Study</xliff:source><xliff:target state="translated">を調べる</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Map part
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1535</xliff:note></xliff:trans-unit><xliff:trans-unit id="40959"><xliff:source>Rub</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -186,13 +186,13 @@ source: Druidic spell
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2968</xliff:note></xliff:trans-unit><xliff:trans-unit id="40980"><xliff:source>Debug</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Boss helper tool
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3667</xliff:note></xliff:trans-unit><xliff:trans-unit id="40981"><xliff:source>Play</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3667</xliff:note></xliff:trans-unit><xliff:trans-unit id="40981"><xliff:source>Play</xliff:source><xliff:target state="translated">をプレイ</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Lyre
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3689</xliff:note></xliff:trans-unit><xliff:trans-unit id="40982"><xliff:source>Interact</xliff:source><xliff:target state="translated">とやり取りをする</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Pet rock
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3695</xliff:note></xliff:trans-unit><xliff:trans-unit id="40983"><xliff:source>Shake</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3695</xliff:note></xliff:trans-unit><xliff:trans-unit id="40983"><xliff:source>Shake</xliff:source><xliff:target state="translated">を揺らす</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Vase
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3734</xliff:note></xliff:trans-unit><xliff:trans-unit id="40984"><xliff:source>Remove-lid</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -201,7 +201,7 @@ source: Sealed vase
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3738</xliff:note></xliff:trans-unit><xliff:trans-unit id="40985"><xliff:source>Preach</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Holy book
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3840</xliff:note></xliff:trans-unit><xliff:trans-unit id="40986"><xliff:source>View</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3840</xliff:note></xliff:trans-unit><xliff:trans-unit id="40986"><xliff:source>View</xliff:source><xliff:target state="translated">を見る</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Spare controls
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4002</xliff:note></xliff:trans-unit><xliff:trans-unit id="40987"><xliff:source>Listen</xliff:source><xliff:target state="translated">聴く</xliff:target><xliff:note>category: inventoryActions
@@ -231,7 +231,7 @@ source: Enchanted gem
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4155</xliff:note></xliff:trans-unit><xliff:trans-unit id="40995"><xliff:source>Log</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Enchanted gem
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4155</xliff:note></xliff:trans-unit><xliff:trans-unit id="40996"><xliff:source>Repair</xliff:source><xliff:target state="translated">修復</xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4155</xliff:note></xliff:trans-unit><xliff:trans-unit id="40996"><xliff:source>Repair</xliff:source><xliff:target state="translated">を修復</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Model ship
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4253</xliff:note></xliff:trans-unit><xliff:trans-unit id="40997"><xliff:source>Follow</xliff:source><xliff:target state="translated">を追う</xliff:target><xliff:note>category: inventoryActions
@@ -249,7 +249,7 @@ source: Rubber chicken
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4566</xliff:note></xliff:trans-unit><xliff:trans-unit id="41001"><xliff:source>Assemble</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Base schematics
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4574</xliff:note></xliff:trans-unit><xliff:trans-unit id="41002"><xliff:source>Spin</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4574</xliff:note></xliff:trans-unit><xliff:trans-unit id="41002"><xliff:source>Spin</xliff:source><xliff:target state="translated">回す</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Spinning plate
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4613</xliff:note></xliff:trans-unit><xliff:trans-unit id="41003"><xliff:source>Remove-one</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -321,7 +321,7 @@ source: Enchanted key
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6754</xliff:note></xliff:trans-unit><xliff:trans-unit id="41025"><xliff:source>Remove-rat</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Rat pole
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6774</xliff:note></xliff:trans-unit><xliff:trans-unit id="41026"><xliff:source>Jump</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6774</xliff:note></xliff:trans-unit><xliff:trans-unit id="41026"><xliff:source>Jump</xliff:source><xliff:target state="translated">ジャンプ</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Blue marionette
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6865</xliff:note></xliff:trans-unit><xliff:trans-unit id="41027"><xliff:source>Bow</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -432,7 +432,7 @@ source: Defence cape
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9753</xliff:note></xliff:trans-unit><xliff:trans-unit id="41062"><xliff:source>Toggle Respawn</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Defence cape
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9753</xliff:note></xliff:trans-unit><xliff:trans-unit id="41063"><xliff:source>Commune</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9753</xliff:note></xliff:trans-unit><xliff:trans-unit id="41063"><xliff:source>Commune</xliff:source><xliff:target state="translated">交信する</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Ranging cape
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9756</xliff:note></xliff:trans-unit><xliff:trans-unit id="41064"><xliff:source>Spellbook</xliff:source><xliff:target state="translated">で魔導書を変更</xliff:target><xliff:note>category: inventoryActions
@@ -489,7 +489,7 @@ source: Attacker horn
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10516</xliff:note></xliff:trans-unit><xliff:trans-unit id="41081"><xliff:source>Medic</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Attacker horn
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10516</xliff:note></xliff:trans-unit><xliff:trans-unit id="41082"><xliff:source>Look-in</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10516</xliff:note></xliff:trans-unit><xliff:trans-unit id="41082"><xliff:source>Look-in</xliff:source><xliff:target state="translated">をの中を見る</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Collection bag
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10521</xliff:note></xliff:trans-unit><xliff:trans-unit id="41083"><xliff:source>Tell-tofu</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -528,7 +528,7 @@ source: Blessed lamp
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10889</xliff:note></xliff:trans-unit><xliff:trans-unit id="41094"><xliff:source>Recite-prayer</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Prayer book
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10890</xliff:note></xliff:trans-unit><xliff:trans-unit id="41095"><xliff:source>Operate</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10890</xliff:note></xliff:trans-unit><xliff:trans-unit id="41095"><xliff:source>Operate</xliff:source><xliff:target state="translated">を操作</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Beacon ring
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11014</xliff:note></xliff:trans-unit><xliff:trans-unit id="41096"><xliff:source>Gem Mine</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -696,7 +696,7 @@ source: Tome of fire
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20714</xliff:note></xliff:trans-unit><xliff:trans-unit id="41150"><xliff:source>Invigorate</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Imbued heart
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20724</xliff:note></xliff:trans-unit><xliff:trans-unit id="41151"><xliff:source>Look at</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20724</xliff:note></xliff:trans-unit><xliff:trans-unit id="41151"><xliff:source>Look at</xliff:source><xliff:target state="translated">を見る</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Snow globe
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20832</xliff:note></xliff:trans-unit><xliff:trans-unit id="41152"><xliff:source>Snow</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -795,7 +795,7 @@ source: Coin pouch
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22521</xliff:note></xliff:trans-unit><xliff:trans-unit id="41183"><xliff:source>Swap</xliff:source><xliff:target state="translated">入れ替える</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Thammaron's sceptre (u)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22552</xliff:note></xliff:trans-unit><xliff:trans-unit id="41184"><xliff:source>Close</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22552</xliff:note></xliff:trans-unit><xliff:trans-unit id="41184"><xliff:source>Close</xliff:source><xliff:target state="translated">を閉じる</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Looting bag
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22586</xliff:note></xliff:trans-unit><xliff:trans-unit id="41185"><xliff:source>Weiss</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -843,7 +843,7 @@ source: Guthixian icon
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=24217</xliff:note></xliff:trans-unit><xliff:trans-unit id="41199"><xliff:source>Chase</xliff:source><xliff:target state="translated">を追いかける</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Cat ears
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=24525</xliff:note></xliff:trans-unit><xliff:trans-unit id="41200"><xliff:source>Last-destination</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=24525</xliff:note></xliff:trans-unit><xliff:trans-unit id="41200"><xliff:source>Last-destination</xliff:source><xliff:target state="translated">前回の目的先へ移動</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Fairy mushroom
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25102</xliff:note></xliff:trans-unit><xliff:trans-unit id="41201"><xliff:source>Teleport-back</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -957,7 +957,7 @@ source: Smelly sock
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27488</xliff:note></xliff:trans-unit><xliff:trans-unit id="41237"><xliff:source>Destinations</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Ghommal's avernic defender 5
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27550</xliff:note></xliff:trans-unit><xliff:trans-unit id="41238"><xliff:source>Craft</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27550</xliff:note></xliff:trans-unit><xliff:trans-unit id="41238"><xliff:source>Craft</xliff:source><xliff:target state="translated">作る</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Secateurs blade
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28159</xliff:note></xliff:trans-unit><xliff:trans-unit id="41239"><xliff:source>History</xliff:source><xliff:target state="translated">と履歴を確認</xliff:target><xliff:note>category: inventoryActions
@@ -978,7 +978,7 @@ source: Trinket of fairies
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28564</xliff:note></xliff:trans-unit><xliff:trans-unit id="41244"><xliff:source>Spirit-tree</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Trinket of fairies
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28564</xliff:note></xliff:trans-unit><xliff:trans-unit id="41245"><xliff:source>Summon</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28564</xliff:note></xliff:trans-unit><xliff:trans-unit id="41245"><xliff:source>Summon</xliff:source><xliff:target state="translated">召喚</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Trinket of undead
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28570</xliff:note></xliff:trans-unit><xliff:trans-unit id="41246"><xliff:source>Nexus</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -1011,7 +1011,7 @@ source: Echo boots
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28945</xliff:note></xliff:trans-unit><xliff:trans-unit id="41255"><xliff:source>Signal</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Basic quetzal whistle
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29271</xliff:note></xliff:trans-unit><xliff:trans-unit id="41256"><xliff:source>Rumour</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29271</xliff:note></xliff:trans-unit><xliff:trans-unit id="41256"><xliff:source>Rumour</xliff:source><xliff:target state="translated">ルーマー</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Basic quetzal whistle
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29271</xliff:note></xliff:trans-unit><xliff:trans-unit id="41257"><xliff:source>Break-down</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions

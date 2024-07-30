@@ -67,7 +67,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41266">
         <xliff:source>Reset</xliff:source>
-        <xliff:target state="translated">をリセット</xliff:target>
+        <xliff:target state="translated">リセット</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Hangman game
@@ -379,7 +379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41305">
         <xliff:source>Inspect</xliff:source>
-        <xliff:target state="translated">を観察</xliff:target>
+        <xliff:target state="translated">を調べる</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Lumbridge Guide
@@ -979,7 +979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41380">
         <xliff:source>Leave</xliff:source>
-        <xliff:target state="translated">から離れる</xliff:target>
+        <xliff:target state="translated">で去る</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Squire
@@ -2139,7 +2139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41525">
         <xliff:source>Repair</xliff:source>
-        <xliff:target state="translated">修復</xliff:target>
+        <xliff:target state="translated">を修復</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Aneirin
@@ -2731,7 +2731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41599">
         <xliff:source>Start-wave</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ウェーブ開始</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Minimus
@@ -2739,7 +2739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41600">
         <xliff:source>Scoreboard</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">得点版</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Eyatlalli
@@ -2747,7 +2747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41601">
         <xliff:source>Rumour</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ルーマー</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Huntmaster Gilman (Novice)
@@ -2755,7 +2755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41602">
         <xliff:source>Rumour-settings</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ルーマー設定</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Guild Scribe Verity
@@ -2763,7 +2763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41603">
         <xliff:source>Fur-clothing</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">に革製品作成を依頼</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Pellem
@@ -2771,7 +2771,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41604">
         <xliff:source>Recharge-whistle</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">笛をチャージ</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Soar Leader Pitri
@@ -2779,7 +2779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41605">
         <xliff:source>Trade-in</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">と取引</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Oriana
@@ -2787,7 +2787,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41606">
         <xliff:source>Last-destination</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">前回の目的先へ移動</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Renu
@@ -2803,7 +2803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41608">
         <xliff:source>Enter</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">入る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Cave Entrance
@@ -2811,7 +2811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41609">
         <xliff:source>Open</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">開く</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Door
@@ -2819,7 +2819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41610">
         <xliff:source>Inspect</xliff:source>
-        <xliff:target state="translated">を観察</xliff:target>
+        <xliff:target state="translated">を調べる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Broken multicannon
@@ -2827,7 +2827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41611">
         <xliff:source>Fire</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を放つ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Dwarf multicannon
@@ -2843,7 +2843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41613">
         <xliff:source>Empty</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を空にする</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Dwarf multicannon
@@ -2851,7 +2851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41614">
         <xliff:source>Climb-down</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で下りる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Ladder
@@ -2859,7 +2859,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41615">
         <xliff:source>Climb-up</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で上る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Ladder
@@ -2891,7 +2891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41619">
         <xliff:source>Go-through</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を通る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Gate
@@ -2907,7 +2907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41621">
         <xliff:source>Squeeze-through</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">押し通る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Loose Railing
@@ -2923,7 +2923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41623">
         <xliff:source>Pray-at</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で祈る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Chaos altar
@@ -2939,7 +2939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41625">
         <xliff:source>Hide-in</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">に隠れる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Crate
@@ -2955,7 +2955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41627">
         <xliff:source>Cross</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を渡る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Gangplank
@@ -2963,7 +2963,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41628">
         <xliff:source>Knock-at</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">をたたく</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Large door
@@ -2971,7 +2971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41629">
         <xliff:source>Search for traps</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">罠を探す</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Lever
@@ -2979,7 +2979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41630">
         <xliff:source>Shut</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を閉じる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Open chest
@@ -2987,7 +2987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41631">
         <xliff:source>Cook</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で調理</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Cooking range
@@ -2995,7 +2995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41632">
         <xliff:source>Burst</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を割る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Party Balloon
@@ -3003,7 +3003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41633">
         <xliff:source>Jump-up</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">跳びあがる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Rocks
@@ -3011,7 +3011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41634">
         <xliff:source>Operate</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を操作</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Winch
@@ -3027,7 +3027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41636">
         <xliff:source>Close</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を閉じる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Large open cupboard
@@ -3035,7 +3035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41637">
         <xliff:source>Play</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">をプレイ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Church organ
@@ -3059,7 +3059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41640">
         <xliff:source>Private</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">専用</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Crevice
@@ -3067,7 +3067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41641">
         <xliff:source>Jump</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ジャンプ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Broken Fence
@@ -3099,7 +3099,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41645">
         <xliff:source>Suck</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を吸う</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Swamp bubbles
@@ -3107,7 +3107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41646">
         <xliff:source>Reset</xliff:source>
-        <xliff:target state="translated">をリセット</xliff:target>
+        <xliff:target state="translated">リセット</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Shaking box
@@ -3115,7 +3115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41647">
         <xliff:source>Slash</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">切り裂く</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Web
@@ -3123,7 +3123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41648">
         <xliff:source>Weave</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で編む</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Loom
@@ -3139,7 +3139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41650">
         <xliff:source>Read</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を読む</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Plaque
@@ -3163,7 +3163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41653">
         <xliff:source>Take-1</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">から１個取る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Bandage table
@@ -3171,7 +3171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41654">
         <xliff:source>Take-5</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">から５個取る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Bandage table
@@ -3179,7 +3179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41655">
         <xliff:source>Take-10</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">から１０個取る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Bandage table
@@ -3187,7 +3187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41656">
         <xliff:source>Commune</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">交信する</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Lever
@@ -3203,7 +3203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41658">
         <xliff:source>Swim to</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">まで泳ぐ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Rock
@@ -3211,7 +3211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41659">
         <xliff:source>Take treasure</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">宝を取る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Chalice
@@ -3219,7 +3219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41660">
         <xliff:source>Climb</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">に乗る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Dead Tree
@@ -3227,7 +3227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41661">
         <xliff:source>Get in</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">に入る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Barrel
@@ -3243,7 +3243,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41663">
         <xliff:source>Drink From</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">から飲む</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Cauldron
@@ -3251,7 +3251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41664">
         <xliff:source>Smelt</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">溶解</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Furnace
@@ -3259,7 +3259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41665">
         <xliff:source>Smith</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">鍛える</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Anvil
@@ -3283,7 +3283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41668">
         <xliff:source>Look-at</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を見る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Mound of earth
@@ -3299,7 +3299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41670">
         <xliff:source>Craft</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">作る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Smashed table
@@ -3307,7 +3307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41671">
         <xliff:source>Disembark</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">下船する</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Crude raft
@@ -3323,7 +3323,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41673">
         <xliff:source>Listen-at</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">聴く</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Grill
@@ -3331,7 +3331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41674">
         <xliff:source>Pan</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">でフルイにかける</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Panning point
@@ -3371,7 +3371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41679">
         <xliff:source>Rotate</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を回す</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Crane
@@ -3379,7 +3379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41680">
         <xliff:source>Walk-down</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を歩いて下りる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spooky stairs
@@ -3387,7 +3387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41681">
         <xliff:source>Walk-up</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を歩いて上る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spooky stairs
@@ -3395,7 +3395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41682">
         <xliff:source>Repair</xliff:source>
-        <xliff:target state="translated">修復</xliff:target>
+        <xliff:target state="translated">を修復</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Hole
@@ -3403,7 +3403,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41683">
         <xliff:source>Walk-Down</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を歩いて下りる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Stairs
@@ -3411,7 +3411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41684">
         <xliff:source>Walk-Up</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を歩いて上る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Stairs
@@ -3427,7 +3427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41686">
         <xliff:source>Look at</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を見る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Winch
@@ -3451,7 +3451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41689">
         <xliff:source>Look-in</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">をの中を見る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Barrel
@@ -3459,7 +3459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41690">
         <xliff:source>Look in</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">をの中を見る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Barrel
@@ -3475,7 +3475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41692">
         <xliff:source>Climb-to</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">乗る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Rock
@@ -3483,7 +3483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41693">
         <xliff:source>Climb down</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で下りる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Rock
@@ -3491,7 +3491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41694">
         <xliff:source>Walk through</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を通り抜ける</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Mine cave
@@ -3499,7 +3499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41695">
         <xliff:source>Walk-through</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を通り抜ける</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Tent door
@@ -3515,7 +3515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41697">
         <xliff:source>Steal-From</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">から盗む</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Counter
@@ -3523,7 +3523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41698">
         <xliff:source>Prospect</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">探る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Rock of Dalgroth
@@ -3531,7 +3531,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41699">
         <xliff:source>Leave</xliff:source>
-        <xliff:target state="translated">から離れる</xliff:target>
+        <xliff:target state="translated">で去る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Cave exit
@@ -3539,7 +3539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41700">
         <xliff:source>Jump-Over</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を飛び越える</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Gap
@@ -3547,7 +3547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41701">
         <xliff:source>Turn</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を回す</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Sewer valve
@@ -3555,7 +3555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41702">
         <xliff:source>Look-under</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">の下を確認</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Potted plant
@@ -3563,7 +3563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41703">
         <xliff:source>Step-into</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">に足を踏み入れる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Sparkling pool
@@ -3571,7 +3571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41704">
         <xliff:source>Chop-down</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を切り倒す</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Jungle tree
@@ -3579,7 +3579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41705">
         <xliff:source>Touch</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">触れる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fire Wall
@@ -3587,7 +3587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41706">
         <xliff:source>search</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">探す</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Desk
@@ -3595,7 +3595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41707">
         <xliff:source>Smash-to-bits</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">粉砕</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Boulder
@@ -3603,7 +3603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41708">
         <xliff:source>Jump-over</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を飛び越える</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Jagged wall
@@ -3611,7 +3611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41709">
         <xliff:source>Look</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を見る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Carved rock
@@ -3619,7 +3619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41710">
         <xliff:source>Lift</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を持ち上げる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Totem pole
@@ -3627,7 +3627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41711">
         <xliff:source>Shake</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を揺らす</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Leafy Palm Tree
@@ -3635,7 +3635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41712">
         <xliff:source>Cut down</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を切り倒す</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Arctic pine tree
@@ -3667,7 +3667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41716">
         <xliff:source>Pass-through</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を通り抜ける</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Tunnel
@@ -3675,7 +3675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41717">
         <xliff:source>Descend</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を降りる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Cave
@@ -3683,7 +3683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41718">
         <xliff:source>Ascend</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を登る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Cave
@@ -3691,7 +3691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41719">
         <xliff:source>Picklock</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">こじ開ける</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Gate
@@ -3699,7 +3699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41720">
         <xliff:source>Fire-at</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">に向かって放つ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Guide rope
@@ -3707,7 +3707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41721">
         <xliff:source>Unlock</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を開錠</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Locked Ogre chest
@@ -3715,7 +3715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41722">
         <xliff:source>Study</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を調べる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Monument
@@ -3723,7 +3723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41723">
         <xliff:source>Take-cutting</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">切り取る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Budding branch
@@ -3731,7 +3731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41724">
         <xliff:source>Walk-on</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を渡る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Balancing rope
@@ -3739,7 +3739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41725">
         <xliff:source>Walk-across</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を渡る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Balancing ledge
@@ -3747,7 +3747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41726">
         <xliff:source>Swing-across</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">振り渡る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Monkey bars
@@ -3755,7 +3755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41727">
         <xliff:source>Swing-on</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">振り渡る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Rope swing
@@ -3763,7 +3763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41728">
         <xliff:source>Jump-on</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ジャンプ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Pillar
@@ -3771,7 +3771,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41729">
         <xliff:source>Tag</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">タッチ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Ticket Dispenser
@@ -3779,7 +3779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41730">
         <xliff:source>Climb-across</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">登って渡る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Hand holds
@@ -3787,7 +3787,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41731">
         <xliff:source>Toggle-warning</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">警告表示を切り替える</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Cave entrance
@@ -3795,7 +3795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41732">
         <xliff:source>Dump</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">捨てる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Compost Bin
@@ -3803,7 +3803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41733">
         <xliff:source>Step-over</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">またいで渡る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Tripwire
@@ -3811,7 +3811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41734">
         <xliff:source>Pass</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を通り越す</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Sticks
@@ -3819,7 +3819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41735">
         <xliff:source>Reinforce</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">強化する</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Temple wall
@@ -3827,7 +3827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41736">
         <xliff:source>Light</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">灯す</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fire altar
@@ -3835,7 +3835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41737">
         <xliff:source>Summon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">召喚</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Strange altar
@@ -3843,7 +3843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41738">
         <xliff:source>Cut-branch</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">枝を切る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Swaying tree
@@ -3851,7 +3851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41739">
         <xliff:source>Put-inside</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">中に入れる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Pipe
@@ -3859,7 +3859,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41740">
         <xliff:source>Spin</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">回す</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spinning wheel
@@ -3867,7 +3867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41741">
         <xliff:source>Capture</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">とらえる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Standard Stand
@@ -3875,7 +3875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41742">
         <xliff:source>Jump-to</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">までジャンプ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Stepping stone
@@ -3883,7 +3883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41743">
         <xliff:source>Collapse</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">崩す</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Cave wall
@@ -3891,7 +3891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41744">
         <xliff:source>Lock</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">の鍵を閉める</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Door
@@ -3899,7 +3899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41745">
         <xliff:source>View</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を見る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Scoreboard
@@ -3907,7 +3907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41746">
         <xliff:source>View Stats</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ステータスを見る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Scoreboard
@@ -3915,7 +3915,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41747">
         <xliff:source>Build</xliff:source>
-        <xliff:target state="translated">を組み立てる</xliff:target>
+        <xliff:target state="translated">組み立てる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Chair space
@@ -3923,7 +3923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41748">
         <xliff:source>Remove board advert</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ボードの告知を取る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Portal
@@ -3931,7 +3931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41749">
         <xliff:source>Remove-room</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">部屋を削除</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Dungeon entrance
@@ -3939,7 +3939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41750">
         <xliff:source>Jump-across</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">飛び越える</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Basalt rock
@@ -3947,7 +3947,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41751">
         <xliff:source>View-game</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ゲームを見る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Table
@@ -3955,7 +3955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41752">
         <xliff:source>Weed</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">雑草</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Herbs
@@ -3963,7 +3963,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41753">
         <xliff:source>Jump off</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">飛び降りる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: End of bridge
@@ -3979,7 +3979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41755">
         <xliff:source>Pick-lock</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">こじ開ける</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Jail Door
@@ -3987,7 +3987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41756">
         <xliff:source>Steal from</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">から盗む</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Crafting Stall
@@ -3995,7 +3995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41757">
         <xliff:source>Crawl-down</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">這い降りる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Cart tunnel
@@ -4003,7 +4003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41758">
         <xliff:source>Crawl-through</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">這って通る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Cart tunnel
@@ -4011,7 +4011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41759">
         <xliff:source>Go-down</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">下へ行く</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Lift
@@ -4019,7 +4019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41760">
         <xliff:source>Go-up</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">上へ行く</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Lift
@@ -4027,7 +4027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41761">
         <xliff:source>Slide</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">スライド</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Slope
@@ -4035,7 +4035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41762">
         <xliff:source>Squeeze-past</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">すり抜ける</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Stalagmite
@@ -4043,7 +4043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41763">
         <xliff:source>Wind</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">巻く</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Clock
@@ -4051,7 +4051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41764">
         <xliff:source>Dig</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">掘る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Grave
@@ -4059,7 +4059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41765">
         <xliff:source>Pick-Lock</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">こじ開ける</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Trapdoor
@@ -4067,7 +4067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41766">
         <xliff:source>Take-axe</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">斧を取る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Logs
@@ -4075,7 +4075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41767">
         <xliff:source>Ring-bell</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">鈴を鳴らす</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Antiques Shop Stall
@@ -4091,7 +4091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41769">
         <xliff:source>Pick-from</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">から取る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Thorny bushes
@@ -4099,7 +4099,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41770">
         <xliff:source>Dig-up</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を掘る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Mud
@@ -4107,7 +4107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41771">
         <xliff:source>Dig-below</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">の下を掘る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Roots
@@ -4115,7 +4115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41772">
         <xliff:source>Jump-through</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を飛びぬける</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Wall of flame
@@ -4123,7 +4123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41773">
         <xliff:source>Take-beer</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ビールを取る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Table
@@ -4131,7 +4131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41774">
         <xliff:source>Hide-behind</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">の裏に隠れる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Cactus
@@ -4139,7 +4139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41775">
         <xliff:source>Smoke</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">煙</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Smokey well
@@ -4147,7 +4147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41776">
         <xliff:source>Look-into</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">の中を見る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Mystical mirror
@@ -4155,7 +4155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41777">
         <xliff:source>Step-off</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">踏み外す</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Ice ledge
@@ -4163,7 +4163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41778">
         <xliff:source>Climb-through</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">登りって通り抜ける</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Hole
@@ -4171,7 +4171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41779">
         <xliff:source>Collect-from</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">から集める</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Weeping wall
@@ -4179,7 +4179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41780">
         <xliff:source>Sit-on</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">に座る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Chair
@@ -4195,7 +4195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41782">
         <xliff:source>Work-at</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で作業する</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Workbench
@@ -4203,7 +4203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41783">
         <xliff:source>Make-helmet</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">鉄兜を作成</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Helmet pluming stand
@@ -4211,7 +4211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41784">
         <xliff:source>Ring</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を鳴らす</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Bell
@@ -4755,7 +4755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41852">
         <xliff:source>Fire!</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を放つ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Cannon

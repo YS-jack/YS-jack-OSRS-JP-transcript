@@ -1739,7 +1739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14575">
         <xliff:source>Cross</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を渡る</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Cross
@@ -5067,7 +5067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14991">
         <xliff:source>Fire</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を放つ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Fire
@@ -5795,7 +5795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15082">
         <xliff:source>Scoreboard</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">得点版</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Scoreboard
@@ -6419,7 +6419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15160">
         <xliff:source>Lift</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を持ち上げる</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Lift
@@ -10059,7 +10059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15615">
         <xliff:source>Smoke</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">煙</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Smoke
@@ -11267,7 +11267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15766">
         <xliff:source>Light</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">灯す</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Light
@@ -20355,7 +20355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16902">
         <xliff:source>Lock</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">の鍵を閉める</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Lock
@@ -34075,7 +34075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18617">
         <xliff:source>Pan</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">でフルイにかける</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Pan
