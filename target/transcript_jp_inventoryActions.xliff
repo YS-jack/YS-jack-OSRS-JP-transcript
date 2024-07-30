@@ -174,7 +174,7 @@ source: Bloated toad
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2875</xliff:note></xliff:trans-unit><xliff:trans-unit id="40976"><xliff:source>Check kills</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Ogre bow
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2883</xliff:note></xliff:trans-unit><xliff:trans-unit id="40977"><xliff:source>Fill</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2883</xliff:note></xliff:trans-unit><xliff:trans-unit id="40977"><xliff:source>Fill</xliff:source><xliff:target state="translated">を満たす</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Druid pouch
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2957</xliff:note></xliff:trans-unit><xliff:trans-unit id="40978"><xliff:source>Cast Bloom</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -231,7 +231,7 @@ source: Enchanted gem
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4155</xliff:note></xliff:trans-unit><xliff:trans-unit id="40995"><xliff:source>Log</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Enchanted gem
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4155</xliff:note></xliff:trans-unit><xliff:trans-unit id="40996"><xliff:source>Repair</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4155</xliff:note></xliff:trans-unit><xliff:trans-unit id="40996"><xliff:source>Repair</xliff:source><xliff:target state="translated">修復</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Model ship
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4253</xliff:note></xliff:trans-unit><xliff:trans-unit id="40997"><xliff:source>Follow</xliff:source><xliff:target state="translated">を追う</xliff:target><xliff:note>category: inventoryActions
@@ -534,7 +534,7 @@ source: Beacon ring
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11014</xliff:note></xliff:trans-unit><xliff:trans-unit id="41096"><xliff:source>Gem Mine</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Karamja gloves 3
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11140</xliff:note></xliff:trans-unit><xliff:trans-unit id="41097"><xliff:source>Loot</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11140</xliff:note></xliff:trans-unit><xliff:trans-unit id="41097"><xliff:source>Loot</xliff:source><xliff:target state="translated">からアイテムを回収</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Baby impling jar
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11238</xliff:note></xliff:trans-unit><xliff:trans-unit id="41098"><xliff:source>Impling-jar</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -573,7 +573,7 @@ source: Slayer helmet
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11864</xliff:note></xliff:trans-unit><xliff:trans-unit id="41109"><xliff:source>Deposit</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Looting bag
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11941</xliff:note></xliff:trans-unit><xliff:trans-unit id="41110"><xliff:source>Settings</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11941</xliff:note></xliff:trans-unit><xliff:trans-unit id="41110"><xliff:source>Settings</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Looting bag
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11941</xliff:note></xliff:trans-unit><xliff:trans-unit id="41111"><xliff:source>Spawn Item</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -681,7 +681,7 @@ source: Chronicle
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13660</xliff:note></xliff:trans-unit><xliff:trans-unit id="41145"><xliff:source>Transform</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Monkey
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=19556</xliff:note></xliff:trans-unit><xliff:trans-unit id="41146"><xliff:source>Lap-count</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=19556</xliff:note></xliff:trans-unit><xliff:trans-unit id="41146"><xliff:source>Lap-count</xliff:source><xliff:target state="translated">周回数</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Monkey
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=19556</xliff:note></xliff:trans-unit><xliff:trans-unit id="41147"><xliff:source>Combine</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -753,10 +753,10 @@ source: Useful rock
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22191</xliff:note></xliff:trans-unit><xliff:trans-unit id="41169"><xliff:source>Control</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Rotten cabbage
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22321</xliff:note></xliff:trans-unit><xliff:trans-unit id="41170"><xliff:source>Spectate</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22321</xliff:note></xliff:trans-unit><xliff:trans-unit id="41170"><xliff:source>Spectate</xliff:source><xliff:target state="translated">観戦</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Rotten cabbage
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22321</xliff:note></xliff:trans-unit><xliff:trans-unit id="41171"><xliff:source>Charge</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22321</xliff:note></xliff:trans-unit><xliff:trans-unit id="41171"><xliff:source>Charge</xliff:source><xliff:target state="translated">をチャージする</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Sanguinesti staff
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22323</xliff:note></xliff:trans-unit><xliff:trans-unit id="41172"><xliff:source>Scry</xliff:source><xliff:target state="translated">透視</xliff:target><xliff:note>category: inventoryActions
