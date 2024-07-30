@@ -2046,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Convert-shards</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T125432Z" creationid="yumas" creationdate="20240730T125432Z">
+        <seg>破片を変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cooking gauntlets</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T074123Z" creationid="2008l" creationdate="20240727T072234Z">
@@ -4106,6 +4114,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T082307Z" creationid="2008l" creationdate="20240729T063706Z">
         <seg>鍵の持ち手部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Loot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T130010Z" creationid="yumas" creationdate="20240730T130010Z">
+        <seg>からアイテムを回収</seg>
       </tuv>
     </tu>
     <tu>
