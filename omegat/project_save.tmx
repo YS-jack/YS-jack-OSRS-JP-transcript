@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Board</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T094229Z" creationid="yumas" creationdate="20240730T094229Z">
+        <seg>に乗る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Body rune</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062808Z" creationid="2008l" creationdate="20240725T062808Z">
@@ -1686,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Clean</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T094111Z" creationid="yumas" creationdate="20240730T094111Z">
+        <seg>綺麗にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093341Z" creationid="yumas" creationdate="20240730T093341Z">
@@ -1930,6 +1946,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062829Z" creationid="2008l" creationdate="20240725T062829Z">
         <seg>死のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Decant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T094104Z" creationid="yumas" creationdate="20240730T094104Z">
+        <seg>移し替える</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,6 +2370,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T075006Z" creationid="2008l" creationdate="20240716T075006Z">
         <seg>釣りトロフィー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fly</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T094033Z" creationid="yumas" creationdate="20240730T094033Z">
+        <seg>飛ぶ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3666,6 +3698,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T074322Z" creationid="2008l" creationdate="20240716T074322Z">
         <seg>魔法の笛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Make unfinished potion(s)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T094158Z" creationid="yumas" creationdate="20240730T094138Z">
+        <seg>に未完成の薬液を調合</seg>
       </tuv>
     </tu>
     <tu>
@@ -5562,6 +5602,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T092458Z" creationid="yumas" creationdate="20240730T092458Z">
         <seg>を追い払う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shoot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T094212Z" creationid="yumas" creationdate="20240730T094212Z">
+        <seg>撃つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T094222Z" creationid="yumas" creationdate="20240730T094222Z">
+        <seg>店</seg>
       </tuv>
     </tu>
     <tu>
