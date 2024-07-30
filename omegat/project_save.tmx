@@ -1894,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Detach</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T092252Z" creationid="yumas" creationdate="20240730T092252Z">
+        <seg>を取り外す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Disk of returning</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T081819Z" creationid="2008l" creationdate="20240729T063318Z">
@@ -4110,10 +4118,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pay (north)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091843Z" creationid="yumas" creationdate="20240730T091843Z">
+        <seg>に支払う（北）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pay (north-west)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091831Z" creationid="yumas" creationdate="20240730T091831Z">
         <seg>に支払う（北東）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pay (south)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091851Z" creationid="yumas" creationdate="20240730T091851Z">
+        <seg>に支払う（南）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pay (south-east)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091837Z" creationid="yumas" creationdate="20240730T091837Z">
+        <seg>に支払う（南西）</seg>
       </tuv>
     </tu>
     <tu>
