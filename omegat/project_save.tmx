@@ -4102,6 +4102,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T212950Z" creationid="yumas" creationdate="20240730T212950Z">
+        <seg>ジャンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jump-up</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T212313Z" creationid="yumas" creationdate="20240730T212313Z">
@@ -6296,8 +6304,8 @@
       <tuv lang="en-GB">
         <seg>Reset</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T105942Z" creationid="yumas" creationdate="20240713T100556Z">
-        <seg>をリセット</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213013Z" creationid="yumas" creationdate="20240713T100556Z">
+        <seg>リセット</seg>
       </tuv>
     </tu>
     <tu>
@@ -7054,6 +7062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Slash</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213026Z" creationid="yumas" creationdate="20240730T213026Z">
+        <seg>切り裂く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Small Net</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085647Z" creationid="yumas" creationdate="20240730T085626Z">
@@ -7522,6 +7538,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T115014Z" creationid="yumas" creationdate="20240730T115014Z">
         <seg>を気絶させる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Suck</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213008Z" creationid="yumas" creationdate="20240730T213008Z">
+        <seg>を吸う</seg>
       </tuv>
     </tu>
     <tu>
@@ -8396,6 +8420,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T065748Z" creationid="2008l" creationdate="20240727T065748Z">
         <seg>武器庫の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T213052Z" creationid="yumas" creationdate="20240730T213052Z">
+        <seg>編む</seg>
       </tuv>
     </tu>
     <tu>
