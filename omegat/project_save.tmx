@@ -2046,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Climb-down</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211546Z" creationid="yumas" creationdate="20240730T211546Z">
+        <seg>で下りる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Climb-on</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T111346Z" creationid="yumas" creationdate="20240730T111346Z">
@@ -2606,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Empty</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211540Z" creationid="yumas" creationdate="20240730T211540Z">
+        <seg>を空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Empty oyster</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T053812Z" creationid="2008l" creationdate="20240723T064615Z">
@@ -2658,6 +2674,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T064122Z" creationid="2008l" creationdate="20240727T064122Z">
         <seg>魔法の瓶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Enter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211455Z" creationid="yumas" creationdate="20240730T211455Z">
+        <seg>入る</seg>
       </tuv>
     </tu>
     <tu>
@@ -2786,6 +2810,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T131525Z" creationid="yumas" creationdate="20240730T131525Z">
         <seg>を満たす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fire</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211529Z" creationid="yumas" creationdate="20240730T211522Z">
+        <seg>を放つ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3672,8 +3704,8 @@
       <tuv lang="en-GB">
         <seg>Inspect</seg>
       </tuv>
-      <tuv lang="ja" changeid="b0sh" changedate="20240716T190039Z" creationid="b0sh" creationdate="20240716T190039Z">
-        <seg>を観察</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211509Z" creationid="b0sh" creationdate="20240716T190039Z">
+        <seg>を調べる</seg>
       </tuv>
     </tu>
     <tu>
@@ -4138,6 +4170,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T130019Z" creationid="yumas" creationdate="20240730T130019Z">
         <seg>周回数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Last-destination</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211451Z" creationid="yumas" creationdate="20240730T211451Z">
+        <seg>前回の目的先へ移動</seg>
       </tuv>
     </tu>
     <tu>
@@ -5034,6 +5074,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T061221Z" creationid="2008l" creationdate="20240729T061221Z">
         <seg>オパールのボルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211458Z" creationid="yumas" creationdate="20240730T211458Z">
+        <seg>開く</seg>
       </tuv>
     </tu>
     <tu>
