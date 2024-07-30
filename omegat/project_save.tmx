@@ -2206,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Collapse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221359Z" creationid="yumas" creationdate="20240730T221359Z">
+        <seg>崩す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Collect</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T083232Z" creationid="2008l" creationdate="20240715T083232Z">
@@ -4662,6 +4670,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221419Z" creationid="yumas" creationdate="20240730T221419Z">
+        <seg>の鍵を閉める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Locking</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T111600Z" creationid="yumas" creationdate="20240730T111600Z">
@@ -6562,6 +6578,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110317Z" creationid="yumas" creationdate="20240730T110317Z">
         <seg>でPvP防止を解除する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Remove board advert</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221630Z" creationid="yumas" creationdate="20240730T221630Z">
+        <seg>ボードの告知を取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -8784,10 +8808,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221502Z" creationid="yumas" creationdate="20240730T221502Z">
+        <seg>を見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>View Laps</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100002Z" creationid="yumas" creationdate="20240730T100002Z">
         <seg>ラップ数を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View Stats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221511Z" creationid="yumas" creationdate="20240730T221511Z">
+        <seg>ステータスを見る</seg>
       </tuv>
     </tu>
     <tu>
@@ -9271,6 +9311,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221019Z" creationid="yumas" creationdate="20240730T221019Z">
         <seg>を通り越す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41747</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Build</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221548Z" creationid="yumas" creationdate="20240730T221530Z">
+        <seg>組み立てる</seg>
       </tuv>
     </tu>
   </body>
