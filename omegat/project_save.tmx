@@ -1614,6 +1614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Claim-slime</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T092835Z" creationid="yumas" creationdate="20240730T092819Z">
+        <seg>にスライムを請求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Claim-trophies</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T102504Z" creationid="yumas" creationdate="20240713T102504Z">
@@ -2130,6 +2138,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091523Z" creationid="yumas" creationdate="20240730T091523Z">
         <seg>とファイアーケープを交換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T092903Z" creationid="yumas" creationdate="20240730T092903Z">
+        <seg>で出る</seg>
       </tuv>
     </tu>
     <tu>
@@ -4806,6 +4822,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Redecorate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T093020Z" creationid="yumas" creationdate="20240730T093020Z">
+        <seg>で模様替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rellekka</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091046Z" creationid="yumas" creationdate="20240730T090951Z">
@@ -4818,6 +4842,14 @@
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240716T184004Z" creationid="b0sh" creationdate="20240716T184004Z">
         <seg>をリーロド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Relocate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T092911Z" creationid="yumas" creationdate="20240730T092911Z">
+        <seg>で再配置</seg>
       </tuv>
     </tu>
     <tu>
@@ -6324,6 +6356,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T092327Z" creationid="yumas" creationdate="20240730T092327Z">
         <seg>を強化する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T092831Z" creationid="yumas" creationdate="20240730T092831Z">
+        <seg>を使う</seg>
       </tuv>
     </tu>
     <tu>
