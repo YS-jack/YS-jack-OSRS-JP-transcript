@@ -2534,6 +2534,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Give-Stick</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T100141Z" creationid="yumas" creationdate="20240730T100141Z">
+        <seg>棒を渡す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Give-Sword</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085323Z" creationid="yumas" creationdate="20240730T085323Z">
@@ -6382,6 +6390,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-flyer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T100244Z" creationid="yumas" creationdate="20240730T100244Z">
+        <seg>からビラをもらう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-from</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T094739Z" creationid="yumas" creationdate="20240730T094739Z">
@@ -6588,6 +6604,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084849Z" creationid="b0sh" creationdate="20240716T190348Z">
         <seg>と建材用品を売買</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trade-Co-op</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T100459Z" creationid="yumas" creationdate="20240730T100459Z">
+        <seg>とCo-opを売買</seg>
       </tuv>
     </tu>
     <tu>
@@ -6892,6 +6916,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062717Z" creationid="2008l" creationdate="20240725T062717Z">
         <seg>水のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Waterbirth Island</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T100235Z" creationid="yumas" creationdate="20240730T100227Z">
+        <seg>でウオーターバース島へ移動</seg>
       </tuv>
     </tu>
     <tu>
