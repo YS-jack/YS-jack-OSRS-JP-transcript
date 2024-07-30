@@ -2070,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Climb-up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211559Z" creationid="yumas" creationdate="20240730T211559Z">
+        <seg>で上る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Clue scroll</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T082332Z" creationid="2008l" creationdate="20240726T082332Z">
@@ -2274,6 +2282,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T054242Z" creationid="2008l" creationdate="20240728T054242Z">
         <seg>家紋の一部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cross</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211816Z" creationid="yumas" creationdate="20240730T211816Z">
+        <seg>を渡る</seg>
       </tuv>
     </tu>
     <tu>
@@ -3222,6 +3238,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Go-through</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211626Z" creationid="yumas" creationdate="20240730T211626Z">
+        <seg>を通る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Goblin kitchen key</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T064340Z" creationid="2008l" creationdate="20240725T064340Z">
@@ -3602,6 +3626,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T063240Z" creationid="2008l" creationdate="20240723T063240Z">
         <seg>ニシン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hide-in</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211808Z" creationid="yumas" creationdate="20240730T211808Z">
+        <seg>に隠れる</seg>
       </tuv>
     </tu>
     <tu>
@@ -4138,6 +4170,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084557Z" creationid="2008l" creationdate="20240715T082819Z">
         <seg>を気絶させる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Knock-at</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211822Z" creationid="yumas" creationdate="20240730T211822Z">
+        <seg>をたたく</seg>
       </tuv>
     </tu>
     <tu>
@@ -5630,6 +5670,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pray-at</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211759Z" creationid="yumas" creationdate="20240730T211759Z">
+        <seg>で祈る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Prayer potion(1)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T141324Z" creationid="2008l" creationdate="20240720T070942Z">
@@ -6646,6 +6694,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Search for traps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211834Z" creationid="yumas" creationdate="20240730T211834Z">
+        <seg>罠を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Seaweed</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064231Z" creationid="2008l" creationdate="20240723T064231Z">
@@ -6870,6 +6926,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shut</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211842Z" creationid="yumas" creationdate="20240730T211842Z">
+        <seg>を閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Silk</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T061840Z" creationid="2008l" creationdate="20240729T061840Z">
@@ -7050,6 +7114,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T111043Z" creationid="yumas" creationdate="20240730T111043Z">
         <seg>で魔導書を変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Squeeze-through</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T211656Z" creationid="yumas" creationdate="20240730T211656Z">
+        <seg>押し通る</seg>
       </tuv>
     </tu>
     <tu>
