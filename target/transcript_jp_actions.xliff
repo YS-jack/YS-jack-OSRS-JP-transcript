@@ -2491,7 +2491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41569">
         <xliff:source>Strike</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を殴る</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Hill Giant
@@ -2499,7 +2499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41570">
         <xliff:source>Hand-in</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">に提出する</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Kovac
@@ -2507,7 +2507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41571">
         <xliff:source>Commission</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">から委任を受ける</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Kovac
@@ -2515,7 +2515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41572">
         <xliff:source>Talk</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">に話しかける</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Hannibal
@@ -2523,7 +2523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41573">
         <xliff:source>Proceed</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">続行</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Osmumten
@@ -2531,7 +2531,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41574">
         <xliff:source>Begin</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">開始</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Osmumten
@@ -2539,7 +2539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41575">
         <xliff:source>Water</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">水をあげる</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Palm of Resourcefulness
@@ -2547,7 +2547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41576">
         <xliff:source>Check-costume</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">衣装を確認</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Costumed child
@@ -2555,7 +2555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41577">
         <xliff:source>Trick-or-treat</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">トリック・オア・トリート</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Generous Treater
@@ -2563,7 +2563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41578">
         <xliff:source>Scare-away</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を追い払う</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Spooky dog
@@ -2571,7 +2571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41579">
         <xliff:source>Tend-to</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">の世話をする</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Flowering bush (Lilac)
@@ -2579,7 +2579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41580">
         <xliff:source>Emote</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エモート</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Wisp
@@ -2587,7 +2587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41581">
         <xliff:source>Deposit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">に預ける</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Woodcutting Leprechaun
@@ -2595,7 +2595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41582">
         <xliff:source>Cast</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">投げる</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Fishing spot
@@ -2603,7 +2603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41583">
         <xliff:source>Reset-room</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">部屋をリセット</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Cerebral pathfinder
@@ -2611,7 +2611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41584">
         <xliff:source>Take-lure</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ルアーを取る</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Light leech
@@ -2619,7 +2619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41585">
         <xliff:source>Build</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を組み立てる</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Unfinished Beehive
@@ -2627,7 +2627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41586">
         <xliff:source>Disarm</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を解除</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Fox trap
@@ -2635,7 +2635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41587">
         <xliff:source>Prune</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">をせん定</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Entling
@@ -2643,7 +2643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41588">
         <xliff:source>Prune-top</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">の上部をせん定</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Entling
@@ -2651,7 +2651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41589">
         <xliff:source>Prune-back</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">の後ろをせん定</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Entling
@@ -2659,7 +2659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41590">
         <xliff:source>Prune-sides</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">の横をせん定</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Entling
@@ -2667,7 +2667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41591">
         <xliff:source>Charter-to Port Piscarilius</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">とピスカリリウス港まで契約</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Trader Stan
@@ -2675,7 +2675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41592">
         <xliff:source>Charter-to Land's End</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">とランズ・エンドまで契約</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Trader Stan
@@ -2683,7 +2683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41593">
         <xliff:source>Mark</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マーク</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Guard
@@ -2691,7 +2691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41594">
         <xliff:source>Unmark</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マークを外す</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Guard
@@ -2699,7 +2699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41595">
         <xliff:source>Charter-to Civitas illa Fortis</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">とシビリタス・イラ・フォーチスまで契約</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Trader Stan
@@ -2707,7 +2707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41596">
         <xliff:source>Charter-to Aldarin</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">とアルダリンまで契約</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Trader Stan
@@ -2715,7 +2715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41597">
         <xliff:source>Charter-to Sunset Coast</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">とサンセット・コーストまで契約</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Trader Stan
@@ -2723,7 +2723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41598">
         <xliff:source>Charter-to Tempestus</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">とテンペスタスまで契約</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Trader Stan
@@ -3347,7 +3347,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41676">
         <xliff:source>Deposit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">に預ける</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Chest
@@ -3915,7 +3915,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41747">
         <xliff:source>Build</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を組み立てる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Chair space
@@ -4307,7 +4307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41796">
         <xliff:source>Prune</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">をせん定</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Diseased cadavaberry bush
@@ -6379,7 +6379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42055">
         <xliff:source>Water</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">水をあげる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Golovanova seedling
@@ -6435,7 +6435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42062">
         <xliff:source>Disarm</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を解除</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Floor spikes
@@ -9483,7 +9483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42443">
         <xliff:source>Tend-to</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">の世話をする</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Forester's Campfire

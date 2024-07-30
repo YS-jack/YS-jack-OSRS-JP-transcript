@@ -180,7 +180,7 @@ source: Druid pouch
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2957</xliff:note></xliff:trans-unit><xliff:trans-unit id="40978"><xliff:source>Cast Bloom</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Silver sickle (b)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2963</xliff:note></xliff:trans-unit><xliff:trans-unit id="40979"><xliff:source>Cast</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2963</xliff:note></xliff:trans-unit><xliff:trans-unit id="40979"><xliff:source>Cast</xliff:source><xliff:target state="translated">投げる</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Druidic spell
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2968</xliff:note></xliff:trans-unit><xliff:trans-unit id="40980"><xliff:source>Debug</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -255,7 +255,7 @@ source: Spinning plate
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4613</xliff:note></xliff:trans-unit><xliff:trans-unit id="41003"><xliff:source>Remove-one</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Apples(2)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=5380</xliff:note></xliff:trans-unit><xliff:trans-unit id="41004"><xliff:source>Build</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=5380</xliff:note></xliff:trans-unit><xliff:trans-unit id="41004"><xliff:source>Build</xliff:source><xliff:target state="translated">を組み立てる</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Rogue kit
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=5558</xliff:note></xliff:trans-unit><xliff:trans-unit id="41005"><xliff:source>Use</xliff:source><xliff:target state="translated">を使う</xliff:target><xliff:note>category: inventoryActions
@@ -570,7 +570,7 @@ source: Armadyl godsword
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11802</xliff:note></xliff:trans-unit><xliff:trans-unit id="41108"><xliff:source>Disassemble</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Slayer helmet
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11864</xliff:note></xliff:trans-unit><xliff:trans-unit id="41109"><xliff:source>Deposit</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11864</xliff:note></xliff:trans-unit><xliff:trans-unit id="41109"><xliff:source>Deposit</xliff:source><xliff:target state="translated">に預ける</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Looting bag
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11941</xliff:note></xliff:trans-unit><xliff:trans-unit id="41110"><xliff:source>Settings</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: inventoryActions
@@ -636,7 +636,7 @@ source: Desert amulet 4
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13136</xliff:note></xliff:trans-unit><xliff:trans-unit id="41130"><xliff:source>Kalphite cave</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Desert amulet 4
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13136</xliff:note></xliff:trans-unit><xliff:trans-unit id="41131"><xliff:source>Emote</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13136</xliff:note></xliff:trans-unit><xliff:trans-unit id="41131"><xliff:source>Emote</xliff:source><xliff:target state="translated">エモート</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Diango's claws
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13188</xliff:note></xliff:trans-unit><xliff:trans-unit id="41132"><xliff:source>Redeem</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
