@@ -376,8 +376,8 @@
       <tuv lang="en-GB">
         <seg>Ascend</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T214901Z" creationid="yumas" creationdate="20240730T214901Z">
-        <seg>を上る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214915Z" creationid="yumas" creationdate="20240730T214901Z">
+        <seg>を登る</seg>
       </tuv>
     </tu>
     <tu>
@@ -2528,8 +2528,8 @@
       <tuv lang="en-GB">
         <seg>Descend</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T214842Z" creationid="yumas" creationdate="20240730T214842Z">
-        <seg>を下りる</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214910Z" creationid="yumas" creationdate="20240730T214842Z">
+        <seg>を降りる</seg>
       </tuv>
     </tu>
     <tu>
@@ -2962,6 +2962,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062637Z" creationid="2008l" creationdate="20240725T062637Z">
         <seg>火のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fire!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T215004Z" creationid="yumas" creationdate="20240730T215004Z">
+        <seg>を放つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fire-at</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214954Z" creationid="yumas" creationdate="20240730T214954Z">
+        <seg>に向かって放つ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5678,6 +5694,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Picklock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T214942Z" creationid="yumas" creationdate="20240730T214942Z">
+        <seg>こじ開ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pickpocket</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T060257Z" creationid="2008l" creationdate="20240715T060257Z">
@@ -7798,6 +7822,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Study</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T215148Z" creationid="yumas" creationdate="20240730T215148Z">
+        <seg>を調べる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stun</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T115014Z" creationid="yumas" creationdate="20240730T115014Z">
@@ -8532,6 +8564,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T063707Z" creationid="2008l" creationdate="20240725T063904Z">
         <seg>未点火の松明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Unlock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T215136Z" creationid="yumas" creationdate="20240730T215136Z">
+        <seg>を開錠</seg>
       </tuv>
     </tu>
     <tu>
