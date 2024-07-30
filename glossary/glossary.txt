@@ -1,5 +1,4 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
-skull	ドクロ	Wildernessで頭上に表示されるSkullの訳。普通の文章のSkullは頭蓋骨が訳
 mould	鋳型	工作のスキルでなにかの金属棒から特定の物を作りたい時に使ってるアイテムの訳
 remain	遺体	NPCの死体の訳
 remains	遺体	remainの複数形
@@ -236,3 +235,6 @@ scroll	巻物
 Daconia	ダコニア
 barb	トゲのある	アイテム名で使用
 barbed	トゲのある	アイテム名で使用
+skull	ドクロ	Wildernessで頭上に表示されるSkullの訳。
+skull	頭蓋骨	普通の文章のSkullの訳。Wildernessで頭上に表示されるSkullの訳はスカル。
+fur	毛皮
