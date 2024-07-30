@@ -2086,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Climb-across</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T220810Z" creationid="yumas" creationdate="20240730T220810Z">
+        <seg>登って渡る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Climb-down</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T211546Z" creationid="yumas" creationdate="20240730T211546Z">
@@ -4226,6 +4234,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214659Z" creationid="yumas" creationdate="20240730T214659Z">
         <seg>を飛び越える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jump-on</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T220541Z" creationid="yumas" creationdate="20240730T220541Z">
+        <seg>ジャンプ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7982,6 +7998,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Swing-across</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T220535Z" creationid="yumas" creationdate="20240730T220535Z">
+        <seg>振り渡る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Swing-on</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T220538Z" creationid="yumas" creationdate="20240730T220538Z">
+        <seg>振り渡る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sword pommel</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T065747Z" creationid="2008l" creationdate="20240725T065747Z">
@@ -8002,6 +8034,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093052Z" creationid="yumas" creationdate="20240730T093052Z">
         <seg>タックル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T220557Z" creationid="yumas" creationdate="20240730T220557Z">
+        <seg>タッチ</seg>
       </tuv>
     </tu>
     <tu>
