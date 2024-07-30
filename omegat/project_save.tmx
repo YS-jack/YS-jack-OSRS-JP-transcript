@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Awaken</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T131925Z" creationid="yumas" creationdate="20240730T131925Z">
+        <seg>覚醒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Axe handle</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070041Z" creationid="2008l" creationdate="20240724T070041Z">
@@ -1398,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Buy-crystals</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T132011Z" creationid="yumas" creationdate="20240730T132011Z">
+        <seg>水晶を購入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Buy-pass</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093900Z" creationid="yumas" creationdate="20240730T093900Z">
@@ -1410,6 +1426,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093030Z" creationid="yumas" creationdate="20240730T093030Z">
         <seg>から板を購入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Buy-sphere</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T131958Z" creationid="yumas" creationdate="20240730T131958Z">
+        <seg>球体を購入</seg>
       </tuv>
     </tu>
     <tu>
@@ -3806,6 +3830,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T131931Z" creationid="yumas" creationdate="20240730T131931Z">
+        <seg>アイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jangerberries</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T140151Z" creationid="2008l" creationdate="20240722T062124Z">
@@ -5406,6 +5438,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Power-up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T132004Z" creationid="yumas" creationdate="20240730T132004Z">
+        <seg>強化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Prayer potion(1)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T141324Z" creationid="2008l" creationdate="20240720T070942Z">
@@ -5530,6 +5570,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085201Z" creationid="yumas" creationdate="20240730T085201Z">
         <seg>からハヤブサを借りる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Quick-lock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T132018Z" creationid="yumas" creationdate="20240730T132018Z">
+        <seg>即ロック</seg>
       </tuv>
     </tu>
     <tu>
