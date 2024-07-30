@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Claim-Shield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091558Z" creationid="yumas" creationdate="20240730T091558Z">
+        <seg>盾を請求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Claim-Tokens</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091153Z" creationid="yumas" creationdate="20240730T091153Z">
@@ -1874,6 +1882,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T070921Z" creationid="2008l" creationdate="20240720T070921Z">
         <seg>守備力増強薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Destroy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091526Z" creationid="yumas" creationdate="20240730T091526Z">
+        <seg>を破壊</seg>
       </tuv>
     </tu>
     <tu>
@@ -2246,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Follow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091810Z" creationid="yumas" creationdate="20240730T091810Z">
+        <seg>を追う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gauntlets</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T074402Z" creationid="yumas" creationdate="20240713T103828Z">
@@ -2258,6 +2282,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T070722Z" creationid="2008l" creationdate="20240727T070722Z">
         <seg>宝石の袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Get job (easy)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091629Z" creationid="yumas" creationdate="20240730T091629Z">
+        <seg>から仕事をもらう（簡単）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Get job (hard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091643Z" creationid="yumas" creationdate="20240730T091643Z">
+        <seg>から仕事をもらう（難関）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3326,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Listen-to</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091552Z" creationid="yumas" creationdate="20240730T091552Z">
+        <seg>聴く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lit black candle</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T131214Z" creationid="2008l" creationdate="20240716T075502Z">
@@ -4062,6 +4110,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pay (north-west)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091831Z" creationid="yumas" creationdate="20240730T091831Z">
+        <seg>に支払う（北東）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pearl bolt tips</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T090431Z" creationid="2008l" creationdate="20240716T090431Z">
@@ -4718,6 +4774,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Repairs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091647Z" creationid="yumas" creationdate="20240730T091647Z">
+        <seg>修復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Research notes</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T052049Z" creationid="2008l" creationdate="20240722T064248Z">
@@ -5358,6 +5422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sober-Up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091715Z" creationid="yumas" creationdate="20240730T091707Z">
+        <seg>の酔いを覚ます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Soul rune</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062950Z" creationid="2008l" creationdate="20240725T062950Z">
@@ -5904,6 +5976,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tickets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091535Z" creationid="yumas" creationdate="20240730T091535Z">
+        <seg>チケット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tile</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T062719Z" creationid="2008l" creationdate="20240729T062719Z">
@@ -6192,6 +6272,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Walk here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091744Z" creationid="yumas" creationdate="20240730T091744Z">
+        <seg>ここへ歩く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Walk on</seg>
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240716T185235Z" creationid="b0sh" creationdate="20240716T185235Z">
@@ -6476,6 +6564,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T082613Z" creationid="2008l" creationdate="20240729T064857Z">
         <seg>ザモラック僧侶上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>talk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T091603Z" creationid="yumas" creationdate="20240730T091603Z">
+        <seg>に話しかける</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
