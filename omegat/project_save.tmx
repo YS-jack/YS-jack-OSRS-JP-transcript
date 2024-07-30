@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check-ammo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T131620Z" creationid="yumas" creationdate="20240730T131620Z">
+        <seg>弾数を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check-gates</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T095921Z" creationid="yumas" creationdate="20240730T095921Z">
@@ -2630,6 +2638,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fill</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T131525Z" creationid="yumas" creationdate="20240730T131525Z">
+        <seg>を満たす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fire orb</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064540Z" creationid="2008l" creationdate="20240725T063509Z">
@@ -2930,6 +2946,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T131103Z" creationid="yumas" creationdate="20240730T131103Z">
         <seg>とレマント・アンドラまでグライダーで移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Glider-to Lemantolly Undri</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T131355Z" creationid="yumas" creationdate="20240730T131355Z">
+        <seg>とレマントリ・ウンドリまでグライダーで移動</seg>
       </tuv>
     </tu>
     <tu>
@@ -4014,6 +4038,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Leave-tutorial</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T131450Z" creationid="yumas" creationdate="20240730T131450Z">
+        <seg>チュートリアルから離脱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lens mould</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T064353Z" creationid="2008l" creationdate="20240725T064353Z">
@@ -4858,6 +4890,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064454Z" creationid="2008l" creationdate="20240725T063620Z">
         <seg>防御のオーブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Other-services</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T131437Z" creationid="yumas" creationdate="20240730T131437Z">
+        <seg>その他のサービス</seg>
       </tuv>
     </tu>
     <tu>
