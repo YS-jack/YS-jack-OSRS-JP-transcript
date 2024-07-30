@@ -1446,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Catch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T090005Z" creationid="yumas" creationdate="20240730T090005Z">
+        <seg>を捕まえる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cattleprod</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T024257Z" creationid="2008l" creationdate="20240722T063204Z">
@@ -2226,6 +2234,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T070722Z" creationid="2008l" creationdate="20240727T070722Z">
         <seg>宝石の袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Get-rewards</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T090017Z" creationid="yumas" creationdate="20240730T090017Z">
+        <seg>から報酬をもらう</seg>
       </tuv>
     </tu>
     <tu>
@@ -3034,6 +3050,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T140151Z" creationid="2008l" creationdate="20240722T062124Z">
         <seg>ジャンガベリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Join-Crew</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T090208Z" creationid="yumas" creationdate="20240730T090208Z">
+        <seg>クルーに参加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Join-Team</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T090213Z" creationid="yumas" creationdate="20240730T090213Z">
+        <seg>チームに参加</seg>
       </tuv>
     </tu>
     <tu>
@@ -4034,6 +4066,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T102948Z" creationid="yumas" creationdate="20240713T102948Z">
         <seg>を拾う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pick-pocket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T090843Z" creationid="yumas" creationdate="20240730T090843Z">
+        <seg>のポッケをする</seg>
       </tuv>
     </tu>
     <tu>
@@ -5286,6 +5326,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Start-minigame</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T090116Z" creationid="yumas" creationdate="20240730T090116Z">
+        <seg>ミニゲーム開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Steel arrow</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T081305Z" creationid="2008l" creationdate="20240729T061314Z">
@@ -5752,6 +5800,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T090151Z" creationid="yumas" creationdate="20240730T090151Z">
+        <seg>ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Threaten</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085604Z" creationid="yumas" creationdate="20240730T085604Z">
@@ -5948,6 +6004,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T064729Z" creationid="2008l" creationdate="20240725T070319Z">
         <seg>トルコ石色のローブ上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tutorial</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T090132Z" creationid="yumas" creationdate="20240730T090108Z">
+        <seg>チュートリアル開始</seg>
       </tuv>
     </tu>
     <tu>
