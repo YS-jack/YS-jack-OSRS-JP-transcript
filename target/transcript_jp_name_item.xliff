@@ -1379,7 +1379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="173">
         <xliff:source>Orange goblin mail</xliff:source>
-        <xliff:target state="translated">オレンジゴブリンのかたびら</xliff:target>
+        <xliff:target state="translated">オレンジゴブリンの帷子</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Orange goblin mail
@@ -1387,7 +1387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="174">
         <xliff:source>Blue goblin mail</xliff:source>
-        <xliff:target state="translated">青いゴブリンのかたびら</xliff:target>
+        <xliff:target state="translated">青いゴブリンの帷子</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blue goblin mail
@@ -1395,7 +1395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="175">
         <xliff:source>Goblin mail</xliff:source>
-        <xliff:target state="translated">ゴブリンのかたびら</xliff:target>
+        <xliff:target state="translated">ゴブリンの帷子</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Goblin mail
@@ -1403,7 +1403,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="176">
         <xliff:source>Research package</xliff:source>
-        <xliff:target state="translated">研究のパッケージ</xliff:target>
+        <xliff:target state="translated">研究荷物</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Research package
@@ -1411,7 +1411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="177">
         <xliff:source>Research notes</xliff:source>
-        <xliff:target state="translated">研究のメモ</xliff:target>
+        <xliff:target state="translated">研究の記録</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Research notes
@@ -1475,7 +1475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="185">
         <xliff:source>Lobster pot</xliff:source>
-        <xliff:target state="translated">ロブスターポット</xliff:target>
+        <xliff:target state="translated">ロブスターの罠</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Lobster pot
@@ -1515,7 +1515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="190">
         <xliff:source>Harpoon</xliff:source>
-        <xliff:target state="translated">銛</xliff:target>
+        <xliff:target state="translated">もり</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Harpoon
@@ -1547,7 +1547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="194">
         <xliff:source>Raw shrimps</xliff:source>
-        <xliff:target state="translated">生のエビ</xliff:target>
+        <xliff:target state="translated">生エビ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Raw shrimps
@@ -1595,7 +1595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="200">
         <xliff:source>Salmon</xliff:source>
-        <xliff:target state="translated">サーモン</xliff:target>
+        <xliff:target state="translated">鮭</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Salmon
@@ -1603,7 +1603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="201">
         <xliff:source>Raw salmon</xliff:source>
-        <xliff:target state="translated">生のサーモン</xliff:target>
+        <xliff:target state="translated">生の鮭</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Raw salmon
@@ -1723,7 +1723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="216">
         <xliff:source>Raw bass</xliff:source>
-        <xliff:target state="translated">生のスズキ</xliff:target>
+        <xliff:target state="translated">生のバス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Raw bass
@@ -1731,7 +1731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="217">
         <xliff:source>Bass</xliff:source>
-        <xliff:target state="translated">スズキ</xliff:target>
+        <xliff:target state="translated">バス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bass
@@ -1883,7 +1883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="236">
         <xliff:source>Oyster</xliff:source>
-        <xliff:target state="translated">かキ</xliff:target>
+        <xliff:target state="translated">カキ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oyster
@@ -1891,7 +1891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="237">
         <xliff:source>Empty oyster</xliff:source>
-        <xliff:target state="translated">空のかキ</xliff:target>
+        <xliff:target state="translated">空のカキ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Empty oyster
@@ -1899,7 +1899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="238">
         <xliff:source>Oyster pearl</xliff:source>
-        <xliff:target state="translated">かキの真珠</xliff:target>
+        <xliff:target state="translated">カキの真珠</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oyster pearl
@@ -1907,7 +1907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="239">
         <xliff:source>Oyster pearls</xliff:source>
-        <xliff:target state="translated">かキの真珠</xliff:target>
+        <xliff:target state="translated">カキの真珠</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oyster pearls
@@ -1923,7 +1923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="241">
         <xliff:source>Liquid honey</xliff:source>
-        <xliff:target state="translated">はちみつ</xliff:target>
+        <xliff:target state="translated">液状はちみつ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Liquid honey
@@ -1947,7 +1947,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="244">
         <xliff:source>Touch paper</xliff:source>
-        <xliff:target state="translated">タッチペーパー</xliff:target>
+        <xliff:target state="translated">点火用紙</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Touch paper
@@ -1987,7 +1987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="249">
         <xliff:source>Priest gown</xliff:source>
-        <xliff:target state="translated">司祭のガウン</xliff:target>
+        <xliff:target state="translated">僧衣</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Priest gown
