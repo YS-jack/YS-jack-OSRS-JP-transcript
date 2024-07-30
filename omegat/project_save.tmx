@@ -1614,6 +1614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Charge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T124926Z" creationid="yumas" creationdate="20240730T124926Z">
+        <seg>をチャージする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Charter</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T123059Z" creationid="yumas" creationdate="20240730T123059Z">
@@ -1682,6 +1690,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T123543Z" creationid="yumas" creationdate="20240730T123543Z">
         <seg>とサリム港まで契約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Charter-to Port Tyras</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T124818Z" creationid="yumas" creationdate="20240730T124818Z">
+        <seg>とチラス港まで契約</seg>
       </tuv>
     </tu>
     <tu>
