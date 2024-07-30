@@ -2630,6 +2630,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ferry</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T131902Z" creationid="yumas" creationdate="20240730T131902Z">
+        <seg>乗船</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fight</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T113616Z" creationid="yumas" creationdate="20240730T113616Z">
@@ -2770,6 +2778,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091810Z" creationid="yumas" creationdate="20240730T091810Z">
         <seg>を追う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Forfeit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T131625Z" creationid="yumas" creationdate="20240730T131625Z">
+        <seg>降参する</seg>
       </tuv>
     </tu>
     <tu>
@@ -7230,6 +7246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-net</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T131756Z" creationid="yumas" creationdate="20240730T131756Z">
+        <seg>ネットをもらう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-remains</seg>
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240716T185110Z" creationid="b0sh" creationdate="20240716T185110Z">
@@ -8102,6 +8126,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093947Z" creationid="yumas" creationdate="20240730T093947Z">
         <seg>パス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41560</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Locks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T131741Z" creationid="yumas" creationdate="20240730T131741Z">
+        <seg>ロック</seg>
       </tuv>
     </tu>
   </body>
