@@ -1702,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Charter-to Land's End</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T133808Z" creationid="yumas" creationdate="20240730T133808Z">
+        <seg>とランズ・エンドまで契約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Charter-to Mos Le'Harmless</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T123427Z" creationid="yumas" creationdate="20240730T123408Z">
@@ -1730,6 +1738,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T123532Z" creationid="yumas" creationdate="20240730T123532Z">
         <seg>とファズマティス港まで契約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Charter-to Port Piscarilius</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T133756Z" creationid="yumas" creationdate="20240730T133756Z">
+        <seg>とピスカリリウス港まで契約</seg>
       </tuv>
     </tu>
     <tu>
@@ -5592,8 +5608,32 @@
       <tuv lang="en-GB">
         <seg>Prune</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T133656Z" creationid="yumas" creationdate="20240730T133656Z">
-        <seg>せん定</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T133706Z" creationid="yumas" creationdate="20240730T133656Z">
+        <seg>をせん定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Prune-back</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T133722Z" creationid="yumas" creationdate="20240730T133722Z">
+        <seg>の後ろをせん定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Prune-sides</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T133736Z" creationid="yumas" creationdate="20240730T133736Z">
+        <seg>の横をせん定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Prune-top</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T133713Z" creationid="yumas" creationdate="20240730T133713Z">
+        <seg>の上部をせん定</seg>
       </tuv>
     </tu>
     <tu>
