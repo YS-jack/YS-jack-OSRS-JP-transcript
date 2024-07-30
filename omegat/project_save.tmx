@@ -1590,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Capture</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221209Z" creationid="yumas" creationdate="20240730T221209Z">
+        <seg>とらえる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Casket</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064519Z" creationid="2008l" creationdate="20240723T064519Z">
@@ -2426,6 +2434,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214822Z" creationid="yumas" creationdate="20240730T214822Z">
         <seg>を切り倒す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cut-branch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221121Z" creationid="yumas" creationdate="20240730T221121Z">
+        <seg>枝を切る</seg>
       </tuv>
     </tu>
     <tu>
@@ -4262,6 +4278,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jump-to</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221355Z" creationid="yumas" creationdate="20240730T221355Z">
+        <seg>までジャンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jump-up</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T212313Z" creationid="yumas" creationdate="20240730T212313Z">
@@ -4538,6 +4562,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214811Z" creationid="yumas" creationdate="20240730T214811Z">
         <seg>を持ち上げる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Light</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221112Z" creationid="yumas" creationdate="20240730T221112Z">
+        <seg>灯す</seg>
       </tuv>
     </tu>
     <tu>
@@ -6134,6 +6166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Put-inside</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221125Z" creationid="yumas" creationdate="20240730T221125Z">
+        <seg>中に入れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Quick-Travel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T115117Z" creationid="yumas" creationdate="20240730T115117Z">
@@ -6474,6 +6514,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T114546Z" creationid="yumas" creationdate="20240730T114546Z">
         <seg>でコードを引き換える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Reinforce</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221105Z" creationid="yumas" creationdate="20240730T221105Z">
+        <seg>強化する</seg>
       </tuv>
     </tu>
     <tu>
@@ -7486,6 +7534,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Spin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221128Z" creationid="yumas" creationdate="20240730T221128Z">
+        <seg>回す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Squeeze-through</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T211656Z" creationid="yumas" creationdate="20240730T211656Z">
@@ -7882,6 +7938,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064835Z" creationid="2008l" creationdate="20240723T064835Z">
         <seg>硫酸ブロリン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Summon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T221116Z" creationid="yumas" creationdate="20240730T221116Z">
+        <seg>召喚</seg>
       </tuv>
     </tu>
     <tu>
