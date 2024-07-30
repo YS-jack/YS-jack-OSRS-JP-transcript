@@ -2934,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fur-clothing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T210444Z" creationid="yumas" creationdate="20240730T210444Z">
+        <seg>に革製品作成を依頼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gauntlets</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110125Z" creationid="yumas" creationdate="20240713T103828Z">
@@ -6990,6 +6998,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Start-wave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T210658Z" creationid="yumas" creationdate="20240730T210658Z">
+        <seg>ウェーブ開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122818Z" creationid="yumas" creationdate="20240730T122818Z">
@@ -7788,6 +7804,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084855Z" creationid="b0sh" creationdate="20240716T185742Z">
         <seg>と雑貨を売買</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trade-in</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240730T210442Z" creationid="yumas" creationdate="20240730T210442Z">
+        <seg>と取引</seg>
       </tuv>
     </tu>
     <tu>
