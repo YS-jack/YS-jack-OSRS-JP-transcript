@@ -2750,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T130116Z" creationid="yumas" creationdate="20240731T130110Z">
+        <seg>で変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Convert-shards</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T125432Z" creationid="yumas" creationdate="20240730T125432Z">
@@ -3178,6 +3186,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T121718Z" creationid="yumas" creationdate="20240731T121718Z">
         <seg>ポータルを誘導</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Disable</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125952Z" creationid="yumas" creationdate="20240731T125952Z">
+        <seg>を無力化</seg>
       </tuv>
     </tu>
     <tu>
@@ -3626,6 +3642,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064704Z" creationid="2008l" creationdate="20240723T064704Z">
         <seg>エテネア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Evade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125946Z" creationid="yumas" creationdate="20240731T125946Z">
+        <seg>を回避</seg>
       </tuv>
     </tu>
     <tu>
@@ -5682,6 +5706,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214636Z" creationid="yumas" creationdate="20240730T092810Z">
         <seg>で去る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Leave Tomb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T130045Z" creationid="yumas" creationdate="20240731T130045Z">
+        <seg>墓を後にする</seg>
       </tuv>
     </tu>
     <tu>
@@ -7826,6 +7858,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085201Z" creationid="yumas" creationdate="20240730T085201Z">
         <seg>からハヤブサを借りる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Quick-leave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T130051Z" creationid="yumas" creationdate="20240731T130051Z">
+        <seg>即離脱</seg>
       </tuv>
     </tu>
     <tu>
@@ -10996,6 +11036,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T105928Z" creationid="yumas" creationdate="20240713T094759Z">
         <seg>で移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tread-softly</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T130104Z" creationid="yumas" creationdate="20240731T130104Z">
+        <seg>丁寧に扱う</seg>
       </tuv>
     </tu>
     <tu>
