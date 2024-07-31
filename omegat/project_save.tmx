@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Battlestaff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T070232Z" creationid="2008l" creationdate="20240731T070232Z">
+        <seg>戦杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Beads of the dead</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T065432Z" creationid="2008l" creationdate="20240725T065432Z">
@@ -5326,6 +5334,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Magic staff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T070115Z" creationid="2008l" creationdate="20240731T070115Z">
+        <seg>魔法の杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Magic whistle</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T074322Z" creationid="2008l" creationdate="20240716T074322Z">
@@ -8294,10 +8310,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Staff of air</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T065947Z" creationid="2008l" creationdate="20240731T065947Z">
+        <seg>大気の杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Staff of armadyl</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240719T063827Z" creationid="2008l" creationdate="20240719T063827Z">
         <seg>アーマディルの杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Staff of earth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T070039Z" creationid="2008l" creationdate="20240731T070039Z">
+        <seg>土の杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Staff of fire</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T070058Z" creationid="2008l" creationdate="20240731T070058Z">
+        <seg>火の杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Staff of water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T070011Z" creationid="2008l" creationdate="20240731T070011Z">
+        <seg>水の杖</seg>
       </tuv>
     </tu>
     <tu>
