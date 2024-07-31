@@ -3776,8 +3776,8 @@
       <tuv lang="en-GB">
         <seg>Enchanted vial</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240727T064122Z" creationid="2008l" creationdate="20240727T064122Z">
-        <seg>魔法の瓶</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T134824Z" creationid="2008l" creationdate="20240727T064122Z">
+        <seg>魔法の試薬瓶</seg>
       </tuv>
     </tu>
     <tu>
@@ -10936,8 +10936,8 @@
       <tuv lang="en-GB">
         <seg>Take-Vial</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T125725Z" creationid="yumas" creationdate="20240731T125725Z">
-        <seg>から瓶を取る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T134757Z" creationid="yumas" creationdate="20240731T125725Z">
+        <seg>から試薬瓶を取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -11386,8 +11386,8 @@
       <tuv lang="en-GB">
         <seg>Toggle-vials</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T114436Z" creationid="yumas" creationdate="20240730T114436Z">
-        <seg>で瓶の処理を切り替える</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T134747Z" creationid="yumas" creationdate="20240730T114436Z">
+        <seg>で試薬瓶の処理を切り替える</seg>
       </tuv>
     </tu>
     <tu>
@@ -11826,16 +11826,16 @@
       <tuv lang="en-GB">
         <seg>Vial</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240721T070203Z" creationid="2008l" creationdate="20240721T070203Z">
-        <seg>瓶</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T134811Z" creationid="2008l" creationdate="20240721T070203Z">
+        <seg>試薬瓶</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Vial of water</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240721T070138Z" creationid="2008l" creationdate="20240721T070138Z">
-        <seg>水の瓶</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T134807Z" creationid="2008l" creationdate="20240721T070138Z">
+        <seg>水入り試薬瓶</seg>
       </tuv>
     </tu>
     <tu>
