@@ -3230,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Edgeville</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T113149Z" creationid="yumas" creationdate="20240731T113149Z">
+        <seg>でエッジビルへ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Edible seaweed</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064250Z" creationid="2008l" creationdate="20240723T064250Z">
@@ -3522,6 +3530,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062525Z" creationid="2008l" creationdate="20240722T062525Z">
         <seg>魚の餌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fish-In</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T113224Z" creationid="yumas" creationdate="20240731T113224Z">
+        <seg>で釣る</seg>
       </tuv>
     </tu>
     <tu>
@@ -9446,6 +9462,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Swap-options</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T113208Z" creationid="yumas" creationdate="20240731T113208Z">
+        <seg>のオプションを入れ替える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Swim</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T113240Z" creationid="yumas" creationdate="20240731T113240Z">
+        <seg>まで泳ぐ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Swim to</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T213216Z" creationid="yumas" creationdate="20240730T213216Z">
@@ -9633,6 +9665,14 @@
         <seg>Talk</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T132712Z" creationid="yumas" creationdate="20240730T132712Z">
+        <seg>に話しかける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Talk to</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T113213Z" creationid="yumas" creationdate="20240731T113213Z">
         <seg>に話しかける</seg>
       </tuv>
     </tu>
@@ -10790,6 +10830,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112511Z" creationid="yumas" creationdate="20240731T112511Z">
         <seg>を回収</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41843</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Count</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T113238Z" creationid="yumas" creationdate="20240731T113238Z">
+        <seg>数える</seg>
       </tuv>
     </tu>
   </body>
