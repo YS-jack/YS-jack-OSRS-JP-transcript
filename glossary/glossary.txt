@@ -349,6 +349,9 @@ spine	トゲ	サボテン(cactus)の場合の訳
 fruit	果実	無理に統一する必要は無いが、不自然でなければこれにしておく
 Stats	ステータス
 spellbook	魔導書
-Standard	一般	魔導書の種類の場合。standard spellbook = 一般魔導書
-Ancient	古代	ancient magicのancientの訳はこれ。ancient spellbook = 古代魔導書
-Lunar	ルーナ	lunar spell, lunar clan などのlunarの訳
+Standard spellbook	一般魔法の書	一般魔法の魔導書
+Ancient spellbook	古代魔法の書	古代魔法の魔導書
+Lunar	ルーナ	lunar clan などのlunar の訳
+Lunar spellbook	ルーナ魔法の書	ルーナ魔法の魔導書
+Arceuus	アルセウス	地名やarceuus spellのarceuusの訳
+Arceuus spellbook	アルセウス魔法の書	アルセウス魔法の魔導書
