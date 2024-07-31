@@ -2214,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chip</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112209Z" creationid="yumas" creationdate="20240731T112209Z">
+        <seg>削る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Chop</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093837Z" creationid="yumas" creationdate="20240730T093837Z">
@@ -2562,6 +2570,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T111647Z" creationid="yumas" creationdate="20240730T111647Z">
         <seg>と契約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Control</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112155Z" creationid="yumas" creationdate="20240731T112155Z">
+        <seg>コントロール</seg>
       </tuv>
     </tu>
     <tu>
@@ -4190,6 +4206,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112230Z" creationid="yumas" creationdate="20240731T112230Z">
+        <seg>切り開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Haircut</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084956Z" creationid="yumas" creationdate="20240730T084915Z">
@@ -5170,6 +5194,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T064353Z" creationid="2008l" creationdate="20240725T064353Z">
         <seg>レンズの鋳型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112144Z" creationid="yumas" creationdate="20240731T112144Z">
+        <seg>レベル</seg>
       </tuv>
     </tu>
     <tu>
@@ -7086,6 +7118,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Quick-Pay(100)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112242Z" creationid="yumas" creationdate="20240731T112242Z">
+        <seg>すぐに支払う（１００）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Quick-Travel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T115117Z" creationid="yumas" creationdate="20240730T115117Z">
@@ -7446,10 +7486,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Refuel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112252Z" creationid="yumas" creationdate="20240731T112252Z">
+        <seg>燃料を入れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Reinforce</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221105Z" creationid="yumas" creationdate="20240730T221105Z">
         <seg>強化する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Release</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112138Z" creationid="yumas" creationdate="20240731T112138Z">
+        <seg>を開放</seg>
       </tuv>
     </tu>
     <tu>
@@ -7594,6 +7650,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085316Z" creationid="yumas" creationdate="20240730T085316Z">
         <seg>を呼び戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Return</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112200Z" creationid="yumas" creationdate="20240731T112200Z">
+        <seg>戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -10659,6 +10723,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T105838Z" creationid="yumas" creationdate="20240731T105838Z">
         <seg>取り除く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41825</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Retrieve</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112511Z" creationid="yumas" creationdate="20240731T112511Z">
+        <seg>を回収</seg>
       </tuv>
     </tu>
   </body>
