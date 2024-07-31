@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bend</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T124918Z" creationid="yumas" creationdate="20240731T124918Z">
+        <seg>を曲げる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bervirius notes</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T064557Z" creationid="2008l" creationdate="20240725T065803Z">
@@ -2838,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crawl-under</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T124908Z" creationid="yumas" creationdate="20240731T124908Z">
+        <seg>の下を這う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cream boots</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T065945Z" creationid="2008l" creationdate="20240725T065945Z">
@@ -3834,6 +3850,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T075006Z" creationid="2008l" creationdate="20240716T075006Z">
         <seg>釣りトロフィー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fix</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T124914Z" creationid="yumas" creationdate="20240731T124914Z">
+        <seg>を直す</seg>
       </tuv>
     </tu>
     <tu>
@@ -9510,6 +9534,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Steal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T124922Z" creationid="yumas" creationdate="20240731T124922Z">
+        <seg>盗む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Steal from</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222316Z" creationid="yumas" creationdate="20240730T222316Z">
@@ -11548,6 +11580,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091603Z" creationid="yumas" creationdate="20240730T091603Z">
         <seg>に話しかける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>test</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T124859Z" creationid="yumas" creationdate="20240731T124859Z">
+        <seg>テスト</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
