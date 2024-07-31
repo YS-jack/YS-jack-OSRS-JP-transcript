@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Air battlestaff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T070248Z" creationid="2008l" creationdate="20240731T070248Z">
+        <seg>大気の戦杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Air orb</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064551Z" creationid="2008l" creationdate="20240725T063519Z">
@@ -3094,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Earth battlestaff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T070251Z" creationid="2008l" creationdate="20240731T070251Z">
+        <seg>土の戦杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Earth orb</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064557Z" creationid="2008l" creationdate="20240725T063530Z">
@@ -3330,6 +3346,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T211529Z" creationid="yumas" creationdate="20240730T211522Z">
         <seg>を放つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fire battlestaff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T070239Z" creationid="2008l" creationdate="20240731T070239Z">
+        <seg>火の戦杖</seg>
       </tuv>
     </tu>
     <tu>
@@ -5834,6 +5858,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T115047Z" creationid="yumas" creationdate="20240730T115047Z">
         <seg>を殺害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mystic fire staff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T070428Z" creationid="2008l" creationdate="20240731T070428Z">
+        <seg>秘伝の火の杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mystic water staff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T070440Z" creationid="2008l" creationdate="20240731T070440Z">
+        <seg>秘伝の水の杖</seg>
       </tuv>
     </tu>
     <tu>
@@ -9852,6 +9892,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T132921Z" creationid="yumas" creationdate="20240730T132921Z">
         <seg>水をあげる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Water battlestaff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T070242Z" creationid="2008l" creationdate="20240731T070242Z">
+        <seg>水の戦杖</seg>
       </tuv>
     </tu>
     <tu>
