@@ -2582,6 +2582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Configure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T120215Z" creationid="yumas" creationdate="20240731T120215Z">
+        <seg>を設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Confront</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084447Z" creationid="2008l" creationdate="20240715T080519Z">
@@ -3386,6 +3394,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064704Z" creationid="2008l" creationdate="20240723T064704Z">
         <seg>エテネア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Examine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T120409Z" creationid="yumas" creationdate="20240731T120409Z">
+        <seg>を調べる</seg>
       </tuv>
     </tu>
     <tu>
@@ -5170,6 +5186,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T211451Z" creationid="yumas" creationdate="20240730T211451Z">
         <seg>前回の目的先へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Last-destination (AIP)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T120315Z" creationid="yumas" creationdate="20240731T120315Z">
+        <seg>で最後の行先へ（AIP）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10953,6 +10977,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T113238Z" creationid="yumas" creationdate="20240731T113238Z">
         <seg>数える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41864</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Zanaris</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T120211Z" creationid="yumas" creationdate="20240731T120211Z">
+        <seg>でザナリスへ移動</seg>
       </tuv>
     </tu>
   </body>
