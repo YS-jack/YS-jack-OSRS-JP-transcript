@@ -1302,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Break</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131209Z" creationid="yumas" creationdate="20240731T131209Z">
+        <seg>を壊す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Brimhaven</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122514Z" creationid="yumas" creationdate="20240730T122514Z">
@@ -1722,6 +1730,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T095853Z" creationid="yumas" creationdate="20240730T095853Z">
         <seg>を燃やす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burn-down</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131151Z" creationid="yumas" creationdate="20240731T131151Z">
+        <seg>燃やし落とす</seg>
       </tuv>
     </tu>
     <tu>
@@ -3318,6 +3334,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Distract</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131432Z" creationid="yumas" creationdate="20240731T131432Z">
+        <seg>気を散らす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Disturb</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110123Z" creationid="yumas" creationdate="20240713T103147Z">
@@ -4106,6 +4130,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T131625Z" creationid="yumas" creationdate="20240730T131625Z">
         <seg>降参する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Free</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131204Z" creationid="yumas" creationdate="20240731T131204Z">
+        <seg>を開放</seg>
       </tuv>
     </tu>
     <tu>
@@ -8278,6 +8310,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Reach</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131159Z" creationid="yumas" creationdate="20240731T131159Z">
+        <seg>を掴む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Read</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T213105Z" creationid="yumas" creationdate="20240730T213105Z">
@@ -10554,6 +10594,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093354Z" creationid="yumas" creationdate="20240730T093354Z">
         <seg>取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take From</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131152Z" creationid="yumas" creationdate="20240731T131152Z">
+        <seg>から取る</seg>
       </tuv>
     </tu>
     <tu>
