@@ -10822,10 +10822,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-10-concoction</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T134700Z" creationid="yumas" creationdate="20240731T134700Z">
+        <seg>から１０個混合物を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-5</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T213128Z" creationid="yumas" creationdate="20240730T213128Z">
         <seg>から５個取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-5-concoction</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T134652Z" creationid="yumas" creationdate="20240731T134652Z">
+        <seg>から５個混合物を取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -10970,6 +10986,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T124302Z" creationid="yumas" creationdate="20240731T124302Z">
         <seg>からボールを取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-concoction</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T134641Z" creationid="yumas" creationdate="20240731T134641Z">
+        <seg>から混合物を取る</seg>
       </tuv>
     </tu>
     <tu>
