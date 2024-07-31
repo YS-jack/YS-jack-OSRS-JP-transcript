@@ -4678,6 +4678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hurdle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122657Z" creationid="yumas" creationdate="20240731T122657Z">
+        <seg>飛び越える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Iban's staff</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T070501Z" creationid="2008l" creationdate="20240731T070501Z">
@@ -5190,6 +5198,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jump-off</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122659Z" creationid="yumas" creationdate="20240731T122659Z">
+        <seg>飛び降りる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jump-on</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T220541Z" creationid="yumas" creationdate="20240730T220541Z">
@@ -5376,8 +5392,8 @@
       <tuv lang="en-GB">
         <seg>Last-destination</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T122505Z" creationid="yumas" creationdate="20240730T211451Z">
-        <seg>前回の目的地へ移動</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122555Z" creationid="yumas" creationdate="20240730T211451Z">
+        <seg>で前の目的地へ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5392,24 +5408,24 @@
       <tuv lang="en-GB">
         <seg>Last-destination (AIQ)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T121533Z" creationid="yumas" creationdate="20240731T121533Z">
-        <seg>で最後の行先へ（AIQ）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122612Z" creationid="yumas" creationdate="20240731T121533Z">
+        <seg>で前の目的地へ（AIQ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (AIR)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T121529Z" creationid="yumas" creationdate="20240731T121529Z">
-        <seg>で最後の行先へ（AIR）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122533Z" creationid="yumas" creationdate="20240731T121529Z">
+        <seg>で前の目的地へ（AIR）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (AIS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T121524Z" creationid="yumas" creationdate="20240731T121524Z">
-        <seg>で最後の行先へ（AIS）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122538Z" creationid="yumas" creationdate="20240731T121524Z">
+        <seg>で前の目的地へ（AIS）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8686,6 +8702,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Set Destination</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122652Z" creationid="yumas" creationdate="20240731T122652Z">
+        <seg>の目的地を設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Set-difficulty</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T113504Z" creationid="yumas" creationdate="20240730T113504Z">
@@ -10732,6 +10756,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064220Z" creationid="2008l" creationdate="20240726T064220Z">
         <seg>花瓶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vault</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122859Z" creationid="yumas" creationdate="20240731T122859Z">
+        <seg>飛び越える</seg>
       </tuv>
     </tu>
     <tu>
