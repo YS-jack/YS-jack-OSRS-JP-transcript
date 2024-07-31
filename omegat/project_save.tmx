@@ -2150,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check-health</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T105911Z" creationid="yumas" creationdate="20240731T105911Z">
+        <seg>健康状態を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check-pets</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110054Z" creationid="yumas" creationdate="20240713T102419Z">
@@ -2722,6 +2730,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064327Z" creationid="2008l" creationdate="20240726T064327Z">
         <seg>紅茶一杯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T105753Z" creationid="yumas" creationdate="20240731T105753Z">
+        <seg>治す</seg>
       </tuv>
     </tu>
     <tu>
@@ -6494,6 +6510,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pick-fruit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T110134Z" creationid="yumas" creationdate="20240731T110134Z">
+        <seg>果実を収穫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pick-lock</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222315Z" creationid="yumas" creationdate="20240730T222315Z">
@@ -6506,6 +6530,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T090843Z" creationid="yumas" creationdate="20240730T090843Z">
         <seg>のポッケをする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pick-spine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T110012Z" creationid="yumas" creationdate="20240731T110012Z">
+        <seg>のトゲを収穫</seg>
       </tuv>
     </tu>
     <tu>
@@ -10488,6 +10520,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222859Z" creationid="yumas" creationdate="20240730T222859Z">
         <seg>を鳴らす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41794</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T105838Z" creationid="yumas" creationdate="20240731T105838Z">
+        <seg>取り除く</seg>
       </tuv>
     </tu>
   </body>
