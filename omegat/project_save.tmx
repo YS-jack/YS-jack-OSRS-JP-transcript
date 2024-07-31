@@ -3046,6 +3046,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Direct-portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T121718Z" creationid="yumas" creationdate="20240731T121718Z">
+        <seg>ポータルを誘導</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Disarm</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T133501Z" creationid="yumas" creationdate="20240730T133501Z">
@@ -5306,6 +5314,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120315Z" creationid="yumas" creationdate="20240731T120315Z">
         <seg>で最後の行先へ（AIP）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Last-destination (AIQ)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T121533Z" creationid="yumas" creationdate="20240731T121533Z">
+        <seg>で最後の行先へ（AIQ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Last-destination (AIR)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T121529Z" creationid="yumas" creationdate="20240731T121529Z">
+        <seg>で最後の行先へ（AIR）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Last-destination (AIS)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T121524Z" creationid="yumas" creationdate="20240731T121524Z">
+        <seg>で最後の行先へ（AIS）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8878,6 +8910,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sleep-in</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T121447Z" creationid="yumas" creationdate="20240731T121447Z">
+        <seg>で寝る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Slide</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222410Z" creationid="yumas" creationdate="20240730T222410Z">
@@ -9930,6 +9970,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T094739Z" creationid="yumas" creationdate="20240730T094739Z">
         <seg>から取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-kettle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T121442Z" creationid="yumas" creationdate="20240731T121442Z">
+        <seg>ヤカンを取る</seg>
       </tuv>
     </tu>
     <tu>
