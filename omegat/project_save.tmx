@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Block</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125400Z" creationid="yumas" creationdate="20240731T125400Z">
+        <seg>をブロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blood rune</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062940Z" creationid="2008l" creationdate="20240725T062940Z">
@@ -3058,6 +3066,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T070921Z" creationid="2008l" creationdate="20240720T070921Z">
         <seg>守備力増強薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Demolish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125441Z" creationid="yumas" creationdate="20240731T125441Z">
+        <seg>を破壊</seg>
       </tuv>
     </tu>
     <tu>
@@ -9950,6 +9966,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stock-Up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125459Z" creationid="yumas" creationdate="20240731T125459Z">
+        <seg>に貯める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stone tablet</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T062859Z" creationid="2008l" creationdate="20240726T062859Z">
@@ -10342,6 +10366,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-Arrows</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125446Z" creationid="yumas" creationdate="20240731T125446Z">
+        <seg>から矢を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-Beam</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T123209Z" creationid="yumas" creationdate="20240731T123043Z">
@@ -10354,6 +10386,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112657Z" creationid="yumas" creationdate="20240731T112657Z">
         <seg>棺を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-Crackers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125536Z" creationid="yumas" creationdate="20240731T125536Z">
+        <seg>からクラッカーを取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -10378,6 +10418,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T123612Z" creationid="yumas" creationdate="20240731T123612Z">
         <seg>ラム酒を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-Runes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125450Z" creationid="yumas" creationdate="20240731T125450Z">
+        <seg>からルーンを取る</seg>
       </tuv>
     </tu>
     <tu>
