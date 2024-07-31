@@ -9254,6 +9254,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Serve</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T132659Z" creationid="yumas" creationdate="20240731T132659Z">
+        <seg>配膳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Set Destination</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T122652Z" creationid="yumas" creationdate="20240731T122652Z">
@@ -10814,6 +10822,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-X</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T132613Z" creationid="yumas" creationdate="20240731T132613Z">
+        <seg>X個取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-axe</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222506Z" creationid="yumas" creationdate="20240730T222506Z">
@@ -12368,6 +12384,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T131023Z" creationid="yumas" creationdate="20240731T131023Z">
         <seg>を建てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">42056</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Bind</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T133344Z" creationid="yumas" creationdate="20240731T133344Z">
+        <seg>で魔力封入</seg>
       </tuv>
     </tu>
   </body>
