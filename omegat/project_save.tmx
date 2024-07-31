@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Arceuus spellbook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T110859Z" creationid="yumas" creationdate="20240731T110859Z">
+        <seg>アルセウス魔導書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ardougne</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122438Z" creationid="yumas" creationdate="20240730T122438Z">
@@ -8632,8 +8640,8 @@
       <tuv lang="en-GB">
         <seg>Standard spellbook</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T110354Z" creationid="yumas" creationdate="20240731T110354Z">
-        <seg>一般魔導書</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T111731Z" creationid="yumas" creationdate="20240731T110354Z">
+        <seg>一般魔法の書</seg>
       </tuv>
     </tu>
     <tu>
