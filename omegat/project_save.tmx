@@ -2694,6 +2694,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Clip</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T134141Z" creationid="yumas" creationdate="20240731T134141Z">
+        <seg>切り取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Close</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T212336Z" creationid="yumas" creationdate="20240730T212336Z">
@@ -10990,10 +10998,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-hammer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T134311Z" creationid="yumas" creationdate="20240731T134311Z">
+        <seg>からハンマーを取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-kettle</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T121442Z" creationid="yumas" creationdate="20240731T121442Z">
         <seg>ヤカンを取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-knife</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T134317Z" creationid="yumas" creationdate="20240731T134317Z">
+        <seg>からナイフを取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -11050,6 +11074,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T114115Z" creationid="yumas" creationdate="20240731T114115Z">
         <seg>から紋章を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-tinderbox</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T134510Z" creationid="yumas" creationdate="20240731T134510Z">
+        <seg>から火口箱を取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -12515,6 +12547,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T133344Z" creationid="yumas" creationdate="20240731T133344Z">
         <seg>で魔力封入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">42079</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Feed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T134239Z" creationid="yumas" creationdate="20240731T134239Z">
+        <seg>に燃料を与える</seg>
       </tuv>
     </tu>
   </body>
