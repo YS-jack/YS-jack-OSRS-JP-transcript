@@ -1870,6 +1870,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Call</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125752Z" creationid="yumas" creationdate="20240731T125752Z">
+        <seg>呼びかける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Call-Over</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T095800Z" creationid="yumas" creationdate="20240730T095800Z">
@@ -4054,6 +4062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Get-Spikes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125814Z" creationid="yumas" creationdate="20240731T125814Z">
+        <seg>トゲを取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Get-down</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120558Z" creationid="yumas" creationdate="20240731T120558Z">
@@ -5810,6 +5826,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T063718Z" creationid="2008l" creationdate="20240725T063829Z">
         <seg>点火された松明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Load</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125926Z" creationid="yumas" creationdate="20240731T125926Z">
+        <seg>装填</seg>
       </tuv>
     </tu>
     <tu>
@@ -10398,6 +10422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-Meat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125728Z" creationid="yumas" creationdate="20240731T125728Z">
+        <seg>から肉を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-Pulley-Beam</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T123149Z" creationid="yumas" creationdate="20240731T123149Z">
@@ -10430,10 +10462,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-Tofu</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125541Z" creationid="yumas" creationdate="20240731T125541Z">
+        <seg>から豆腐を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-Tool</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T123814Z" creationid="yumas" creationdate="20240731T123814Z">
         <seg>から道具を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-Vial</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125725Z" creationid="yumas" creationdate="20240731T125725Z">
+        <seg>から瓶を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-Worms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125722Z" creationid="yumas" creationdate="20240731T125722Z">
+        <seg>から虫を取る</seg>
       </tuv>
     </tu>
     <tu>
