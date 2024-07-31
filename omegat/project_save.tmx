@@ -432,8 +432,8 @@
       <tuv lang="en-GB">
         <seg>Arceuus spellbook</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T110859Z" creationid="yumas" creationdate="20240731T110859Z">
-        <seg>アルセウス魔導書</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T111836Z" creationid="yumas" creationdate="20240731T110859Z">
+        <seg>アルセウス魔法の書</seg>
       </tuv>
     </tu>
     <tu>
@@ -2962,6 +2962,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T081819Z" creationid="2008l" creationdate="20240729T063318Z">
         <seg>帰還の円盤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dismantle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112122Z" creationid="yumas" creationdate="20240731T112122Z">
+        <seg>を除去する</seg>
       </tuv>
     </tu>
     <tu>
@@ -5646,6 +5654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Milk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112048Z" creationid="yumas" creationdate="20240731T112048Z">
+        <seg>の乳を搾る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mind rune</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062758Z" creationid="2008l" creationdate="20240725T062758Z">
@@ -6534,6 +6550,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pick-apple</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112017Z" creationid="yumas" creationdate="20240731T111909Z">
+        <seg>からリンゴを収穫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pick-banana</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112014Z" creationid="yumas" creationdate="20240731T111931Z">
+        <seg>からバナナを収穫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pick-coconut</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112008Z" creationid="yumas" creationdate="20240731T111947Z">
+        <seg>からココナッツを収穫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pick-from</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222622Z" creationid="yumas" creationdate="20240730T222622Z">
@@ -6550,10 +6590,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pick-leaf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112012Z" creationid="yumas" creationdate="20240731T111936Z">
+        <seg>から葉を摘む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pick-lock</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222315Z" creationid="yumas" creationdate="20240730T222315Z">
         <seg>こじ開ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pick-orange</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112011Z" creationid="yumas" creationdate="20240731T111941Z">
+        <seg>からオレンジを収穫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pick-pineapple</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112015Z" creationid="yumas" creationdate="20240731T111919Z">
+        <seg>からパイナップルを収穫</seg>
       </tuv>
     </tu>
     <tu>
@@ -8102,6 +8166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Set-trap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112133Z" creationid="yumas" creationdate="20240731T112133Z">
+        <seg>に罠を仕掛ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sets</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091223Z" creationid="yumas" creationdate="20240730T091223Z">
@@ -8698,6 +8770,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214346Z" creationid="yumas" creationdate="20240730T214346Z">
         <seg>から盗む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steal-cowbell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112111Z" creationid="yumas" creationdate="20240731T112111Z">
+        <seg>から牛の鈴を盗む</seg>
       </tuv>
     </tu>
     <tu>
