@@ -3270,6 +3270,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Empty-Out</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T114211Z" creationid="yumas" creationdate="20240731T114211Z">
+        <seg>を空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Enchant</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122653Z" creationid="yumas" creationdate="20240730T122653Z">
@@ -3504,8 +3512,8 @@
       <tuv lang="en-GB">
         <seg>Fire!</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T215004Z" creationid="yumas" creationdate="20240730T215004Z">
-        <seg>を放つ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T114223Z" creationid="yumas" creationdate="20240730T215004Z">
+        <seg>撃て！</seg>
       </tuv>
     </tu>
     <tu>
@@ -6882,6 +6890,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085429Z" creationid="b0sh" creationdate="20240714T215245Z">
         <seg>から羽をむしる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Plunder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T114319Z" creationid="yumas" creationdate="20240731T114319Z">
+        <seg>から奪取</seg>
       </tuv>
     </tu>
     <tu>
