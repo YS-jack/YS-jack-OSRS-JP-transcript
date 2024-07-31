@@ -2502,6 +2502,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Climb-through (normal)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122339Z" creationid="yumas" creationdate="20240731T122334Z">
+        <seg>をすり抜ける（通常）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Climb-through (private)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122347Z" creationid="yumas" creationdate="20240731T122347Z">
+        <seg>をすり抜ける（専用）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Climb-to</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214316Z" creationid="yumas" creationdate="20240730T214316Z">
@@ -3362,6 +3378,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062741Z" creationid="2008l" creationdate="20240725T062741Z">
         <seg>土のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Eat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122401Z" creationid="yumas" creationdate="20240731T122401Z">
+        <seg>から食べる</seg>
       </tuv>
     </tu>
     <tu>
@@ -5352,16 +5376,16 @@
       <tuv lang="en-GB">
         <seg>Last-destination</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T211451Z" creationid="yumas" creationdate="20240730T211451Z">
-        <seg>前回の目的先へ移動</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122505Z" creationid="yumas" creationdate="20240730T211451Z">
+        <seg>前回の目的地へ移動</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (AIP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T120315Z" creationid="yumas" creationdate="20240731T120315Z">
-        <seg>で最後の行先へ（AIP）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122521Z" creationid="yumas" creationdate="20240731T120315Z">
+        <seg>で前の目的地へ（AIP）</seg>
       </tuv>
     </tu>
     <tu>
@@ -5402,6 +5426,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062909Z" creationid="2008l" creationdate="20240725T062909Z">
         <seg>法のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Leap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122407Z" creationid="yumas" creationdate="20240731T122407Z">
+        <seg>飛び越える</seg>
       </tuv>
     </tu>
     <tu>
@@ -6858,6 +6890,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100534Z" creationid="yumas" creationdate="20240730T100534Z">
         <seg>覗く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Peek (normal)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122355Z" creationid="yumas" creationdate="20240731T122355Z">
+        <seg>覗く（通常）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10220,6 +10260,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T090151Z" creationid="yumas" creationdate="20240730T090151Z">
         <seg>ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teleport to Destination</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122440Z" creationid="yumas" creationdate="20240731T122429Z">
+        <seg>目的地へワープ</seg>
       </tuv>
     </tu>
     <tu>
