@@ -5198,6 +5198,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jump-in</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122912Z" creationid="yumas" creationdate="20240731T122912Z">
+        <seg>の中へジャンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jump-off</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T122659Z" creationid="yumas" creationdate="20240731T122659Z">
@@ -10062,10 +10070,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-Beam</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T123043Z" creationid="yumas" creationdate="20240731T123043Z">
+        <seg>から横木を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-Coffin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112657Z" creationid="yumas" creationdate="20240731T112657Z">
         <seg>棺を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-Pulley-Beam</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T123149Z" creationid="yumas" creationdate="20240731T123149Z">
+        <seg>から滑車ハリを取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -10138,6 +10162,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T131756Z" creationid="yumas" creationdate="20240730T131756Z">
         <seg>ネットをもらう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-pickaxe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122920Z" creationid="yumas" creationdate="20240731T122920Z">
+        <seg>からツルハシを取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -10732,6 +10764,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T122232Z" creationid="yumas" creationdate="20240731T122232Z">
         <seg>流木を使う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Use-Lift</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122932Z" creationid="yumas" creationdate="20240731T122932Z">
+        <seg>エレベーターを使う</seg>
       </tuv>
     </tu>
     <tu>
