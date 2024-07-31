@@ -3006,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Deactivate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T124953Z" creationid="yumas" creationdate="20240731T124953Z">
+        <seg>無効化する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Death rune</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062829Z" creationid="2008l" creationdate="20240725T062829Z">
@@ -3386,6 +3394,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T220926Z" creationid="yumas" creationdate="20240730T220926Z">
         <seg>捨てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dunk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125340Z" creationid="yumas" creationdate="20240731T125340Z">
+        <seg>に浸す</seg>
       </tuv>
     </tu>
     <tu>
@@ -3882,6 +3898,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120432Z" creationid="yumas" creationdate="20240731T120432Z">
         <seg>丸太を浮かせる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Flush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125117Z" creationid="yumas" creationdate="20240731T125117Z">
+        <seg>追い出す</seg>
       </tuv>
     </tu>
     <tu>
@@ -7654,6 +7678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pull-down</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125130Z" creationid="yumas" creationdate="20240731T125130Z">
+        <seg>下げる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pull-spade</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T105442Z" creationid="yumas" creationdate="20240731T105442Z">
@@ -7690,6 +7722,14 @@
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240714T212431Z" creationid="b0sh" creationdate="20240714T212355Z">
         <seg>を押す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Push-up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125137Z" creationid="yumas" creationdate="20240731T125137Z">
+        <seg>押し上げる</seg>
       </tuv>
     </tu>
     <tu>
@@ -7754,6 +7794,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T132018Z" creationid="yumas" creationdate="20240730T132018Z">
         <seg>即ロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Quick-start</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125140Z" creationid="yumas" creationdate="20240731T125140Z">
+        <seg>即開始</seg>
       </tuv>
     </tu>
     <tu>
@@ -8250,6 +8298,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T133319Z" creationid="yumas" creationdate="20240730T133319Z">
         <seg>部屋をリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Reset-wave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125210Z" creationid="yumas" creationdate="20240731T125210Z">
+        <seg>ウェーブをリセット</seg>
       </tuv>
     </tu>
     <tu>
@@ -9090,6 +9146,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T133145Z" creationid="2008l" creationdate="20240718T071808Z">
         <seg>短弓（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shout-over</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125122Z" creationid="yumas" creationdate="20240731T125122Z">
+        <seg>叫ぶ</seg>
       </tuv>
     </tu>
     <tu>
@@ -10812,6 +10876,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T082459Z" creationid="2008l" creationdate="20240715T081759Z">
         <seg>で移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T125000Z" creationid="yumas" creationdate="20240731T125000Z">
+        <seg>罠を仕掛ける</seg>
       </tuv>
     </tu>
     <tu>
