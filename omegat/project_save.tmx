@@ -2790,6 +2790,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Configuration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131941Z" creationid="yumas" creationdate="20240731T131941Z">
+        <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Configure</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120215Z" creationid="yumas" creationdate="20240731T120215Z">
@@ -2930,6 +2938,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T090853Z" creationid="yumas" creationdate="20240730T090853Z">
         <seg>物を創る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crawl</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131705Z" creationid="yumas" creationdate="20240731T131705Z">
+        <seg>這う</seg>
       </tuv>
     </tu>
     <tu>
@@ -4822,6 +4838,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hammer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131756Z" creationid="yumas" creationdate="20240731T131756Z">
+        <seg>ハンマーで叩く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hand-in</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T132554Z" creationid="yumas" creationdate="20240730T132554Z">
@@ -6322,6 +6346,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222836Z" creationid="yumas" creationdate="20240730T222836Z">
         <seg>鉄兜を作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Make-raft</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131855Z" creationid="yumas" creationdate="20240731T131855Z">
+        <seg>イカダを作る</seg>
       </tuv>
     </tu>
     <tu>
@@ -11032,6 +11064,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Teleport Menu</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131935Z" creationid="yumas" creationdate="20240731T131935Z">
+        <seg>ワープメニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Teleport to Destination</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T122440Z" creationid="yumas" creationdate="20240731T122429Z">
@@ -11132,6 +11172,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T114747Z" creationid="yumas" creationdate="20240730T114747Z">
         <seg>化石の設定を切り替える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Toggle K/D</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131810Z" creationid="yumas" creationdate="20240731T131810Z">
+        <seg>K/Dを切り替える</seg>
       </tuv>
     </tu>
     <tu>
@@ -11860,6 +11908,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222230Z" creationid="yumas" creationdate="20240730T222230Z">
         <seg>雑草</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weiss</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131926Z" creationid="yumas" creationdate="20240731T131926Z">
+        <seg>ウェイス</seg>
       </tuv>
     </tu>
     <tu>
