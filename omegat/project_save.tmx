@@ -2902,6 +2902,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cut-vine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122002Z" creationid="yumas" creationdate="20240731T122002Z">
+        <seg>ツルを切る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Daconia rock</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T054814Z" creationid="2008l" creationdate="20240728T054814Z">
@@ -3466,6 +3474,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T115135Z" creationid="yumas" creationdate="20240730T115135Z">
         <seg>離脱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Escape-event</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122007Z" creationid="yumas" creationdate="20240731T122007Z">
+        <seg>イベントから逃げる</seg>
       </tuv>
     </tu>
     <tu>
@@ -5138,6 +5154,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221655Z" creationid="yumas" creationdate="20240730T221655Z">
         <seg>飛び越える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jump-down</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122145Z" creationid="yumas" creationdate="20240731T122145Z">
+        <seg>から飛び降りる</seg>
       </tuv>
     </tu>
     <tu>
@@ -7926,6 +7950,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Remove-Bone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122151Z" creationid="yumas" creationdate="20240731T122133Z">
+        <seg>から骨を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Remove-Pot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122158Z" creationid="yumas" creationdate="20240731T122129Z">
+        <seg>から鍋を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Remove-coal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T113546Z" creationid="yumas" creationdate="20240731T113546Z">
@@ -8042,6 +8082,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093812Z" creationid="yumas" creationdate="20240730T093812Z">
         <seg>で帰還する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Return-to-Burgh</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122033Z" creationid="yumas" creationdate="20240731T122033Z">
+        <seg>バーグへ戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -10604,6 +10652,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T092831Z" creationid="yumas" creationdate="20240730T092831Z">
         <seg>を使う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Use-Driftwood</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T122232Z" creationid="yumas" creationdate="20240731T122232Z">
+        <seg>流木を使う</seg>
       </tuv>
     </tu>
     <tu>
