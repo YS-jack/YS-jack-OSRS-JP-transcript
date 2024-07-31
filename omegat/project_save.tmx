@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ancient spellbook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T110555Z" creationid="yumas" creationdate="20240731T110555Z">
+        <seg>古代魔導書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ancient talisman</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T070328Z" creationid="2008l" creationdate="20240725T071706Z">
@@ -5410,6 +5418,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T072338Z" creationid="2008l" creationdate="20240727T065157Z">
         <seg>水晶の一塊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lunar spellbook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T110630Z" creationid="yumas" creationdate="20240731T110630Z">
+        <seg>ルーナ魔導書</seg>
       </tuv>
     </tu>
     <tu>
