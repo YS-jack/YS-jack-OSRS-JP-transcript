@@ -2518,6 +2518,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Claim-staves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131620Z" creationid="yumas" creationdate="20240731T131620Z">
+        <seg>杖を請求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Claim-trophies</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110107Z" creationid="yumas" creationdate="20240713T102504Z">
@@ -2586,6 +2594,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T124057Z" creationid="yumas" creationdate="20240731T124011Z">
         <seg>に登りこむ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Climb-off</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131702Z" creationid="yumas" creationdate="20240731T131702Z">
+        <seg>から降りる</seg>
       </tuv>
     </tu>
     <tu>
@@ -3502,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Drink</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131438Z" creationid="yumas" creationdate="20240731T131438Z">
+        <seg>飲む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Drink From</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T213422Z" creationid="yumas" creationdate="20240730T213422Z">
@@ -3714,6 +3738,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T123858Z" creationid="yumas" creationdate="20240731T123858Z">
         <seg>雲に入る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Equip</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131557Z" creationid="yumas" creationdate="20240731T131557Z">
+        <seg>を装備</seg>
       </tuv>
     </tu>
     <tu>
@@ -10246,6 +10278,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Store</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131542Z" creationid="yumas" creationdate="20240731T131542Z">
+        <seg>を収納</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Store-plunder</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T115841Z" creationid="yumas" creationdate="20240731T115841Z">
@@ -11044,6 +11084,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091535Z" creationid="yumas" creationdate="20240730T091535Z">
         <seg>チケット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tie-rope</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T131607Z" creationid="yumas" creationdate="20240731T131607Z">
+        <seg>ロープを結ぶ</seg>
       </tuv>
     </tu>
     <tu>
