@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Balance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T115918Z" creationid="yumas" creationdate="20240731T115918Z">
+        <seg>バランスをとって渡る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Banish</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T105938Z" creationid="yumas" creationdate="20240713T100551Z">
@@ -2270,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Churn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T120136Z" creationid="yumas" creationdate="20240731T120136Z">
+        <seg>をカクハン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Claim</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093108Z" creationid="yumas" creationdate="20240730T093100Z">
@@ -3130,6 +3146,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T063716Z" creationid="2008l" creationdate="20240731T063716Z">
         <seg>竜鉄の角盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Drain</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T120012Z" creationid="yumas" creationdate="20240731T115935Z">
+        <seg>排水</seg>
       </tuv>
     </tu>
     <tu>
@@ -9278,6 +9302,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Store-plunder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T115841Z" creationid="yumas" creationdate="20240731T115841Z">
+        <seg>盗品をしまう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strange fruit</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T065408Z" creationid="2008l" creationdate="20240724T065408Z">
@@ -9694,6 +9726,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-powder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T115850Z" creationid="yumas" creationdate="20240731T115850Z">
+        <seg>パウダーを取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-remains</seg>
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240716T185110Z" creationid="b0sh" creationdate="20240716T185110Z">
@@ -9812,6 +9852,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T065011Z" creationid="2008l" creationdate="20240725T070857Z">
         <seg>ぬいぐるみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teeth-grip</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T115927Z" creationid="yumas" creationdate="20240731T115927Z">
+        <seg>かみしめる</seg>
       </tuv>
     </tu>
     <tu>
@@ -10500,6 +10548,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T111444Z" creationid="yumas" creationdate="20240730T111444Z">
         <seg>と水車まで移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Waterproof</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T115858Z" creationid="yumas" creationdate="20240731T115858Z">
+        <seg>防水</seg>
       </tuv>
     </tu>
     <tu>
