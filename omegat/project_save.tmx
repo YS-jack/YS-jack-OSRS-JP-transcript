@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Activate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T120814Z" creationid="yumas" creationdate="20240731T120814Z">
+        <seg>発動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant 2h sword</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064634Z" creationid="2008l" creationdate="20240731T064634Z">
@@ -1618,6 +1626,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T133455Z" creationid="yumas" creationdate="20240730T133455Z">
         <seg>を組み立てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Build-in</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T120730Z" creationid="yumas" creationdate="20240731T120730Z">
+        <seg>組み立てる</seg>
       </tuv>
     </tu>
     <tu>
@@ -3206,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Draynor Village</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T121059Z" creationid="yumas" creationdate="20240731T121059Z">
+        <seg>ドレイナー村</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dream</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084724Z" creationid="b0sh" creationdate="20240716T184421Z">
@@ -3738,6 +3762,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091810Z" creationid="yumas" creationdate="20240730T091810Z">
         <seg>を追う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Force</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T120806Z" creationid="yumas" creationdate="20240731T120806Z">
+        <seg>無理やり押す</seg>
       </tuv>
     </tu>
     <tu>
@@ -4550,6 +4582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hoop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T120931Z" creationid="yumas" creationdate="20240731T120931Z">
+        <seg>フープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hunk of crystal</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T065148Z" creationid="2008l" creationdate="20240727T065148Z">
@@ -5098,6 +5138,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T212313Z" creationid="yumas" creationdate="20240730T212313Z">
         <seg>跳びあがる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Karamja</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T120948Z" creationid="yumas" creationdate="20240731T120948Z">
+        <seg>カラムジャ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7654,6 +7702,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Re-light</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T120711Z" creationid="yumas" creationdate="20240731T120711Z">
+        <seg>再び灯す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Read</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T213105Z" creationid="yumas" creationdate="20240730T213105Z">
@@ -8494,6 +8550,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Set-up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T120840Z" creationid="yumas" creationdate="20240731T120840Z">
+        <seg>設置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sets</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091223Z" creationid="yumas" creationdate="20240730T091223Z">
@@ -8658,6 +8722,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T094212Z" creationid="yumas" creationdate="20240730T094212Z">
         <seg>撃つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shoot-at</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T120940Z" creationid="yumas" creationdate="20240731T120940Z">
+        <seg>を撃つ</seg>
       </tuv>
     </tu>
     <tu>
@@ -10028,6 +10100,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085604Z" creationid="yumas" creationdate="20240730T085604Z">
         <seg>を脅す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Throw-at</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T120935Z" creationid="yumas" creationdate="20240731T120935Z">
+        <seg>に投げる</seg>
       </tuv>
     </tu>
     <tu>
