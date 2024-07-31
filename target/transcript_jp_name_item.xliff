@@ -1083,7 +1083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="136">
         <xliff:source>Vial of water</xliff:source>
-        <xliff:target state="translated">水の瓶</xliff:target>
+        <xliff:target state="translated">水入り試薬瓶</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Vial of water
@@ -1091,7 +1091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="137">
         <xliff:source>Vial</xliff:source>
-        <xliff:target state="translated">瓶</xliff:target>
+        <xliff:target state="translated">試薬瓶</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Vial
@@ -3443,7 +3443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="431">
         <xliff:source>Enchanted vial</xliff:source>
-        <xliff:target state="translated">魔法の瓶</xliff:target>
+        <xliff:target state="translated">魔法の試薬瓶</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Enchanted vial
@@ -31643,7 +31643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3956">
         <xliff:source>Tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">精霊樹</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Tree

@@ -1819,7 +1819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41485">
         <xliff:source>Toggle-vials</xliff:source>
-        <xliff:target state="translated">で瓶の処理を切り替える</xliff:target>
+        <xliff:target state="translated">で試薬瓶の処理を切り替える</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Barbarian guard
@@ -5843,7 +5843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41988">
         <xliff:source>Take-Vial</xliff:source>
-        <xliff:target state="translated">から瓶を取る</xliff:target>
+        <xliff:target state="translated">から試薬瓶を取る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Healer item machine
@@ -6627,7 +6627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42086">
         <xliff:source>Last-destination (ALP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（ALP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6635,7 +6635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42087">
         <xliff:source>Last-destination (ALS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（ALS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6643,7 +6643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42088">
         <xliff:source>Last-destination (ALR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（ALR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6651,7 +6651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42089">
         <xliff:source>Last-destination (ALQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（ALQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6659,7 +6659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42090">
         <xliff:source>Last-destination (AKP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（AKP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6667,7 +6667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42091">
         <xliff:source>Last-destination (AKS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（AKS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6675,7 +6675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42092">
         <xliff:source>Last-destination (AKR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（AKR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6683,7 +6683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42093">
         <xliff:source>Last-destination (AKQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（AKQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6691,7 +6691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42094">
         <xliff:source>Last-destination (AJP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（AJP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6699,7 +6699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42095">
         <xliff:source>Last-destination (AJS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（AJS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6707,7 +6707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42096">
         <xliff:source>Last-destination (AJR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（AJR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6715,7 +6715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42097">
         <xliff:source>Last-destination (AJQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（AJQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6723,7 +6723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42098">
         <xliff:source>Last-destination (DIP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（DIP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6731,7 +6731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42099">
         <xliff:source>Last-destination (DIS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（DIS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6739,7 +6739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42100">
         <xliff:source>Last-destination (DIR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（DIR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6747,7 +6747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42101">
         <xliff:source>Last-destination (DIQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（DIQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6755,7 +6755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42102">
         <xliff:source>Last-destination (DLP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（DLP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6763,7 +6763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42103">
         <xliff:source>Last-destination (DLS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（DLS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6771,7 +6771,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42104">
         <xliff:source>Last-destination (DLR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（DLR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6779,7 +6779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42105">
         <xliff:source>Last-destination (DLQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（DLQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6787,7 +6787,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42106">
         <xliff:source>Last-destination (DKP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（DKP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6795,7 +6795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42107">
         <xliff:source>Last-destination (DKS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（DKS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6803,7 +6803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42108">
         <xliff:source>Last-destination (DKR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（DKR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6811,7 +6811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42109">
         <xliff:source>Last-destination (DKQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（DKQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6819,7 +6819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42110">
         <xliff:source>Last-destination (DJP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（DJP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6827,7 +6827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42111">
         <xliff:source>Last-destination (DJS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（DJS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6835,7 +6835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42112">
         <xliff:source>Last-destination (DJR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（DJR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6843,7 +6843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42113">
         <xliff:source>Last-destination (DJQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（DJQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6851,7 +6851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42114">
         <xliff:source>Last-destination (CIP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（CIP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6859,7 +6859,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42115">
         <xliff:source>Last-destination (CIS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（CIS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6867,7 +6867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42116">
         <xliff:source>Last-destination (CIR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（CIR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6875,7 +6875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42117">
         <xliff:source>Last-destination (CIQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（CIQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6883,7 +6883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42118">
         <xliff:source>Last-destination (CLP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（CLP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6891,7 +6891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42119">
         <xliff:source>Last-destination (CLS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（CLS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6899,7 +6899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42120">
         <xliff:source>Last-destination (CLR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（CLR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6907,7 +6907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42121">
         <xliff:source>Last-destination (CLQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（CLQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6915,7 +6915,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42122">
         <xliff:source>Last-destination (CKP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（CKP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6923,7 +6923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42123">
         <xliff:source>Last-destination (CKS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（CKS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6931,7 +6931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42124">
         <xliff:source>Last-destination (CKR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（CKR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6939,7 +6939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42125">
         <xliff:source>Last-destination (CKQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（CKQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6947,7 +6947,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42126">
         <xliff:source>Last-destination (CJP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（CJP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6955,7 +6955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42127">
         <xliff:source>Last-destination (CJS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（CJS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6963,7 +6963,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42128">
         <xliff:source>Last-destination (CJR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（CJR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6971,7 +6971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42129">
         <xliff:source>Last-destination (CJQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（CJQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6979,7 +6979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42130">
         <xliff:source>Last-destination (BIP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（BIP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6987,7 +6987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42131">
         <xliff:source>Last-destination (BIS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（BIS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -6995,7 +6995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42132">
         <xliff:source>Last-destination (BIR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（BIR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -7003,7 +7003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42133">
         <xliff:source>Last-destination (BIQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（BIQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -7011,7 +7011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42134">
         <xliff:source>Last-destination (BLP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（BLP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -7019,7 +7019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42135">
         <xliff:source>Last-destination (BLS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（BLS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -7027,7 +7027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42136">
         <xliff:source>Last-destination (BLR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（BLR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -7035,7 +7035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42137">
         <xliff:source>Last-destination (BLQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（BLQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -7043,7 +7043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42138">
         <xliff:source>Last-destination (BKP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（BKP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -7051,7 +7051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42139">
         <xliff:source>Last-destination (BKS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（BKS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -7059,7 +7059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42140">
         <xliff:source>Last-destination (BKR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（BKR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -7067,7 +7067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42141">
         <xliff:source>Last-destination (BKQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（BKQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -7075,7 +7075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42142">
         <xliff:source>Last-destination (BJP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（BJP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -7083,7 +7083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42143">
         <xliff:source>Last-destination (BJS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（BJS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -7091,7 +7091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42144">
         <xliff:source>Last-destination (BJR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（BJR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -7099,7 +7099,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42145">
         <xliff:source>Last-destination (BJQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">で前の目的地へ（BJQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -7107,7 +7107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42146">
         <xliff:source>Tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">精霊樹</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7115,7 +7115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42147">
         <xliff:source>Ring-Zanaris</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪でザナリスへ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7123,7 +7123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42148">
         <xliff:source>Ring-configure</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪の設定</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7131,7 +7131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42149">
         <xliff:source>Ring-last-destination (AIP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（AIP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7139,7 +7139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42150">
         <xliff:source>Ring-last-destination (AIS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（AIS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7147,7 +7147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42151">
         <xliff:source>Ring-last-destination (AIR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（AIR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7155,7 +7155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42152">
         <xliff:source>Ring-last-destination (AIQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（AIQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7163,7 +7163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42153">
         <xliff:source>Ring-last-destination (ALP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（ALP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7171,7 +7171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42154">
         <xliff:source>Ring-last-destination (ALS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（ALS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7179,7 +7179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42155">
         <xliff:source>Ring-last-destination (ALR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（ALR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7187,7 +7187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42156">
         <xliff:source>Ring-last-destination (ALQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（ALQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7195,7 +7195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42157">
         <xliff:source>Ring-last-destination (AKP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（AKP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7203,7 +7203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42158">
         <xliff:source>Ring-last-destination (AKS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（AKS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7211,7 +7211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42159">
         <xliff:source>Ring-last-destination (AKR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（AKR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7219,7 +7219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42160">
         <xliff:source>Ring-last-destination (AKQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（AKQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7227,7 +7227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42161">
         <xliff:source>Ring-last-destination (AJP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（AJP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7235,7 +7235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42162">
         <xliff:source>Ring-last-destination (AJS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（AJS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7243,7 +7243,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42163">
         <xliff:source>Ring-last-destination (AJR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（AJR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7251,7 +7251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42164">
         <xliff:source>Ring-last-destination (AJQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（AJQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7259,7 +7259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42165">
         <xliff:source>Ring-last-destination (DIP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（DIP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7267,7 +7267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42166">
         <xliff:source>Ring-last-destination (DIS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（DIS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7275,7 +7275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42167">
         <xliff:source>Ring-last-destination (DIR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（DIR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7283,7 +7283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42168">
         <xliff:source>Ring-last-destination (DIQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（DIQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7291,7 +7291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42169">
         <xliff:source>Ring-last-destination (DLP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（DLP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7299,7 +7299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42170">
         <xliff:source>Ring-last-destination (DLS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（DLS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7307,7 +7307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42171">
         <xliff:source>Ring-last-destination (DLR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（DLR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7315,7 +7315,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42172">
         <xliff:source>Ring-last-destination (DLQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（DLQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7323,7 +7323,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42173">
         <xliff:source>Ring-last-destination (DKP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（DKP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7331,7 +7331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42174">
         <xliff:source>Ring-last-destination (DKS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（DKS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7339,7 +7339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42175">
         <xliff:source>Ring-last-destination (DKR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（DKR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7347,7 +7347,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42176">
         <xliff:source>Ring-last-destination (DKQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（DKQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7355,7 +7355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42177">
         <xliff:source>Ring-last-destination (DJP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（DJP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7363,7 +7363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42178">
         <xliff:source>Ring-last-destination (DJS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（DJS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7371,7 +7371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42179">
         <xliff:source>Ring-last-destination (DJR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（DJR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7379,7 +7379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42180">
         <xliff:source>Ring-last-destination (DJQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（DJQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7387,7 +7387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42181">
         <xliff:source>Ring-last-destination (CIP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（CIP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7395,7 +7395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42182">
         <xliff:source>Ring-last-destination (CIS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（CIS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7403,7 +7403,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42183">
         <xliff:source>Ring-last-destination (CIR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（CIR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7411,7 +7411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42184">
         <xliff:source>Ring-last-destination (CIQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（CIQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7419,7 +7419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42185">
         <xliff:source>Ring-last-destination (CLP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（CLP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7427,7 +7427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42186">
         <xliff:source>Ring-last-destination (CLS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（CLS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7435,7 +7435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42187">
         <xliff:source>Ring-last-destination (CLR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（CLR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7443,7 +7443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42188">
         <xliff:source>Ring-last-destination (CLQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（CLQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7451,7 +7451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42189">
         <xliff:source>Ring-last-destination (CKP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（CKP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7459,7 +7459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42190">
         <xliff:source>Ring-last-destination (CKS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（CKS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7467,7 +7467,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42191">
         <xliff:source>Ring-last-destination (CKR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（CKR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7475,7 +7475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42192">
         <xliff:source>Ring-last-destination (CKQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（CKQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7483,7 +7483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42193">
         <xliff:source>Ring-last-destination (CJP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（CJP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7491,7 +7491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42194">
         <xliff:source>Ring-last-destination (CJS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（CJS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7499,7 +7499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42195">
         <xliff:source>Ring-last-destination (CJR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（CJR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7507,7 +7507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42196">
         <xliff:source>Ring-last-destination (CJQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（CJQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7515,7 +7515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42197">
         <xliff:source>Ring-last-destination (BIP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（BIP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7523,7 +7523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42198">
         <xliff:source>Ring-last-destination (BIS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（BIS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7531,7 +7531,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42199">
         <xliff:source>Ring-last-destination (BIR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（BIR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7539,7 +7539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42200">
         <xliff:source>Ring-last-destination (BIQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（BIQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7547,7 +7547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42201">
         <xliff:source>Ring-last-destination (BLP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（BLP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7555,7 +7555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42202">
         <xliff:source>Ring-last-destination (BLS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（BLS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7563,7 +7563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42203">
         <xliff:source>Ring-last-destination (BLR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（BLR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7571,7 +7571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42204">
         <xliff:source>Ring-last-destination (BLQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（BLQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7579,7 +7579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42205">
         <xliff:source>Ring-last-destination (BKP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（BKP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7587,7 +7587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42206">
         <xliff:source>Ring-last-destination (BKS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（BKS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7595,7 +7595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42207">
         <xliff:source>Ring-last-destination (BKR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（BKR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7603,7 +7603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42208">
         <xliff:source>Ring-last-destination (BKQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（BKQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7611,7 +7611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42209">
         <xliff:source>Ring-last-destination (BJP)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（BJP）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7619,7 +7619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42210">
         <xliff:source>Ring-last-destination (BJS)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（BJS）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7627,7 +7627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42211">
         <xliff:source>Ring-last-destination (BJR)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（BJR）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
@@ -7635,7 +7635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42212">
         <xliff:source>Ring-last-destination (BJQ)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輪で前の目的地へ（BJQ）</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Spiritual Fairy Tree
