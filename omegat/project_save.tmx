@@ -6174,6 +6174,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Look-in-all</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T133451Z" creationid="yumas" creationdate="20240731T133451Z">
+        <seg>全てを覗く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Look-inside</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120527Z" creationid="yumas" creationdate="20240731T120527Z">
@@ -11644,6 +11652,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T122859Z" creationid="yumas" creationdate="20240731T122859Z">
         <seg>飛び越える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Venerate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T133424Z" creationid="yumas" creationdate="20240731T133424Z">
+        <seg>崇拝する</seg>
       </tuv>
     </tu>
     <tu>
