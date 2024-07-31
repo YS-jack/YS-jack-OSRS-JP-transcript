@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Build mode</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T123309Z" creationid="yumas" creationdate="20240731T123309Z">
+        <seg>建築モード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Build-in</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120730Z" creationid="yumas" creationdate="20240731T120730Z">
@@ -3862,6 +3870,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Friend's house</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T123408Z" creationid="yumas" creationdate="20240731T123408Z">
+        <seg>フレンドの家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fur Clothing</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T092450Z" creationid="yumas" creationdate="20240730T092450Z">
@@ -4658,6 +4674,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T064128Z" creationid="2008l" creationdate="20240727T064128Z">
         <seg>聖なる水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T123305Z" creationid="yumas" creationdate="20240731T123305Z">
+        <seg>家へ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9974,6 +9998,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Swing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T123447Z" creationid="yumas" creationdate="20240731T123447Z">
+        <seg>振り渡る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Swing Across</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T123259Z" creationid="yumas" creationdate="20240731T123259Z">
+        <seg>振り渡る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Swing-across</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T220535Z" creationid="yumas" creationdate="20240730T220535Z">
@@ -10072,8 +10112,8 @@
       <tuv lang="en-GB">
         <seg>Take-Beam</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T123043Z" creationid="yumas" creationdate="20240731T123043Z">
-        <seg>から横木を取る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T123209Z" creationid="yumas" creationdate="20240731T123043Z">
+        <seg>からハリを取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -10090,6 +10130,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T123149Z" creationid="yumas" creationdate="20240731T123149Z">
         <seg>から滑車ハリを取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-Rope</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T123253Z" creationid="yumas" creationdate="20240731T123253Z">
+        <seg>からロープを取る</seg>
       </tuv>
     </tu>
     <tu>
