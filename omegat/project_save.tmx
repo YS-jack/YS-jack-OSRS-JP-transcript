@@ -3598,6 +3598,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gear</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T110139Z" creationid="yumas" creationdate="20240731T110139Z">
+        <seg>装備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gem bag</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T070722Z" creationid="2008l" creationdate="20240727T070722Z">
@@ -8606,6 +8614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Standard spellbook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T110354Z" creationid="yumas" creationdate="20240731T110354Z">
+        <seg>一般魔導書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Start-minigame</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T090116Z" creationid="yumas" creationdate="20240730T090116Z">
@@ -8626,6 +8642,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122818Z" creationid="yumas" creationdate="20240730T122818Z">
         <seg>統計情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T110237Z" creationid="yumas" creationdate="20240731T110237Z">
+        <seg>ステータス</seg>
       </tuv>
     </tu>
     <tu>
