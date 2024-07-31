@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Attach</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112633Z" creationid="yumas" creationdate="20240731T112633Z">
+        <seg>繋げる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Attack</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T105923Z" creationid="yumas" creationdate="20240713T094714Z">
@@ -3446,6 +3454,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fill-bucket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112611Z" creationid="yumas" creationdate="20240731T112611Z">
+        <seg>でバケツを満たす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fire</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T211529Z" creationid="yumas" creationdate="20240730T211522Z">
@@ -5558,6 +5574,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Make</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T113021Z" creationid="yumas" creationdate="20240731T113021Z">
+        <seg>を作る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Make unfinished potion(s)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T094158Z" creationid="yumas" creationdate="20240730T094138Z">
@@ -6518,6 +6542,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pedal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112545Z" creationid="yumas" creationdate="20240731T112545Z">
+        <seg>を踏む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Peek</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100534Z" creationid="yumas" creationdate="20240730T100534Z">
@@ -7114,6 +7146,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221125Z" creationid="yumas" creationdate="20240730T221125Z">
         <seg>中に入れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Put-ore-on</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112556Z" creationid="yumas" creationdate="20240731T112556Z">
+        <seg>に鉱石を置く</seg>
       </tuv>
     </tu>
     <tu>
@@ -9502,6 +9542,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-Coffin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112657Z" creationid="yumas" creationdate="20240731T112657Z">
+        <seg>棺を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-axe</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222506Z" creationid="yumas" creationdate="20240730T222506Z">
@@ -9570,6 +9618,14 @@
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240716T185110Z" creationid="b0sh" creationdate="20240716T185110Z">
         <seg>から遺体を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-seed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T112620Z" creationid="yumas" creationdate="20240731T112620Z">
+        <seg>から種を取る</seg>
       </tuv>
     </tu>
     <tu>
