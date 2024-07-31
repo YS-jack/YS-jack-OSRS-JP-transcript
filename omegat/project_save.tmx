@@ -1990,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Challenge-mode</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T121753Z" creationid="yumas" creationdate="20240731T121753Z">
+        <seg>チャレンジモード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Change-clothes</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120614Z" creationid="yumas" creationdate="20240731T120614Z">
@@ -2642,6 +2650,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084447Z" creationid="2008l" creationdate="20240715T080519Z">
         <seg>対峙する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Continue-trek</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T121858Z" creationid="yumas" creationdate="20240731T121858Z">
+        <seg>旅を続ける</seg>
       </tuv>
     </tu>
     <tu>
@@ -3466,6 +3482,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064704Z" creationid="2008l" creationdate="20240723T064704Z">
         <seg>エテネア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Evade-event</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T121832Z" creationid="yumas" creationdate="20240731T121832Z">
+        <seg>イベントを避ける</seg>
       </tuv>
     </tu>
     <tu>
@@ -9834,6 +9858,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T220535Z" creationid="yumas" creationdate="20240730T220535Z">
         <seg>振り渡る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Swing-from</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T121932Z" creationid="yumas" creationdate="20240731T121932Z">
+        <seg>からぶら下がって渡る</seg>
       </tuv>
     </tu>
     <tu>
