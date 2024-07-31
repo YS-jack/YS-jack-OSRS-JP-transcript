@@ -9302,10 +9302,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ring-Zanaris</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T140517Z" creationid="yumas" creationdate="20240731T140517Z">
+        <seg>輪でザナリスへ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ring-bell</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222516Z" creationid="yumas" creationdate="20240730T222516Z">
         <seg>鈴を鳴らす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ring-configure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T140528Z" creationid="yumas" creationdate="20240731T140522Z">
+        <seg>輪の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ring-last-destination (AIP)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T140559Z" creationid="yumas" creationdate="20240731T140559Z">
+        <seg>輪で前の目的地へ（AIP）</seg>
       </tuv>
     </tu>
     <tu>
@@ -12034,8 +12058,8 @@
       <tuv lang="en-GB">
         <seg>Tree</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T140332Z" creationid="yumas" creationdate="20240731T140332Z">
-        <seg>木</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240731T140500Z" creationid="yumas" creationdate="20240731T140332Z">
+        <seg>精霊樹</seg>
       </tuv>
     </tu>
     <tu>
