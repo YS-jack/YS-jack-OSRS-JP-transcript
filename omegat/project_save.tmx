@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adamant pickaxe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T064140Z" creationid="2008l" creationdate="20240731T064140Z">
+        <seg>アダマントのツルハシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant platebody</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204212Z" creationid="2008l" creationdate="20240729T204212Z">
@@ -210,6 +218,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T063945Z" creationid="2008l" creationdate="20240731T063945Z">
         <seg>アダマントのの槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant spear(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T064023Z" creationid="2008l" creationdate="20240731T064023Z">
+        <seg>アダマントの槍（毒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1286,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bronze pickaxe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T064111Z" creationid="2008l" creationdate="20240731T064111Z">
+        <seg>銅のツルハシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bronze platebody</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204156Z" creationid="2008l" creationdate="20240729T204156Z">
@@ -1330,6 +1354,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T070825Z" creationid="2008l" creationdate="20240730T070825Z">
         <seg>銅の角盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze sword</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T064326Z" creationid="2008l" creationdate="20240731T064326Z">
+        <seg>銅の剣</seg>
       </tuv>
     </tu>
     <tu>
@@ -2778,6 +2810,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T063958Z" creationid="2008l" creationdate="20240731T063958Z">
         <seg>竜鉄のの槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragon spear(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T064032Z" creationid="2008l" creationdate="20240731T064032Z">
+        <seg>竜鉄の槍（毒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4294,6 +4334,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Iron pickaxe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T064119Z" creationid="2008l" creationdate="20240731T064119Z">
+        <seg>鉄のツルハシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Iron platebody</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204153Z" creationid="2008l" creationdate="20240729T204153Z">
@@ -4322,6 +4370,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T063933Z" creationid="2008l" creationdate="20240731T063933Z">
         <seg>鉄の槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iron spear(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T064013Z" creationid="2008l" creationdate="20240731T064013Z">
+        <seg>鉄の槍（毒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -5358,6 +5414,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mithril pickaxe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T064212Z" creationid="2008l" creationdate="20240731T064212Z">
+        <seg>ミスリルのツルハシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mithril platebody</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204209Z" creationid="2008l" creationdate="20240729T204209Z">
@@ -5394,6 +5458,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T063939Z" creationid="2008l" creationdate="20240731T063939Z">
         <seg>ミスリルの槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mithril spear(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T064018Z" creationid="2008l" creationdate="20240731T064018Z">
+        <seg>ミスリルの槍（毒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7158,6 +7230,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rune pickaxe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T064224Z" creationid="2008l" creationdate="20240731T064224Z">
+        <seg>ルーンのツルハシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rune platebody</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204218Z" creationid="2008l" creationdate="20240729T204218Z">
@@ -7186,6 +7266,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T063951Z" creationid="2008l" creationdate="20240731T063951Z">
         <seg>ルーンの槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rune spear(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T064026Z" creationid="2008l" creationdate="20240731T064026Z">
+        <seg>ルーンの槍（毒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8078,6 +8166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Steel pickaxe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T064134Z" creationid="2008l" creationdate="20240731T064134Z">
+        <seg>鋼鉄のツルハシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Steel platebody</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204159Z" creationid="2008l" creationdate="20240729T204159Z">
@@ -8106,6 +8202,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T063935Z" creationid="2008l" creationdate="20240731T063935Z">
         <seg>鋼鉄の槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel spear(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240731T064015Z" creationid="2008l" creationdate="20240731T064015Z">
+        <seg>鋼鉄の槍（毒）</seg>
       </tuv>
     </tu>
     <tu>
