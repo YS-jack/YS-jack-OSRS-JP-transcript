@@ -2246,6 +2246,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Channel (Asgarnia)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T101113Z" creationid="yumas" creationdate="20240803T101108Z">
+        <seg>を転換（アスガニア）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Channel (Misthalin)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T101128Z" creationid="yumas" creationdate="20240803T101128Z">
+        <seg>を転換（ミスサリン）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Chaos gauntlets</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T060715Z" creationid="2008l" creationdate="20240728T054012Z">
@@ -3078,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Conjure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T100935Z" creationid="yumas" creationdate="20240803T100935Z">
+        <seg>呼び出す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Continue</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T100410Z" creationid="yumas" creationdate="20240803T100410Z">
@@ -3418,6 +3442,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221121Z" creationid="yumas" creationdate="20240730T221121Z">
         <seg>枝を切る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cut-foot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T100956Z" creationid="yumas" creationdate="20240803T100950Z">
+        <seg>根を切る</seg>
       </tuv>
     </tu>
     <tu>
@@ -6102,6 +6134,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jump-Down</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T101007Z" creationid="yumas" creationdate="20240803T101007Z">
+        <seg>から飛び降りる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jump-Over</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214659Z" creationid="yumas" creationdate="20240730T214659Z">
@@ -8353,6 +8393,14 @@
         <seg>Pass through</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T133457Z" creationid="yumas" creationdate="20240731T133457Z">
+        <seg>を通り抜ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pass-Through</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T100945Z" creationid="yumas" creationdate="20240803T100945Z">
         <seg>を通り抜ける</seg>
       </tuv>
     </tu>
@@ -11102,6 +11150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Search-for-traps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T100943Z" creationid="yumas" creationdate="20240803T100943Z">
+        <seg>罠を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Seaweed</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064231Z" creationid="2008l" creationdate="20240723T064231Z">
@@ -12862,6 +12918,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-candy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T101006Z" creationid="yumas" creationdate="20240803T101006Z">
+        <seg>アメを取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-concoction</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T134641Z" creationid="yumas" creationdate="20240731T134641Z">
@@ -13900,6 +13964,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T220403Z" creationid="yumas" creationdate="20240730T220403Z">
         <seg>を渡る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Walk-over</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T100912Z" creationid="yumas" creationdate="20240803T100912Z">
+        <seg>の上を歩く</seg>
       </tuv>
     </tu>
     <tu>
