@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Align-net</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T120627Z" creationid="yumas" creationdate="20240803T120627Z">
+        <seg>網を調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ammo mould</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T125229Z" creationid="2008l" creationdate="20240716T071822Z">
@@ -7814,6 +7822,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Make-cuppa</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T120608Z" creationid="yumas" creationdate="20240803T120608Z">
+        <seg>お茶を作る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Make-helmet</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222836Z" creationid="yumas" creationdate="20240730T222836Z">
@@ -9314,6 +9330,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T062519Z" creationid="2008l" creationdate="20240729T062519Z">
         <seg>板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Plant-evidence</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T120542Z" creationid="yumas" creationdate="20240803T120542Z">
+        <seg>偽の証拠を仕込む</seg>
       </tuv>
     </tu>
     <tu>
@@ -11550,10 +11574,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rustle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T120603Z" creationid="yumas" creationdate="20240803T120603Z">
+        <seg>カサカサ音をたてる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rusty sword</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T072136Z" creationid="2008l" creationdate="20240725T072136Z">
         <seg>錆びた剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sabotage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T120459Z" creationid="yumas" creationdate="20240803T120459Z">
+        <seg>妨害</seg>
       </tuv>
     </tu>
     <tu>
@@ -13558,6 +13598,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-from Fishing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T121248Z" creationid="yumas" creationdate="20240803T121248Z">
+        <seg>釣り道具を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-hammer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T134311Z" creationid="yumas" creationdate="20240731T134311Z">
@@ -14532,6 +14580,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221700Z" creationid="yumas" creationdate="20240730T221700Z">
         <seg>ゲームを見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View-glory</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T120436Z" creationid="yumas" creationdate="20240803T120436Z">
+        <seg>栄光を見る</seg>
       </tuv>
     </tu>
     <tu>
