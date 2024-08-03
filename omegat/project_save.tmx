@@ -2054,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Butterfly-jar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T135326Z" creationid="yumas" creationdate="20240803T135326Z">
+        <seg>チョウの瓶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Buttons</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T072221Z" creationid="2008l" creationdate="20240725T072221Z">
@@ -5254,6 +5262,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gem Mine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T135108Z" creationid="yumas" creationdate="20240803T135108Z">
+        <seg>宝石採掘所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gem bag</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T070722Z" creationid="2008l" creationdate="20240727T070722Z">
@@ -6186,6 +6202,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T021032Z" creationid="yumas" creationdate="20240803T021032Z">
         <seg>付与</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Impling-jar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T135300Z" creationid="yumas" creationdate="20240803T135300Z">
+        <seg>子悪魔の瓶</seg>
       </tuv>
     </tu>
     <tu>
@@ -16726,6 +16750,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T130357Z" creationid="yumas" creationdate="20240803T130357Z">
         <seg>の残量確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41100</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Toggle-view</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T135414Z" creationid="yumas" creationdate="20240803T135414Z">
+        <seg>見た目の切り替え</seg>
       </tuv>
     </tu>
   </body>
