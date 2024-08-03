@@ -9990,6 +9990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Remove-banner</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T110846Z" creationid="yumas" creationdate="20240803T110846Z">
+        <seg>バナーを取り除く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Remove-coal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T113546Z" creationid="yumas" creationdate="20240731T113546Z">
@@ -10006,10 +10014,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Remove-outfit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T110910Z" creationid="yumas" creationdate="20240803T110910Z">
+        <seg>服装を外す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Remove-room</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221651Z" creationid="yumas" creationdate="20240730T221651Z">
         <seg>部屋を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Remove-trophy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T110647Z" creationid="yumas" creationdate="20240803T110647Z">
+        <seg>トロフィーを取り除く</seg>
       </tuv>
     </tu>
     <tu>
@@ -13344,6 +13368,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tether</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T110637Z" creationid="yumas" creationdate="20240803T110629Z">
+        <seg>自分をしばりつける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Threaten</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085604Z" creationid="yumas" creationdate="20240730T085604Z">
@@ -13856,6 +13888,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Untether</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T110622Z" creationid="yumas" creationdate="20240803T110622Z">
+        <seg>ほどく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Untie</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T130646Z" creationid="yumas" creationdate="20240731T130646Z">
@@ -13996,6 +14036,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221700Z" creationid="yumas" creationdate="20240730T221700Z">
         <seg>ゲームを見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View-trophies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T110654Z" creationid="yumas" creationdate="20240803T110654Z">
+        <seg>トロフィーを見る</seg>
       </tuv>
     </tu>
     <tu>
