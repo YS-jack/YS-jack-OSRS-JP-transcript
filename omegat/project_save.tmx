@@ -2822,6 +2822,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Civitas illa Fortis</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T120133Z" creationid="yumas" creationdate="20240803T120133Z">
+        <seg>シビリタス・イラ・フォーチス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Claim</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T133632Z" creationid="yumas" creationdate="20240730T093100Z">
@@ -4898,6 +4906,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T131625Z" creationid="yumas" creationdate="20240730T131625Z">
         <seg>降参する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fortis Colosseum</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T120253Z" creationid="yumas" creationdate="20240803T120253Z">
+        <seg>フォーティス闘技場</seg>
       </tuv>
     </tu>
     <tu>
@@ -7602,6 +7618,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222721Z" creationid="yumas" creationdate="20240730T222721Z">
         <seg>の中を見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Look-over</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T120119Z" creationid="yumas" creationdate="20240803T120119Z">
+        <seg>越しに見る</seg>
       </tuv>
     </tu>
     <tu>
@@ -14508,6 +14532,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221700Z" creationid="yumas" creationdate="20240730T221700Z">
         <seg>ゲームを見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View-stats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T120254Z" creationid="yumas" creationdate="20240803T120254Z">
+        <seg>ステータスを見る</seg>
       </tuv>
     </tu>
     <tu>
