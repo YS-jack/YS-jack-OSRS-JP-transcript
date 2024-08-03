@@ -2974,6 +2974,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Craft-rune</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T002439Z" creationid="yumas" creationdate="20240803T002439Z">
+        <seg>でルーン工作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crawl</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T131705Z" creationid="yumas" creationdate="20240731T131705Z">
@@ -3394,6 +3402,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T105757Z" creationid="yumas" creationdate="20240713T101228Z">
         <seg>解任する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dispel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T002727Z" creationid="yumas" creationdate="20240803T002727Z">
+        <seg>を消し去る</seg>
       </tuv>
     </tu>
     <tu>
@@ -12562,8 +12578,8 @@
       <tuv lang="en-GB">
         <seg>Tree</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T140500Z" creationid="yumas" creationdate="20240731T140332Z">
-        <seg>精霊樹</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T002317Z" creationid="yumas" creationdate="20240731T140332Z">
+        <seg>木</seg>
       </tuv>
     </tu>
     <tu>
@@ -13598,6 +13614,28 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T134239Z" creationid="yumas" creationdate="20240731T134239Z">
         <seg>に燃料を与える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">42146</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T002332Z" creationid="yumas" creationdate="20240803T002332Z">
+        <seg>精霊樹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">42214</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Fuel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T002458Z" creationid="yumas" creationdate="20240803T002458Z">
+        <seg>に燃料を加える</seg>
       </tuv>
     </tu>
   </body>
