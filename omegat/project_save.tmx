@@ -2318,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check count</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T003844Z" creationid="yumas" creationdate="20240803T003844Z">
+        <seg>数を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check for Snakes</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T130228Z" creationid="yumas" creationdate="20240731T130224Z">
@@ -2578,6 +2586,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T213240Z" creationid="yumas" creationdate="20240730T213240Z">
         <seg>に乗る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Climb Down</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T004111Z" creationid="yumas" creationdate="20240803T004111Z">
+        <seg>降りる</seg>
       </tuv>
     </tu>
     <tu>
@@ -5134,6 +5150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Inject</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T003902Z" creationid="yumas" creationdate="20240803T003902Z">
+        <seg>注入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Insect repellent</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T075139Z" creationid="2008l" creationdate="20240716T075139Z">
@@ -5602,6 +5626,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222235Z" creationid="yumas" creationdate="20240730T222235Z">
         <seg>飛び降りる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jump on</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T003905Z" creationid="yumas" creationdate="20240803T003905Z">
+        <seg>ジャンプ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6466,6 +6498,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T130045Z" creationid="yumas" creationdate="20240731T130045Z">
         <seg>墓を後にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Leave platform</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T003834Z" creationid="yumas" creationdate="20240803T003834Z">
+        <seg>戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -7450,6 +7490,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062846Z" creationid="2008l" creationdate="20240725T062846Z">
         <seg>自然のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Navigate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T004106Z" creationid="yumas" creationdate="20240803T004106Z">
+        <seg>通り抜ける</seg>
       </tuv>
     </tu>
     <tu>
@@ -10382,6 +10430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Seeds</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T003851Z" creationid="yumas" creationdate="20240803T003851Z">
+        <seg>種</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Send-parcel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100528Z" creationid="yumas" creationdate="20240730T100528Z">
@@ -12428,6 +12484,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T132547Z" creationid="yumas" creationdate="20240731T132547Z">
         <seg>XP切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Toggle warning</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T003848Z" creationid="yumas" creationdate="20240803T003848Z">
+        <seg>警告表示を切り替える</seg>
       </tuv>
     </tu>
     <tu>
