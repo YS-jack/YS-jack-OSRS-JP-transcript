@@ -3294,6 +3294,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cool-preform</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T113152Z" creationid="yumas" creationdate="20240803T113152Z">
+        <seg>冷ます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Copper ore</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T064316Z" creationid="2008l" creationdate="20240724T064257Z">
@@ -4104,8 +4112,8 @@
       <tuv lang="en-GB">
         <seg>Dunk-preform</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T112742Z" creationid="yumas" creationdate="20240803T112742Z">
-        <seg>漬ける</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T113145Z" creationid="yumas" creationdate="20240803T112742Z">
+        <seg>強く加熱</seg>
       </tuv>
     </tu>
     <tu>
@@ -5608,8 +5616,8 @@
       <tuv lang="en-GB">
         <seg>Heat-preform</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T113126Z" creationid="yumas" creationdate="20240803T112715Z">
-        <seg>焼きなまし</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T113139Z" creationid="yumas" creationdate="20240803T112715Z">
+        <seg>加熱</seg>
       </tuv>
     </tu>
     <tu>
@@ -9574,6 +9582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Quench-preform</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T113246Z" creationid="yumas" creationdate="20240803T113203Z">
+        <seg>速く冷ます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Quick Pass</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T130616Z" creationid="yumas" creationdate="20240731T130616Z">
@@ -9710,6 +9726,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Quick-use</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T113317Z" creationid="yumas" creationdate="20240803T113317Z">
+        <seg>すぐ使う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Quick-withdraw</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T095916Z" creationid="yumas" creationdate="20240730T095916Z">
@@ -9786,6 +9810,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T071033Z" creationid="2008l" creationdate="20240720T071033Z">
         <seg>弓増強薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rank</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T113313Z" creationid="yumas" creationdate="20240803T113313Z">
+        <seg>ランク</seg>
       </tuv>
     </tu>
     <tu>
@@ -12662,6 +12694,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Store-preform</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T113255Z" creationid="yumas" creationdate="20240803T113255Z">
+        <seg>保管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Story</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T133615Z" creationid="yumas" creationdate="20240731T133615Z">
@@ -13346,6 +13386,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T115850Z" creationid="yumas" creationdate="20240731T115850Z">
         <seg>パウダーを取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-preform</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T113259Z" creationid="yumas" creationdate="20240803T113259Z">
+        <seg>取る</seg>
       </tuv>
     </tu>
     <tu>
