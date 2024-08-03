@@ -13600,8 +13600,24 @@
       <tuv lang="en-GB">
         <seg>Take-from Fishing</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T121248Z" creationid="yumas" creationdate="20240803T121248Z">
-        <seg>釣り道具を取る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T121334Z" creationid="yumas" creationdate="20240803T121248Z">
+        <seg>から釣り道具を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-from Herblore</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T121329Z" creationid="yumas" creationdate="20240803T121318Z">
+        <seg>から調合器具を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-from Hunting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T121332Z" creationid="yumas" creationdate="20240803T121311Z">
+        <seg>から狩り道具を取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -13626,6 +13642,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T134317Z" creationid="yumas" creationdate="20240731T134317Z">
         <seg>からナイフを取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-log</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T121325Z" creationid="yumas" creationdate="20240803T121325Z">
+        <seg>から丸太を取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -15588,6 +15612,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T111805Z" creationid="yumas" creationdate="20240803T111805Z">
         <seg>でもてなす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">42467</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Bask</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T121602Z" creationid="yumas" creationdate="20240803T121602Z">
+        <seg>日を浴びる</seg>
       </tuv>
     </tu>
     <tu>
