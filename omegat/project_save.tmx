@@ -2742,14 +2742,6 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
-        <seg>Coffer</seg>
-      </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T095722Z" creationid="yumas" creationdate="20240730T095722Z">
-        <seg>前払い金を確認</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
         <seg>Coif</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T070535Z" creationid="2008l" creationdate="20240730T070535Z">
@@ -8678,6 +8670,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Quick-exit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T003527Z" creationid="yumas" creationdate="20240803T003527Z">
+        <seg>即離脱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Quick-falcon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085201Z" creationid="yumas" creationdate="20240730T085201Z">
@@ -13482,6 +13482,17 @@
     </tu>
     <tu>
       <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41423</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Coffer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T003248Z" creationid="yumas" creationdate="20240803T003248Z">
+        <seg>前払い金を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
       <prop type="id">41560</prop>
       <prop type="path">//transcript.db</prop>
       <tuv lang="en-GB">
@@ -13687,6 +13698,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T002736Z" creationid="yumas" creationdate="20240803T002736Z">
         <seg>共有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">42222</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Coffer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T003314Z" creationid="yumas" creationdate="20240803T003314Z">
+        <seg>前払い金を確認</seg>
       </tuv>
     </tu>
   </body>
