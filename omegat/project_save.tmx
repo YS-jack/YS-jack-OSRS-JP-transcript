@@ -7006,6 +7006,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>League-firsts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T111251Z" creationid="yumas" creationdate="20240803T111251Z">
+        <seg>リーグの上位者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>League-rankings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T111100Z" creationid="yumas" creationdate="20240803T111100Z">
+        <seg>リーグのランキング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>League-statistics</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T111054Z" creationid="yumas" creationdate="20240803T111054Z">
+        <seg>リーグの統計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Leap</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T122407Z" creationid="yumas" creationdate="20240731T122407Z">
@@ -11906,6 +11930,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221128Z" creationid="yumas" creationdate="20240730T221128Z">
         <seg>回す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spin-globe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T110923Z" creationid="yumas" creationdate="20240803T110923Z">
+        <seg>グローブを回す</seg>
       </tuv>
     </tu>
     <tu>
