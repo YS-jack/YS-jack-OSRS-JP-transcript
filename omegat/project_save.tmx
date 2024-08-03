@@ -4102,6 +4102,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dunk-preform</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T112742Z" creationid="yumas" creationdate="20240803T112742Z">
+        <seg>漬ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dwarf remains</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T070659Z" creationid="2008l" creationdate="20240716T070659Z">
@@ -5600,8 +5608,8 @@
       <tuv lang="en-GB">
         <seg>Heat-preform</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T112715Z" creationid="yumas" creationdate="20240803T112715Z">
-        <seg>加熱</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T113126Z" creationid="yumas" creationdate="20240803T112715Z">
+        <seg>焼きなまし</seg>
       </tuv>
     </tu>
     <tu>
