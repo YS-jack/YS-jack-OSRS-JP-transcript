@@ -3982,6 +3982,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Enter-crypt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T015421Z" creationid="yumas" creationdate="20240803T015421Z">
+        <seg>地下室へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Equip</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T131557Z" creationid="yumas" creationdate="20240731T131557Z">
@@ -4194,6 +4202,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112611Z" creationid="yumas" creationdate="20240731T112611Z">
         <seg>でバケツを満たす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fill-from</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T015658Z" creationid="yumas" creationdate="20240803T015658Z">
+        <seg>から汲む</seg>
       </tuv>
     </tu>
     <tu>
