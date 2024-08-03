@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Add-mulch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T114921Z" creationid="yumas" creationdate="20240803T114921Z">
+        <seg>根おおいを加える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adjust</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T112007Z" creationid="yumas" creationdate="20240803T112007Z">
@@ -658,6 +666,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112633Z" creationid="yumas" creationdate="20240731T112633Z">
         <seg>繋げる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Attach-rope</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T114957Z" creationid="yumas" creationdate="20240803T114957Z">
+        <seg>ロープをつなげる</seg>
       </tuv>
     </tu>
     <tu>
@@ -1838,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Build-barricade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T115017Z" creationid="yumas" creationdate="20240803T115017Z">
+        <seg>バリケードを建てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Build-in</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120730Z" creationid="yumas" creationdate="20240731T120730Z">
@@ -1874,6 +1898,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T131151Z" creationid="yumas" creationdate="20240731T131151Z">
         <seg>燃やし落とす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burn`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T115126Z" creationid="yumas" creationdate="20240803T115126Z">
+        <seg>を燃やす</seg>
       </tuv>
     </tu>
     <tu>
@@ -3018,6 +3050,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093212Z" creationid="yumas" creationdate="20240730T093212Z">
         <seg>を登る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Climb-rope</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T115001Z" creationid="yumas" creationdate="20240803T115001Z">
+        <seg>ロープで上る</seg>
       </tuv>
     </tu>
     <tu>
@@ -7454,6 +7494,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lockpick</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T115122Z" creationid="yumas" creationdate="20240803T115122Z">
+        <seg>ピッキング道具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Log-storage</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T105651Z" creationid="yumas" creationdate="20240730T105651Z">
@@ -10098,6 +10146,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T213105Z" creationid="yumas" creationdate="20240730T213105Z">
         <seg>を読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Read (Awakened)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T114948Z" creationid="yumas" creationdate="20240803T114948Z">
+        <seg>を読む（覚醒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -14788,6 +14844,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T032016Z" creationid="yumas" creationdate="20240803T032016Z">
         <seg>ウィンタートッド・キャンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Withdraw</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T115132Z" creationid="yumas" creationdate="20240803T115132Z">
+        <seg>引き出す</seg>
       </tuv>
     </tu>
     <tu>
