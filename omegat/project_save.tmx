@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Arceuus Library</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T111333Z" creationid="yumas" creationdate="20240803T111333Z">
+        <seg>アルセウス図書館</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Arceuus spellbook</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T111836Z" creationid="yumas" creationdate="20240731T110859Z">
@@ -3225,6 +3233,14 @@
         <seg>Cook</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T211847Z" creationid="yumas" creationdate="20240730T211847Z">
+        <seg>で調理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cook-at</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T111253Z" creationid="yumas" creationdate="20240803T111253Z">
         <seg>で調理</seg>
       </tuv>
     </tu>
@@ -8310,6 +8326,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Offer-fish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T111348Z" creationid="yumas" creationdate="20240803T111348Z">
+        <seg>魚を捧げる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Oil can</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T063043Z" creationid="2008l" creationdate="20240722T063043Z">
@@ -9230,6 +9254,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Prepare-fish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T111339Z" creationid="yumas" creationdate="20240803T111339Z">
+        <seg>魚を準備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Press</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T124105Z" creationid="yumas" creationdate="20240731T124105Z">
@@ -9466,6 +9498,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T105150Z" creationid="yumas" creationdate="20240731T105150Z">
         <seg>すぐに乗る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Quick-climb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T111309Z" creationid="yumas" creationdate="20240803T111309Z">
+        <seg>素早く通る</seg>
       </tuv>
     </tu>
     <tu>
@@ -15033,6 +15073,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T015740Z" creationid="yumas" creationdate="20240803T015740Z">
         <seg>を転換する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">42392</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Entertain</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T111805Z" creationid="yumas" creationdate="20240803T111805Z">
+        <seg>でもてなす</seg>
       </tuv>
     </tu>
     <tu>
