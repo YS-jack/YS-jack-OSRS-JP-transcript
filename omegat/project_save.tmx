@@ -3630,6 +3630,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crazy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T124051Z" creationid="yumas" creationdate="20240803T124051Z">
+        <seg>クレイジー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cream boots</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T065945Z" creationid="2008l" creationdate="20240725T065945Z">
@@ -3834,6 +3842,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T114719Z" creationid="yumas" creationdate="20240730T114705Z">
         <seg>下船</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Debug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123848Z" creationid="yumas" creationdate="20240803T123848Z">
+        <seg>デバッグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7878,6 +7894,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Loop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T124029Z" creationid="yumas" creationdate="20240803T124029Z">
+        <seg>ループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Loop half of key</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T082307Z" creationid="2008l" creationdate="20240729T063706Z">
@@ -9782,6 +9806,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Preach</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T124020Z" creationid="yumas" creationdate="20240803T124020Z">
+        <seg>説教</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Preen</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120642Z" creationid="yumas" creationdate="20240731T120642Z">
@@ -10714,6 +10746,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T123049Z" creationid="yumas" creationdate="20240803T123049Z">
         <seg>足を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Remove-lid</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123937Z" creationid="yumas" creationdate="20240803T123937Z">
+        <seg>フタを取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -14976,6 +15016,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Walk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T124043Z" creationid="yumas" creationdate="20240803T124043Z">
+        <seg>ウォーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Walk here</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091744Z" creationid="yumas" creationdate="20240730T091744Z">
@@ -15989,6 +16037,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T122703Z" creationid="yumas" creationdate="20240803T122703Z">
         <seg>を食べる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">40979</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Cast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123843Z" creationid="yumas" creationdate="20240803T123843Z">
+        <seg>魔法を唱える</seg>
       </tuv>
     </tu>
     <tu>
