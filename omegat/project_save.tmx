@@ -3070,6 +3070,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cooking Guild</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T032245Z" creationid="yumas" creationdate="20240803T032245Z">
+        <seg>料理ギルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cooking gauntlets</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T074123Z" creationid="2008l" creationdate="20240727T072234Z">
@@ -3162,6 +3170,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T002439Z" creationid="yumas" creationdate="20240803T002439Z">
         <seg>でルーン工作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crafting Guild</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T032242Z" creationid="yumas" creationdate="20240803T032242Z">
+        <seg>工作ギルド</seg>
       </tuv>
     </tu>
     <tu>
@@ -4182,6 +4198,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Falador Park</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T032327Z" creationid="yumas" creationdate="20240803T032327Z">
+        <seg>ファラドー公園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Falador shield</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T073024Z" creationid="2008l" creationdate="20240727T070253Z">
@@ -4202,6 +4226,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T070602Z" creationid="2008l" creationdate="20240731T070602Z">
         <seg>農家のフォーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Farming Guild</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T032252Z" creationid="yumas" creationdate="20240803T032252Z">
+        <seg>農業ギルド</seg>
       </tuv>
     </tu>
     <tu>
@@ -7510,10 +7542,18 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mining Guild</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T032238Z" creationid="yumas" creationdate="20240803T032238Z">
+        <seg>採掘ギルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Miscellania</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T093624Z" creationid="yumas" creationdate="20240730T093624Z">
-        <seg>ミセラニアへ移動</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T032306Z" creationid="yumas" creationdate="20240730T093624Z">
+        <seg>ミセラニア</seg>
       </tuv>
     </tu>
     <tu>
@@ -9290,6 +9330,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062143Z" creationid="2008l" creationdate="20240722T062143Z">
         <seg>ラナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ranging Guild</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T032226Z" creationid="yumas" creationdate="20240803T032226Z">
+        <seg>弓ギルド</seg>
       </tuv>
     </tu>
     <tu>
@@ -14008,6 +14056,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Woodcutting Guild</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T032248Z" creationid="yumas" creationdate="20240803T032248Z">
+        <seg>木こりギルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Wooden shield</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T070646Z" creationid="2008l" creationdate="20240730T070646Z">
@@ -14214,6 +14270,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T005443Z" creationid="yumas" creationdate="20240803T005351Z">
         <seg>で回復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41404</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Miscellania</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T032313Z" creationid="yumas" creationdate="20240803T032313Z">
+        <seg>ミセラニアへ移動</seg>
       </tuv>
     </tu>
     <tu>
