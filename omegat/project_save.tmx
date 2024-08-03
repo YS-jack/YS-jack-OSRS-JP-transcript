@@ -7758,6 +7758,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Log</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T124343Z" creationid="yumas" creationdate="20240803T124343Z">
+        <seg>ログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Log-storage</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T105651Z" creationid="yumas" creationdate="20240730T105651Z">
@@ -8986,6 +8994,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T065554Z" creationid="2008l" creationdate="20240725T065554Z">
         <seg>パラマヤのチケット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Partner</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T124120Z" creationid="yumas" creationdate="20240803T124120Z">
+        <seg>ペア</seg>
       </tuv>
     </tu>
     <tu>
@@ -16059,6 +16075,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T005618Z" creationid="yumas" creationdate="20240803T005618Z">
         <seg>で回復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">40998</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Count</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T124354Z" creationid="yumas" creationdate="20240803T124354Z">
+        <seg>を数える</seg>
       </tuv>
     </tu>
   </body>
