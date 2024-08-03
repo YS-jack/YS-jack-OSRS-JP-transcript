@@ -2918,6 +2918,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Climb-down (normal)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T102441Z" creationid="yumas" creationdate="20240803T102441Z">
+        <seg>下りる（通常）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Climb-down (private)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T102447Z" creationid="yumas" creationdate="20240803T102447Z">
+        <seg>下りる（専用）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Climb-into</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T124057Z" creationid="yumas" creationdate="20240731T124011Z">
@@ -8326,6 +8342,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Open (private)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T102433Z" creationid="yumas" creationdate="20240803T102433Z">
+        <seg>開く（専用）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Open Adventure Paths</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122927Z" creationid="yumas" creationdate="20240730T122927Z">
@@ -11066,6 +11090,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T100905Z" creationid="yumas" creationdate="20240803T100905Z">
         <seg>生贄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sacrifice-fragments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T102856Z" creationid="yumas" creationdate="20240803T102856Z">
+        <seg>欠片を捧げる</seg>
       </tuv>
     </tu>
     <tu>
