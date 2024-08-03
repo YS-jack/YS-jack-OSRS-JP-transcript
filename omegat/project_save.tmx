@@ -2758,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check rank</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T140110Z" creationid="yumas" creationdate="20240803T140110Z">
+        <seg>ランクを確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check steps</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T123611Z" creationid="yumas" creationdate="20240803T123611Z">
@@ -4470,6 +4478,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Duradel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T140443Z" creationid="yumas" creationdate="20240803T140443Z">
+        <seg>ヅラデル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dust-hands</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T130243Z" creationid="yumas" creationdate="20240803T130243Z">
@@ -4850,6 +4866,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T113435Z" creationid="yumas" creationdate="20240730T095857Z">
         <seg>を消火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Extract</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T140117Z" creationid="yumas" creationdate="20240803T140117Z">
+        <seg>抽出</seg>
       </tuv>
     </tu>
     <tu>
@@ -15328,6 +15352,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Unload</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T140156Z" creationid="yumas" creationdate="20240803T140156Z">
+        <seg>取り出す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Unlock</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T215136Z" creationid="yumas" creationdate="20240730T215136Z">
@@ -15388,6 +15420,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T130646Z" creationid="yumas" creationdate="20240731T130646Z">
         <seg>をほどく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Untrim</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T140203Z" creationid="yumas" creationdate="20240803T140203Z">
+        <seg>縁を取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -16825,6 +16865,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T135414Z" creationid="yumas" creationdate="20240803T135414Z">
         <seg>見た目の切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41113</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Check completion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T140100Z" creationid="yumas" creationdate="20240803T140100Z">
+        <seg>完成度を確認</seg>
       </tuv>
     </tu>
   </body>
