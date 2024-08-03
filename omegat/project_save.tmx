@@ -4190,6 +4190,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dissolve</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T135941Z" creationid="yumas" creationdate="20240803T135941Z">
+        <seg>溶かす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Distillator</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T065148Z" creationid="2008l" creationdate="20240723T065148Z">
@@ -13034,6 +13042,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T062202Z" creationid="2008l" creationdate="20240729T062202Z">
         <seg>スコップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spawn Item</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T135907Z" creationid="yumas" creationdate="20240803T135907Z">
+        <seg>蘇生アイテム</seg>
       </tuv>
     </tu>
     <tu>
