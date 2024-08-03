@@ -2286,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cast Bloom</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123819Z" creationid="yumas" creationdate="20240803T123819Z">
+        <seg>咲く魔法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cast Spell</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T122853Z" creationid="yumas" creationdate="20240803T122853Z">
@@ -2706,6 +2714,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T130228Z" creationid="yumas" creationdate="20240731T130224Z">
         <seg>に蛇がいないか確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Check kills</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123650Z" creationid="yumas" creationdate="20240803T123650Z">
+        <seg>キル数確認</seg>
       </tuv>
     </tu>
     <tu>
@@ -10578,6 +10594,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112138Z" creationid="yumas" creationdate="20240731T112138Z">
         <seg>を開放</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Release All</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123638Z" creationid="yumas" creationdate="20240803T123615Z">
+        <seg>を全て開放</seg>
       </tuv>
     </tu>
     <tu>
