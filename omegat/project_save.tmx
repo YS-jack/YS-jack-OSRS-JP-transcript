@@ -4422,6 +4422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Exit-through (Kourend)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T112156Z" creationid="yumas" creationdate="20240803T112156Z">
+        <seg>を通って出る（クーレンド）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Extinguish</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T113435Z" creationid="yumas" creationdate="20240730T095857Z">
@@ -5586,6 +5594,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T065249Z" creationid="2008l" creationdate="20240727T065249Z">
         <seg>ハートの水晶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Heat-preform</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T112715Z" creationid="yumas" creationdate="20240803T112715Z">
+        <seg>加熱</seg>
       </tuv>
     </tu>
     <tu>
@@ -8734,6 +8750,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pay-toll(10gp)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T112301Z" creationid="yumas" creationdate="20240803T112301Z">
+        <seg>通行料を支払う（１０ｇｐ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pay-toll(2-Ecto)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T123847Z" creationid="yumas" creationdate="20240731T123847Z">
@@ -9266,6 +9290,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T094642Z" creationid="yumas" creationdate="20240730T094642Z">
         <seg>薬液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pour</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T112306Z" creationid="yumas" creationdate="20240803T112306Z">
+        <seg>注ぐ</seg>
       </tuv>
     </tu>
     <tu>
