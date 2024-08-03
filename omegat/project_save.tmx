@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bank-all</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T135453Z" creationid="yumas" creationdate="20240803T135453Z">
+        <seg>全て銀行へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Barb bolttips</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T075229Z" creationid="2008l" creationdate="20240716T090928Z">
@@ -3574,6 +3582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Copy to log</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T135434Z" creationid="yumas" creationdate="20240803T135434Z">
+        <seg>ログに映す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Corporeal Beast</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T031709Z" creationid="yumas" creationdate="20240803T031709Z">
@@ -4114,6 +4130,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T133501Z" creationid="yumas" creationdate="20240730T133501Z">
         <seg>を解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Disassemble</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T135644Z" creationid="yumas" creationdate="20240803T135644Z">
+        <seg>を分解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Discard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T135438Z" creationid="yumas" creationdate="20240803T135438Z">
+        <seg>破棄</seg>
       </tuv>
     </tu>
     <tu>
@@ -10838,6 +10870,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Refund</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T135552Z" creationid="yumas" creationdate="20240803T135552Z">
+        <seg>返金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Reinforce</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221105Z" creationid="yumas" creationdate="20240730T221105Z">
@@ -11192,8 +11232,8 @@
       <tuv lang="en-GB">
         <seg>Revert</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T115334Z" creationid="yumas" creationdate="20240803T115334Z">
-        <seg>戻る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T135620Z" creationid="yumas" creationdate="20240803T115334Z">
+        <seg>戻す</seg>
       </tuv>
     </tu>
     <tu>
@@ -14346,6 +14386,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T131756Z" creationid="yumas" creationdate="20240730T131756Z">
         <seg>ネットをもらう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take-one</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T135444Z" creationid="yumas" creationdate="20240803T135444Z">
+        <seg>１つとる</seg>
       </tuv>
     </tu>
     <tu>
