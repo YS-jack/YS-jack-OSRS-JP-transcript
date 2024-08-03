@@ -2710,6 +2710,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check steps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123611Z" creationid="yumas" creationdate="20240803T123611Z">
+        <seg>のステップを確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check-Approval</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084629Z" creationid="2008l" creationdate="20240715T083625Z">
@@ -4414,6 +4422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Empty Dish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123217Z" creationid="yumas" creationdate="20240803T123217Z">
+        <seg>皿をキレイにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Empty Tin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T123149Z" creationid="yumas" creationdate="20240803T123149Z">
@@ -4746,6 +4762,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T065708Z" creationid="2008l" creationdate="20240722T065708Z">
         <seg>羽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Features</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123331Z" creationid="yumas" creationdate="20240803T123331Z">
+        <seg>機能</seg>
       </tuv>
     </tu>
     <tu>
@@ -5738,6 +5762,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T105449Z" creationid="yumas" creationdate="20240731T105449Z">
         <seg>ガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guzzle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123242Z" creationid="yumas" creationdate="20240803T123242Z">
+        <seg>がつがつ食べる</seg>
       </tuv>
     </tu>
     <tu>
@@ -7750,6 +7782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Look through</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123333Z" creationid="yumas" creationdate="20240803T123333Z">
+        <seg>越しに見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Look-at</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T213622Z" creationid="yumas" creationdate="20240730T213622Z">
@@ -9530,6 +9570,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T111812Z" creationid="yumas" creationdate="20240803T111812Z">
         <seg>静かに弾く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Play-with</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123249Z" creationid="yumas" creationdate="20240803T123249Z">
+        <seg>で遊ぶ</seg>
       </tuv>
     </tu>
     <tu>
@@ -14300,6 +14348,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T114357Z" creationid="yumas" creationdate="20240730T114316Z">
         <seg>でミネラルの切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Toggle-respawn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123326Z" creationid="yumas" creationdate="20240803T123326Z">
+        <seg>リスポーン切り替え</seg>
       </tuv>
     </tu>
     <tu>
