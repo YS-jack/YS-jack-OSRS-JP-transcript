@@ -3528,8 +3528,8 @@
       <tuv lang="en-GB">
         <seg>Douse</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T113420Z" creationid="yumas" creationdate="20240730T113420Z">
-        <seg>を消火</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T005223Z" creationid="yumas" creationdate="20240730T113420Z">
+        <seg>消火</seg>
       </tuv>
     </tu>
     <tu>
@@ -13725,6 +13725,17 @@
     </tu>
     <tu>
       <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41476</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Douse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T005158Z" creationid="yumas" creationdate="20240803T005158Z">
+        <seg>を消火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
       <prop type="id">41560</prop>
       <prop type="path">//transcript.db</prop>
       <tuv lang="en-GB">
@@ -13963,6 +13974,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T004324Z" creationid="yumas" creationdate="20240803T004324Z">
         <seg>選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">42257</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Douse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T005230Z" creationid="yumas" creationdate="20240803T005230Z">
+        <seg>を消火</seg>
       </tuv>
     </tu>
   </body>
