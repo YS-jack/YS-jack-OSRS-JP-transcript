@@ -14554,16 +14554,16 @@
       <tuv lang="en-GB">
         <seg>Tell-accurate</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T134205Z" creationid="yumas" creationdate="20240803T134205Z">
-        <seg>正確</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T134610Z" creationid="yumas" creationdate="20240803T134205Z">
+        <seg>正確という</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Tell-aggressive</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T134218Z" creationid="yumas" creationdate="20240803T134218Z">
-        <seg>強力</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T134854Z" creationid="yumas" creationdate="20240803T134218Z">
+        <seg>強引と言う</seg>
       </tuv>
     </tu>
     <tu>
@@ -14572,6 +14572,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T132713Z" creationid="yumas" creationdate="20240803T132706Z">
         <seg>青と言う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tell-controlled</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T134550Z" creationid="yumas" creationdate="20240803T134550Z">
+        <seg>バランスという</seg>
       </tuv>
     </tu>
     <tu>
