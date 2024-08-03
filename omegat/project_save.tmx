@@ -3982,6 +3982,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Enter-corrupted</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T020831Z" creationid="yumas" creationdate="20240803T020831Z">
+        <seg>変異版に入る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Enter-crypt</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T015421Z" creationid="yumas" creationdate="20240803T015421Z">
@@ -14443,6 +14451,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T013141Z" creationid="yumas" creationdate="20240803T013141Z">
         <seg>調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">42313</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Channel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T015740Z" creationid="yumas" creationdate="20240803T015740Z">
+        <seg>を転換する</seg>
       </tuv>
     </tu>
     <tu>
