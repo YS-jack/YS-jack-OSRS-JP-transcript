@@ -2382,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check-Count</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T005801Z" creationid="yumas" creationdate="20240803T005801Z">
+        <seg>数を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check-ammo</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T131620Z" creationid="yumas" creationdate="20240730T131620Z">
@@ -2594,6 +2602,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110107Z" creationid="yumas" creationdate="20240713T102504Z">
         <seg>でトロフィーを回収</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Clamber</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T005934Z" creationid="yumas" creationdate="20240803T005934Z">
+        <seg>頑張って登る</seg>
       </tuv>
     </tu>
     <tu>
@@ -14007,6 +14023,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T005547Z" creationid="yumas" creationdate="20240803T005547Z">
         <seg>で回復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">42259</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Complete</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T005655Z" creationid="yumas" creationdate="20240803T005655Z">
+        <seg>完成させる</seg>
       </tuv>
     </tu>
     <tu>
