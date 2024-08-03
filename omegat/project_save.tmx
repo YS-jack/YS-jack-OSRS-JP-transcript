@@ -7710,6 +7710,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lletya</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125045Z" creationid="yumas" creationdate="20240803T125045Z">
+        <seg>レティア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Load</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T125926Z" creationid="yumas" creationdate="20240731T125926Z">
@@ -9906,6 +9914,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T054211Z" creationid="2008l" creationdate="20240723T065510Z">
         <seg>僧衣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Prifddinas</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125048Z" creationid="yumas" creationdate="20240803T125048Z">
+        <seg>プリフディナス</seg>
       </tuv>
     </tu>
     <tu>
@@ -14804,6 +14820,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T123548Z" creationid="yumas" creationdate="20240731T123548Z">
         <seg>開ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Uncharge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125419Z" creationid="yumas" creationdate="20240803T125419Z">
+        <seg>チャージ解除</seg>
       </tuv>
     </tu>
     <tu>
