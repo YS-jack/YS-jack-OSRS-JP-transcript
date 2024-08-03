@@ -14136,6 +14136,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Travel-End</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T115532Z" creationid="yumas" creationdate="20240803T115516Z">
+        <seg>で移動：最終地点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Travel-Start</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T115523Z" creationid="yumas" creationdate="20240803T115523Z">
+        <seg>で移動：開始地点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tread-softly</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T130104Z" creationid="yumas" creationdate="20240731T130104Z">
