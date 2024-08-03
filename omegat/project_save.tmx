@@ -2550,6 +2550,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check-statistics (Global)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T100500Z" creationid="yumas" creationdate="20240803T100500Z">
+        <seg>統計を確認（全体）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Check-statistics (Personal)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T100447Z" creationid="yumas" creationdate="20240803T100447Z">
+        <seg>統計を確認（個人）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Chemical compound</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064121Z" creationid="2008l" creationdate="20240726T064121Z">
@@ -2910,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Climp-up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T100414Z" creationid="yumas" creationdate="20240803T100414Z">
+        <seg>上る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Clip</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T134141Z" creationid="yumas" creationdate="20240731T134141Z">
@@ -3050,6 +3074,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084447Z" creationid="2008l" creationdate="20240715T080519Z">
         <seg>対峙する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T100410Z" creationid="yumas" creationdate="20240803T100410Z">
+        <seg>続ける</seg>
       </tuv>
     </tu>
     <tu>
@@ -10918,6 +10950,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sacrifice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T100905Z" creationid="yumas" creationdate="20240803T100905Z">
+        <seg>生贄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Salmon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T052950Z" creationid="2008l" creationdate="20240723T062456Z">
@@ -11738,6 +11778,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T070011Z" creationid="2008l" creationdate="20240731T070011Z">
         <seg>水の杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stamp-out</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T100407Z" creationid="yumas" creationdate="20240803T100407Z">
+        <seg>を踏み消す</seg>
       </tuv>
     </tu>
     <tu>
