@@ -8086,6 +8086,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pick-lots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T003043Z" creationid="yumas" creationdate="20240803T003043Z">
+        <seg>から沢山とる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pick-orange</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112011Z" creationid="yumas" creationdate="20240731T111941Z">
@@ -11822,6 +11830,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take Rake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T002743Z" creationid="yumas" creationdate="20240803T002743Z">
+        <seg>かくを取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take Seed Dibber</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T002836Z" creationid="yumas" creationdate="20240803T002836Z">
+        <seg>から種まき器を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Take Spade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T002751Z" creationid="yumas" creationdate="20240803T002751Z">
+        <seg>からシャベルを取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take treasure</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T213225Z" creationid="yumas" creationdate="20240730T213225Z">
@@ -13636,6 +13668,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T002458Z" creationid="yumas" creationdate="20240803T002458Z">
         <seg>に燃料を加える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">42216</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Shared</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T002736Z" creationid="yumas" creationdate="20240803T002736Z">
+        <seg>共有</seg>
       </tuv>
     </tu>
   </body>
