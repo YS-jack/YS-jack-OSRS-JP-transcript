@@ -2750,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check totals</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T131958Z" creationid="yumas" creationdate="20240803T131958Z">
+        <seg>合計値を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check-Approval</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084629Z" creationid="2008l" creationdate="20240715T083625Z">
@@ -7506,6 +7514,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062909Z" creationid="2008l" creationdate="20240725T062909Z">
         <seg>法のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lay</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T131949Z" creationid="yumas" creationdate="20240803T131949Z">
+        <seg>備える</seg>
       </tuv>
     </tu>
     <tu>
@@ -12974,6 +12990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Split</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T131937Z" creationid="yumas" creationdate="20240803T131937Z">
+        <seg>別ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Squash</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T130411Z" creationid="yumas" creationdate="20240803T130411Z">
@@ -14832,6 +14856,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Translate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T132008Z" creationid="yumas" creationdate="20240803T132008Z">
+        <seg>翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Translation book</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T054402Z" creationid="2008l" creationdate="20240728T054402Z">
@@ -15764,6 +15796,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T124132Z" creationid="yumas" creationdate="20240731T124132Z">
         <seg>崇拝する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Write-Role</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T132625Z" creationid="yumas" creationdate="20240803T132625Z">
+        <seg>役割を書く</seg>
       </tuv>
     </tu>
     <tu>
