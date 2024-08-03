@@ -2646,6 +2646,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check-permissions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T114010Z" creationid="yumas" creationdate="20240803T114010Z">
+        <seg>権限を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check-pets</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110054Z" creationid="yumas" creationdate="20240713T102419Z">
@@ -3718,6 +3726,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Deposit-pickaxe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T113456Z" creationid="yumas" creationdate="20240803T113456Z">
+        <seg>ツルハシを預ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Deposit-runes</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T112020Z" creationid="yumas" creationdate="20240803T112020Z">
@@ -4738,6 +4754,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122745Z" creationid="yumas" creationdate="20240730T122745Z">
         <seg>外骨格を直す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Flip</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T113415Z" creationid="yumas" creationdate="20240803T113415Z">
+        <seg>裏返す</seg>
       </tuv>
     </tu>
     <tu>
@@ -9598,6 +9622,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Quick-Board</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T113459Z" creationid="yumas" creationdate="20240803T113459Z">
+        <seg>すぐに乗る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Quick-Enter</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T010330Z" creationid="yumas" creationdate="20240803T010330Z">
@@ -9614,6 +9646,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Quick-Pass</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T113320Z" creationid="yumas" creationdate="20240803T113320Z">
+        <seg>素早く通る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Quick-Pay(100)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112242Z" creationid="yumas" creationdate="20240731T112242Z">
@@ -9626,6 +9666,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T115117Z" creationid="yumas" creationdate="20240730T115117Z">
         <seg>すぐに移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Quick-Use</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T113457Z" creationid="yumas" creationdate="20240803T113457Z">
+        <seg>すぐ使う</seg>
       </tuv>
     </tu>
     <tu>
@@ -11002,6 +11050,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214109Z" creationid="yumas" creationdate="20240730T214109Z">
         <seg>を回す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rotate-anticlockwise</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T113432Z" creationid="yumas" creationdate="20240803T113432Z">
+        <seg>反時計回りに回転</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rotate-clockwise</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T113427Z" creationid="yumas" creationdate="20240803T113427Z">
+        <seg>時計回りに回転</seg>
       </tuv>
     </tu>
     <tu>
