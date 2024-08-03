@@ -5798,6 +5798,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Group</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130158Z" creationid="yumas" creationdate="20240803T130158Z">
+        <seg>グループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Guam leaf</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062130Z" creationid="2008l" creationdate="20240722T062130Z">
@@ -6158,6 +6166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130202Z" creationid="yumas" creationdate="20240803T130202Z">
+        <seg>情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Inject</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T003902Z" creationid="yumas" creationdate="20240803T003902Z">
@@ -6170,6 +6186,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T075139Z" creationid="2008l" creationdate="20240716T075139Z">
         <seg>防虫剤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Inside</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130151Z" creationid="yumas" creationdate="20240803T130151Z">
+        <seg>中</seg>
       </tuv>
     </tu>
     <tu>
@@ -8962,6 +8986,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T131437Z" creationid="yumas" creationdate="20240730T131437Z">
         <seg>その他のサービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Outside</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130153Z" creationid="yumas" creationdate="20240803T130153Z">
+        <seg>外</seg>
       </tuv>
     </tu>
     <tu>
@@ -15522,8 +15554,8 @@
       <tuv lang="en-GB">
         <seg>Wind</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T125916Z" creationid="yumas" creationdate="20240803T125916Z">
-        <seg>を巻く</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125951Z" creationid="yumas" creationdate="20240803T125916Z">
+        <seg>巻く</seg>
       </tuv>
     </tu>
     <tu>
@@ -16343,6 +16375,39 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T125852Z" creationid="yumas" creationdate="20240803T125852Z">
         <seg>の匂いをかぐ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41032</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Wind</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130005Z" creationid="yumas" creationdate="20240803T125956Z">
+        <seg>を巻く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41033</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Separate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130125Z" creationid="yumas" creationdate="20240803T130125Z">
+        <seg>を別ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41034</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Unstuff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130138Z" creationid="yumas" creationdate="20240803T130138Z">
+        <seg>の中身を取る</seg>
       </tuv>
     </tu>
   </body>
