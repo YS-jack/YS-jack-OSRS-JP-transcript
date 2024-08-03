@@ -5048,8 +5048,8 @@
       <tuv lang="en-GB">
         <seg>Heal</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T093148Z" creationid="yumas" creationdate="20240730T093148Z">
-        <seg>で回復</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T005452Z" creationid="yumas" creationdate="20240803T005428Z">
+        <seg>回復</seg>
       </tuv>
     </tu>
     <tu>
@@ -13703,6 +13703,17 @@
     </tu>
     <tu>
       <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41392</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Heal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T005443Z" creationid="yumas" creationdate="20240803T005351Z">
+        <seg>で回復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
       <prop type="id">41412</prop>
       <prop type="path">//transcript.db</prop>
       <tuv lang="en-GB">
@@ -13985,6 +13996,28 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T005230Z" creationid="yumas" creationdate="20240803T005230Z">
         <seg>を消火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">42258</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Heal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T005547Z" creationid="yumas" creationdate="20240803T005547Z">
+        <seg>で回復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">40989</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Heal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T005618Z" creationid="yumas" creationdate="20240803T005618Z">
+        <seg>で回復</seg>
       </tuv>
     </tu>
   </body>
