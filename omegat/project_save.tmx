@@ -4054,6 +4054,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Falador</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T010510Z" creationid="yumas" creationdate="20240803T010510Z">
+        <seg>ファラドー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Falador shield</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T073024Z" creationid="2008l" creationdate="20240727T070253Z">
@@ -5242,6 +5250,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T070921Z" creationid="2008l" creationdate="20240718T070921Z">
         <seg>氷の矢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iceberg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T010433Z" creationid="yumas" creationdate="20240803T010433Z">
+        <seg>氷山</seg>
       </tuv>
     </tu>
     <tu>
@@ -6946,6 +6962,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T054621Z" creationid="2008l" creationdate="20240728T054621Z">
         <seg>木材の注文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lumbridge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T010448Z" creationid="yumas" creationdate="20240803T010448Z">
+        <seg>ランブリッジ</seg>
       </tuv>
     </tu>
     <tu>
@@ -8830,6 +8854,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Quick-Enter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T010330Z" creationid="yumas" creationdate="20240803T010330Z">
+        <seg>すぐ入る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Quick-Pay(100)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112242Z" creationid="yumas" creationdate="20240731T112242Z">
@@ -10626,6 +10658,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100528Z" creationid="yumas" creationdate="20240730T100528Z">
         <seg>小包を送る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Senntisten</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T010528Z" creationid="yumas" creationdate="20240803T010528Z">
+        <seg>センチステン</seg>
       </tuv>
     </tu>
     <tu>
@@ -13416,6 +13456,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Watchtower</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T010308Z" creationid="yumas" creationdate="20240803T010308Z">
+        <seg>監視塔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Water</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T132921Z" creationid="yumas" creationdate="20240730T132921Z">
@@ -13628,6 +13676,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T124132Z" creationid="yumas" creationdate="20240731T124132Z">
         <seg>崇拝する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yanille</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T010328Z" creationid="yumas" creationdate="20240803T010328Z">
+        <seg>ヤニル</seg>
       </tuv>
     </tu>
     <tu>
