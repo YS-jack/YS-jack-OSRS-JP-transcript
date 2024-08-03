@@ -3104,8 +3104,8 @@
       <tuv lang="en-GB">
         <seg>Clear</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T093341Z" creationid="yumas" creationdate="20240730T093341Z">
-        <seg>を掃除する</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T132636Z" creationid="yumas" creationdate="20240730T093341Z">
+        <seg>をキレイにする</seg>
       </tuv>
     </tu>
     <tu>
@@ -8290,6 +8290,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110530Z" creationid="yumas" creationdate="20240730T110530Z">
         <seg>最高ヒットの種類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Medic</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T132955Z" creationid="yumas" creationdate="20240803T132955Z">
+        <seg>衛生兵</seg>
       </tuv>
     </tu>
     <tu>
@@ -14540,6 +14548,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T004230Z" creationid="yumas" creationdate="20240803T004230Z">
         <seg>目的地へワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tell-blue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T132713Z" creationid="yumas" creationdate="20240803T132706Z">
+        <seg>青と言う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tell-green</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T132704Z" creationid="yumas" creationdate="20240803T132704Z">
+        <seg>緑と言う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tell-red</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T132658Z" creationid="yumas" creationdate="20240803T132658Z">
+        <seg>赤と言う</seg>
       </tuv>
     </tu>
     <tu>
