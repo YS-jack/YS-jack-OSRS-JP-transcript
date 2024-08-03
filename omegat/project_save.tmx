@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Add-ingreds</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130418Z" creationid="yumas" creationdate="20240803T130418Z">
+        <seg>に材料を追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Add-mulch</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T114921Z" creationid="yumas" creationdate="20240803T114921Z">
@@ -3464,8 +3472,8 @@
       <tuv lang="en-GB">
         <seg>Convert</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T130116Z" creationid="yumas" creationdate="20240731T130110Z">
-        <seg>で変換</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130402Z" creationid="yumas" creationdate="20240731T130110Z">
+        <seg>変換</seg>
       </tuv>
     </tu>
     <tu>
@@ -4386,6 +4394,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T113145Z" creationid="yumas" creationdate="20240803T112742Z">
         <seg>強く加熱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dust-hands</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130243Z" creationid="yumas" creationdate="20240803T130243Z">
+        <seg>粉を手に付ける</seg>
       </tuv>
     </tu>
     <tu>
@@ -7474,6 +7490,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T065204Z" creationid="2008l" creationdate="20240723T065204Z">
         <seg>ラサスのお守り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Launch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130408Z" creationid="yumas" creationdate="20240803T130408Z">
+        <seg>放つ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12902,6 +12926,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Squash</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130411Z" creationid="yumas" creationdate="20240803T130411Z">
+        <seg>潰す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Squeeze-Through</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T121632Z" creationid="yumas" creationdate="20240803T121632Z">
@@ -14976,6 +15008,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Unpack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130602Z" creationid="yumas" creationdate="20240803T130602Z">
+        <seg>取り出す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Unpowered orb</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T082440Z" creationid="2008l" creationdate="20240726T062024Z">
@@ -16408,6 +16448,28 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T130138Z" creationid="yumas" creationdate="20240803T130138Z">
         <seg>の中身を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41047</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Invoke</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130310Z" creationid="yumas" creationdate="20240803T130310Z">
+        <seg>を発動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41048</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Divine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130357Z" creationid="yumas" creationdate="20240803T130357Z">
+        <seg>の残量確認</seg>
       </tuv>
     </tu>
   </body>
