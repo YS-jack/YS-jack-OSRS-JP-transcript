@@ -2774,6 +2774,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check-charge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125537Z" creationid="yumas" creationdate="20240803T125537Z">
+        <seg>チャージ確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check-costume</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T132943Z" creationid="yumas" creationdate="20240730T132943Z">
@@ -9654,6 +9662,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Play-With</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125511Z" creationid="yumas" creationdate="20240803T125511Z">
+        <seg>で遊ぶ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Play-quietly</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T111812Z" creationid="yumas" creationdate="20240803T111812Z">
@@ -12078,6 +12094,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Scan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125423Z" creationid="yumas" creationdate="20240803T125423Z">
+        <seg>スキャン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Scare</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T095820Z" creationid="yumas" creationdate="20240730T095820Z">
@@ -14182,6 +14206,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Talk-At</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125508Z" creationid="yumas" creationdate="20240803T125508Z">
+        <seg>に話しかける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Talk-To</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T204247Z" creationid="2008l" creationdate="20240715T204247Z">
@@ -14900,6 +14932,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T071731Z" creationid="2008l" creationdate="20240725T071731Z">
         <seg>切手のない手紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Untangle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125531Z" creationid="yumas" creationdate="20240803T125531Z">
+        <seg>ほどく</seg>
       </tuv>
     </tu>
     <tu>
@@ -16183,6 +16223,50 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T125026Z" creationid="yumas" creationdate="20240803T125026Z">
         <seg>を潰す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41013</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Scan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125441Z" creationid="yumas" creationdate="20240803T125441Z">
+        <seg>でスキャン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41014</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125435Z" creationid="yumas" creationdate="20240803T125435Z">
+        <seg>で連絡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41015</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Playback</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125504Z" creationid="yumas" creationdate="20240803T125504Z">
+        <seg>で再生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41021</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125710Z" creationid="yumas" creationdate="20240803T125710Z">
+        <seg>示す</seg>
       </tuv>
     </tu>
   </body>
