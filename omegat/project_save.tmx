@@ -1982,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Camelot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T010218Z" creationid="yumas" creationdate="20240803T010218Z">
+        <seg>カメロット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Candle</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T131323Z" creationid="2008l" creationdate="20240716T075541Z">
@@ -2170,6 +2178,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T124926Z" creationid="yumas" creationdate="20240730T124926Z">
         <seg>をチャージする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Charge-at</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T005949Z" creationid="yumas" creationdate="20240803T005949Z">
+        <seg>でチャージする</seg>
       </tuv>
     </tu>
     <tu>
@@ -4742,6 +4758,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Grand Exchange</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T010148Z" creationid="yumas" creationdate="20240803T010148Z">
+        <seg>グランド・エクスチェンジ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Grapple</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T124255Z" creationid="yumas" creationdate="20240731T124255Z">
@@ -6878,6 +6902,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Look-through</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T005945Z" creationid="yumas" creationdate="20240803T005945Z">
+        <seg>越しに見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Look-under</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214714Z" creationid="yumas" creationdate="20240730T214714Z">
@@ -8822,6 +8854,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Quick-enter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T010000Z" creationid="yumas" creationdate="20240803T010000Z">
+        <seg>すぐ入る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Quick-escape</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122700Z" creationid="yumas" creationdate="20240730T122700Z">
@@ -9410,6 +9450,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T125210Z" creationid="yumas" creationdate="20240731T125210Z">
         <seg>ウェーブをリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Resign</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T010008Z" creationid="yumas" creationdate="20240803T010002Z">
+        <seg>諦める</seg>
       </tuv>
     </tu>
     <tu>
@@ -10562,6 +10610,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T003851Z" creationid="yumas" creationdate="20240803T003851Z">
         <seg>種</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Seers' Village</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T010251Z" creationid="yumas" creationdate="20240803T010251Z">
+        <seg>シアーズ村</seg>
       </tuv>
     </tu>
     <tu>
@@ -12632,6 +12688,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Toggle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T010158Z" creationid="yumas" creationdate="20240803T010158Z">
+        <seg>切り替える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Toggle Counter</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100013Z" creationid="yumas" creationdate="20240730T100013Z">
@@ -13108,6 +13172,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T130257Z" creationid="yumas" creationdate="20240730T130257Z">
         <seg>価値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Varrock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T010021Z" creationid="yumas" creationdate="20240803T010021Z">
+        <seg>バロック</seg>
       </tuv>
     </tu>
     <tu>
