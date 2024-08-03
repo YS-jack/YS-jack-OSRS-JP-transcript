@@ -13046,6 +13046,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stamina Boost</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130919Z" creationid="yumas" creationdate="20240803T130919Z">
+        <seg>スタミナをブースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stamp-out</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T100407Z" creationid="yumas" creationdate="20240803T100407Z">
@@ -14456,6 +14464,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tele to POH</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T131459Z" creationid="yumas" creationdate="20240803T131459Z">
+        <seg>家にワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Teleport</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T090151Z" creationid="yumas" creationdate="20240730T090151Z">
@@ -14620,6 +14636,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T131810Z" creationid="yumas" creationdate="20240731T131810Z">
         <seg>K/Dを切り替える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Toggle Respawn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130828Z" creationid="yumas" creationdate="20240803T130828Z">
+        <seg>リスポーン地点を切り替える</seg>
       </tuv>
     </tu>
     <tu>
