@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blackout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T122908Z" creationid="yumas" creationdate="20240803T122908Z">
+        <seg>ブラックアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bless</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T121617Z" creationid="yumas" creationdate="20240803T121617Z">
@@ -4398,6 +4406,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Empty Bowl</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123004Z" creationid="yumas" creationdate="20240803T123004Z">
+        <seg>ボールを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Empty Tin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123149Z" creationid="yumas" creationdate="20240803T123149Z">
+        <seg>缶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Empty Tray</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123108Z" creationid="yumas" creationdate="20240803T123108Z">
+        <seg>トレーを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Empty oyster</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T053812Z" creationid="2008l" creationdate="20240723T064615Z">
@@ -5882,6 +5914,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T105946Z" creationid="yumas" creationdate="20240713T101034Z">
         <seg>を当てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hold</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T122900Z" creationid="yumas" creationdate="20240803T122900Z">
+        <seg>掴む</seg>
       </tuv>
     </tu>
     <tu>
@@ -7614,6 +7654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Locate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T122924Z" creationid="yumas" creationdate="20240803T122924Z">
+        <seg>方向確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Locating crystal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T064107Z" creationid="2008l" creationdate="20240725T065312Z">
@@ -8426,6 +8474,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T065216Z" creationid="2008l" creationdate="20240731T065216Z">
         <seg>ミスリルの戦鎚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mix-cocktail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123039Z" creationid="yumas" creationdate="20240803T123039Z">
+        <seg>カクテルを混ぜる</seg>
       </tuv>
     </tu>
     <tu>
@@ -9670,6 +9726,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Prepare</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123057Z" creationid="yumas" creationdate="20240803T123057Z">
+        <seg>準備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Prepare-fish</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T111339Z" creationid="yumas" creationdate="20240803T111339Z">
@@ -10574,6 +10638,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Remove-legs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T123049Z" creationid="yumas" creationdate="20240803T123049Z">
+        <seg>足を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Remove-outfit</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T110910Z" creationid="yumas" creationdate="20240803T110910Z">
@@ -11394,6 +11466,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T113427Z" creationid="yumas" creationdate="20240803T113427Z">
         <seg>時計回りに回転</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rub</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T122947Z" creationid="yumas" creationdate="20240803T122947Z">
+        <seg>こする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rub-together</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T122941Z" creationid="yumas" creationdate="20240803T122941Z">
+        <seg>こすり合う</seg>
       </tuv>
     </tu>
     <tu>
