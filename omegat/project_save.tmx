@@ -12446,10 +12446,50 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shape-Air</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130735Z" creationid="yumas" creationdate="20240803T130735Z">
+        <seg>大気の形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shape-Canoe</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120420Z" creationid="yumas" creationdate="20240731T120420Z">
         <seg>カヌーを作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shape-Earth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130730Z" creationid="yumas" creationdate="20240803T130730Z">
+        <seg>土の形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shape-Fire</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130740Z" creationid="yumas" creationdate="20240803T130740Z">
+        <seg>火の形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shape-Mind</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130801Z" creationid="yumas" creationdate="20240803T130801Z">
+        <seg>心の形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shape-Water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130743Z" creationid="yumas" creationdate="20240803T130743Z">
+        <seg>水の形</seg>
       </tuv>
     </tu>
     <tu>
@@ -14556,6 +14596,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100013Z" creationid="yumas" creationdate="20240730T100013Z">
         <seg>カウンターの切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Toggle Effect</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T130811Z" creationid="yumas" creationdate="20240803T130811Z">
+        <seg>の効果を切り替える</seg>
       </tuv>
     </tu>
     <tu>
