@@ -2478,6 +2478,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125741Z" creationid="yumas" creationdate="20240803T125741Z">
+        <seg>唱える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Chaos gauntlets</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T060715Z" creationid="2008l" creationdate="20240728T054012Z">
@@ -10710,6 +10718,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Release-all</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125856Z" creationid="yumas" creationdate="20240803T125856Z">
+        <seg>を全て開放</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Release-bees</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T114839Z" creationid="yumas" creationdate="20240803T114839Z">
@@ -10842,6 +10858,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T110910Z" creationid="yumas" creationdate="20240803T110910Z">
         <seg>服装を外す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Remove-rat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125812Z" creationid="yumas" creationdate="20240803T125812Z">
+        <seg>ネズミを取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -15496,6 +15520,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wind</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125916Z" creationid="yumas" creationdate="20240803T125916Z">
+        <seg>を巻く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Wind-up</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T130908Z" creationid="yumas" creationdate="20240731T130908Z">
@@ -16267,6 +16299,50 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T125710Z" creationid="yumas" creationdate="20240803T125710Z">
         <seg>示す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41022</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Question</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125720Z" creationid="yumas" creationdate="20240803T125720Z">
+        <seg>質問する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41024</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Feel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125800Z" creationid="yumas" creationdate="20240803T125800Z">
+        <seg>を手で感じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41027</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Bow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125824Z" creationid="yumas" creationdate="20240803T125824Z">
+        <seg>お辞儀する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41030</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Smell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125852Z" creationid="yumas" creationdate="20240803T125852Z">
+        <seg>の匂いをかぐ</seg>
       </tuv>
     </tu>
   </body>
