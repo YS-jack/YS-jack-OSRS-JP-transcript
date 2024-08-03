@@ -2198,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Champions' Guild</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T032148Z" creationid="yumas" creationdate="20240803T032148Z">
+        <seg>チャンピオン・ギルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Change-clothes</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120614Z" creationid="yumas" creationdate="20240731T120614Z">
@@ -7802,6 +7810,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064016Z" creationid="2008l" creationdate="20240726T064016Z">
         <seg>混合した化学物質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Monastery</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T032208Z" creationid="yumas" creationdate="20240803T032208Z">
+        <seg>修道院</seg>
       </tuv>
     </tu>
     <tu>
@@ -13764,6 +13780,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T070821Z" creationid="2008l" creationdate="20240731T070821Z">
         <seg>戦鎚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Warriors' Guild</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T032047Z" creationid="yumas" creationdate="20240803T032047Z">
+        <seg>戦士ギルド</seg>
       </tuv>
     </tu>
     <tu>
