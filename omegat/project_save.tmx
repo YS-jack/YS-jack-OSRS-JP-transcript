@@ -2326,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Channel (Great Kourend)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T115449Z" creationid="yumas" creationdate="20240803T115449Z">
+        <seg>転換（グレート・クーレンド）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Channel (Kandarin)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T101217Z" creationid="yumas" creationdate="20240803T101217Z">
@@ -10486,6 +10494,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T115139Z" creationid="yumas" creationdate="20240803T115139Z">
+        <seg>で休む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Restore potion(1)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T065400Z" creationid="2008l" creationdate="20240721T065400Z">
@@ -10518,6 +10534,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Retrieve-egg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T115317Z" creationid="yumas" creationdate="20240803T115317Z">
+        <seg>卵を回収</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Return</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112200Z" creationid="yumas" creationdate="20240731T112200Z">
@@ -10546,6 +10570,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T130545Z" creationid="yumas" creationdate="20240731T130545Z">
         <seg>パタードマスに帰る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Revert</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T115334Z" creationid="yumas" creationdate="20240803T115334Z">
+        <seg>戻る</seg>
       </tuv>
     </tu>
     <tu>
