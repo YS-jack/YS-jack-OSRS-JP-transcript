@@ -246,7 +246,7 @@ source: Steel key ring
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4446</xliff:note></xliff:trans-unit><xliff:trans-unit id="41000"><xliff:source>Dance</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Rubber chicken
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4566</xliff:note></xliff:trans-unit><xliff:trans-unit id="41001"><xliff:source>Assemble</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4566</xliff:note></xliff:trans-unit><xliff:trans-unit id="41001"><xliff:source>Assemble</xliff:source><xliff:target state="translated">組み立てる</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Base schematics
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4574</xliff:note></xliff:trans-unit><xliff:trans-unit id="41002"><xliff:source>Spin</xliff:source><xliff:target state="translated">回す</xliff:target><xliff:note>category: inventoryActions
@@ -399,7 +399,7 @@ source: Grand seed pod
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9469</xliff:note></xliff:trans-unit><xliff:trans-unit id="41051"><xliff:source>Squash</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Grand seed pod
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9469</xliff:note></xliff:trans-unit><xliff:trans-unit id="41052"><xliff:source>Pour</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9469</xliff:note></xliff:trans-unit><xliff:trans-unit id="41052"><xliff:source>Pour</xliff:source><xliff:target state="translated">注ぐ</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Mixed blizzard
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9566</xliff:note></xliff:trans-unit><xliff:trans-unit id="41053"><xliff:source>Add-ingreds</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -561,7 +561,7 @@ source: Herb box
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11738</xliff:note></xliff:trans-unit><xliff:trans-unit id="41105"><xliff:source>Refund</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Scroll of redirection
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11740</xliff:note></xliff:trans-unit><xliff:trans-unit id="41106"><xliff:source>Revert</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11740</xliff:note></xliff:trans-unit><xliff:trans-unit id="41106"><xliff:source>Revert</xliff:source><xliff:target state="translated">戻る</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Rimmington teleport
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11741</xliff:note></xliff:trans-unit><xliff:trans-unit id="41107"><xliff:source>Dismantle</xliff:source><xliff:target state="translated">を除去する</xliff:target><xliff:note>category: inventoryActions
@@ -639,7 +639,7 @@ source: Desert amulet 4
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13136</xliff:note></xliff:trans-unit><xliff:trans-unit id="41131"><xliff:source>Emote</xliff:source><xliff:target state="translated">エモート</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Diango's claws
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13188</xliff:note></xliff:trans-unit><xliff:trans-unit id="41132"><xliff:source>Redeem</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13188</xliff:note></xliff:trans-unit><xliff:trans-unit id="41132"><xliff:source>Redeem</xliff:source><xliff:target state="translated">引き換える</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Old school bond
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13190</xliff:note></xliff:trans-unit><xliff:trans-unit id="41133"><xliff:source>Restore</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
@@ -852,7 +852,7 @@ source: Crystal of memories
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25104</xliff:note></xliff:trans-unit><xliff:trans-unit id="41202"><xliff:source>Check-memories</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Crystal of memories
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25104</xliff:note></xliff:trans-unit><xliff:trans-unit id="41203"><xliff:source>Withdraw</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25104</xliff:note></xliff:trans-unit><xliff:trans-unit id="41203"><xliff:source>Withdraw</xliff:source><xliff:target state="translated">引き出す</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Extradimensional bag
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25106</xliff:note></xliff:trans-unit><xliff:trans-unit id="41204"><xliff:source>Settings/Destroy</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
