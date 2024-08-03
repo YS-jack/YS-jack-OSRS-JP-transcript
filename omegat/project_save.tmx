@@ -2798,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check-keys</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T124400Z" creationid="yumas" creationdate="20240803T124400Z">
+        <seg>鍵を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check-permissions</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T114010Z" creationid="yumas" creationdate="20240803T114010Z">
@@ -3810,6 +3818,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T062743Z" creationid="2008l" creationdate="20240726T062743Z">
         <seg>破損した胸甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T124409Z" creationid="yumas" creationdate="20240803T124405Z">
+        <seg>と踊る</seg>
       </tuv>
     </tu>
     <tu>
@@ -9222,6 +9238,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Peel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T124514Z" creationid="yumas" creationdate="20240803T124514Z">
+        <seg>むく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Peer-into</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T114153Z" creationid="yumas" creationdate="20240803T114153Z">
@@ -10770,6 +10794,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T123937Z" creationid="yumas" creationdate="20240803T123937Z">
         <seg>フタを取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Remove-one</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T124416Z" creationid="yumas" creationdate="20240803T124416Z">
+        <seg>から一つ取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -12586,6 +12618,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T121447Z" creationid="yumas" creationdate="20240731T121447Z">
         <seg>で寝る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Slice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T124457Z" creationid="yumas" creationdate="20240803T124436Z">
+        <seg>スライス</seg>
       </tuv>
     </tu>
     <tu>
@@ -16086,6 +16126,39 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T124354Z" creationid="yumas" creationdate="20240803T124354Z">
         <seg>を数える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41006</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Slice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T124506Z" creationid="yumas" creationdate="20240803T124506Z">
+        <seg>をうすく切る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41007</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Peel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T124520Z" creationid="yumas" creationdate="20240803T124520Z">
+        <seg>をむく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41008</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Mash</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T125026Z" creationid="yumas" creationdate="20240803T125026Z">
+        <seg>を潰す</seg>
       </tuv>
     </tu>
   </body>
