@@ -13530,8 +13530,8 @@
       <tuv lang="en-GB">
         <seg>Waterbirth Island</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T100235Z" creationid="yumas" creationdate="20240730T100227Z">
-        <seg>でウオーターバース島へ移動</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T011119Z" creationid="yumas" creationdate="20240730T100227Z">
+        <seg>ウオーターバース島</seg>
       </tuv>
     </tu>
     <tu>
@@ -13908,6 +13908,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T003248Z" creationid="yumas" creationdate="20240803T003248Z">
         <seg>前払い金を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41441</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Waterbirth Island</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T011134Z" creationid="yumas" creationdate="20240803T011134Z">
+        <seg>でウオーターバース島へ移動</seg>
       </tuv>
     </tu>
     <tu>
