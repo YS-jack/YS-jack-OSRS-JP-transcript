@@ -2614,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check-Fee</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T114127Z" creationid="yumas" creationdate="20240803T114127Z">
+        <seg>料金を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check-ammo</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T131620Z" creationid="yumas" creationdate="20240730T131620Z">
@@ -2674,6 +2682,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T100447Z" creationid="yumas" creationdate="20240803T100447Z">
         <seg>統計を確認（個人）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Check-times</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T114025Z" creationid="yumas" creationdate="20240803T114025Z">
+        <seg>回数を確認</seg>
       </tuv>
     </tu>
     <tu>
@@ -8846,6 +8862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Peer-into</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T114153Z" creationid="yumas" creationdate="20240803T114153Z">
+        <seg>を覗き込む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Peer-through</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T130434Z" creationid="yumas" creationdate="20240731T130434Z">
@@ -9082,6 +9106,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T060257Z" creationid="2008l" creationdate="20240715T060257Z">
         <seg>から盗む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pickup</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T114013Z" creationid="yumas" creationdate="20240803T114013Z">
+        <seg>拾う</seg>
       </tuv>
     </tu>
     <tu>
@@ -9561,6 +9593,14 @@
         <seg>Push</seg>
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240714T212431Z" creationid="b0sh" creationdate="20240714T212355Z">
+        <seg>を押す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Push-against</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T114029Z" creationid="yumas" creationdate="20240803T114029Z">
         <seg>を押す</seg>
       </tuv>
     </tu>
@@ -10178,6 +10218,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112138Z" creationid="yumas" creationdate="20240731T112138Z">
         <seg>を開放</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Release-bees</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T114839Z" creationid="yumas" creationdate="20240803T114839Z">
+        <seg>ハチを開放</seg>
       </tuv>
     </tu>
     <tu>
