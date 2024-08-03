@@ -2270,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Channel (Karamja)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T101533Z" creationid="yumas" creationdate="20240803T101533Z">
+        <seg>を転換（カラムジャ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Channel (Kharidian Desert)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T101413Z" creationid="yumas" creationdate="20240803T101413Z">
@@ -2298,6 +2306,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T101515Z" creationid="yumas" creationdate="20240803T101515Z">
         <seg>を転換（ティランワン）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Channel (Wilderness)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T101659Z" creationid="yumas" creationdate="20240803T101659Z">
+        <seg>を転換（ウィルダネス）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8302,6 +8318,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Open (normal)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T102428Z" creationid="yumas" creationdate="20240803T102428Z">
+        <seg>開く（通常）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Open Adventure Paths</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122927Z" creationid="yumas" creationdate="20240730T122927Z">
@@ -11634,6 +11658,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T213026Z" creationid="yumas" creationdate="20240730T213026Z">
         <seg>切り裂く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Slayer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240803T101730Z" creationid="yumas" creationdate="20240803T101730Z">
+        <seg>討伐</seg>
       </tuv>
     </tu>
     <tu>
