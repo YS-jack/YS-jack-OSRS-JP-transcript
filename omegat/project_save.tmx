@@ -4662,6 +4662,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Elite</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T051230Z" creationid="yumas" creationdate="20240804T051230Z">
+        <seg>超級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Emote</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T133212Z" creationid="yumas" creationdate="20240730T133212Z">
@@ -14358,6 +14366,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take fish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T050859Z" creationid="yumas" creationdate="20240804T050859Z">
+        <seg>魚を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take tools</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T004123Z" creationid="yumas" creationdate="20240803T004123Z">
@@ -15212,6 +15228,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110231Z" creationid="yumas" creationdate="20240730T110231Z">
         <seg>で警告表示を切り替える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Toggle-absorption</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T050916Z" creationid="yumas" creationdate="20240804T050916Z">
+        <seg>吸収の切り替え</seg>
       </tuv>
     </tu>
     <tu>
