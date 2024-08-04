@@ -2446,6 +2446,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Change-style</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T050414Z" creationid="yumas" creationdate="20240804T050414Z">
+        <seg>見た目を変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Channel (Asgarnia)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T101113Z" creationid="yumas" creationdate="20240803T101108Z">
@@ -6486,6 +6494,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Invigorate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T050334Z" creationid="yumas" creationdate="20240804T050334Z">
+        <seg>活性化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Invitation letter</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T062532Z" creationid="2008l" creationdate="20240726T062532Z">
@@ -9222,6 +9238,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T050359Z" creationid="yumas" creationdate="20240804T050353Z">
+        <seg>オプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Orange cape</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T082506Z" creationid="2008l" creationdate="20240729T064711Z">
@@ -9322,6 +9346,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120516Z" creationid="yumas" creationdate="20240731T120516Z">
         <seg>丸太を漕ぐ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pages</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T050255Z" creationid="yumas" creationdate="20240804T050255Z">
+        <seg>ページ</seg>
       </tuv>
     </tu>
     <tu>
@@ -17101,6 +17133,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T045612Z" creationid="yumas" creationdate="20240804T045612Z">
         <seg>漬物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41152</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Snow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T050349Z" creationid="yumas" creationdate="20240804T050349Z">
+        <seg>雪を降らす</seg>
       </tuv>
     </tu>
   </body>
