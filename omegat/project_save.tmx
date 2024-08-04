@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Attune</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T053322Z" creationid="yumas" creationdate="20240804T053322Z">
+        <seg>調和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Auto-afk</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T052521Z" creationid="yumas" creationdate="20240804T052521Z">
@@ -8546,6 +8554,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T113021Z" creationid="yumas" creationdate="20240731T113021Z">
         <seg>を作る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Make scary noise</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T141803Z" creationid="yumas" creationdate="20240804T141803Z">
+        <seg>怖い音をたてる</seg>
       </tuv>
     </tu>
     <tu>
