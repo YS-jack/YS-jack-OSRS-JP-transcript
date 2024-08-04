@@ -2454,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Channel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T050643Z" creationid="yumas" creationdate="20240804T050643Z">
+        <seg>転換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Channel (Asgarnia)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T101113Z" creationid="yumas" creationdate="20240803T101108Z">
@@ -2918,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check-level</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T050636Z" creationid="yumas" creationdate="20240804T050636Z">
+        <seg>レベルを確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check-permissions</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T114010Z" creationid="yumas" creationdate="20240803T114010Z">
@@ -2994,6 +3010,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240719T064830Z" creationid="2008l" creationdate="20240719T064830Z">
         <seg>子供の毛布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chill</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T050418Z" creationid="yumas" creationdate="20240804T050418Z">
+        <seg>チル</seg>
       </tuv>
     </tu>
     <tu>
@@ -10382,6 +10406,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Puff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T050854Z" creationid="yumas" creationdate="20240804T050854Z">
+        <seg>空気を抜く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pull</seg>
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240714T212426Z" creationid="b0sh" creationdate="20240714T212426Z">
@@ -11186,6 +11218,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221630Z" creationid="yumas" creationdate="20240730T221630Z">
         <seg>ボードの告知を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Remove default</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T050525Z" creationid="yumas" creationdate="20240804T050525Z">
+        <seg>即値を除く</seg>
       </tuv>
     </tu>
     <tu>
@@ -15036,6 +15076,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120935Z" creationid="yumas" creationdate="20240731T120935Z">
         <seg>に投げる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Throw-water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T050531Z" creationid="yumas" creationdate="20240804T050531Z">
+        <seg>水を投げる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Throw-water direction</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T050630Z" creationid="yumas" creationdate="20240804T050630Z">
+        <seg>水を投げる方向</seg>
       </tuv>
     </tu>
     <tu>
