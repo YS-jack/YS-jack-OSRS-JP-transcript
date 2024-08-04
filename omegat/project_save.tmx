@@ -2966,6 +2966,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chew</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T045804Z" creationid="yumas" creationdate="20240804T045804Z">
+        <seg>かむ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Child's blanket</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240719T064830Z" creationid="2008l" creationdate="20240719T064830Z">
@@ -3506,6 +3514,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T100935Z" creationid="yumas" creationdate="20240803T100935Z">
         <seg>呼び出す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Consume</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T045621Z" creationid="yumas" creationdate="20240804T045621Z">
+        <seg>消費</seg>
       </tuv>
     </tu>
     <tu>
@@ -5330,6 +5346,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T123408Z" creationid="yumas" creationdate="20240731T123408Z">
         <seg>フレンドの家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fry</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T045523Z" creationid="yumas" creationdate="20240804T045523Z">
+        <seg>揚げる</seg>
       </tuv>
     </tu>
     <tu>
@@ -8496,8 +8520,8 @@
       <tuv lang="en-GB">
         <seg>Metamorphosis</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T110112Z" creationid="yumas" creationdate="20240713T102942Z">
-        <seg>で変身</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T045641Z" creationid="yumas" creationdate="20240713T102942Z">
+        <seg>変身</seg>
       </tuv>
     </tu>
     <tu>
@@ -14494,6 +14518,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-grubs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T045840Z" creationid="yumas" creationdate="20240804T045840Z">
+        <seg>食べ物を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-hammer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T134311Z" creationid="yumas" creationdate="20240731T134311Z">
@@ -14804,6 +14836,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T004230Z" creationid="yumas" creationdate="20240803T004230Z">
         <seg>目的地へワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teleports</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T045635Z" creationid="yumas" creationdate="20240804T045635Z">
+        <seg>ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16999,6 +17039,28 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T045333Z" creationid="yumas" creationdate="20240804T045333Z">
         <seg>復元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41135</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Poach</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T045517Z" creationid="yumas" creationdate="20240804T045517Z">
+        <seg>調理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41137</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Pickle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T045612Z" creationid="yumas" creationdate="20240804T045612Z">
+        <seg>漬物</seg>
       </tuv>
     </tu>
   </body>
