@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Assessment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T051433Z" creationid="yumas" creationdate="20240804T051433Z">
+        <seg>アセスメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Assignment</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084419Z" creationid="yumas" creationdate="20240730T084419Z">
@@ -3600,8 +3608,8 @@
       <tuv lang="en-GB">
         <seg>Control</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T112155Z" creationid="yumas" creationdate="20240731T112155Z">
-        <seg>コントロール</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T051507Z" creationid="yumas" creationdate="20240731T112155Z">
+        <seg>操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -15832,6 +15840,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ver Sinhaza</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052228Z" creationid="yumas" creationdate="20240804T052228Z">
+        <seg>ベー・シンハザ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Vial</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T134811Z" creationid="2008l" creationdate="20240721T070203Z">
@@ -17232,6 +17248,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T050349Z" creationid="yumas" creationdate="20240804T050349Z">
         <seg>雪を降らす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41173</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Bloom</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T051524Z" creationid="yumas" creationdate="20240804T051524Z">
+        <seg>咲かせる</seg>
       </tuv>
     </tu>
   </body>
