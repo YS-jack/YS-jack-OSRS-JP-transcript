@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Activity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T043840Z" creationid="yumas" creationdate="20240804T043840Z">
+        <seg>活動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant 2h sword</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064634Z" creationid="2008l" creationdate="20240731T064634Z">
@@ -1954,6 +1962,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T064930Z" creationid="2008l" creationdate="20240729T064930Z">
         <seg>うさ耳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burgh Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T043830Z" creationid="yumas" creationdate="20240804T043830Z">
+        <seg>でバーグへワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -4546,6 +4562,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T122401Z" creationid="yumas" creationdate="20240731T122401Z">
         <seg>から食べる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ecto Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T043748Z" creationid="yumas" creationdate="20240804T043731Z">
+        <seg>でエクトーヘワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -10794,6 +10818,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T005126Z" creationid="yumas" creationdate="20240803T005126Z">
         <seg>宝石をチャージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Recharge-prayer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T044622Z" creationid="yumas" creationdate="20240804T044622Z">
+        <seg>祈力を回復</seg>
       </tuv>
     </tu>
     <tu>
