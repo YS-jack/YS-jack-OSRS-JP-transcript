@@ -9982,6 +9982,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Poach</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T045446Z" creationid="yumas" creationdate="20240804T045446Z">
+        <seg>ポーチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Poison</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062528Z" creationid="2008l" creationdate="20240722T062528Z">
@@ -12466,6 +12474,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T065359Z" creationid="2008l" creationdate="20240724T065359Z">
         <seg>サソリの檻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Scramble</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T045444Z" creationid="yumas" creationdate="20240804T045444Z">
+        <seg>スクランブル</seg>
       </tuv>
     </tu>
     <tu>
@@ -16972,6 +16988,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T140100Z" creationid="yumas" creationdate="20240803T140100Z">
         <seg>完成度を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41133</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T045333Z" creationid="yumas" creationdate="20240804T045333Z">
+        <seg>復元</seg>
       </tuv>
     </tu>
   </body>
