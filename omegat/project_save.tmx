@@ -2966,6 +2966,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check-memories</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052931Z" creationid="yumas" creationdate="20240804T052931Z">
+        <seg>記憶を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check-permissions</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T114010Z" creationid="yumas" creationdate="20240803T114010Z">
@@ -7878,6 +7886,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>League 2 Debug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052948Z" creationid="yumas" creationdate="20240804T052948Z">
+        <seg>リーグ２デバッグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>League 3 Debug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052952Z" creationid="yumas" creationdate="20240804T052952Z">
+        <seg>リーグ３デバッグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>League Setup</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052943Z" creationid="yumas" creationdate="20240804T052943Z">
+        <seg>リーグのセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>League-firsts</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T111251Z" creationid="yumas" creationdate="20240803T111251Z">
@@ -9082,6 +9114,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T061828Z" creationid="2008l" creationdate="20240725T062249Z">
         <seg>僧侶のローブ上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mor Ul Rek</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T053125Z" creationid="yumas" creationdate="20240804T053125Z">
+        <seg>モー・ウル・レク</seg>
       </tuv>
     </tu>
     <tu>
@@ -12726,6 +12766,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Scatter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T053050Z" creationid="yumas" creationdate="20240804T053050Z">
+        <seg>散らす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Scoreboard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T210726Z" creationid="yumas" creationdate="20240730T210726Z">
@@ -12930,6 +12978,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T130342Z" creationid="yumas" creationdate="20240730T130320Z">
         <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Settings/Destroy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052937Z" creationid="yumas" creationdate="20240804T052937Z">
+        <seg>設定・破壊</seg>
       </tuv>
     </tu>
     <tu>
@@ -15112,6 +15168,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Teleport-back</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052923Z" creationid="yumas" creationdate="20240804T052923Z">
+        <seg>ワープで戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Teleports</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T045635Z" creationid="yumas" creationdate="20240804T045635Z">
@@ -15392,6 +15456,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Toggle-colour</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T053000Z" creationid="yumas" creationdate="20240804T053000Z">
+        <seg>色の切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Toggle-minerals</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T114357Z" creationid="yumas" creationdate="20240730T114316Z">
@@ -15656,6 +15728,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Trollheim</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T053102Z" creationid="yumas" creationdate="20240804T053102Z">
+        <seg>トロールハイム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Trout</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T062505Z" creationid="2008l" creationdate="20240723T062505Z">
@@ -15748,6 +15828,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T074554Z" creationid="2008l" creationdate="20240728T054802Z">
         <seg>小枝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Unattune</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T053312Z" creationid="yumas" creationdate="20240804T053312Z">
+        <seg>不調和</seg>
       </tuv>
     </tu>
     <tu>
