@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Auto-afk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052521Z" creationid="yumas" creationdate="20240804T052521Z">
+        <seg>自動AFK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Avantoe</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062153Z" creationid="2008l" creationdate="20240722T062153Z">
@@ -2446,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Change</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052408Z" creationid="yumas" creationdate="20240804T052408Z">
+        <seg>変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Change-clothes</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120614Z" creationid="yumas" creationdate="20240731T120614Z">
@@ -4010,6 +4026,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T072458Z" creationid="2008l" creationdate="20240727T065310Z">
         <seg>暗黒の短剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Darkmeyer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052251Z" creationid="yumas" creationdate="20240804T052251Z">
+        <seg>ダーク・メヤー</seg>
       </tuv>
     </tu>
     <tu>
@@ -7166,6 +7190,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Kill Area</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052406Z" creationid="yumas" creationdate="20240804T052406Z">
+        <seg>範囲抹殺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kill Bot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052355Z" creationid="yumas" creationdate="20240804T052355Z">
+        <seg>ボット抹殺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Kill-count</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110616Z" creationid="yumas" creationdate="20240730T110616Z">
@@ -9274,6 +9314,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122927Z" creationid="yumas" creationdate="20240730T122927Z">
         <seg>冒険の旅路を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Open-all</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052526Z" creationid="yumas" creationdate="20240804T052526Z">
+        <seg>全て開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -13206,6 +13254,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Slepe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052319Z" creationid="yumas" creationdate="20240804T052319Z">
+        <seg>スレペ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Slice</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T124457Z" creationid="yumas" creationdate="20240803T124436Z">
@@ -14924,6 +14980,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T115927Z" creationid="yumas" creationdate="20240731T115927Z">
         <seg>かみしめる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tele</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052325Z" creationid="yumas" creationdate="20240804T052325Z">
+        <seg>ワープ</seg>
       </tuv>
     </tu>
     <tu>
