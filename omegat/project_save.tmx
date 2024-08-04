@@ -2758,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check charges</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T045919Z" creationid="yumas" creationdate="20240804T045919Z">
+        <seg>チャージ確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check count</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T003844Z" creationid="yumas" creationdate="20240803T003844Z">
@@ -3458,6 +3466,14 @@
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240716T184603Z" creationid="b0sh" creationdate="20240716T184517Z">
         <seg>から報酬を回収</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Combine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T050023Z" creationid="yumas" creationdate="20240804T050023Z">
+        <seg>組み合わせる</seg>
       </tuv>
     </tu>
     <tu>
@@ -9286,6 +9302,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T045917Z" creationid="yumas" creationdate="20240804T045917Z">
+        <seg>詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Paddle Canoe</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120521Z" creationid="yumas" creationdate="20240731T120521Z">
@@ -10930,6 +10954,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T135039Z" creationid="yumas" creationdate="20240803T135026Z">
         <seg>祈りを唱える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Recoil settings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T050116Z" creationid="yumas" creationdate="20240804T050116Z">
+        <seg>反射の設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -15244,6 +15276,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T114944Z" creationid="yumas" creationdate="20240730T114944Z">
         <seg>鍛える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Transform</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T045923Z" creationid="yumas" creationdate="20240804T045923Z">
+        <seg>変身</seg>
       </tuv>
     </tu>
     <tu>
