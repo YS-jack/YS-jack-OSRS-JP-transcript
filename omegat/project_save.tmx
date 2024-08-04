@@ -2926,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Check-eggs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052819Z" creationid="yumas" creationdate="20240804T052819Z">
+        <seg>卵を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check-gates</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T095921Z" creationid="yumas" creationdate="20240730T095921Z">
@@ -2994,6 +3002,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T114025Z" creationid="yumas" creationdate="20240803T114025Z">
         <seg>回数を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Check/Uncharge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052731Z" creationid="yumas" creationdate="20240804T052731Z">
+        <seg>確認・チャージ解除</seg>
       </tuv>
     </tu>
     <tu>
@@ -3982,6 +3998,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cut-open</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052814Z" creationid="yumas" creationdate="20240804T052814Z">
+        <seg>切り開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cut-vine</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T122002Z" creationid="yumas" creationdate="20240731T122002Z">
@@ -4662,6 +4686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Easter dance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052805Z" creationid="yumas" creationdate="20240804T052805Z">
+        <seg>イースター・ダンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Eat</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T122401Z" creationid="yumas" creationdate="20240731T122401Z">
@@ -5170,6 +5202,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T014902Z" creationid="yumas" creationdate="20240803T014902Z">
         <seg>水差しを満たす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fill/Check</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052759Z" creationid="yumas" creationdate="20240804T052759Z">
+        <seg>満たす・確認</seg>
       </tuv>
     </tu>
     <tu>
@@ -7246,6 +7286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Kourend Woodland</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052633Z" creationid="yumas" creationdate="20240804T052633Z">
+        <seg>クーレンド林地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Kwuarm</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062157Z" creationid="2008l" creationdate="20240722T062157Z">
@@ -9034,6 +9082,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T061828Z" creationid="2008l" creationdate="20240725T062249Z">
         <seg>僧侶のローブ上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mount Karuulm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052720Z" creationid="yumas" creationdate="20240804T052720Z">
+        <seg>カルールム山</seg>
       </tuv>
     </tu>
     <tu>
@@ -11338,6 +11394,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T110601Z" creationid="yumas" creationdate="20240803T110601Z">
         <seg>装飾を取り除く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Remove-eggs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052823Z" creationid="yumas" creationdate="20240804T052823Z">
+        <seg>卵を取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -14614,6 +14678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-all</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052737Z" creationid="yumas" creationdate="20240804T052737Z">
+        <seg>全て取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-axe</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222506Z" creationid="yumas" creationdate="20240730T222506Z">
@@ -17323,6 +17395,28 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T051524Z" creationid="yumas" creationdate="20240804T051524Z">
         <seg>咲かせる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41187</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Fletch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052537Z" creationid="yumas" creationdate="20240804T052537Z">
+        <seg>加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41198</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Scrutinise</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240804T052852Z" creationid="yumas" creationdate="20240804T052852Z">
+        <seg>よく調べる</seg>
       </tuv>
     </tu>
   </body>
