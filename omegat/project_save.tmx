@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Apprentice (medium)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T092642Z" creationid="yumas" creationdate="20240805T092642Z">
+        <seg>弟子（中級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Arcenia root</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064146Z" creationid="2008l" creationdate="20240726T064146Z">
@@ -7458,6 +7466,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T085629Z" creationid="yumas" creationdate="20240805T085629Z">
         <seg>現場監督</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Forester (hard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T092515Z" creationid="yumas" creationdate="20240805T092508Z">
+        <seg>森林官（上級）</seg>
       </tuv>
     </tu>
     <tu>
@@ -15134,6 +15150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ranger (medium)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T092648Z" creationid="yumas" creationdate="20240805T092648Z">
+        <seg>レンジャー（中級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ranging Guild</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T032226Z" creationid="yumas" creationdate="20240803T032226Z">
@@ -22212,6 +22236,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070734Z" creationid="yumas" creationdate="20240805T070734Z">
         <seg>女</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Woman-at-arms (hard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T092608Z" creationid="yumas" creationdate="20240805T092608Z">
+        <seg>武装した女性（上級）</seg>
       </tuv>
     </tu>
     <tu>
