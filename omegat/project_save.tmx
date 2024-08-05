@@ -1952,8 +1952,8 @@
       <tuv lang="en-GB">
         <seg>Bloated Toad</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T090731Z" creationid="yumas" creationdate="20240805T090731Z">
-        <seg>膨れた</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T090743Z" creationid="yumas" creationdate="20240805T090731Z">
+        <seg>膨れたアマガエル</seg>
       </tuv>
     </tu>
     <tu>
@@ -4138,6 +4138,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112209Z" creationid="yumas" creationdate="20240731T112209Z">
         <seg>削る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chompy bird</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T090938Z" creationid="yumas" creationdate="20240805T090938Z">
+        <seg>チョンピー鳥</seg>
       </tuv>
     </tu>
     <tu>
@@ -19144,8 +19152,8 @@
       <tuv lang="en-GB">
         <seg>Swamp toad</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T090049Z" creationid="yumas" creationdate="20240805T090049Z">
-        <seg>沼ガエル</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T090736Z" creationid="yumas" creationdate="20240805T090049Z">
+        <seg>沼アマガエル</seg>
       </tuv>
     </tu>
     <tu>
