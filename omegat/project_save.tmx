@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ash</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065247Z" creationid="yumas" creationdate="20240805T065247Z">
+        <seg>灰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ashes</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T063755Z" creationid="2008l" creationdate="20240725T063755Z">
@@ -5406,6 +5414,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dung</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065246Z" creationid="yumas" creationdate="20240805T065246Z">
+        <seg>うんち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dunk</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T125340Z" creationid="yumas" creationdate="20240731T125340Z">
@@ -6198,6 +6214,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Filliman Tarlock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065336Z" creationid="yumas" creationdate="20240805T065336Z">
+        <seg>フィリマン・ターロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fire</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T211529Z" creationid="yumas" creationdate="20240730T211522Z">
@@ -6706,6 +6730,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T090017Z" creationid="yumas" creationdate="20240730T090017Z">
         <seg>から報酬をもらう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ghast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065447Z" creationid="yumas" creationdate="20240805T065447Z">
+        <seg>怪物</seg>
       </tuv>
     </tu>
     <tu>
@@ -8862,6 +8894,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Kraka</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065225Z" creationid="yumas" creationdate="20240805T065225Z">
+        <seg>クラカ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Kraken</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052454Z" creationid="yumas" creationdate="20240805T052454Z">
@@ -10950,6 +10990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mountain troll</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065327Z" creationid="yumas" creationdate="20240805T065327Z">
+        <seg>山トロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Move</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100551Z" creationid="yumas" creationdate="20240730T100551Z">
@@ -11050,6 +11098,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T044844Z" creationid="yumas" creationdate="20240804T044844Z">
         <seg>ナーダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nature Spirit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065342Z" creationid="yumas" creationdate="20240805T065342Z">
+        <seg>自然の精霊</seg>
       </tuv>
     </tu>
     <tu>
@@ -11738,6 +11794,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112545Z" creationid="yumas" creationdate="20240731T112545Z">
         <seg>を踏む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pee Hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065223Z" creationid="yumas" creationdate="20240805T065223Z">
+        <seg>ピー・ハット</seg>
       </tuv>
     </tu>
     <tu>
@@ -16606,6 +16670,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stick</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065127Z" creationid="yumas" creationdate="20240805T065127Z">
+        <seg>棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stock-Up</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T125459Z" creationid="yumas" creationdate="20240731T125459Z">
@@ -17924,6 +17996,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T050630Z" creationid="yumas" creationdate="20240804T050630Z">
         <seg>水を投げる方向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Thrower Troll</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065321Z" creationid="yumas" creationdate="20240805T065321Z">
+        <seg>石投げトロール</seg>
       </tuv>
     </tu>
     <tu>
