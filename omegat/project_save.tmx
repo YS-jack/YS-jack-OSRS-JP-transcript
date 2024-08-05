@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Barge workman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T124841Z" creationid="yumas" creationdate="20240805T124841Z">
+        <seg>荷船の作業員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bark sample</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T054344Z" creationid="2008l" creationdate="20240728T054344Z">
@@ -5968,8 +5976,8 @@
       <tuv lang="en-GB">
         <seg>Dig Site workman</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T115739Z" creationid="yumas" creationdate="20240805T115739Z">
-        <seg>発掘現場の労働者</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T124652Z" creationid="yumas" creationdate="20240805T115739Z">
+        <seg>発掘現場の作業員</seg>
       </tuv>
     </tu>
     <tu>
@@ -23450,8 +23458,8 @@
       <tuv lang="en-GB">
         <seg>Workman</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T115712Z" creationid="yumas" creationdate="20240805T115712Z">
-        <seg>労働者</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T124648Z" creationid="yumas" creationdate="20240805T115712Z">
+        <seg>作業員</seg>
       </tuv>
     </tu>
     <tu>
