@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Army Commander</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T064009Z" creationid="yumas" creationdate="20240805T064009Z">
+        <seg>軍司令官</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Arnor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T055556Z" creationid="yumas" creationdate="20240805T055556Z">
@@ -4510,6 +4518,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crusher</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T064018Z" creationid="yumas" creationdate="20240805T064018Z">
+        <seg>クラッシャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crystal key</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T082341Z" creationid="2008l" creationdate="20240729T063726Z">
@@ -7198,6 +7214,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Grish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T064022Z" creationid="yumas" creationdate="20240805T064022Z">
+        <seg>グリシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ground charcoal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T070847Z" creationid="2008l" creationdate="20240726T063724Z">
@@ -7218,6 +7242,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T054054Z" creationid="yumas" creationdate="20240805T054054Z">
         <seg>グラブフット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T064033Z" creationid="yumas" creationdate="20240805T064033Z">
+        <seg>グラグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7722,6 +7754,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T010433Z" creationid="yumas" creationdate="20240803T010433Z">
         <seg>氷山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Icelord</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T064012Z" creationid="yumas" creationdate="20240805T064012Z">
+        <seg>アイスロード</seg>
       </tuv>
     </tu>
     <tu>
@@ -11078,6 +11118,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ogre guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T064052Z" creationid="yumas" creationdate="20240805T064052Z">
+        <seg>オーガの衛兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Oil can</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T063043Z" creationid="2008l" creationdate="20240722T063043Z">
@@ -11914,6 +11962,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T042545Z" creationid="yumas" creationdate="20240805T042545Z">
         <seg>パイルズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pilg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T064031Z" creationid="yumas" creationdate="20240805T064031Z">
+        <seg>ピルグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -15510,6 +15566,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Skogre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T064102Z" creationid="yumas" creationdate="20240805T064102Z">
+        <seg>スコーガ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Skotos</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045938Z" creationid="yumas" creationdate="20240805T045938Z">
@@ -18344,6 +18408,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Uglug Nar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T064027Z" creationid="yumas" creationdate="20240805T064027Z">
+        <seg>ウグルグ・ナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Un-note-Quantity</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T041659Z" creationid="yumas" creationdate="20240805T041659Z">
@@ -19380,6 +19452,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T082613Z" creationid="2008l" creationdate="20240729T064857Z">
         <seg>ザモラック僧侶上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zavistic Rarve</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T064224Z" creationid="yumas" creationdate="20240805T064224Z">
+        <seg>ザバスチック・ラーブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zogre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T064058Z" creationid="yumas" creationdate="20240805T064058Z">
+        <seg>ゾーガ</seg>
       </tuv>
     </tu>
     <tu>
