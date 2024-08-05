@@ -2030,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bouncer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T073353Z" creationid="yumas" creationdate="20240805T073353Z">
+        <seg>バウンサー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Brana</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070258Z" creationid="yumas" creationdate="20240805T070258Z">
@@ -8222,6 +8230,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hengrad</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T073111Z" creationid="yumas" creationdate="20240805T073103Z">
+        <seg>ヘングラッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Henryeta Carnillean</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T072902Z" creationid="yumas" creationdate="20240805T072902Z">
@@ -9498,6 +9514,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T072956Z" creationid="yumas" creationdate="20240805T072956Z">
         <seg>カザードの衛兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Khazard Ogre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T073401Z" creationid="yumas" creationdate="20240805T073401Z">
+        <seg>カザードのオーガ</seg>
       </tuv>
     </tu>
     <tu>
@@ -17106,6 +17130,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T113456Z" creationid="yumas" creationdate="20240730T124954Z">
         <seg>観戦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spectator</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T073118Z" creationid="yumas" creationdate="20240805T073105Z">
+        <seg>観戦者</seg>
       </tuv>
     </tu>
     <tu>
