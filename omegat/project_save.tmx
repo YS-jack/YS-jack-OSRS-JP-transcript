@@ -2374,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Brawler</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T095222Z" creationid="yumas" creationdate="20240805T095222Z">
+        <seg>ブローラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Break</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T131209Z" creationid="yumas" creationdate="20240731T131209Z">
@@ -5270,6 +5278,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crypt spider</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T095141Z" creationid="yumas" creationdate="20240805T095141Z">
+        <seg>地下グモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crystal key</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T082341Z" creationid="2008l" creationdate="20240729T063726Z">
@@ -5634,6 +5650,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T070921Z" creationid="2008l" creationdate="20240720T070921Z">
         <seg>守備力増強薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Defiler</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T095220Z" creationid="yumas" creationdate="20240805T095220Z">
+        <seg>デファイラー</seg>
       </tuv>
     </tu>
     <tu>
@@ -8050,6 +8074,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T063044Z" creationid="2008l" creationdate="20240723T063044Z">
         <seg>巨大な鯉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Giant crypt rat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T095128Z" creationid="yumas" creationdate="20240805T095128Z">
+        <seg>巨大な地下ネズミ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Giant crypt spider</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T095148Z" creationid="yumas" creationdate="20240805T095148Z">
+        <seg>巨大な地下グモ</seg>
       </tuv>
     </tu>
     <tu>
@@ -14814,6 +14854,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T095225Z" creationid="yumas" creationdate="20240805T095225Z">
+        <seg>ポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Portrait</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T070535Z" creationid="2008l" creationdate="20240725T070535Z">
@@ -15618,6 +15666,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T064650Z" creationid="2008l" creationdate="20240722T064650Z">
         <seg>ネズミの尻尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ravager</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T095211Z" creationid="yumas" creationdate="20240805T095211Z">
+        <seg>ラバガー</seg>
       </tuv>
     </tu>
     <tu>
@@ -18198,6 +18254,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shifter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T095207Z" creationid="yumas" creationdate="20240805T095207Z">
+        <seg>シフター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shiny key</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T071336Z" creationid="2008l" creationdate="20240718T071336Z">
@@ -18894,10 +18958,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Spinner</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T095213Z" creationid="yumas" creationdate="20240805T095213Z">
+        <seg>スピナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Spirit-tree</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T041313Z" creationid="yumas" creationdate="20240805T041313Z">
         <seg>精霊樹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Splatter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T095204Z" creationid="yumas" creationdate="20240805T095204Z">
+        <seg>スプラッター</seg>
       </tuv>
     </tu>
     <tu>
@@ -21152,6 +21232,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Torcher</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T095216Z" creationid="yumas" creationdate="20240805T095216Z">
+        <seg>トーチャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Torstol</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062248Z" creationid="2008l" creationdate="20240722T062248Z">
@@ -22028,6 +22116,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T112034Z" creationid="yumas" creationdate="20240803T112034Z">
         <seg>見た目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Void Knight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T095525Z" creationid="yumas" creationdate="20240805T095525Z">
+        <seg>ボイド・ナイト</seg>
       </tuv>
     </tu>
     <tu>
