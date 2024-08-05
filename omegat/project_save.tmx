@@ -10838,6 +10838,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Logs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240805T074005Z" creationid="2008l" creationdate="20240805T074005Z">
+        <seg>丸太</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Longbow</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T055735Z" creationid="2008l" creationdate="20240728T055735Z">
@@ -11090,6 +11098,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T074422Z" creationid="2008l" creationdate="20240716T074422Z">
         <seg>魔法の金の羽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic logs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240805T074056Z" creationid="2008l" creationdate="20240805T074056Z">
+        <seg>魔法の丸太</seg>
       </tuv>
     </tu>
     <tu>
@@ -13146,6 +13162,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T114013Z" creationid="yumas" creationdate="20240803T114013Z">
         <seg>拾う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Picture</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240805T073954Z" creationid="2008l" creationdate="20240805T073954Z">
+        <seg>絵</seg>
       </tuv>
     </tu>
     <tu>
