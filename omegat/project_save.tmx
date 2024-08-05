@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Aleck</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T091442Z" creationid="yumas" creationdate="20240805T091442Z">
+        <seg>アレック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Alice</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052739Z" creationid="yumas" creationdate="20240805T052739Z">
@@ -7022,6 +7030,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ferret</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T091537Z" creationid="yumas" creationdate="20240805T091537Z">
+        <seg>フェレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ferry</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T131902Z" creationid="yumas" creationdate="20240730T131902Z">
@@ -9074,6 +9090,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T065148Z" creationid="2008l" creationdate="20240727T065148Z">
         <seg>水晶の塊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hunting expert</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T091519Z" creationid="yumas" creationdate="20240805T091519Z">
+        <seg>狩りの専門家</seg>
       </tuv>
     </tu>
     <tu>
@@ -11226,6 +11250,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T064353Z" creationid="2008l" creationdate="20240725T064353Z">
         <seg>レンズの鋳型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Leon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T091444Z" creationid="yumas" creationdate="20240805T091444Z">
+        <seg>レオン</seg>
       </tuv>
     </tu>
     <tu>
@@ -17898,6 +17930,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T042641Z" creationid="yumas" creationdate="20240805T042641Z">
         <seg>スケルトンの魔術師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Skeleton brute</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T091645Z" creationid="yumas" creationdate="20240805T091645Z">
+        <seg>粗暴なスケレトン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Skeleton heavy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T091754Z" creationid="yumas" creationdate="20240805T091754Z">
+        <seg>スケルトン・ヘビー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Skeleton hero</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T091601Z" creationid="yumas" creationdate="20240805T091601Z">
+        <seg>スケレトンのヒーロー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Skeleton warlord</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T091727Z" creationid="yumas" creationdate="20240805T091727Z">
+        <seg>スケレトン将軍</seg>
       </tuv>
     </tu>
     <tu>
