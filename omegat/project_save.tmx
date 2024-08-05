@@ -7414,6 +7414,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ice block</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T054807Z" creationid="yumas" creationdate="20240805T054802Z">
+        <seg>氷ブロック </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ice troll</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T054758Z" creationid="yumas" creationdate="20240805T054758Z">
+        <seg>氷トロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ice wolf</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053950Z" creationid="yumas" creationdate="20240805T053950Z">
@@ -10418,6 +10434,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052954Z" creationid="yumas" creationdate="20240805T052954Z">
         <seg>強盗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mummy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T054840Z" creationid="yumas" creationdate="20240805T054840Z">
+        <seg>ミイラ</seg>
       </tuv>
     </tu>
     <tu>
@@ -17596,6 +17620,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T054350Z" creationid="yumas" creationdate="20240805T054350Z">
         <seg>トロールの子供</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Troll father</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T054822Z" creationid="yumas" creationdate="20240805T054812Z">
+        <seg>父トロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Troll mother</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T054829Z" creationid="yumas" creationdate="20240805T054816Z">
+        <seg>母トロール</seg>
       </tuv>
     </tu>
     <tu>
