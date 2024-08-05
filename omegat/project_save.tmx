@@ -1622,6 +1622,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blood talisman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240805T070038Z" creationid="2008l" creationdate="20240805T070038Z">
+        <seg>血のタリスマン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bloodveld</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T051805Z" creationid="yumas" creationdate="20240805T051805Z">
@@ -1792,8 +1800,8 @@
       <tuv lang="en-GB">
         <seg>Body talisman</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240805T065728Z" creationid="2008l" creationdate="20240805T065728Z">
-        <seg>ボディのタリスマン</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240805T065942Z" creationid="2008l" creationdate="20240805T065728Z">
+        <seg>体のタリスマン</seg>
       </tuv>
     </tu>
     <tu>
@@ -10642,6 +10650,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062758Z" creationid="2008l" creationdate="20240725T062758Z">
         <seg>心のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mind talisman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240805T065810Z" creationid="2008l" creationdate="20240805T065734Z">
+        <seg>心のタリスマン</seg>
       </tuv>
     </tu>
     <tu>
