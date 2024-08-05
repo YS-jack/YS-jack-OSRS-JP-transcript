@@ -535,7 +535,7 @@ Prayerbook	祈りの書
 Mage	魔術師
 Vulcan	バルカン	NPC名
 spider	クモ	カタカナで書きます、漢字はつぶれるのでNG
-Baby	幼	Baby red dragonなどのBabyの訳
+Baby	幼	「幼」はBaby red dragonなどのBabyの訳
 Tok-	トク・	Tzhaarのモンスター名の場合。「-」（ダッシュ）は「・」と書く
 Jester	道化師
 Guide	案内人	NPC名に付く場合の訳
@@ -556,3 +556,4 @@ General	将軍
 skeleton	スケレトン
 Giant	巨大な
 Adventurer	冒険家
+Baby	幼い	「幼い」は「幼」だと違和感がある場合は
