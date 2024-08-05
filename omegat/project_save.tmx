@@ -2870,6 +2870,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chaos druid</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T053054Z" creationid="yumas" creationdate="20240805T053054Z">
+        <seg>混沌ドルイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chaos druid warrior</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T053159Z" creationid="yumas" creationdate="20240805T053159Z">
+        <seg>混沌ドルイドの戦士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Chaos dwarf</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T044734Z" creationid="yumas" creationdate="20240805T044734Z">
@@ -3766,6 +3782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Clockwork cat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T053337Z" creationid="yumas" creationdate="20240805T053337Z">
+        <seg>時計仕掛けのネコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Close</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T212336Z" creationid="yumas" creationdate="20240730T212336Z">
@@ -4450,6 +4474,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045141Z" creationid="yumas" creationdate="20240805T045141Z">
         <seg>暗黒エネルギーの核</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dark warrior</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T053131Z" creationid="yumas" creationdate="20240805T053131Z">
+        <seg>暗黒の戦士</seg>
       </tuv>
     </tu>
     <tu>
@@ -5242,6 +5274,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064250Z" creationid="2008l" creationdate="20240723T064250Z">
         <seg>食用海藻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Elfinlocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T053327Z" creationid="yumas" creationdate="20240805T053327Z">
+        <seg>エルフィンロックス</seg>
       </tuv>
     </tu>
     <tu>
@@ -6058,6 +6098,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T044819Z" creationid="yumas" creationdate="20240804T044819Z">
         <seg>機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fungi</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T053316Z" creationid="yumas" creationdate="20240805T053316Z">
+        <seg>菌類</seg>
       </tuv>
     </tu>
     <tu>
@@ -10086,6 +10134,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Monk of Zamorak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T053119Z" creationid="yumas" creationdate="20240805T053119Z">
+        <seg>ザモラックの僧侶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Monk's robe</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T061824Z" creationid="2008l" creationdate="20240725T062243Z">
@@ -11202,6 +11258,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T064116Z" creationid="2008l" creationdate="20240729T064059Z">
         <seg>ピンクのスカート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pirate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T053059Z" creationid="yumas" creationdate="20240805T053059Z">
+        <seg>海賊</seg>
       </tuv>
     </tu>
     <tu>
@@ -13490,6 +13554,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045752Z" creationid="yumas" creationdate="20240805T045752Z">
         <seg>竿の釣り場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rogue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T053109Z" creationid="yumas" creationdate="20240805T053109Z">
+        <seg>ローグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16792,6 +16864,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Thug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T053106Z" creationid="yumas" creationdate="20240805T053106Z">
+        <seg>悪党</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tickets</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091535Z" creationid="yumas" creationdate="20240730T091535Z">
@@ -17204,6 +17284,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T002317Z" creationid="yumas" creationdate="20240731T140332Z">
         <seg>木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tribesman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T053127Z" creationid="yumas" creationdate="20240805T053127Z">
+        <seg>部族民</seg>
       </tuv>
     </tu>
     <tu>
@@ -18404,6 +18492,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T042616Z" creationid="yumas" creationdate="20240805T042616Z">
         <seg>ゾンビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zygomite</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T053322Z" creationid="yumas" creationdate="20240805T053322Z">
+        <seg>ジゴマイト</seg>
       </tuv>
     </tu>
     <tu>
