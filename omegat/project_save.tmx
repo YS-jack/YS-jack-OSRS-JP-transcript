@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adventurer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T055034Z" creationid="yumas" creationdate="20240805T055034Z">
+        <seg>冒険家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adventurer Jon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T044737Z" creationid="yumas" creationdate="20240805T044737Z">
@@ -886,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Azzanadra</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T054857Z" creationid="yumas" creationdate="20240805T054857Z">
+        <seg>アザナドラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Baby blue dragon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T044048Z" creationid="yumas" creationdate="20240805T044048Z">
@@ -970,6 +986,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T054253Z" creationid="yumas" creationdate="20240805T054253Z">
         <seg>盗賊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bandit Leader</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T054926Z" creationid="yumas" creationdate="20240805T054926Z">
+        <seg>盗賊のリーダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bandit champion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T054932Z" creationid="yumas" creationdate="20240805T054932Z">
+        <seg>盗賊のチャンピオン</seg>
       </tuv>
     </tu>
     <tu>
@@ -2590,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Captain Barnaby</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T055100Z" creationid="yumas" creationdate="20240805T055100Z">
+        <seg>バーナビ船長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Captain Braindeath</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053552Z" creationid="yumas" creationdate="20240805T053552Z">
@@ -4206,6 +4246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cowardly Bandit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T054948Z" creationid="yumas" creationdate="20240805T054941Z">
+        <seg>おろかな盗賊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crack</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T105218Z" creationid="yumas" creationdate="20240731T105218Z">
@@ -5230,6 +5278,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Drunken Dwarf's Leg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T055144Z" creationid="yumas" creationdate="20240805T055144Z">
+        <seg>酔ったドワーフの足</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dump</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T220926Z" creationid="yumas" creationdate="20240730T220926Z">
@@ -6086,6 +6142,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Flies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T055118Z" creationid="yumas" creationdate="20240805T055118Z">
+        <seg>ハエ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Flip</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T113415Z" creationid="yumas" creationdate="20240803T113415Z">
@@ -6186,6 +6250,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045432Z" creationid="yumas" creationdate="20240805T045432Z">
         <seg>不気味な森林官</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fred the Farmer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T054915Z" creationid="yumas" creationdate="20240805T054915Z">
+        <seg>農民のフレッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -7946,6 +8018,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043702Z" creationid="yumas" creationdate="20240805T043625Z">
         <seg>道化師ジャッキー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jagbakoba</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T055113Z" creationid="yumas" creationdate="20240805T055113Z">
+        <seg>ジャグバコバ</seg>
       </tuv>
     </tu>
     <tu>
@@ -10446,10 +10526,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mummy ashes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T054851Z" creationid="yumas" creationdate="20240805T054851Z">
+        <seg>ミイラの灰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Murcaily</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T055109Z" creationid="yumas" creationdate="20240805T055109Z">
+        <seg>ムーカイリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Murder</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T115047Z" creationid="yumas" creationdate="20240730T115047Z">
         <seg>を殺害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>My Arm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T055006Z" creationid="yumas" creationdate="20240805T055006Z">
+        <seg>おいらの腕</seg>
       </tuv>
     </tu>
     <tu>
@@ -14350,6 +14454,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Scarabs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T054854Z" creationid="yumas" creationdate="20240805T054854Z">
+        <seg>スカラベ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Scare</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T095820Z" creationid="yumas" creationdate="20240730T095820Z">
@@ -14730,6 +14842,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T082348Z" creationid="2008l" creationdate="20240715T082348Z">
         <seg>の毛を刈る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sheep</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T054903Z" creationid="yumas" creationdate="20240805T054903Z">
+        <seg>羊</seg>
       </tuv>
     </tu>
     <tu>
@@ -17892,6 +18012,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T134257Z" creationid="yumas" creationdate="20240730T134247Z">
         <seg>マークを外す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Unnamed troll child</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T055134Z" creationid="yumas" creationdate="20240805T055134Z">
+        <seg>名無しのトロール</seg>
       </tuv>
     </tu>
     <tu>
