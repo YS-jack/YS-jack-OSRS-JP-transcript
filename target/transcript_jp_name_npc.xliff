@@ -139,7 +139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10200">
         <xliff:source>Ghost</xliff:source>
-        <xliff:target state="translated">ゴースト</xliff:target>
+        <xliff:target state="translated">幽霊</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Ghost
@@ -2699,7 +2699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10520">
         <xliff:source>Restless ghost</xliff:source>
-        <xliff:target state="translated">眠れぬゴースト</xliff:target>
+        <xliff:target state="translated">眠れぬ霊</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Restless ghost
@@ -2931,7 +2931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10549">
         <xliff:source>Barman</xliff:source>
-        <xliff:target state="translated">バーマン</xliff:target>
+        <xliff:target state="translated">バーテンダー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Barman
@@ -3563,7 +3563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10628">
         <xliff:source>Claus the Chef</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">シェフのクロース</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Claus the Chef
@@ -3571,7 +3571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10629">
         <xliff:source>Philipe Carnillean</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フィリップ・カーニレアン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Philipe Carnillean
@@ -3579,7 +3579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10630">
         <xliff:source>Henryeta Carnillean</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ヘンリェッタ・ケーニレアン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Henryeta Carnillean
@@ -3587,7 +3587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10631">
         <xliff:source>Hazeel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ハジール</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Hazeel
@@ -3595,7 +3595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10632">
         <xliff:source>Hazeel Cultist</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ハジール信者</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Hazeel Cultist
@@ -3603,7 +3603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10633">
         <xliff:source>Khazard Guard</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">カザードの衛兵</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Khazard Guard
@@ -3611,7 +3611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10634">
         <xliff:source>Head Guard</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">衛兵長</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Head Guard
@@ -3619,7 +3619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10635">
         <xliff:source>Khazard Barman</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">カザードのバーテンダー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Khazard Barman
@@ -3627,7 +3627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10636">
         <xliff:source>Kelvin</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ケルビン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Kelvin
@@ -3635,7 +3635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10637">
         <xliff:source>Joe</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ジョー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Joe
@@ -3643,7 +3643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10638">
         <xliff:source>Slave</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">奴隷</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Slave
@@ -3651,7 +3651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10639">
         <xliff:source>Hengrad</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ヘングラッド</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Hengrad
@@ -3659,7 +3659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10640">
         <xliff:source>Spectator</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">観戦者</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Spectator
@@ -3667,7 +3667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10641">
         <xliff:source>Bouncer</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">バウンサー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bouncer
@@ -3675,7 +3675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10642">
         <xliff:source>Khazard Ogre</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">カザードのオーガ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Khazard Ogre
@@ -3683,7 +3683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10643">
         <xliff:source>Khazard Scorpion</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">カザードのサソリ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Khazard Scorpion
@@ -3691,7 +3691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10644">
         <xliff:source>Arzinian Avatar of Strength</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アージニアンの化身・腕力</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Arzinian Avatar of Strength
@@ -3699,7 +3699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10645">
         <xliff:source>Arzinian Avatar of Ranging</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アージニアンの化身・弓</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Arzinian Avatar of Ranging
@@ -3707,7 +3707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10646">
         <xliff:source>Arzinian Avatar of Magic</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アージニアンの化身・魔法</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Arzinian Avatar of Magic
@@ -3715,7 +3715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10647">
         <xliff:source>Arzinian Being of Bordanzan</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アージニアンの生命体・ボーダンザン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Arzinian Being of Bordanzan
@@ -3723,7 +3723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10648">
         <xliff:source>Saboteur</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">サボトー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Saboteur
@@ -3731,7 +3731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10649">
         <xliff:source>Gnome shop keeper</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ノームの店員</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Gnome shop keeper
@@ -3739,7 +3739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10650">
         <xliff:source>Cute Creature</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">カワイイ生物</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Cute Creature
@@ -3747,7 +3747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10651">
         <xliff:source>Evil Creature</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">邪悪な生物</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Evil Creature
@@ -3755,7 +3755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10652">
         <xliff:source>fluffie</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ふわふわ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: fluffie
@@ -3763,7 +3763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10653">
         <xliff:source>Odd Old Man</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">奇妙なおじいさん</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Odd Old Man
@@ -3771,7 +3771,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10654">
         <xliff:source>Fortunato</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フォーチュナト</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Fortunato
@@ -3779,7 +3779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10655">
         <xliff:source>Ram</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">雄羊</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Ram
@@ -3795,7 +3795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10657">
         <xliff:source>Vulture</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ハゲワシ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Vulture
@@ -3803,7 +3803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10658">
         <xliff:source>Dr Fenkenstrain</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フェンケンストレイン先生</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Dr Fenkenstrain
@@ -3811,7 +3811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10659">
         <xliff:source>Fenkenstrain's Monster</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フェンケンストレインの化け物</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Fenkenstrain's Monster
@@ -3819,7 +3819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10660">
         <xliff:source>Lord Rologarth</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ロロガース様</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Lord Rologarth
@@ -3827,7 +3827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10661">
         <xliff:source>Gardener Ghost</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">庭師の幽霊</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Gardener Ghost
@@ -3835,7 +3835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10662">
         <xliff:source>Experiment</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">実験体</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Experiment
@@ -3843,7 +3843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10663">
         <xliff:source>Loar Shadow</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ローの影</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Loar Shadow
