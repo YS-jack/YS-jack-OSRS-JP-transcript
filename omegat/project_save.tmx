@@ -5134,6 +5134,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fairy-ring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T041309Z" creationid="yumas" creationdate="20240805T041309Z">
+        <seg>妖精の輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Falador</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T010510Z" creationid="yumas" creationdate="20240803T010510Z">
@@ -7026,6 +7034,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T070826Z" creationid="2008l" creationdate="20240731T070826Z">
         <seg>投槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jewellery</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T041406Z" creationid="yumas" creationdate="20240805T041406Z">
+        <seg>宝石</seg>
       </tuv>
     </tu>
     <tu>
@@ -9342,10 +9358,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Nexus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T041402Z" creationid="yumas" creationdate="20240805T041402Z">
+        <seg>ネクサス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Nitroglycerin</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T063456Z" creationid="2008l" creationdate="20240726T063456Z">
         <seg>ニトログリセリン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Note-Quantity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T041520Z" creationid="yumas" creationdate="20240805T041520Z">
+        <seg>指定数を紙化</seg>
       </tuv>
     </tu>
     <tu>
@@ -11262,6 +11294,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Recall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T041122Z" creationid="yumas" creationdate="20240805T041122Z">
+        <seg>呼び戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Recharge-jewellery</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T005126Z" creationid="yumas" creationdate="20240803T005126Z">
@@ -13062,6 +13102,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Set-off</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T041303Z" creationid="yumas" creationdate="20240805T041303Z">
+        <seg>爆破</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Set-trap</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112133Z" creationid="yumas" creationdate="20240731T112133Z">
@@ -13690,6 +13738,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T110923Z" creationid="yumas" creationdate="20240803T110923Z">
         <seg>グローブを回す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spirit-tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T041313Z" creationid="yumas" creationdate="20240805T041313Z">
+        <seg>精霊樹</seg>
       </tuv>
     </tu>
     <tu>
@@ -17668,6 +17724,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T040424Z" creationid="yumas" creationdate="20240805T040424Z">
         <seg>を逆にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41241</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Squeeze</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T041249Z" creationid="yumas" creationdate="20240805T041249Z">
+        <seg>力を入れる</seg>
       </tuv>
     </tu>
   </body>
