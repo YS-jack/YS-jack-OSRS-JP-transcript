@@ -3246,6 +3246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Captain Cain</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T093741Z" creationid="yumas" creationdate="20240805T093721Z">
+        <seg>ケイン隊長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Captain Donnie</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053641Z" creationid="yumas" creationdate="20240805T053641Z">
@@ -4766,6 +4774,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Commander Connad</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T093705Z" creationid="yumas" creationdate="20240805T093705Z">
+        <seg>コナド司令官</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Commission</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T132705Z" creationid="yumas" creationdate="20240730T132705Z">
@@ -6046,6 +6062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dragon impling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T093647Z" creationid="yumas" creationdate="20240805T093647Z">
+        <seg>ドラゴンの子悪魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dragon longsword</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064613Z" creationid="2008l" creationdate="20240731T064613Z">
@@ -6458,6 +6482,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064250Z" creationid="2008l" creationdate="20240723T064250Z">
         <seg>食用海藻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Egg launcher</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T093651Z" creationid="yumas" creationdate="20240805T093651Z">
+        <seg>卵発射機</seg>
       </tuv>
     </tu>
     <tu>
@@ -12126,6 +12158,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Magpie impling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T093637Z" creationid="yumas" creationdate="20240805T093637Z">
+        <seg>カササギの子悪魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Maid</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043730Z" creationid="yumas" creationdate="20240805T043730Z">
@@ -13086,6 +13126,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Nature impling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T093618Z" creationid="yumas" creationdate="20240805T093618Z">
+        <seg>自然の子悪魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Nature rune</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062846Z" creationid="2008l" creationdate="20240725T062846Z">
@@ -13178,6 +13226,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T091005Z" creationid="yumas" creationdate="20240805T091005Z">
         <seg>ニコロス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ninja impling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T093641Z" creationid="yumas" creationdate="20240805T093641Z">
+        <seg>忍者の子悪魔</seg>
       </tuv>
     </tu>
     <tu>
@@ -14858,6 +14914,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T212939Z" creationid="yumas" creationdate="20240730T212939Z">
         <seg>専用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Private Paldo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T093837Z" creationid="yumas" creationdate="20240805T093837Z">
+        <seg>パルド二等兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Private Paldon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T093853Z" creationid="yumas" creationdate="20240805T093853Z">
+        <seg>パルドン二等兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Private Pendron</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T093843Z" creationid="yumas" creationdate="20240805T093843Z">
+        <seg>ペンドロン二等兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Private Pierreb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T093849Z" creationid="yumas" creationdate="20240805T093849Z">
+        <seg>ピエレブ二等兵</seg>
       </tuv>
     </tu>
     <tu>
