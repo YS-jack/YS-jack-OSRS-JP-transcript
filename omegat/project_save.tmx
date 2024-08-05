@@ -478,6 +478,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Afflicted</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T081244Z" creationid="yumas" creationdate="20240805T081244Z">
+        <seg>感染者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Afflicted(Razmire)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T081204Z" creationid="yumas" creationdate="20240805T081111Z">
+        <seg>感染者（ラズマイヤー）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Afflicted(Ulsquire)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T081121Z" creationid="yumas" creationdate="20240805T081031Z">
+        <seg>感染者（ウルスクワイヤー）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Aga</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053936Z" creationid="yumas" creationdate="20240805T053936Z">
@@ -1018,6 +1042,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T064302Z" creationid="2008l" creationdate="20240725T064302Z">
         <seg>天文学の本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Asyn Shade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T075101Z" creationid="yumas" creationdate="20240805T075101Z">
+        <seg>アシンの陰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Asyn Shadow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T075057Z" creationid="yumas" creationdate="20240805T075057Z">
+        <seg>アシンの影</seg>
       </tuv>
     </tu>
     <tu>
@@ -6958,6 +6998,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fiyr Shade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T075115Z" creationid="yumas" creationdate="20240805T075115Z">
+        <seg>フィールの陰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fiyr Shadow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T075111Z" creationid="yumas" creationdate="20240805T075111Z">
+        <seg>フィールの影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Flies</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T055118Z" creationid="yumas" creationdate="20240805T055118Z">
@@ -8186,6 +8242,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084956Z" creationid="yumas" creationdate="20240730T084915Z">
         <seg>で髪をセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hairdresser</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T081315Z" creationid="yumas" creationdate="20240805T081315Z">
+        <seg>美容師</seg>
       </tuv>
     </tu>
     <tu>
@@ -10854,6 +10918,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Loar Shade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T074932Z" creationid="yumas" creationdate="20240805T074932Z">
+        <seg>ローの陰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Loar Shadow</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T074924Z" creationid="yumas" creationdate="20240805T074924Z">
@@ -11330,6 +11402,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085046Z" creationid="yumas" creationdate="20240730T084952Z">
         <seg>で作り直す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Makeover Mage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T081356Z" creationid="yumas" creationdate="20240805T081356Z">
+        <seg>改装の魔術師</seg>
       </tuv>
     </tu>
     <tu>
@@ -12026,6 +12106,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T053125Z" creationid="yumas" creationdate="20240804T053125Z">
         <seg>モー・ウル・レク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mort'ton Local</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T081239Z" creationid="yumas" creationdate="20240805T081239Z">
+        <seg>モートンの地元民</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mort'ton local</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T081248Z" creationid="yumas" creationdate="20240805T081248Z">
+        <seg>モートンの地元民</seg>
       </tuv>
     </tu>
     <tu>
@@ -13106,6 +13202,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045506Z" creationid="yumas" creationdate="20240805T045506Z">
         <seg>フォサニの悪夢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Phrin Shade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T075013Z" creationid="yumas" creationdate="20240805T075013Z">
+        <seg>フリンの陰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Phrin Shadow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T075003Z" creationid="yumas" creationdate="20240805T075003Z">
+        <seg>フリンの影</seg>
       </tuv>
     </tu>
     <tu>
@@ -14502,6 +14614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Razmire Keelgan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T081211Z" creationid="yumas" creationdate="20240805T081211Z">
+        <seg>ラズマイヤー・キールガン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Re-light</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120711Z" creationid="yumas" creationdate="20240731T120711Z">
@@ -15734,6 +15854,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Riyl Shade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T075031Z" creationid="yumas" creationdate="20240805T075031Z">
+        <seg>リールの陰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Riyl Shadow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T075027Z" creationid="yumas" creationdate="20240805T075027Z">
+        <seg>リールの影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rock</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T062849Z" creationid="2008l" creationdate="20240729T062849Z">
@@ -16690,6 +16826,14 @@
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240716T184333Z" creationid="b0sh" creationdate="20240716T184333Z">
         <seg>を縫う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shade Spirit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T074950Z" creationid="yumas" creationdate="20240805T074950Z">
+        <seg>陰の精霊</seg>
       </tuv>
     </tu>
     <tu>
@@ -20084,6 +20228,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T065452Z" creationid="yumas" creationdate="20240805T065452Z">
         <seg>ウリジウス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ulsquire Shauncy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T081044Z" creationid="yumas" creationdate="20240805T081044Z">
+        <seg>ウルスクワイヤー・ショーンシー</seg>
       </tuv>
     </tu>
     <tu>
