@@ -4294,10 +4294,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dark core</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T045129Z" creationid="yumas" creationdate="20240805T045129Z">
+        <seg>暗黒の核</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dark dagger</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T072458Z" creationid="2008l" creationdate="20240727T065310Z">
         <seg>暗黒の短剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dark energy core</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T045141Z" creationid="yumas" creationdate="20240805T045141Z">
+        <seg>暗黒エネルギーの核</seg>
       </tuv>
     </tu>
     <tu>
@@ -4914,6 +4930,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062132Z" creationid="2008l" creationdate="20240724T071356Z">
         <seg>ドルイドのローブ上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Drunken Dwarf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T045154Z" creationid="yumas" creationdate="20240805T045154Z">
+        <seg>酔ったドワーフ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5898,6 +5922,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T070722Z" creationid="2008l" creationdate="20240727T070722Z">
         <seg>宝石の袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Genie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T045213Z" creationid="yumas" creationdate="20240805T045213Z">
+        <seg>ジーニー</seg>
       </tuv>
     </tu>
     <tu>
@@ -9350,6 +9382,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mime</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T045146Z" creationid="yumas" creationdate="20240805T045146Z">
+        <seg>マイム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mind Altar</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T095220Z" creationid="yumas" creationdate="20240803T095220Z">
@@ -9706,6 +9746,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T042408Z" creationid="yumas" creationdate="20240805T042408Z">
         <seg>モラニスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Molly</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T045308Z" creationid="yumas" creationdate="20240805T045308Z">
+        <seg>モリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -11194,6 +11242,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T125048Z" creationid="yumas" creationdate="20240803T125048Z">
         <seg>プリフディナス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Prison Pete</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T045410Z" creationid="yumas" creationdate="20240805T045410Z">
+        <seg>刑務所のピート</seg>
       </tuv>
     </tu>
     <tu>
@@ -13702,6 +13758,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sergeant Damien</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T045259Z" creationid="yumas" creationdate="20240805T045259Z">
+        <seg>ダミエン軍曹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Serve</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T132659Z" creationid="yumas" creationdate="20240731T132659Z">
@@ -15038,6 +15102,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strange plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T045208Z" creationid="yumas" creationdate="20240805T045208Z">
+        <seg>不思議な植物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strange watcher</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T045243Z" creationid="yumas" creationdate="20240805T045243Z">
+        <seg>奇妙な観察者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strength potion(1)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T070620Z" creationid="2008l" creationdate="20240720T070620Z">
@@ -15262,6 +15342,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Suspect</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T045303Z" creationid="yumas" creationdate="20240805T045303Z">
+        <seg>容疑者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Swap</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T120947Z" creationid="yumas" creationdate="20240730T120947Z">
@@ -15274,6 +15362,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T113208Z" creationid="yumas" creationdate="20240731T113208Z">
         <seg>のオプションを入れ替える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Swarm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T045235Z" creationid="yumas" creationdate="20240805T045235Z">
+        <seg>虫の群れ</seg>
       </tuv>
     </tu>
     <tu>
