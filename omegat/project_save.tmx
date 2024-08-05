@@ -6502,6 +6502,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Experiment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T074758Z" creationid="yumas" creationdate="20240805T074758Z">
+        <seg>実験体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Extinguish</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T113435Z" creationid="yumas" creationdate="20240730T095857Z">
@@ -7166,6 +7174,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gardener Ghost</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T074754Z" creationid="yumas" creationdate="20240805T074754Z">
+        <seg>庭師の幽霊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gargh</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T064247Z" creationid="yumas" creationdate="20240805T064247Z">
@@ -7344,8 +7360,8 @@
       <tuv lang="en-GB">
         <seg>Ghost</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T042644Z" creationid="yumas" creationdate="20240805T042644Z">
-        <seg>ゴースト</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T074713Z" creationid="yumas" creationdate="20240805T042644Z">
+        <seg>幽霊</seg>
       </tuv>
     </tu>
     <tu>
@@ -10810,6 +10826,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T125926Z" creationid="yumas" creationdate="20240731T125926Z">
         <seg>装填</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Loar Shadow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T074924Z" creationid="yumas" creationdate="20240805T074924Z">
+        <seg>ローの影</seg>
       </tuv>
     </tu>
     <tu>
@@ -14968,8 +14992,8 @@
       <tuv lang="en-GB">
         <seg>Restless ghost</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T065109Z" creationid="yumas" creationdate="20240805T065036Z">
-        <seg>眠れぬゴースト</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T074720Z" creationid="yumas" creationdate="20240805T065036Z">
+        <seg>眠れぬ霊</seg>
       </tuv>
     </tu>
     <tu>
