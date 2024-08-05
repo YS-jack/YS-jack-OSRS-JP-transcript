@@ -1446,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bloodveld</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T051805Z" creationid="yumas" creationdate="20240805T051805Z">
+        <seg>ブラッドベルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blow</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T122627Z" creationid="yumas" creationdate="20240803T122627Z">
@@ -2578,6 +2586,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T024257Z" creationid="2008l" creationdate="20240722T063204Z">
         <seg>牛追い棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cave bug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T051555Z" creationid="yumas" creationdate="20240805T051524Z">
+        <seg>ドウクツムシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cave bug larva</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T051614Z" creationid="yumas" creationdate="20240805T051532Z">
+        <seg>ドウクツムシの幼虫</seg>
       </tuv>
     </tu>
     <tu>
@@ -15386,6 +15410,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T113255Z" creationid="yumas" creationdate="20240803T113255Z">
         <seg>保管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Storm Cloud</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T052339Z" creationid="yumas" creationdate="20240805T052339Z">
+        <seg>ストーム・クラウド</seg>
       </tuv>
     </tu>
     <tu>
