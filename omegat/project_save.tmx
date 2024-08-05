@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ardougne teleport scroll</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240805T073107Z" creationid="2008l" creationdate="20240805T073107Z">
+        <seg>アルドインへのワープ巻き物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ardrigal mixture</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T064928Z" creationid="2008l" creationdate="20240727T064928Z">
@@ -13656,8 +13664,8 @@
       <tuv lang="en-GB">
         <seg>Purchase Amulet</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T114600Z" creationid="yumas" creationdate="20240730T114600Z">
-        <seg>からお守りを購入</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240805T073142Z" creationid="yumas" creationdate="20240730T114600Z">
+        <seg>からアミュレットを購入</seg>
       </tuv>
     </tu>
     <tu>
