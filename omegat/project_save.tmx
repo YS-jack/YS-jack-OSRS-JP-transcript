@@ -2478,6 +2478,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Change-colour</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T040508Z" creationid="yumas" creationdate="20240805T040508Z">
+        <seg>色を変える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Change-style</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T050414Z" creationid="yumas" creationdate="20240804T050414Z">
@@ -4338,6 +4346,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112122Z" creationid="yumas" creationdate="20240731T112122Z">
         <seg>を除去する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dismantle kit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T040702Z" creationid="yumas" creationdate="20240805T040702Z">
+        <seg>キットを外す</seg>
       </tuv>
     </tu>
     <tu>
@@ -11166,6 +11182,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Read-tag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T040455Z" creationid="yumas" creationdate="20240805T040455Z">
+        <seg>タグを読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rebalance</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T014937Z" creationid="yumas" creationdate="20240803T014937Z">
@@ -16176,6 +16200,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wake-ghost</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T040450Z" creationid="yumas" creationdate="20240805T040450Z">
+        <seg>霊を呼び覚ます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Walk</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T124043Z" creationid="yumas" creationdate="20240803T124043Z">
@@ -17521,6 +17553,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T052852Z" creationid="yumas" creationdate="20240804T052852Z">
         <seg>よく調べる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41215</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Reverse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T040424Z" creationid="yumas" creationdate="20240805T040424Z">
+        <seg>を逆にする</seg>
       </tuv>
     </tu>
   </body>
