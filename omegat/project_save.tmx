@@ -12174,6 +12174,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Major Attack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T094106Z" creationid="yumas" creationdate="20240805T094106Z">
+        <seg>アタック少佐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Major Collect</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T094110Z" creationid="yumas" creationdate="20240805T094110Z">
+        <seg>コレクト少佐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Major Defend</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T094118Z" creationid="yumas" creationdate="20240805T094118Z">
+        <seg>ディフェンド少佐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Major Heal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T094122Z" creationid="yumas" creationdate="20240805T094122Z">
+        <seg>ヒール少佐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Make</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T113021Z" creationid="yumas" creationdate="20240731T113021Z">
@@ -17778,6 +17810,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045259Z" creationid="yumas" creationdate="20240805T045259Z">
         <seg>ダミエン軍曹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sergeant Sambur</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T094232Z" creationid="yumas" creationdate="20240805T094232Z">
+        <seg>サンブール軍曹</seg>
       </tuv>
     </tu>
     <tu>
