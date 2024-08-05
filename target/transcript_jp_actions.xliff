@@ -155,7 +155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41277">
         <xliff:source>Metamorphosis</xliff:source>
-        <xliff:target state="translated">で変身</xliff:target>
+        <xliff:target state="translated">変身</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Dark core
@@ -4491,7 +4491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41819">
         <xliff:source>Control</xliff:source>
-        <xliff:target state="translated">コントロール</xliff:target>
+        <xliff:target state="translated">操作</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Dwarven machinery
