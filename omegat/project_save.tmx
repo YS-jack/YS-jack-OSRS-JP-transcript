@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Badger</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T135131Z" creationid="yumas" creationdate="20240805T135131Z">
+        <seg>アナグマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bail-with</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T122746Z" creationid="yumas" creationdate="20240803T122724Z">
@@ -1450,6 +1458,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084618Z" creationid="2008l" creationdate="20240715T083013Z">
         <seg>銀行にアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bank guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T134907Z" creationid="yumas" creationdate="20240805T134907Z">
+        <seg>銀行の衛兵</seg>
       </tuv>
     </tu>
     <tu>
@@ -13066,6 +13082,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T134244Z" creationid="yumas" creationdate="20240730T134244Z">
         <seg>マーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Market Guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T134903Z" creationid="yumas" creationdate="20240805T134903Z">
+        <seg>市場の衛兵</seg>
       </tuv>
     </tu>
     <tu>
@@ -24925,6 +24949,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T042004Z" creationid="yumas" creationdate="20240805T042004Z">
         <seg>発動を切り替える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">11017</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Tiles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T135209Z" creationid="yumas" creationdate="20240805T135209Z">
+        <seg>タイルズ</seg>
       </tuv>
     </tu>
   </body>
