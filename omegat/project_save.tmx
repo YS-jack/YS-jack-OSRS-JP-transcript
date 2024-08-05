@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T041006Z" creationid="yumas" creationdate="20240805T041006Z">
+        <seg>適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Arcenia root</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064146Z" creationid="2008l" creationdate="20240726T064146Z">
@@ -3974,6 +3982,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T041014Z" creationid="yumas" creationdate="20240805T041014Z">
+        <seg>潰す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crystal key</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T082341Z" creationid="2008l" creationdate="20240729T063726Z">
@@ -4242,6 +4258,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214910Z" creationid="yumas" creationdate="20240730T214842Z">
         <seg>を降りる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Destinations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T041036Z" creationid="yumas" creationdate="20240805T041036Z">
+        <seg>目的地</seg>
       </tuv>
     </tu>
     <tu>
@@ -11702,6 +11726,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Resupply</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T040958Z" creationid="yumas" creationdate="20240805T040958Z">
+        <seg>再供給</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Retrieve</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085316Z" creationid="yumas" creationdate="20240730T085316Z">
@@ -13562,6 +13594,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T070645Z" creationid="2008l" creationdate="20240721T070645Z">
         <seg>スネイプ草</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sniff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T041023Z" creationid="yumas" creationdate="20240805T041023Z">
+        <seg>においを嗅ぐ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16652,6 +16692,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T115132Z" creationid="yumas" creationdate="20240803T115132Z">
         <seg>引き出す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Withdraw 1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T040911Z" creationid="yumas" creationdate="20240805T040911Z">
+        <seg>１個引き出す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Withdraw All</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T040915Z" creationid="yumas" creationdate="20240805T040915Z">
+        <seg>全て引き出す</seg>
       </tuv>
     </tu>
     <tu>
