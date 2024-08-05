@@ -1280,8 +1280,8 @@
       <tuv lang="en-GB">
         <seg>Barman</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T070045Z" creationid="yumas" creationdate="20240805T070045Z">
-        <seg>バーマン</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T073042Z" creationid="yumas" creationdate="20240805T070045Z">
+        <seg>バーテンダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -4018,6 +4018,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T005934Z" creationid="yumas" creationdate="20240803T005934Z">
         <seg>頑張って登る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Claus the Chef</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T072839Z" creationid="yumas" creationdate="20240805T072839Z">
+        <seg>シェフのクロース</seg>
       </tuv>
     </tu>
     <tu>
@@ -8102,10 +8110,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hazeel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T072912Z" creationid="yumas" creationdate="20240805T072912Z">
+        <seg>ハジール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hazeel Cultist</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T072938Z" creationid="yumas" creationdate="20240805T072938Z">
+        <seg>ハジール信者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hazelmere's scroll</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T074542Z" creationid="2008l" creationdate="20240728T054519Z">
         <seg>ヘイゼルミアの巻物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Head Guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T073004Z" creationid="yumas" creationdate="20240805T073004Z">
+        <seg>衛兵長</seg>
       </tuv>
     </tu>
     <tu>
@@ -8178,6 +8210,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T111028Z" creationid="yumas" creationdate="20240730T111028Z">
         <seg>を手伝う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Henryeta Carnillean</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T072902Z" creationid="yumas" creationdate="20240805T072902Z">
+        <seg>ヘンリェッタ・ケーニレアン</seg>
       </tuv>
     </tu>
     <tu>
@@ -9086,6 +9126,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Joe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T073050Z" creationid="yumas" creationdate="20240805T073050Z">
+        <seg>ジョー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Join</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T111453Z" creationid="yumas" creationdate="20240730T111453Z">
@@ -9398,6 +9446,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Kelvin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T073049Z" creationid="yumas" creationdate="20240805T073049Z">
+        <seg>ケルビン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Key</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062701Z" creationid="2008l" creationdate="20240722T062701Z">
@@ -9418,6 +9474,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T010646Z" creationid="yumas" creationdate="20240803T010646Z">
         <seg>カリール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Khazard Barman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T073029Z" creationid="yumas" creationdate="20240805T073029Z">
+        <seg>カザードのバーテンダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Khazard Guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T072956Z" creationid="yumas" creationdate="20240805T072956Z">
+        <seg>カザードの衛兵</seg>
       </tuv>
     </tu>
     <tu>
@@ -12722,6 +12794,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045436Z" creationid="yumas" creationdate="20240805T045436Z">
         <seg>キジ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Philipe Carnillean</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T072849Z" creationid="yumas" creationdate="20240805T072849Z">
+        <seg>フィリップ・カーニレアン</seg>
       </tuv>
     </tu>
     <tu>
@@ -16762,6 +16842,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T064240Z" creationid="yumas" creationdate="20240805T064240Z">
         <seg>スラッシュ・バッシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Slave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T073057Z" creationid="yumas" creationdate="20240805T073057Z">
+        <seg>奴隷</seg>
       </tuv>
     </tu>
     <tu>
