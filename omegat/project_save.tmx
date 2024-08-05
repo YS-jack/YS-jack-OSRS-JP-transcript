@@ -1142,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Big frog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T051455Z" creationid="yumas" creationdate="20240805T051450Z">
+        <seg>大きなカエル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Big-push</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085339Z" creationid="b0sh" creationdate="20240714T212911Z">
@@ -2578,6 +2586,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045900Z" creationid="yumas" creationdate="20240805T045900Z">
         <seg>洞窟を這うもの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cave slime</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T051518Z" creationid="yumas" creationdate="20240805T051518Z">
+        <seg>洞窟スライム</seg>
       </tuv>
     </tu>
     <tu>
@@ -6146,6 +6162,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T063044Z" creationid="2008l" creationdate="20240723T063044Z">
         <seg>巨大な鯉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Giant frog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T051445Z" creationid="yumas" creationdate="20240805T051231Z">
+        <seg>巨大なカエル</seg>
       </tuv>
     </tu>
     <tu>
