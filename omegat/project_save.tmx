@@ -2470,6 +2470,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Change Spellbook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T040708Z" creationid="yumas" creationdate="20240805T040708Z">
+        <seg>魔導書を変える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Change-clothes</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120614Z" creationid="yumas" creationdate="20240731T120614Z">
@@ -2802,6 +2810,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T130827Z" creationid="yumas" creationdate="20240731T130827Z">
         <seg>クードを確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Check Previous</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T040722Z" creationid="yumas" creationdate="20240805T040722Z">
+        <seg>以前のを確認</seg>
       </tuv>
     </tu>
     <tu>
@@ -7358,6 +7374,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Last Destination</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T040802Z" creationid="yumas" creationdate="20240805T040802Z">
+        <seg>で前の目的地へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Last-Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T040857Z" creationid="yumas" creationdate="20240805T040857Z">
+        <seg>以前のワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Last-destination</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T122555Z" creationid="yumas" creationdate="20240730T211451Z">
@@ -10514,6 +10546,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062450Z" creationid="2008l" creationdate="20240722T062450Z">
         <seg>圧力計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Previous Spellbook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T040713Z" creationid="yumas" creationdate="20240805T040713Z">
+        <seg>前の魔導書</seg>
       </tuv>
     </tu>
     <tu>
@@ -15924,6 +15964,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T070725Z" creationid="2008l" creationdate="20240726T063400Z">
         <seg>未確認の液体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Unimbue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T040755Z" creationid="yumas" creationdate="20240805T040755Z">
+        <seg>魔法解除</seg>
       </tuv>
     </tu>
     <tu>
