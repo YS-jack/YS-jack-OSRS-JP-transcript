@@ -2502,6 +2502,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Change-outfit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T041718Z" creationid="yumas" creationdate="20240805T041718Z">
+        <seg>衣装を変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Change-style</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T050414Z" creationid="yumas" creationdate="20240804T050414Z">
@@ -15648,6 +15656,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Toggle-modes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T041713Z" creationid="yumas" creationdate="20240805T041713Z">
+        <seg>モード切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Toggle-respawn</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T123326Z" creationid="yumas" creationdate="20240803T123326Z">
@@ -16004,6 +16020,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T074554Z" creationid="2008l" creationdate="20240728T054802Z">
         <seg>小枝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Un-note-Quantity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T041659Z" creationid="yumas" creationdate="20240805T041659Z">
+        <seg>指定数を実体化</seg>
       </tuv>
     </tu>
     <tu>
