@@ -1574,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Break-down</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T042030Z" creationid="yumas" creationdate="20240805T042030Z">
+        <seg>取り崩す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Brimhaven</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122514Z" creationid="yumas" creationdate="20240730T122514Z">
@@ -2474,6 +2482,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T052408Z" creationid="yumas" creationdate="20240804T052408Z">
         <seg>変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Change Prayerbook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T041758Z" creationid="yumas" creationdate="20240805T041758Z">
+        <seg>祈りの書を変更</seg>
       </tuv>
     </tu>
     <tu>
@@ -13430,6 +13446,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Signal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T042017Z" creationid="yumas" creationdate="20240805T042017Z">
+        <seg>合図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Silk</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T061840Z" creationid="2008l" creationdate="20240729T061840Z">
@@ -17759,6 +17783,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T041249Z" creationid="yumas" creationdate="20240805T041249Z">
         <seg>力を入れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41254</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Toggle-activity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T042004Z" creationid="yumas" creationdate="20240805T042004Z">
+        <seg>発動を切り替える</seg>
       </tuv>
     </tu>
   </body>
