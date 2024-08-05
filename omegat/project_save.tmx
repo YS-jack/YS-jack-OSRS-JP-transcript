@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Anna</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065808Z" creationid="yumas" creationdate="20240805T065808Z">
+        <seg>アンナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Annakarl</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T011213Z" creationid="yumas" creationdate="20240803T011213Z">
@@ -4670,6 +4678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dagannoth mother</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065830Z" creationid="yumas" creationdate="20240805T065830Z">
+        <seg>母ダガノス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Damaged armour</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T062743Z" creationid="2008l" creationdate="20240726T062743Z">
@@ -4754,6 +4770,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053605Z" creationid="yumas" creationdate="20240805T053605Z">
         <seg>ダベイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>David</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065812Z" creationid="yumas" creationdate="20240805T065812Z">
+        <seg>デイビッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -7678,6 +7702,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hellpuppy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065535Z" creationid="yumas" creationdate="20240805T065535Z">
+        <seg>ヘルパピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Help</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T111028Z" creationid="yumas" creationdate="20240730T111028Z">
@@ -8726,6 +8758,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Kalphite Guardian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065530Z" creationid="yumas" creationdate="20240805T065530Z">
+        <seg>衛兵カルファイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kalphite Larva</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065804Z" creationid="yumas" creationdate="20240805T065804Z">
+        <seg>カルファイトの幼虫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Kalphite Queen</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043100Z" creationid="yumas" creationdate="20240805T043100Z">
@@ -8738,6 +8786,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043400Z" creationid="yumas" creationdate="20240805T043400Z">
         <seg>兵隊カルファイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kalphite Worker</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065520Z" creationid="yumas" creationdate="20240805T065520Z">
+        <seg>働きカルファイト</seg>
       </tuv>
     </tu>
     <tu>
@@ -8890,6 +8946,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T063432Z" creationid="yumas" creationdate="20240805T063432Z">
         <seg>クラレンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Klenter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065455Z" creationid="yumas" creationdate="20240805T065455Z">
+        <seg>クレンター</seg>
       </tuv>
     </tu>
     <tu>
@@ -18704,6 +18768,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ulizius</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065452Z" creationid="yumas" creationdate="20240805T065452Z">
+        <seg>ウリジウス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Un-note-Quantity</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T041659Z" creationid="yumas" creationdate="20240805T041659Z">
@@ -18956,6 +19028,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T122859Z" creationid="yumas" creationdate="20240731T122859Z">
         <seg>飛び越える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Veliaf Hurtz</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065840Z" creationid="yumas" creationdate="20240805T065840Z">
+        <seg>ベリアフ・フーツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -19380,6 +19460,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222230Z" creationid="yumas" creationdate="20240730T222230Z">
         <seg>雑草</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weird Old Man</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240805T065509Z" creationid="yumas" creationdate="20240805T065509Z">
+        <seg>変なおじいさん</seg>
       </tuv>
     </tu>
     <tu>
