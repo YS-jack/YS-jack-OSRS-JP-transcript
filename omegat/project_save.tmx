@@ -1574,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bardur</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T114042Z" creationid="yumas" creationdate="20240806T114042Z">
+        <seg>バーヅー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Barfy Bill</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T081448Z" creationid="yumas" creationdate="20240805T081448Z">
@@ -3670,6 +3678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cave goblin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T114331Z" creationid="yumas" creationdate="20240806T114331Z">
+        <seg>洞窟ゴブリン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cave horror</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070226Z" creationid="yumas" creationdate="20240805T070218Z">
@@ -5726,6 +5742,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dagannoth Prime</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T114117Z" creationid="yumas" creationdate="20240806T114117Z">
+        <seg>ダガノス・プライム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dagannoth Rex</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T114126Z" creationid="yumas" creationdate="20240806T114126Z">
+        <seg>ダガノス・レックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dagannoth Supreme</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T114112Z" creationid="yumas" creationdate="20240806T114112Z">
+        <seg>ダガノス・スプリーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dagannoth fledgeling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T114105Z" creationid="yumas" creationdate="20240806T114059Z">
+        <seg>ダガノスの巣立ちひな</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dagannoth mother</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T065830Z" creationid="yumas" creationdate="20240805T065830Z">
@@ -6402,6 +6450,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240806T063720Z" creationid="2008l" creationdate="20240806T063720Z">
         <seg>ドゥーム葉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T114022Z" creationid="yumas" creationdate="20240806T114022Z">
+        <seg>ドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Door-support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T114020Z" creationid="yumas" creationdate="20240806T114020Z">
+        <seg>ドアの支え</seg>
       </tuv>
     </tu>
     <tu>
@@ -8594,6 +8658,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T055504Z" creationid="yumas" creationdate="20240805T055504Z">
         <seg>巨大なロク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Giant Rock Crab</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T114035Z" creationid="yumas" creationdate="20240806T114035Z">
+        <seg>巨大な岩ガニ</seg>
       </tuv>
     </tu>
     <tu>
