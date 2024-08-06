@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Animated Bronze Armour</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T121303Z" creationid="yumas" creationdate="20240806T121303Z">
+        <seg>動く銅の防具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Anna</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T065808Z" creationid="yumas" creationdate="20240805T065808Z">
@@ -3146,6 +3154,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120730Z" creationid="yumas" creationdate="20240731T120730Z">
         <seg>組み立てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Buinn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T120812Z" creationid="yumas" creationdate="20240806T120812Z">
+        <seg>ブイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -7026,6 +7042,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T120747Z" creationid="yumas" creationdate="20240806T120747Z">
         <seg>ドワーフの船頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dwarven Miner</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T120808Z" creationid="yumas" creationdate="20240806T120808Z">
+        <seg>ドワーフの鉱夫</seg>
       </tuv>
     </tu>
     <tu>
