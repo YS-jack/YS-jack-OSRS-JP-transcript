@@ -1902,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black Guard Berserker</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T114011Z" creationid="yumas" creationdate="20240806T114011Z">
+        <seg>黒い衛兵バーザーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black Heather</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T044820Z" creationid="yumas" creationdate="20240805T044820Z">
@@ -2266,6 +2274,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T112354Z" creationid="yumas" creationdate="20240805T112354Z">
         <seg>青いサル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blue Opal Director</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T112535Z" creationid="yumas" creationdate="20240806T112535Z">
+        <seg>アオ・オパール監督</seg>
       </tuv>
     </tu>
     <tu>
@@ -2986,6 +3002,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053436Z" creationid="yumas" creationdate="20240805T053436Z">
         <seg>トランキリティ兄さん</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Brown Engine Director</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T112626Z" creationid="yumas" creationdate="20240806T112626Z">
+        <seg>チャ・エンジン監督</seg>
       </tuv>
     </tu>
     <tu>
@@ -5050,6 +5074,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T093705Z" creationid="yumas" creationdate="20240805T093705Z">
         <seg>コナド司令官</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Commander Veldaban</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T112651Z" creationid="yumas" creationdate="20240806T112651Z">
+        <seg>ベルダバン司令官</seg>
       </tuv>
     </tu>
     <tu>
@@ -8398,6 +8430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>General Graardor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T112439Z" creationid="yumas" creationdate="20240806T112439Z">
+        <seg>グラドー将軍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>General Wartface</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T054050Z" creationid="yumas" creationdate="20240805T054050Z">
@@ -9018,6 +9058,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T133610Z" creationid="yumas" creationdate="20240805T133610Z">
         <seg>上位の悪魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Green Gemstone Director</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T112559Z" creationid="yumas" creationdate="20240806T112559Z">
+        <seg>ミドリ・ジェムストーン監督</seg>
       </tuv>
     </tu>
     <tu>
@@ -16238,6 +16286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Purple Pewter Director</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T112517Z" creationid="yumas" creationdate="20240806T112517Z">
+        <seg>ムラサキ・ピューター監督</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Purple cape</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T082500Z" creationid="2008l" creationdate="20240729T064646Z">
@@ -16962,6 +17018,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T050116Z" creationid="yumas" creationdate="20240804T050116Z">
         <seg>反射の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Red Axe Cat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T112705Z" creationid="yumas" creationdate="20240806T112705Z">
+        <seg>アカ・アックスのネコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Red Axe Director</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T112641Z" creationid="yumas" creationdate="20240806T112641Z">
+        <seg>アカ・アックス監督</seg>
       </tuv>
     </tu>
     <tu>
@@ -19086,10 +19158,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sergeant Grimspike</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T112505Z" creationid="yumas" creationdate="20240806T112505Z">
+        <seg>グリムスパイク軍曹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sergeant Sambur</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T094232Z" creationid="yumas" creationdate="20240805T094232Z">
         <seg>サンブール軍曹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sergeant Steelwill</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T112459Z" creationid="yumas" creationdate="20240806T112459Z">
+        <seg>スチールウィル軍曹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sergeant Strongstack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T112452Z" creationid="yumas" creationdate="20240806T112452Z">
+        <seg>ストロングスタック軍曹</seg>
       </tuv>
     </tu>
     <tu>
@@ -19554,6 +19650,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T061840Z" creationid="2008l" creationdate="20240729T061840Z">
         <seg>絹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Silver Cog Director</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T112620Z" creationid="yumas" creationdate="20240806T112620Z">
+        <seg>ギン・コグ監督</seg>
       </tuv>
     </tu>
     <tu>
@@ -24032,6 +24136,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>White Chisel Director</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T112610Z" creationid="yumas" creationdate="20240806T112610Z">
+        <seg>シロ・チーゼル監督</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>White Knight</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T111811Z" creationid="yumas" creationdate="20240805T111811Z">
@@ -24364,6 +24476,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T010328Z" creationid="yumas" creationdate="20240803T010328Z">
         <seg>ヤニル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yellow Fortune Director</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T112548Z" creationid="yumas" creationdate="20240806T112548Z">
+        <seg>キ・フォーチュン監督</seg>
       </tuv>
     </tu>
     <tu>
