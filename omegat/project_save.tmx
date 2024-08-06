@@ -5670,6 +5670,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cool Mom227</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133420Z" creationid="yumas" creationdate="20240806T133420Z">
+        <seg>Cool Mom227</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cool-preform</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T113152Z" creationid="yumas" creationdate="20240803T113152Z">
@@ -5746,6 +5754,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T115827Z" creationid="yumas" creationdate="20240731T115827Z">
         <seg>盗品を数える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133456Z" creationid="yumas" creationdate="20240806T133456Z">
+        <seg>牛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cow calf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133504Z" creationid="yumas" creationdate="20240806T133504Z">
+        <seg>子牛</seg>
       </tuv>
     </tu>
     <tu>
@@ -8266,6 +8290,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T032252Z" creationid="yumas" creationdate="20240803T032252Z">
         <seg>農業ギルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Father Aereck</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133542Z" creationid="yumas" creationdate="20240806T133542Z">
+        <seg>アエレック神父</seg>
       </tuv>
     </tu>
     <tu>
@@ -10854,6 +10886,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hirko</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133449Z" creationid="yumas" creationdate="20240806T133449Z">
+        <seg>ヒーコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Historian Minas</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T115459Z" creationid="yumas" creationdate="20240805T115459Z">
@@ -10930,6 +10970,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T071313Z" creationid="2008l" creationdate="20240726T071004Z">
         <seg>空洞のアシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Holoy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133452Z" creationid="yumas" creationdate="20240806T133452Z">
+        <seg>ホロイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -11074,6 +11122,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T091519Z" creationid="yumas" creationdate="20240805T091519Z">
         <seg>狩りの専門家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hura</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133453Z" creationid="yumas" creationdate="20240806T133453Z">
+        <seg>フラ</seg>
       </tuv>
     </tu>
     <tu>
@@ -11250,6 +11306,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T021032Z" creationid="yumas" creationdate="20240803T021032Z">
         <seg>付与</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Imiago</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133355Z" creationid="yumas" creationdate="20240806T133355Z">
+        <seg>イミアゴ</seg>
       </tuv>
     </tu>
     <tu>
@@ -13626,6 +13690,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221112Z" creationid="yumas" creationdate="20240730T221112Z">
         <seg>灯す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Liliwen</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133359Z" creationid="yumas" creationdate="20240806T133359Z">
+        <seg>リリウェン</seg>
       </tuv>
     </tu>
     <tu>
@@ -16918,10 +16990,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pig</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133508Z" creationid="yumas" creationdate="20240806T133508Z">
+        <seg>ブタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pigeon cage</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T065329Z" creationid="2008l" creationdate="20240723T065315Z">
         <seg>鳩の檻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Piglet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133513Z" creationid="yumas" creationdate="20240806T133513Z">
+        <seg>子ブタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -17318,6 +17406,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Praistan Ebola</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133342Z" creationid="yumas" creationdate="20240806T133342Z">
+        <seg>プライスタン・エボラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pray</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120656Z" creationid="yumas" creationdate="20240731T120656Z">
@@ -17482,6 +17578,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045410Z" creationid="yumas" creationdate="20240805T045410Z">
         <seg>刑務所のピート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Prissy Scilla</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133352Z" creationid="yumas" creationdate="20240806T133352Z">
+        <seg>プリシー・スシラ</seg>
       </tuv>
     </tu>
     <tu>
@@ -21054,6 +21158,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sheepdog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133535Z" creationid="yumas" creationdate="20240806T133535Z">
+        <seg>牧羊犬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shifter</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T095207Z" creationid="yumas" creationdate="20240805T095207Z">
@@ -21122,6 +21234,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T094222Z" creationid="yumas" creationdate="20240730T094222Z">
         <seg>店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shop assistant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133554Z" creationid="yumas" creationdate="20240806T133554Z">
+        <seg>店員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shop keeper</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133549Z" creationid="yumas" creationdate="20240806T133549Z">
+        <seg>店主</seg>
       </tuv>
     </tu>
     <tu>
@@ -27560,6 +27688,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T135209Z" creationid="yumas" creationdate="20240805T135209Z">
         <seg>タイルズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">11307</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Reach</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133440Z" creationid="yumas" creationdate="20240806T133440Z">
+        <seg>リーチ</seg>
       </tuv>
     </tu>
   </body>
