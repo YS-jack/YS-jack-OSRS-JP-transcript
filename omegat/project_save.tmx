@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Assistant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T115518Z" creationid="yumas" creationdate="20240806T115518Z">
+        <seg>助手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Astronomy book</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T064302Z" creationid="2008l" creationdate="20240725T064302Z">
@@ -1626,6 +1634,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T115016Z" creationid="yumas" creationdate="20240806T115016Z">
         <seg>バーラク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Barmaid</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T115709Z" creationid="yumas" creationdate="20240806T115709Z">
+        <seg>バーメイド</seg>
       </tuv>
     </tu>
     <tu>
@@ -3602,6 +3618,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T013107Z" creationid="yumas" creationdate="20240803T013107Z">
         <seg>カラランガー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cart conductor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T120000Z" creationid="yumas" creationdate="20240806T120000Z">
+        <seg>カートの操縦員</seg>
       </tuv>
     </tu>
     <tu>
@@ -5678,6 +5702,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Customer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T115522Z" creationid="yumas" creationdate="20240806T115522Z">
+        <seg>客</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T113442Z" creationid="yumas" creationdate="20240730T113442Z">
@@ -6742,6 +6774,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dromund</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T115534Z" creationid="yumas" creationdate="20240806T115534Z">
+        <seg>ドロマンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dromund's cat</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T115130Z" creationid="yumas" creationdate="20240806T115130Z">
@@ -7642,6 +7682,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T065828Z" creationid="2008l" creationdate="20240721T065828Z">
         <seg>イモリの目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Factory Manager</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T115549Z" creationid="yumas" creationdate="20240806T115549Z">
+        <seg>工場の現場監督</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Factory Worker</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T115602Z" creationid="yumas" creationdate="20240806T115602Z">
+        <seg>工場の職員</seg>
       </tuv>
     </tu>
     <tu>
@@ -8992,8 +9048,8 @@
       <tuv lang="en-GB">
         <seg>Gnome shop keeper</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T073703Z" creationid="yumas" creationdate="20240805T073703Z">
-        <seg>ノームの店員</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T115638Z" creationid="yumas" creationdate="20240805T073703Z">
+        <seg>ノームの店主</seg>
       </tuv>
     </tu>
     <tu>
@@ -10554,6 +10610,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T003902Z" creationid="yumas" creationdate="20240803T003902Z">
         <seg>注入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Inn Keeper</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T115706Z" creationid="yumas" creationdate="20240806T115706Z">
+        <seg>宿屋の主人</seg>
       </tuv>
     </tu>
     <tu>
@@ -12730,6 +12794,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T092149Z" creationid="yumas" creationdate="20240805T092149Z">
         <seg>リアム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Librarian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T115437Z" creationid="yumas" creationdate="20240806T115437Z">
+        <seg>図書館員</seg>
       </tuv>
     </tu>
     <tu>
@@ -17914,6 +17986,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122616Z" creationid="yumas" creationdate="20240730T122616Z">
         <seg>でリミングトンへ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rind the gardener</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T115541Z" creationid="yumas" creationdate="20240806T115541Z">
+        <seg>リンド庭師</seg>
       </tuv>
     </tu>
     <tu>
