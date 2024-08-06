@@ -2512,8 +2512,8 @@
       <tuv lang="en-GB">
         <seg>Blast Furnace Foreman</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240806T140420Z" creationid="yumas" creationdate="20240806T140420Z">
-        <seg>ブラスト・ファーネス現場監督</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T140425Z" creationid="yumas" creationdate="20240806T140420Z">
+        <seg>ブラスト・ファーネスの現場監督</seg>
       </tuv>
     </tu>
     <tu>
@@ -15854,6 +15854,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Nail beast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T140544Z" creationid="yumas" creationdate="20240806T140544Z">
+        <seg>爪の獣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Nardah</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T044844Z" creationid="yumas" creationdate="20240804T044844Z">
@@ -17002,6 +17010,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T124003Z" creationid="yumas" creationdate="20240806T124003Z">
         <seg>ペンウィー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Perfect gold ore</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T140513Z" creationid="yumas" creationdate="20240806T140513Z">
+        <seg>「完璧」な金鉱石</seg>
       </tuv>
     </tu>
     <tu>
