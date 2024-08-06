@@ -1918,6 +1918,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133557Z" creationid="yumas" creationdate="20240806T133557Z">
+        <seg>コウモリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bat bones</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070825Z" creationid="2008l" creationdate="20240724T070825Z">
@@ -3734,6 +3742,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Camel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133712Z" creationid="yumas" creationdate="20240806T133712Z">
+        <seg>ラクダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Camelot</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T010218Z" creationid="yumas" creationdate="20240803T010218Z">
@@ -4154,6 +4170,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045839Z" creationid="yumas" creationdate="20240805T045839Z">
         <seg>チャエルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chair</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133623Z" creationid="yumas" creationdate="20240806T133623Z">
+        <seg>椅子</seg>
       </tuv>
     </tu>
     <tu>
@@ -7262,6 +7286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dryad</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133601Z" creationid="yumas" creationdate="20240806T133601Z">
+        <seg>ドライアド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Duck</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T112559Z" creationid="yumas" creationdate="20240805T112559Z">
@@ -9422,6 +9454,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Giant bat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133709Z" creationid="yumas" creationdate="20240806T133709Z">
+        <seg>巨大なコウモリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Giant carp</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T063044Z" creationid="2008l" creationdate="20240723T063044Z">
@@ -9830,6 +9870,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Golem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133716Z" creationid="yumas" creationdate="20240806T133716Z">
+        <seg>ゴーレム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Golrie</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T064506Z" creationid="yumas" creationdate="20240805T064506Z">
@@ -10186,6 +10234,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T064022Z" creationid="yumas" creationdate="20240805T064022Z">
         <seg>グリシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grizzly bear</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133752Z" creationid="yumas" creationdate="20240806T133752Z">
+        <seg>グリズリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -13694,6 +13750,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lil' Creator</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133705Z" creationid="yumas" creationdate="20240806T133631Z">
+        <seg>小っちゃな創造者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Liliwen</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T133359Z" creationid="yumas" creationdate="20240806T133359Z">
@@ -15482,6 +15546,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T130242Z" creationid="yumas" creationdate="20240806T130108Z">
         <seg>マイヤー・ブラミシュ・カタツムリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mysterious Old Man</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133620Z" creationid="yumas" creationdate="20240806T133620Z">
+        <seg>ミステリアスなおじいさん</seg>
       </tuv>
     </tu>
     <tu>
@@ -25220,6 +25292,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T130534Z" creationid="yumas" creationdate="20240730T130534Z">
         <seg>アンガエル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Unicorn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T133720Z" creationid="yumas" creationdate="20240806T133720Z">
+        <seg>ユニコーン</seg>
       </tuv>
     </tu>
     <tu>
