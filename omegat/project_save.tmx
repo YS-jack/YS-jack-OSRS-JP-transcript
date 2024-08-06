@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Abbot Langley</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T125102Z" creationid="yumas" creationdate="20240806T125102Z">
+        <seg>ラングレー僧院長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Aberrant spectre</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T042421Z" creationid="yumas" creationdate="20240805T042421Z">
@@ -98,6 +106,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043025Z" creationid="yumas" creationdate="20240805T043025Z">
         <seg>深淵の悪魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Abyssal guardian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T125213Z" creationid="yumas" creationdate="20240806T125213Z">
+        <seg>深淵の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Abyssal leech</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T125207Z" creationid="yumas" creationdate="20240806T125207Z">
+        <seg>深淵のヒル</seg>
       </tuv>
     </tu>
     <tu>
@@ -3182,6 +3206,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Brother Jered</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T125109Z" creationid="yumas" creationdate="20240806T125109Z">
+        <seg>ジェレッド修道士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Brother Tranquility</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053436Z" creationid="yumas" creationdate="20240805T053436Z">
@@ -3306,6 +3338,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T043830Z" creationid="yumas" creationdate="20240804T043830Z">
         <seg>でバーグへワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burkor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T125013Z" creationid="yumas" creationdate="20240806T125013Z">
+        <seg>ブーコー</seg>
       </tuv>
     </tu>
     <tu>
@@ -6118,6 +6158,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dark Mage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T125136Z" creationid="yumas" creationdate="20240806T125136Z">
+        <seg>暗黒の魔術師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dark core</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045129Z" creationid="yumas" creationdate="20240805T045129Z">
@@ -8678,6 +8726,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Froono</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T125017Z" creationid="yumas" creationdate="20240806T125017Z">
+        <seg>フルーノ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fry</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T045523Z" creationid="yumas" creationdate="20240804T045523Z">
@@ -9962,6 +10018,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070113Z" creationid="yumas" creationdate="20240805T070113Z">
         <seg>盗賊の衛兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guard Vemmeldo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T125009Z" creationid="yumas" creationdate="20240806T125009Z">
+        <seg>ヴェンメルド衛兵</seg>
       </tuv>
     </tu>
     <tu>
@@ -13766,6 +13830,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mage of Zamorak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T125122Z" creationid="yumas" creationdate="20240806T125122Z">
+        <seg>ザモラックの魔術師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Magic gold feather</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T074422Z" creationid="2008l" creationdate="20240716T074422Z">
@@ -14186,6 +14258,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T085942Z" creationid="yumas" creationdate="20240805T085942Z">
         <seg>普通の忍者ザル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Meegle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T124930Z" creationid="yumas" creationdate="20240806T124930Z">
+        <seg>ミーグル</seg>
       </tuv>
     </tu>
     <tu>
@@ -19818,6 +19898,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052732Z" creationid="yumas" creationdate="20240805T052732Z">
         <seg>サーラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sarble</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T124935Z" creationid="yumas" creationdate="20240806T124935Z">
+        <seg>サーブル</seg>
       </tuv>
     </tu>
     <tu>
@@ -25660,6 +25748,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T132625Z" creationid="yumas" creationdate="20240803T132625Z">
         <seg>役割を書く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wurbel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240806T124933Z" creationid="yumas" creationdate="20240806T124933Z">
+        <seg>ウーベル</seg>
       </tuv>
     </tu>
     <tu>
