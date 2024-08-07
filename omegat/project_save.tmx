@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>'Currency' The Alchemist</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T210747Z" creationid="yumas" creationdate="20240807T210747Z">
+        <seg>錬金術師の「通貨」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>'Transmute' The Alchemist</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T210719Z" creationid="yumas" creationdate="20240807T210719Z">
+        <seg>錬金術師の「変換」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>'perfect' gold ore</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T060657Z" creationid="2008l" creationdate="20240724T064827Z">
@@ -3126,6 +3142,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bonafido</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T210433Z" creationid="yumas" creationdate="20240807T210433Z">
+        <seg>ボナフィド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bone beads</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T065451Z" creationid="2008l" creationdate="20240725T065451Z">
@@ -4136,8 +4160,8 @@
       <tuv lang="en-GB">
         <seg>Cage</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T085814Z" creationid="yumas" creationdate="20240730T085814Z">
-        <seg>でカゴで釣る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T210511Z" creationid="yumas" creationdate="20240730T085814Z">
+        <seg>カゴ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12474,6 +12498,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T123305Z" creationid="yumas" creationdate="20240731T123305Z">
         <seg>家へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Homunculus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T210501Z" creationid="yumas" creationdate="20240807T210501Z">
+        <seg>人造人間</seg>
       </tuv>
     </tu>
     <tu>
@@ -30058,6 +30090,17 @@
     </tu>
     <tu>
       <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41330</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Cage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T210529Z" creationid="yumas" creationdate="20240807T210529Z">
+        <seg>カゴで釣る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
       <prop type="id">41392</prop>
       <prop type="path">//transcript.db</prop>
       <tuv lang="en-GB">
@@ -30274,6 +30317,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T123806Z" creationid="yumas" creationdate="20240731T123806Z">
         <seg>から丸太を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41996</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Cage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T210548Z" creationid="yumas" creationdate="20240807T210548Z">
+        <seg>カゴで釣る</seg>
       </tuv>
     </tu>
     <tu>
