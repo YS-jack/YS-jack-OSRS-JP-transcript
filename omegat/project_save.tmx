@@ -6398,6 +6398,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crushed gem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195457Z" creationid="2008l" creationdate="20240807T195457Z">
+        <seg>砕かれた宝石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crusher</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T064018Z" creationid="yumas" creationdate="20240805T064018Z">
@@ -7118,6 +7126,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Diamond ring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195550Z" creationid="2008l" creationdate="20240807T195550Z">
+        <seg>ダイヤの指輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dig</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222501Z" creationid="yumas" creationdate="20240730T222501Z">
@@ -7538,6 +7554,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240807T070507Z" creationid="2008l" creationdate="20240807T070507Z">
         <seg>竜石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragonstone ring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195556Z" creationid="2008l" creationdate="20240807T195556Z">
+        <seg>竜石の指輪</seg>
       </tuv>
     </tu>
     <tu>
@@ -8178,6 +8202,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134049Z" creationid="yumas" creationdate="20240807T134049Z">
         <seg>エメラルド・ベネディクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Emerald ring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195543Z" creationid="2008l" creationdate="20240807T195543Z">
+        <seg>エメラルドの指輪</seg>
       </tuv>
     </tu>
     <tu>
@@ -10614,10 +10646,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gold necklace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195605Z" creationid="2008l" creationdate="20240807T195605Z">
+        <seg>金のネックレス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gold ore</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T064746Z" creationid="2008l" creationdate="20240724T064746Z">
         <seg>金鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gold ring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195518Z" creationid="2008l" creationdate="20240807T195518Z">
+        <seg>金の指輪</seg>
       </tuv>
     </tu>
     <tu>
@@ -21534,6 +21582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ruby ring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195547Z" creationid="2008l" creationdate="20240807T195547Z">
+        <seg>ルビーの指輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rufus</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053417Z" creationid="yumas" creationdate="20240805T053417Z">
@@ -22058,6 +22114,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240807T070330Z" creationid="2008l" creationdate="20240807T070330Z">
         <seg>サファイア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sapphire ring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195541Z" creationid="2008l" creationdate="20240807T195541Z">
+        <seg>サファイアの指輪</seg>
       </tuv>
     </tu>
     <tu>
@@ -26996,6 +27060,70 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T125419Z" creationid="yumas" creationdate="20240803T125419Z">
         <seg>チャージ解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Uncut diamond</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195310Z" creationid="2008l" creationdate="20240807T195310Z">
+        <seg>ダイヤの原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Uncut dragonstone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195437Z" creationid="2008l" creationdate="20240807T195437Z">
+        <seg>竜石の原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Uncut emerald</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195334Z" creationid="2008l" creationdate="20240807T195334Z">
+        <seg>エメラルドの原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Uncut jade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195355Z" creationid="2008l" creationdate="20240807T195355Z">
+        <seg>ヒスイの原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Uncut opal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195351Z" creationid="2008l" creationdate="20240807T195351Z">
+        <seg>オパールの原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Uncut red topaz</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195404Z" creationid="2008l" creationdate="20240807T195404Z">
+        <seg>赤トパーズの原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Uncut ruby</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195319Z" creationid="2008l" creationdate="20240807T195319Z">
+        <seg>ルビーの原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Uncut sapphire</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195348Z" creationid="2008l" creationdate="20240807T195348Z">
+        <seg>サファイアの原石</seg>
       </tuv>
     </tu>
     <tu>
