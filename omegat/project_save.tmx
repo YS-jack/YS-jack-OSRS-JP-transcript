@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ak-Haranu</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123537Z" creationid="yumas" creationdate="20240807T123537Z">
+        <seg>アク・ハラヌ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Al Kharid</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T121313Z" creationid="yumas" creationdate="20240731T121313Z">
@@ -9590,6 +9598,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ghost villager</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123728Z" creationid="yumas" creationdate="20240807T123728Z">
+        <seg>幽霊の村人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ghost's skull</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062601Z" creationid="2008l" creationdate="20240725T062601Z">
@@ -9698,6 +9714,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T051445Z" creationid="yumas" creationdate="20240805T051231Z">
         <seg>巨大なカエル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Giant lobster</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123624Z" creationid="yumas" creationdate="20240807T123624Z">
+        <seg>巨大ロブスター</seg>
       </tuv>
     </tu>
     <tu>
@@ -16366,10 +16390,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Old crone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123702Z" creationid="yumas" creationdate="20240807T123702Z">
+        <seg>シワクチャなおばあちゃん</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Old journal</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T071823Z" creationid="2008l" creationdate="20240805T071823Z">
         <seg>古い日記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Old man</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123705Z" creationid="yumas" creationdate="20240807T123705Z">
+        <seg>おじいさん</seg>
       </tuv>
     </tu>
     <tu>
@@ -20290,6 +20330,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T130307Z" creationid="yumas" creationdate="20240806T130307Z">
         <seg>強者ロバート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Robin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123626Z" creationid="yumas" creationdate="20240807T123626Z">
+        <seg>ロビン</seg>
       </tuv>
     </tu>
     <tu>
@@ -25192,6 +25240,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tortured soul</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123843Z" creationid="yumas" creationdate="20240807T123843Z">
+        <seg>苦悩する魂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Touch</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214747Z" creationid="yumas" creationdate="20240730T214747Z">
@@ -25812,6 +25868,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T135422Z" creationid="yumas" creationdate="20240805T135422Z">
         <seg>アンデッド・ドルイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Undead chicken</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123618Z" creationid="yumas" creationdate="20240807T123618Z">
+        <seg>アンデッドのニワトリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Undead cow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123609Z" creationid="yumas" creationdate="20240807T123609Z">
+        <seg>アンデッドの牛</seg>
       </tuv>
     </tu>
     <tu>
