@@ -579,7 +579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41330">
         <xliff:source>Cage</xliff:source>
-        <xliff:target state="translated">でカゴで釣る</xliff:target>
+        <xliff:target state="translated">カゴで釣る</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Fishing spot
@@ -3891,7 +3891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41744">
         <xliff:source>Lock</xliff:source>
-        <xliff:target state="translated">の鍵を閉める</xliff:target>
+        <xliff:target state="translated">のカギを閉める</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Door
@@ -5907,7 +5907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41996">
         <xliff:source>Cage</xliff:source>
-        <xliff:target state="translated">でカゴで釣る</xliff:target>
+        <xliff:target state="translated">カゴで釣る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fishing spot

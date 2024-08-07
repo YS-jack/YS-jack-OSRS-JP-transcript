@@ -459,7 +459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="58">
         <xliff:source>Khazard cell keys</xliff:source>
-        <xliff:target state="translated">カザードの監房の鍵</xliff:target>
+        <xliff:target state="translated">カザードの監房のカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Khazard cell keys
@@ -499,7 +499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="63">
         <xliff:source>Shiny key</xliff:source>
-        <xliff:target state="translated">光沢のある鍵</xliff:target>
+        <xliff:target state="translated">光沢のあるカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Shiny key
@@ -1291,7 +1291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="162">
         <xliff:source>Key</xliff:source>
-        <xliff:target state="translated">鍵</xliff:target>
+        <xliff:target state="translated">カギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Key
@@ -2011,7 +2011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="252">
         <xliff:source>Chest key</xliff:source>
-        <xliff:target state="translated">宝箱の鍵</xliff:target>
+        <xliff:target state="translated">宝箱のカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Chest key
@@ -2683,7 +2683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="336">
         <xliff:source>Goblin kitchen key</xliff:source>
-        <xliff:target state="translated">ゴブリンの台所の鍵</xliff:target>
+        <xliff:target state="translated">ゴブリンの台所のカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Goblin kitchen key
@@ -2715,7 +2715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="340">
         <xliff:source>Bone key</xliff:source>
-        <xliff:target state="translated">骨の鍵</xliff:target>
+        <xliff:target state="translated">骨のカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bone key
@@ -3611,7 +3611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="452">
         <xliff:source>Phoenix hq key</xliff:source>
-        <xliff:target state="translated">フェニックス本部の鍵</xliff:target>
+        <xliff:target state="translated">フェニックス本部のカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Phoenix hq key
@@ -3619,7 +3619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="453">
         <xliff:source>Weapon store key</xliff:source>
-        <xliff:target state="translated">武器庫の鍵</xliff:target>
+        <xliff:target state="translated">武器庫のカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Weapon store key
@@ -3811,7 +3811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="477">
         <xliff:source>Glough's key</xliff:source>
-        <xliff:target state="translated">グローの鍵</xliff:target>
+        <xliff:target state="translated">グローのカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Glough's key
@@ -4659,7 +4659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="583">
         <xliff:source>Brass key</xliff:source>
-        <xliff:target state="translated">黄銅の鍵</xliff:target>
+        <xliff:target state="translated">黄銅のカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Brass key
@@ -4667,7 +4667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="584">
         <xliff:source>Tooth half of key</xliff:source>
-        <xliff:target state="translated">鍵の先端部分</xliff:target>
+        <xliff:target state="translated">カギの先端部分</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Tooth half of key
@@ -4675,7 +4675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="585">
         <xliff:source>Loop half of key</xliff:source>
-        <xliff:target state="translated">鍵の持ち手部分</xliff:target>
+        <xliff:target state="translated">カギの持ち手部分</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Loop half of key
@@ -4683,7 +4683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="586">
         <xliff:source>Crystal key</xliff:source>
-        <xliff:target state="translated">水晶の鍵</xliff:target>
+        <xliff:target state="translated">水晶のカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Crystal key
@@ -4691,7 +4691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="587">
         <xliff:source>Muddy key</xliff:source>
-        <xliff:target state="translated">泥だらけの鍵</xliff:target>
+        <xliff:target state="translated">泥だらけのカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Muddy key
@@ -4699,7 +4699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="588">
         <xliff:source>Sinister key</xliff:source>
-        <xliff:target state="translated">不吉な鍵</xliff:target>
+        <xliff:target state="translated">不吉なカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Sinister key
@@ -6779,7 +6779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="848">
         <xliff:source>A small key</xliff:source>
-        <xliff:target state="translated">小さい鍵</xliff:target>
+        <xliff:target state="translated">小さいカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: A small key
@@ -6971,7 +6971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="872">
         <xliff:source>Maze key</xliff:source>
-        <xliff:target state="translated">迷路の鍵</xliff:target>
+        <xliff:target state="translated">迷路のカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Maze key
@@ -7107,7 +7107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="889">
         <xliff:source>Miscellaneous key</xliff:source>
-        <xliff:target state="translated">雑多の鍵</xliff:target>
+        <xliff:target state="translated">雑多のカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Miscellaneous key
@@ -7123,7 +7123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="891">
         <xliff:source>Dusty key</xliff:source>
-        <xliff:target state="translated">ほこりっぽい鍵</xliff:target>
+        <xliff:target state="translated">ほこりっぽいカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dusty key
@@ -7131,7 +7131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="892">
         <xliff:source>Jail key</xliff:source>
-        <xliff:target state="translated">刑務所の鍵</xliff:target>
+        <xliff:target state="translated">刑務所のカギ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Jail key
@@ -13011,7 +13011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1627">
         <xliff:source>Knight</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">騎士</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Knight
@@ -29003,7 +29003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3626">
         <xliff:source>Crate</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">木箱</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Crate

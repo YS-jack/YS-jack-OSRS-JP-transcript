@@ -3,7 +3,7 @@
     <xliff:body>
       <xliff:trans-unit id="14358">
         <xliff:source>Crate</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">木箱</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Crate
@@ -1171,7 +1171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14504">
         <xliff:source>Mine cart</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">採掘カート</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Mine cart
@@ -1227,7 +1227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14511">
         <xliff:source>Corpse</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">死体</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Corpse
@@ -4539,7 +4539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14925">
         <xliff:source>Cage</xliff:source>
-        <xliff:target state="translated">でカゴで釣る</xliff:target>
+        <xliff:target state="translated">カゴ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Cage
@@ -6715,7 +6715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15197">
         <xliff:source>Boat</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ボート</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Boat
@@ -8227,7 +8227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15386">
         <xliff:source>Key</xliff:source>
-        <xliff:target state="translated">鍵</xliff:target>
+        <xliff:target state="translated">カギ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Key
@@ -20355,7 +20355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16902">
         <xliff:source>Lock</xliff:source>
-        <xliff:target state="translated">の鍵を閉める</xliff:target>
+        <xliff:target state="translated">のカギを閉める</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Lock
@@ -20915,7 +20915,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16972">
         <xliff:source>Sir Lucan</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">サー・ルカン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Sir Lucan
@@ -20923,7 +20923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16973">
         <xliff:source>Sir Palomedes</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">サー・パロメデス</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Sir Palomedes
@@ -20931,7 +20931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16974">
         <xliff:source>Sir Lancelot</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">サー・ランスロット</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Sir Lancelot
@@ -20939,7 +20939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16975">
         <xliff:source>Sir Bedivere</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">サー・ベディヴェー</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Sir Bedivere
@@ -20971,7 +20971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16979">
         <xliff:source>Sir Tristram</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">サー・トリストラム</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Sir Tristram
@@ -20987,7 +20987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16981">
         <xliff:source>King Arthur</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アーサー王</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: King Arthur
@@ -21515,7 +21515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17047">
         <xliff:source>Knight</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">騎士</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Knight
@@ -26963,7 +26963,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17728">
         <xliff:source>Meiyerditch citizen</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">メイヤーディッチの市民</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Meiyerditch citizen
@@ -26971,7 +26971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17729">
         <xliff:source>Old Man Ral</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ラルじいさん</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Old Man Ral
@@ -26995,7 +26995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17732">
         <xliff:source>Ranis Drakan</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ラニス・ドラカン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Ranis Drakan
