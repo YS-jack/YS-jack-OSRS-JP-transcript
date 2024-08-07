@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Amulet of glory</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T200039Z" creationid="2008l" creationdate="20240807T200039Z">
+        <seg>栄光のアミュレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Amulet of holthion</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T073256Z" creationid="2008l" creationdate="20240805T072203Z">
@@ -7126,6 +7134,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Diamond amulet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195850Z" creationid="2008l" creationdate="20240807T195850Z">
+        <seg>ダイヤのアミュレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diamond amulet (u)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195733Z" creationid="2008l" creationdate="20240807T195733Z">
+        <seg>ダイヤのアミュレット（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diamond necklace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195647Z" creationid="2008l" creationdate="20240807T195647Z">
+        <seg>ダイヤのネックレス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Diamond ring</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240807T195550Z" creationid="2008l" creationdate="20240807T195550Z">
@@ -7510,6 +7542,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dragon necklace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195656Z" creationid="2008l" creationdate="20240807T195656Z">
+        <seg>竜石のネックレス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dragon scale dust</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T071259Z" creationid="2008l" creationdate="20240721T071259Z">
@@ -7554,6 +7594,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240807T070507Z" creationid="2008l" creationdate="20240807T070507Z">
         <seg>竜石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragonstone amulet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195914Z" creationid="2008l" creationdate="20240807T195914Z">
+        <seg>竜石のアミュレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragonstone amulet (u)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195740Z" creationid="2008l" creationdate="20240807T195740Z">
+        <seg>竜石のアミュレット（未）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8202,6 +8258,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134049Z" creationid="yumas" creationdate="20240807T134049Z">
         <seg>エメラルド・ベネディクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Emerald amulet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195840Z" creationid="2008l" creationdate="20240807T195840Z">
+        <seg>エメラルドのアミュレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Emerald amulet (u)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195727Z" creationid="2008l" creationdate="20240807T195727Z">
+        <seg>エメラルドのアミュレット（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Emerald necklace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195630Z" creationid="2008l" creationdate="20240807T195630Z">
+        <seg>エメラルドのネックレス</seg>
       </tuv>
     </tu>
     <tu>
@@ -10634,6 +10714,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T114441Z" creationid="yumas" creationdate="20240806T114441Z">
         <seg>ゴブリンの書記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gold amulet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195830Z" creationid="2008l" creationdate="20240807T195830Z">
+        <seg>金のアミュレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gold amulet (u)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195715Z" creationid="2008l" creationdate="20240807T195715Z">
+        <seg>金のアミュレット（未）</seg>
       </tuv>
     </tu>
     <tu>
@@ -13498,6 +13594,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120948Z" creationid="yumas" creationdate="20240731T120948Z">
         <seg>カラムジャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Karamja gloves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195815Z" creationid="2008l" creationdate="20240807T195815Z">
+        <seg>カラムジャに手袋</seg>
       </tuv>
     </tu>
     <tu>
@@ -21582,6 +21686,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ruby amulet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195846Z" creationid="2008l" creationdate="20240807T195846Z">
+        <seg>ルビーのアミュレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ruby amulet (u)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195731Z" creationid="2008l" creationdate="20240807T195731Z">
+        <seg>ルビーのアミュレット（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ruby necklace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195644Z" creationid="2008l" creationdate="20240807T195644Z">
+        <seg>ルビーのネックレス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ruby ring</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240807T195547Z" creationid="2008l" creationdate="20240807T195547Z">
@@ -22114,6 +22242,30 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240807T070330Z" creationid="2008l" creationdate="20240807T070330Z">
         <seg>サファイア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sapphire amulet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195835Z" creationid="2008l" creationdate="20240807T195835Z">
+        <seg>サファイアのアミュレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sapphire amulet (u)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195717Z" creationid="2008l" creationdate="20240807T195717Z">
+        <seg>サファイアのアミュレット（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sapphire necklace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240807T195622Z" creationid="2008l" creationdate="20240807T195622Z">
+        <seg>サファイアのネックレス</seg>
       </tuv>
     </tu>
     <tu>
