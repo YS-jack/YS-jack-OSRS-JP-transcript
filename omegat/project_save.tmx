@@ -2086,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Big Snake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123503Z" creationid="yumas" creationdate="20240807T123503Z">
+        <seg>大きなヘビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Big Wolf</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T042748Z" creationid="yumas" creationdate="20240805T042748Z">
@@ -9574,6 +9582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ghost disciple</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123522Z" creationid="yumas" creationdate="20240807T123522Z">
+        <seg>幽霊の弟子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ghost's skull</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062601Z" creationid="2008l" creationdate="20240725T062601Z">
@@ -10154,6 +10170,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T124255Z" creationid="yumas" creationdate="20240731T124255Z">
         <seg>に捕まる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gravingas</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123517Z" creationid="yumas" creationdate="20240807T123517Z">
+        <seg>グラヴィナス</seg>
       </tuv>
     </tu>
     <tu>
@@ -12126,6 +12150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Iwazaru</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123459Z" creationid="yumas" creationdate="20240807T123459Z">
+        <seg>イワザル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jack Seagull</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T081504Z" creationid="yumas" creationdate="20240805T081504Z">
@@ -12830,6 +12862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Kikazaru</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123457Z" creationid="yumas" creationdate="20240807T123457Z">
+        <seg>キカザル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Kill</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110119Z" creationid="yumas" creationdate="20240713T103016Z">
@@ -12866,6 +12906,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T051006Z" creationid="yumas" creationdate="20240805T051006Z">
         <seg>キラーワット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>King Awowogei</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123450Z" creationid="yumas" creationdate="20240807T123439Z">
+        <seg>アウォウォゲイ王</seg>
       </tuv>
     </tu>
     <tu>
@@ -15542,6 +15590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mizaru</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123455Z" creationid="yumas" creationdate="20240807T123455Z">
+        <seg>ミザル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mogre</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T125812Z" creationid="yumas" creationdate="20240806T125812Z">
@@ -15962,6 +16018,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070049Z" creationid="yumas" creationdate="20240805T070049Z">
         <seg>ネクロマンサー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Necrovarus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123514Z" creationid="yumas" creationdate="20240807T123514Z">
+        <seg>ネクロヴァルス</seg>
       </tuv>
     </tu>
     <tu>
@@ -26096,6 +26160,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Velorina</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123507Z" creationid="yumas" creationdate="20240807T123507Z">
+        <seg>ヴェロリナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Venenatis</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052605Z" creationid="yumas" creationdate="20240805T052605Z">
@@ -28296,6 +28368,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T135209Z" creationid="yumas" creationdate="20240805T135209Z">
         <seg>タイルズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">11178</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Jade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T123410Z" creationid="yumas" creationdate="20240807T123410Z">
+        <seg>ジェイド</seg>
       </tuv>
     </tu>
     <tu>
