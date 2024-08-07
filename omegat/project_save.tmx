@@ -3942,6 +3942,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Captain</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T131635Z" creationid="yumas" creationdate="20240807T131635Z">
+        <seg>キャプテン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Captain Barnaby</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T055100Z" creationid="yumas" creationdate="20240805T055100Z">
@@ -6570,6 +6578,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T124953Z" creationid="yumas" creationdate="20240731T124953Z">
         <seg>無効化する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Deadly red spider</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T131826Z" creationid="yumas" creationdate="20240807T131826Z">
+        <seg>死の赤グモ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9590,10 +9606,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ghost (?)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T131551Z" creationid="yumas" creationdate="20240807T131551Z">
+        <seg>幽霊(?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ghost banker</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T130409Z" creationid="yumas" creationdate="20240807T130409Z">
         <seg>幽霊の銀行員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ghost captain</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T131525Z" creationid="yumas" creationdate="20240807T131525Z">
+        <seg>幽霊の船長</seg>
       </tuv>
     </tu>
     <tu>
@@ -9610,6 +9642,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T130400Z" creationid="yumas" creationdate="20240807T130400Z">
         <seg>幽霊の農民</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ghost guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T131532Z" creationid="yumas" creationdate="20240807T131532Z">
+        <seg>幽霊の衛兵</seg>
       </tuv>
     </tu>
     <tu>
@@ -12650,6 +12690,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070224Z" creationid="yumas" creationdate="20240805T070213Z">
         <seg>ジャングルの怪物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jungle spider</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T131721Z" creationid="yumas" creationdate="20240807T131721Z">
+        <seg>ジャングル・グモ</seg>
       </tuv>
     </tu>
     <tu>
@@ -21638,6 +21686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shadow spider</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T131714Z" creationid="yumas" creationdate="20240807T131714Z">
+        <seg>影グモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shadow warrior</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T134019Z" creationid="yumas" creationdate="20240806T134019Z">
@@ -25364,6 +25420,14 @@
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240716T184525Z" creationid="b0sh" creationdate="20240716T184525Z">
         <seg>と取引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trainee Guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T131621Z" creationid="yumas" creationdate="20240807T131610Z">
+        <seg>衛兵の見習い</seg>
       </tuv>
     </tu>
     <tu>
