@@ -1766,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Barbarian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T132002Z" creationid="yumas" creationdate="20240807T132002Z">
+        <seg>蛮族</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Barbarian Outpost</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T031636Z" creationid="yumas" creationdate="20240803T031636Z">
@@ -5034,6 +5042,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T071349Z" creationid="yumas" creationdate="20240805T071349Z">
         <seg>ニワトリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chief servant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T132057Z" creationid="yumas" creationdate="20240807T132057Z">
+        <seg>執事長</seg>
       </tuv>
     </tu>
     <tu>
@@ -11502,6 +11518,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hunding</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T132017Z" creationid="yumas" creationdate="20240807T132017Z">
+        <seg>ハンディング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hunk of crystal</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T065148Z" creationid="2008l" creationdate="20240727T065148Z">
@@ -11610,6 +11634,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240806T064004Z" creationid="2008l" creationdate="20240806T064004Z">
         <seg>氷の籠手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ice spider</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T131832Z" creationid="yumas" creationdate="20240807T131832Z">
+        <seg>氷グモ</seg>
       </tuv>
     </tu>
     <tu>
@@ -13050,6 +13082,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T084143Z" creationid="yumas" creationdate="20240805T084143Z">
         <seg>ロアルド王</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>King Scorpion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T131958Z" creationid="yumas" creationdate="20240807T131958Z">
+        <seg>サソリの王</seg>
       </tuv>
     </tu>
     <tu>
@@ -17350,6 +17390,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Phoenix</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T132024Z" creationid="yumas" creationdate="20240807T132024Z">
+        <seg>フェニックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Phoenix crossbow</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T071813Z" creationid="2008l" creationdate="20240727T071813Z">
@@ -17734,6 +17782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pit Scorpion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T131946Z" creationid="yumas" creationdate="20240807T131946Z">
+        <seg>地獄サソリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Place</seg>
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240714T212801Z" creationid="b0sh" creationdate="20240714T212801Z">
@@ -17862,10 +17918,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Poison Scorpion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T131848Z" creationid="yumas" creationdate="20240807T131848Z">
+        <seg>毒サソリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Poison chalice</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T065530Z" creationid="2008l" creationdate="20240721T065530Z">
         <seg>毒杯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Poison spider</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T131838Z" creationid="yumas" creationdate="20240807T131838Z">
+        <seg>毒グモ</seg>
       </tuv>
     </tu>
     <tu>
