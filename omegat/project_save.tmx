@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Account Guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T135950Z" creationid="yumas" creationdate="20240807T135950Z">
+        <seg>アカウントの案内人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Activate</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120814Z" creationid="yumas" creationdate="20240731T120814Z">
@@ -698,6 +706,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T121313Z" creationid="yumas" creationdate="20240731T121313Z">
         <seg>アル・カリッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Al Kharid warrior</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T135717Z" creationid="yumas" creationdate="20240807T135717Z">
+        <seg>アル・カリッドの戦士</seg>
       </tuv>
     </tu>
     <tu>
@@ -5246,6 +5262,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chuck</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T135829Z" creationid="yumas" creationdate="20240807T135829Z">
+        <seg>チャック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Chunk of crystal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T072325Z" creationid="2008l" creationdate="20240727T065141Z">
@@ -5730,6 +5754,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T120318Z" creationid="yumas" creationdate="20240806T120318Z">
         <seg>グリムソン大佐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Combat Instructor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T135911Z" creationid="yumas" creationdate="20240807T135911Z">
+        <seg>戦闘の講師</seg>
       </tuv>
     </tu>
     <tu>
@@ -9326,6 +9358,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Forester</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T135725Z" creationid="yumas" creationdate="20240807T135725Z">
+        <seg>森林官</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Forester (hard)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T092515Z" creationid="yumas" creationdate="20240805T092508Z">
@@ -10122,6 +10162,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T122424Z" creationid="yumas" creationdate="20240806T122424Z">
         <seg>巨大なクモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gielinor Guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T135939Z" creationid="yumas" creationdate="20240807T135939Z">
+        <seg>ギレノーの案内人</seg>
       </tuv>
     </tu>
     <tu>
@@ -11526,10 +11574,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Henja</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T135901Z" creationid="yumas" creationdate="20240807T135901Z">
+        <seg>ヘンジャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Henryeta Carnillean</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T072902Z" creationid="yumas" creationdate="20240805T072902Z">
         <seg>ヘンリェッタ・ケーニレアン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hero</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T135721Z" creationid="yumas" creationdate="20240807T135721Z">
+        <seg>ヒーロー</seg>
       </tuv>
     </tu>
     <tu>
@@ -13542,6 +13606,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Knight of Ardougne</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T135732Z" creationid="yumas" creationdate="20240807T135732Z">
+        <seg>アルドインの騎士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Knight of Saradomin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T112252Z" creationid="yumas" creationdate="20240806T112252Z">
@@ -15206,6 +15278,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Magic Instructor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T135945Z" creationid="yumas" creationdate="20240807T135945Z">
+        <seg>魔法の講師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Magic axe</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T133842Z" creationid="yumas" creationdate="20240806T133842Z">
@@ -15566,6 +15646,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Master Chef</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T135859Z" creationid="yumas" creationdate="20240807T135859Z">
+        <seg>マスター・シェフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Master fisher</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T135220Z" creationid="yumas" creationdate="20240806T135220Z">
@@ -15850,6 +15938,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T032238Z" creationid="yumas" creationdate="20240803T032238Z">
         <seg>採掘ギルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mining Instructor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T135955Z" creationid="yumas" creationdate="20240807T135955Z">
+        <seg>採掘の講師</seg>
       </tuv>
     </tu>
     <tu>
@@ -19058,6 +19154,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T113246Z" creationid="yumas" creationdate="20240803T113203Z">
         <seg>速く冷ます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Quest Guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T140011Z" creationid="yumas" creationdate="20240807T140011Z">
+        <seg>クエストの案内人</seg>
       </tuv>
     </tu>
     <tu>
@@ -28348,6 +28452,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053757Z" creationid="yumas" creationdate="20240805T053757Z">
         <seg>ゾンビのスワブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zoo keeper</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T135827Z" creationid="yumas" creationdate="20240807T135827Z">
+        <seg>動物園の管理者</seg>
       </tuv>
     </tu>
     <tu>
