@@ -11840,8 +11840,8 @@
       <tuv lang="en-GB">
         <seg>Hobgoblin Champion</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240807T195134Z" creationid="yumas" creationdate="20240807T195134Z">
-        <seg>ホブゴブリン</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T195158Z" creationid="yumas" creationdate="20240807T195134Z">
+        <seg>ホブゴブリンノチャンピオン</seg>
       </tuv>
     </tu>
     <tu>
@@ -12290,6 +12290,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T133401Z" creationid="yumas" creationdate="20240807T133401Z">
         <seg>小悪魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Imp Champion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T195207Z" creationid="yumas" creationdate="20240807T195207Z">
+        <seg>小悪魔のチャンピオン</seg>
       </tuv>
     </tu>
     <tu>
@@ -13034,6 +13042,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134644Z" creationid="yumas" creationdate="20240805T134644Z">
         <seg>ジョーガ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jogre Champion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T195239Z" creationid="yumas" creationdate="20240807T195239Z">
+        <seg>ジョーガのチャンピオン</seg>
       </tuv>
     </tu>
     <tu>
@@ -14718,6 +14734,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Leon d'Cour</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T195414Z" creationid="yumas" creationdate="20240807T195414Z">
+        <seg>レオン・ドクール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lesser Demon Champion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T195304Z" creationid="yumas" creationdate="20240807T195304Z">
+        <seg>下位の悪魔のチャンピオン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lesser demon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T133604Z" creationid="yumas" creationdate="20240805T133604Z">
@@ -14922,6 +14954,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T063718Z" creationid="2008l" creationdate="20240725T063829Z">
         <seg>点火された松明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Litara</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T195417Z" creationid="yumas" creationdate="20240807T195417Z">
+        <seg>リタラ</seg>
       </tuv>
     </tu>
     <tu>
@@ -23078,6 +23118,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Skeleton Champion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T195312Z" creationid="yumas" creationdate="20240807T195312Z">
+        <seg>スケレトンのチャンピオン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Skeleton Mage</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T042641Z" creationid="yumas" creationdate="20240805T042641Z">
@@ -23922,6 +23970,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T111731Z" creationid="yumas" creationdate="20240731T110354Z">
         <seg>一般魔法の書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stankers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T195505Z" creationid="yumas" creationdate="20240807T195505Z">
+        <seg>スタンカーズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -28660,6 +28716,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053757Z" creationid="yumas" creationdate="20240805T053757Z">
         <seg>ゾンビのスワブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zombies Champion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T195317Z" creationid="yumas" creationdate="20240807T195317Z">
+        <seg>ゾンビのチャンピオン</seg>
       </tuv>
     </tu>
     <tu>
