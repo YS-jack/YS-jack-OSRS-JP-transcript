@@ -3790,6 +3790,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Brother Kojo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T211851Z" creationid="yumas" creationdate="20240807T211851Z">
+        <seg>コジョ修道士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Brother Tranquility</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053436Z" creationid="yumas" creationdate="20240805T053436Z">
@@ -6346,6 +6354,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T031709Z" creationid="yumas" creationdate="20240803T031709Z">
         <seg>コーポリアル獣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Corpse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T211938Z" creationid="yumas" creationdate="20240807T211938Z">
+        <seg>死体</seg>
       </tuv>
     </tu>
     <tu>
@@ -13774,6 +13790,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jubster</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T211823Z" creationid="yumas" creationdate="20240807T211823Z">
+        <seg>ジャブスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jukat</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134201Z" creationid="yumas" creationdate="20240807T134201Z">
@@ -16878,6 +16902,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mine cart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T211857Z" creationid="yumas" creationdate="20240807T211857Z">
+        <seg>採掘カート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Miner</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T133451Z" creationid="yumas" creationdate="20240805T133451Z">
@@ -17826,6 +17858,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T061936Z" creationid="2008l" creationdate="20240725T062425Z">
         <seg>初心者用の地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Newtroost</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T211846Z" creationid="yumas" creationdate="20240807T211846Z">
+        <seg>ニュートルースト</seg>
       </tuv>
     </tu>
     <tu>
@@ -19674,6 +19714,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T070535Z" creationid="2008l" creationdate="20240725T070535Z">
         <seg>肖像画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Possessed pickaxe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T211911Z" creationid="yumas" creationdate="20240807T211911Z">
+        <seg>呪われたツルハシ</seg>
       </tuv>
     </tu>
     <tu>
@@ -24718,6 +24766,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Spidine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T211811Z" creationid="yumas" creationdate="20240807T211811Z">
+        <seg>スパイディーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Spin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221128Z" creationid="yumas" creationdate="20240730T221128Z">
@@ -26002,6 +26058,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T065747Z" creationid="2008l" creationdate="20240725T065747Z">
         <seg>剣の柄頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Swordchick</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T211818Z" creationid="yumas" creationdate="20240807T211818Z">
+        <seg>ソードチック</seg>
       </tuv>
     </tu>
     <tu>
@@ -28232,6 +28296,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Unicow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T211805Z" creationid="yumas" creationdate="20240807T211805Z">
+        <seg>ユニカウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Unidentified liquid</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T070725Z" creationid="2008l" creationdate="20240726T063400Z">
@@ -29852,6 +29924,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T064224Z" creationid="yumas" creationdate="20240805T064224Z">
         <seg>ザバスチック・ラーブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zealot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T211903Z" creationid="yumas" creationdate="20240807T211903Z">
+        <seg>ジーロット</seg>
       </tuv>
     </tu>
     <tu>
