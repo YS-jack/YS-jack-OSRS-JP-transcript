@@ -144,8 +144,8 @@
       <tuv lang="en-GB">
         <seg>A small key</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240805T073601Z" creationid="2008l" creationdate="20240805T073601Z">
-        <seg>小さい鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240805T073601Z">
+        <seg>小さいカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3192,8 +3192,8 @@
       <tuv lang="en-GB">
         <seg>Bone key</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240725T064540Z" creationid="2008l" creationdate="20240725T064540Z">
-        <seg>骨の鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240725T064540Z">
+        <seg>骨のカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3296,8 +3296,8 @@
       <tuv lang="en-GB">
         <seg>Brass key</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T081953Z" creationid="2008l" creationdate="20240729T063407Z">
-        <seg>黄銅の鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240729T063407Z">
+        <seg>黄銅のカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5360,8 +5360,8 @@
       <tuv lang="en-GB">
         <seg>Check-keys</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T124400Z" creationid="yumas" creationdate="20240803T124400Z">
-        <seg>鍵を確認</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="yumas" creationdate="20240803T124400Z">
+        <seg>カギを確認</seg>
       </tuv>
     </tu>
     <tu>
@@ -5464,8 +5464,8 @@
       <tuv lang="en-GB">
         <seg>Chest key</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240724T063717Z" creationid="2008l" creationdate="20240724T063717Z">
-        <seg>宝箱の鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240724T063717Z">
+        <seg>宝箱のカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6736,8 +6736,8 @@
       <tuv lang="en-GB">
         <seg>Crystal key</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T082341Z" creationid="2008l" creationdate="20240729T063726Z">
-        <seg>水晶の鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240729T063726Z">
+        <seg>水晶のカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7534,6 +7534,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Digsite workman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212417Z" creationid="yumas" creationdate="20240807T212417Z">
+        <seg>発掘現場の作業員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dire Wolf</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T200433Z" creationid="yumas" creationdate="20240807T200433Z">
@@ -7786,6 +7794,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T125040Z" creationid="yumas" creationdate="20240729T125040Z">
         <seg>大砲弾の二重鋳型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Doug Deeping</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212427Z" creationid="yumas" creationdate="20240807T212427Z">
+        <seg>ドゥー・ディーピング</seg>
       </tuv>
     </tu>
     <tu>
@@ -8280,8 +8296,8 @@
       <tuv lang="en-GB">
         <seg>Dusty key</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240806T065136Z" creationid="2008l" creationdate="20240806T065136Z">
-        <seg>ほこりっぽい鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240806T065136Z">
+        <seg>ほこりっぽいカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9106,6 +9122,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120409Z" creationid="yumas" creationdate="20240731T120409Z">
         <seg>を調べる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Examiner</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212453Z" creationid="yumas" creationdate="20240807T212453Z">
+        <seg>試験官</seg>
       </tuv>
     </tu>
     <tu>
@@ -10992,8 +11016,8 @@
       <tuv lang="en-GB">
         <seg>Glough's key</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240728T054635Z" creationid="2008l" creationdate="20240728T054635Z">
-        <seg>グローの鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240728T054635Z">
+        <seg>グローのカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -11160,8 +11184,8 @@
       <tuv lang="en-GB">
         <seg>Goblin kitchen key</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240725T064340Z" creationid="2008l" creationdate="20240725T064340Z">
-        <seg>ゴブリンの台所の鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240725T064340Z">
+        <seg>ゴブリンの台所のカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12150,6 +12174,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Haze</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212342Z" creationid="yumas" creationdate="20240807T212342Z">
+        <seg>もや</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hazeel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T072912Z" creationid="yumas" creationdate="20240805T072912Z">
@@ -13024,8 +13056,8 @@
       <tuv lang="en-GB">
         <seg>Innocent-looking key</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240807T212120Z" creationid="yumas" creationdate="20240807T212120Z">
-        <seg>何の変哲もない鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212308Z" creationid="yumas" creationdate="20240807T212120Z">
+        <seg>怪しくないカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -13552,8 +13584,8 @@
       <tuv lang="en-GB">
         <seg>Jail key</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240806T065156Z" creationid="2008l" creationdate="20240806T065156Z">
-        <seg>刑務所の鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240806T065156Z">
+        <seg>刑務所のカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -14240,8 +14272,8 @@
       <tuv lang="en-GB">
         <seg>Key</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240722T062701Z" creationid="2008l" creationdate="20240722T062701Z">
-        <seg>鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240722T062701Z">
+        <seg>カギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -14304,8 +14336,8 @@
       <tuv lang="en-GB">
         <seg>Khazard cell keys</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240719T062351Z" creationid="2008l" creationdate="20240719T062340Z">
-        <seg>カザードの監房の鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240719T062340Z">
+        <seg>カザードの監房のカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -15808,8 +15840,8 @@
       <tuv lang="en-GB">
         <seg>Lock</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T221419Z" creationid="yumas" creationdate="20240730T221419Z">
-        <seg>の鍵を閉める</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="yumas" creationdate="20240730T221419Z">
+        <seg>のカギを閉める</seg>
       </tuv>
     </tu>
     <tu>
@@ -16016,8 +16048,8 @@
       <tuv lang="en-GB">
         <seg>Loop half of key</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T082307Z" creationid="2008l" creationdate="20240729T063706Z">
-        <seg>鍵の持ち手部分</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240729T063706Z">
+        <seg>カギの持ち手部分</seg>
       </tuv>
     </tu>
     <tu>
@@ -16688,8 +16720,8 @@
       <tuv lang="en-GB">
         <seg>Maze key</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240806T062834Z" creationid="2008l" creationdate="20240806T062834Z">
-        <seg>迷路の鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240806T062834Z">
+        <seg>迷路のカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16976,8 +17008,8 @@
       <tuv lang="en-GB">
         <seg>Miscellaneous key</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240806T065025Z" creationid="2008l" creationdate="20240806T065025Z">
-        <seg>雑多の鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240806T065025Z">
+        <seg>雑多のカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16986,6 +17018,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T032306Z" creationid="yumas" creationdate="20240730T093624Z">
         <seg>ミセラニア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mischievous ghost</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212405Z" creationid="yumas" creationdate="20240807T212405Z">
+        <seg>いたずら好きな幽霊</seg>
       </tuv>
     </tu>
     <tu>
@@ -17584,8 +17624,8 @@
       <tuv lang="en-GB">
         <seg>Muddy key</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240729T063738Z" creationid="2008l" creationdate="20240729T063738Z">
-        <seg>泥だらけの鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240729T063738Z">
+        <seg>泥だらけのカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -17894,6 +17934,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Nick</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212520Z" creationid="yumas" creationdate="20240807T212520Z">
+        <seg>ニック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Nickolaus</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T091005Z" creationid="yumas" creationdate="20240805T091005Z">
@@ -17930,6 +17978,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T114933Z" creationid="yumas" creationdate="20240806T114933Z">
         <seg>ニッパー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nisha</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212522Z" creationid="yumas" creationdate="20240807T212522Z">
+        <seg>ニーシャ</seg>
       </tuv>
     </tu>
     <tu>
@@ -18550,6 +18606,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Panning guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212518Z" creationid="yumas" creationdate="20240807T212518Z">
+        <seg>フルイの指導者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Panning tray</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T065651Z" creationid="2008l" creationdate="20240725T071619Z">
@@ -19080,8 +19144,8 @@
       <tuv lang="en-GB">
         <seg>Phoenix hq key</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T073006Z" creationid="2008l" creationdate="20240727T065716Z">
-        <seg>フェニックス本部の鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240727T065716Z">
+        <seg>フェニックス本部のカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -21070,6 +21134,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Redbeard Frank</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212953Z" creationid="yumas" creationdate="20240807T212953Z">
+        <seg>レッドビアード・フランク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Redecorate</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093020Z" creationid="yumas" creationdate="20240730T093020Z">
@@ -21402,6 +21474,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T052038Z" creationid="2008l" creationdate="20240722T064233Z">
         <seg>研究荷物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Researcher</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212457Z" creationid="yumas" creationdate="20240807T212457Z">
+        <seg>研究者</seg>
       </tuv>
     </tu>
     <tu>
@@ -23816,8 +23896,8 @@
       <tuv lang="en-GB">
         <seg>Shiny key</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240718T071336Z" creationid="2008l" creationdate="20240718T071336Z">
-        <seg>光沢のある鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240718T071336Z">
+        <seg>光沢のあるカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -24064,8 +24144,8 @@
       <tuv lang="en-GB">
         <seg>Sinister key</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240729T063802Z" creationid="2008l" creationdate="20240729T063802Z">
-        <seg>不吉な鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240729T063802Z">
+        <seg>不吉なカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -25742,6 +25822,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Student</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212430Z" creationid="yumas" creationdate="20240807T212430Z">
+        <seg>生徒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Study</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T215148Z" creationid="yumas" creationdate="20240730T215148Z">
@@ -26992,6 +27080,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Terry Balando</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212504Z" creationid="yumas" creationdate="20240807T212504Z">
+        <seg>テリー・バランド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tether</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T110637Z" creationid="yumas" creationdate="20240803T110629Z">
@@ -27466,8 +27562,8 @@
       <tuv lang="en-GB">
         <seg>Tooth half of key</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T082112Z" creationid="2008l" creationdate="20240729T063616Z">
-        <seg>鍵の先端部分</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240729T063616Z">
+        <seg>カギの先端部分</seg>
       </tuv>
     </tu>
     <tu>
@@ -29194,8 +29290,8 @@
       <tuv lang="en-GB">
         <seg>Weapon store key</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240727T065748Z" creationid="2008l" creationdate="20240727T065748Z">
-        <seg>武器庫の鍵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240727T065748Z">
+        <seg>武器庫のカギ</seg>
       </tuv>
     </tu>
     <tu>
