@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-GB">
+        <seg>'Beefy' Burns</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T221832Z" creationid="yumas" creationdate="20240807T221832Z">
+        <seg>「たくましい」バーンズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>'Bird's-Eye' Jack</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T203155Z" creationid="yumas" creationdate="20240807T203155Z">
@@ -4194,6 +4202,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T131958Z" creationid="yumas" creationdate="20240730T131958Z">
         <seg>球体を購入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cabin boy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T221804Z" creationid="yumas" creationdate="20240807T221804Z">
+        <seg>キャビンボーイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16066,6 +16082,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T074005Z" creationid="2008l" creationdate="20240805T074005Z">
         <seg>丸太</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lokar Searunner</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T221732Z" creationid="yumas" creationdate="20240807T221732Z">
+        <seg>ロカー・シーラナー</seg>
       </tuv>
     </tu>
     <tu>
