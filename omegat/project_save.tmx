@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-GB">
+        <seg>'Bird's-Eye' Jack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T203155Z" creationid="yumas" creationdate="20240807T203155Z">
+        <seg>「鳥の目」ジャック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>'perfect' gold ore</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T060657Z" creationid="2008l" creationdate="20240724T064827Z">
@@ -26352,6 +26360,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The Everlasting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T203314Z" creationid="yumas" creationdate="20240807T203314Z">
+        <seg>不滅のモノ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Illusive</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T203413Z" creationid="yumas" creationdate="20240807T203413Z">
+        <seg>幻のモノ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Inadequacy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T203251Z" creationid="yumas" creationdate="20240807T203237Z">
+        <seg>不完全なモノ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The Kendal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T082932Z" creationid="yumas" creationdate="20240805T082932Z">
@@ -26364,6 +26396,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045519Z" creationid="yumas" creationdate="20240805T045519Z">
         <seg>ザ・ナイトメア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Untouchable</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240807T203344Z" creationid="yumas" creationdate="20240807T203344Z">
+        <seg>禁制のモノ</seg>
       </tuv>
     </tu>
     <tu>
