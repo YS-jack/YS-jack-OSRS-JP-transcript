@@ -4102,6 +4102,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken snare</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T234318Z" creationid="yumas" creationdate="20240808T234318Z">
+        <seg>壊れた罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken staff</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T072239Z" creationid="2008l" creationdate="20240725T072239Z">
@@ -6982,6 +6990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Collapsed trap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T234143Z" creationid="yumas" creationdate="20240808T234143Z">
+        <seg>崩れた罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Collect</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T083232Z" creationid="2008l" creationdate="20240715T083232Z">
@@ -8842,6 +8858,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110123Z" creationid="yumas" creationdate="20240713T103147Z">
         <seg>を邪魔する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Disturbed sand</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T234601Z" creationid="yumas" creationdate="20240808T234601Z">
+        <seg>荒らされた砂</seg>
       </tuv>
     </tu>
     <tu>
@@ -23618,6 +23642,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T113047Z" creationid="yumas" creationdate="20240805T113047Z">
         <seg>ウサギ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rabbit hole</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T234345Z" creationid="yumas" creationdate="20240808T234345Z">
+        <seg>ウサギの巣穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rabbit snare</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T234312Z" creationid="yumas" creationdate="20240808T234312Z">
+        <seg>ウサギの罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rabbitless hole</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T234405Z" creationid="yumas" creationdate="20240808T234405Z">
+        <seg>ウサギがいない巣穴</seg>
       </tuv>
     </tu>
     <tu>
