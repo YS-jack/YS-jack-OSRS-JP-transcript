@@ -1171,7 +1171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14504">
         <xliff:source>Mine cart</xliff:source>
-        <xliff:target state="translated">採掘カート</xliff:target>
+        <xliff:target state="translated">トロッコ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Mine cart
@@ -2091,7 +2091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14619">
         <xliff:source>Bench</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ベンチ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Bench
@@ -2203,7 +2203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14633">
         <xliff:source>Mushroom</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">キノコ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Mushroom
@@ -3851,7 +3851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14839">
         <xliff:source>Mine Cart</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">トロッコ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Mine Cart
@@ -8163,7 +8163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15378">
         <xliff:source>Fox</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">キツネ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Fox
@@ -12547,7 +12547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15926">
         <xliff:source>Marius</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マリウス</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Marius
@@ -17811,7 +17811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16584">
         <xliff:source>Cart Camel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">カート引きのラクダ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Cart Camel
@@ -21011,7 +21011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16984">
         <xliff:source>Court judge</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">裁判官</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Court judge
@@ -26083,7 +26083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17618">
         <xliff:source>Soldier</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">兵士</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Soldier
@@ -27099,7 +27099,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17745">
         <xliff:source>Mercenary</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">傭兵</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Mercenary
@@ -27451,7 +27451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17789">
         <xliff:source>Mountain goat</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">シロイワヤギ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Mountain goat
@@ -30459,7 +30459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18165">
         <xliff:source>Chompy chick</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チョンピーのヒナ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Chompy chick
@@ -32931,7 +32931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18474">
         <xliff:source>Crocodile</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ワニ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Crocodile
