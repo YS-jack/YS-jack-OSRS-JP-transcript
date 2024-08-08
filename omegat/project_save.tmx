@@ -6598,6 +6598,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cowhide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T064233Z" creationid="2008l" creationdate="20240808T064233Z">
+        <seg>牛革</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crab</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070152Z" creationid="yumas" creationdate="20240805T070152Z">
@@ -12342,6 +12350,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hard leather</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T064301Z" creationid="2008l" creationdate="20240808T064301Z">
+        <seg>硬革</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hardleather body</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T065850Z" creationid="2008l" creationdate="20240730T065850Z">
@@ -15662,6 +15678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Leather</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T064246Z" creationid="2008l" creationdate="20240808T064246Z">
+        <seg>革</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Leather body</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T065342Z" creationid="2008l" creationdate="20240730T065342Z">
@@ -18218,6 +18242,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T123514Z" creationid="yumas" creationdate="20240807T123514Z">
         <seg>ネクロヴァルス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Needle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T064020Z" creationid="2008l" creationdate="20240808T064020Z">
+        <seg>針</seg>
       </tuv>
     </tu>
     <tu>
@@ -27752,6 +27784,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Thread</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T064037Z" creationid="2008l" creationdate="20240808T064037Z">
+        <seg>糸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Threaten</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085604Z" creationid="yumas" creationdate="20240730T085604Z">
@@ -30360,6 +30400,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T064125Z" creationid="2008l" creationdate="20240808T064125Z">
+        <seg>羊毛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Work-at</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222810Z" creationid="yumas" creationdate="20240730T222810Z">
@@ -31766,6 +31814,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T042004Z" creationid="yumas" creationdate="20240805T042004Z">
         <seg>発動を切り替える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_item.xliff</prop>
+      <prop type="id">957</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Shears</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T064105Z" creationid="2008l" creationdate="20240808T064105Z">
+        <seg>鋏</seg>
       </tuv>
     </tu>
     <tu>
