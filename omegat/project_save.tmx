@@ -20454,6 +20454,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>New farming patch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T230603Z" creationid="yumas" creationdate="20240808T230603Z">
+        <seg>新しい農地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>New-maze</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110408Z" creationid="yumas" creationdate="20240730T110408Z">
@@ -33483,6 +33491,14 @@
         <seg>Weed</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222230Z" creationid="yumas" creationdate="20240730T222230Z">
+        <seg>雑草</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weeds</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T230022Z" creationid="yumas" creationdate="20240808T230022Z">
         <seg>雑草</seg>
       </tuv>
     </tu>
