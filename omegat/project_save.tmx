@@ -4766,6 +4766,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Burrow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T234719Z" creationid="yumas" creationdate="20240808T234719Z">
+        <seg>巣穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Burst</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T211852Z" creationid="yumas" creationdate="20240730T211852Z">
@@ -16926,6 +16934,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Large cave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T234737Z" creationid="yumas" creationdate="20240808T234737Z">
+        <seg>大きな洞窟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Large zombie monkey</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T090014Z" creationid="yumas" creationdate="20240805T090014Z">
@@ -28426,6 +28442,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T041023Z" creationid="yumas" creationdate="20240805T041023Z">
         <seg>においを嗅ぐ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Snow drift</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T234656Z" creationid="yumas" creationdate="20240808T234656Z">
+        <seg>雪の吹き溜まり</seg>
       </tuv>
     </tu>
     <tu>
