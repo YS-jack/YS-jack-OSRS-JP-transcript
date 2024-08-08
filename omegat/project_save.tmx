@@ -8806,6 +8806,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dolphin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T225738Z" creationid="yumas" creationdate="20240808T225738Z">
+        <seg>イルカ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dominic Onion</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070743Z" creationid="yumas" creationdate="20240805T070743Z">
@@ -28230,6 +28238,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Soil patch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T230021Z" creationid="yumas" creationdate="20240808T230021Z">
+        <seg>まき床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Soldier</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120544Z" creationid="yumas" creationdate="20240808T120544Z">
@@ -34631,6 +34647,17 @@
     </tu>
     <tu>
       <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41292</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Fish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T225631Z" creationid="yumas" creationdate="20240808T225631Z">
+        <seg>で釣る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
       <prop type="id">41329</prop>
       <prop type="path">//transcript.db</prop>
       <tuv lang="en-GB">
@@ -34737,6 +34764,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T131741Z" creationid="yumas" creationdate="20240730T131741Z">
         <seg>ロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41620</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Fish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T225646Z" creationid="yumas" creationdate="20240808T225646Z">
+        <seg>で釣る</seg>
       </tuv>
     </tu>
     <tu>
