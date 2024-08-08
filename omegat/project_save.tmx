@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Air balloon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T233840Z" creationid="yumas" creationdate="20240808T233840Z">
+        <seg>風船</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Air battlestaff</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T070248Z" creationid="2008l" creationdate="20240731T070248Z">
@@ -8238,6 +8246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Deadfall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T233940Z" creationid="yumas" creationdate="20240808T233940Z">
+        <seg>落とし罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Deadly red spider</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T131826Z" creationid="yumas" creationdate="20240807T131826Z">
@@ -8698,6 +8714,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T121718Z" creationid="yumas" creationdate="20240731T121718Z">
         <seg>ポータルを誘導</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T233836Z" creationid="yumas" creationdate="20240808T233836Z">
+        <seg>汚れ</seg>
       </tuv>
     </tu>
     <tu>
@@ -11550,6 +11574,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Frame</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T233914Z" creationid="yumas" creationdate="20240808T233914Z">
+        <seg>フレーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Francis</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T132751Z" creationid="yumas" creationdate="20240806T132751Z">
@@ -11920,8 +11952,8 @@
       <tuv lang="en-GB">
         <seg>Gate of War</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240806T122557Z" creationid="yumas" creationdate="20240806T122557Z">
-        <seg>戦いのゲート</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T233925Z" creationid="yumas" creationdate="20240806T122557Z">
+        <seg>戦のゲート</seg>
       </tuv>
     </tu>
     <tu>
@@ -18590,6 +18622,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Magic box</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T234049Z" creationid="yumas" creationdate="20240808T234049Z">
+        <seg>魔法の箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic box failed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T234100Z" creationid="yumas" creationdate="20240808T234100Z">
+        <seg>失敗した魔法の箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Magic combat tutor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134732Z" creationid="yumas" creationdate="20240807T134732Z">
@@ -20846,6 +20894,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Occupied perch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T234022Z" creationid="yumas" creationdate="20240808T234022Z">
+        <seg>占領された止まり木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ocga</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120618Z" creationid="yumas" creationdate="20240808T120618Z">
@@ -21882,6 +21938,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T124003Z" creationid="yumas" creationdate="20240806T124003Z">
         <seg>ペンウィー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Perch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T233958Z" creationid="yumas" creationdate="20240808T233958Z">
+        <seg>止まり木</seg>
       </tuv>
     </tu>
     <tu>
@@ -28530,6 +28594,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T211811Z" creationid="yumas" creationdate="20240807T211811Z">
         <seg>スパイディーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spiked pit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T234138Z" creationid="yumas" creationdate="20240808T234138Z">
+        <seg>トゲの落とし穴</seg>
       </tuv>
     </tu>
     <tu>
