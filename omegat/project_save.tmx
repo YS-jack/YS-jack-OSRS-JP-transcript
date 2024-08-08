@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ana</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133310Z" creationid="yumas" creationdate="20240808T133310Z">
+        <seg>アナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ana in a barrel</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T072243Z" creationid="2008l" creationdate="20240808T072243Z">
@@ -1394,6 +1402,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T123228Z" creationid="yumas" creationdate="20240806T123228Z">
         <seg>アンコウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Anleif</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133255Z" creationid="yumas" creationdate="20240808T133255Z">
+        <seg>アンレイフ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5006,6 +5022,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Captain Tom</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133202Z" creationid="yumas" creationdate="20240808T133202Z">
+        <seg>トム隊長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Capture</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221209Z" creationid="yumas" creationdate="20240730T221209Z">
@@ -6410,6 +6434,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T221123Z" creationid="yumas" creationdate="20240807T221123Z">
         <seg>クランの衛兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Claude</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133215Z" creationid="yumas" creationdate="20240808T133215Z">
+        <seg>クロード</seg>
       </tuv>
     </tu>
     <tu>
@@ -9982,6 +10014,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Escaping slave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133353Z" creationid="yumas" creationdate="20240808T133353Z">
+        <seg>逃げる奴隷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Escort</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085902Z" creationid="yumas" creationdate="20240730T085902Z">
@@ -10534,6 +10574,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Felkrash</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133045Z" creationid="yumas" creationdate="20240808T133045Z">
+        <seg>フェルクラシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Female slave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133317Z" creationid="yumas" creationdate="20240808T133317Z">
+        <seg>女性奴隷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Femi</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T085714Z" creationid="yumas" creationdate="20240805T085714Z">
@@ -10674,6 +10730,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T115321Z" creationid="yumas" creationdate="20240808T115321Z">
         <seg>フィオネラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fior</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133251Z" creationid="yumas" creationdate="20240808T133251Z">
+        <seg>フィオー</seg>
       </tuv>
     </tu>
     <tu>
@@ -12098,6 +12162,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T132924Z" creationid="yumas" creationdate="20240806T132924Z">
         <seg>ギレス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gillie Groats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133310Z" creationid="yumas" creationdate="20240808T133310Z">
+        <seg>ギリー・グローツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -13778,6 +13850,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T132900Z" creationid="yumas" creationdate="20240806T132900Z">
         <seg>ヘスケル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hetty</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133257Z" creationid="yumas" creationdate="20240808T133257Z">
+        <seg>ヘティー</seg>
       </tuv>
     </tu>
     <tu>
@@ -16110,6 +16190,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>King rat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133123Z" creationid="yumas" creationdate="20240808T133123Z">
+        <seg>王ネズミ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>King's Messenger</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T200841Z" creationid="yumas" creationdate="20240807T200841Z">
@@ -17622,6 +17710,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Loki</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133135Z" creationid="yumas" creationdate="20240808T133135Z">
+        <seg>ロキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Longbow</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T055735Z" creationid="2008l" creationdate="20240728T055735Z">
@@ -18270,6 +18366,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Male slave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133320Z" creationid="yumas" creationdate="20240808T133320Z">
+        <seg>男性奴隷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Malignius Mortifer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T111557Z" creationid="yumas" creationdate="20240805T111557Z">
@@ -18790,6 +18894,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Millie Miller</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133304Z" creationid="yumas" creationdate="20240808T133304Z">
+        <seg>ミリー・ミラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Miltog</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T114414Z" creationid="yumas" creationdate="20240806T114414Z">
@@ -19250,6 +19362,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T065216Z" creationid="2008l" creationdate="20240731T065216Z">
         <seg>ミスリルの戦鎚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mittens</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133211Z" creationid="yumas" creationdate="20240808T133211Z">
+        <seg>ミテンズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -20610,6 +20730,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T130153Z" creationid="yumas" creationdate="20240803T130153Z">
         <seg>外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Oxi</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133233Z" creationid="yumas" creationdate="20240808T133228Z">
+        <seg>オクシー</seg>
       </tuv>
     </tu>
     <tu>
@@ -22518,6 +22646,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pusskins</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133133Z" creationid="yumas" creationdate="20240808T133133Z">
+        <seg>プスキンズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Put-inside</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221125Z" creationid="yumas" creationdate="20240730T221125Z">
@@ -23058,6 +23194,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T064650Z" creationid="2008l" creationdate="20240722T064650Z">
         <seg>ネズミの尻尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rauborn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133221Z" creationid="yumas" creationdate="20240808T133221Z">
+        <seg>ローボーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -25390,6 +25534,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sagira</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133253Z" creationid="yumas" creationdate="20240808T133253Z">
+        <seg>サギラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sailor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T213620Z" creationid="yumas" creationdate="20240807T213620Z">
@@ -27338,6 +27490,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052703Z" creationid="yumas" creationdate="20240805T052703Z">
         <seg>スモーク・デビル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Smokin' Joe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133059Z" creationid="yumas" creationdate="20240808T133059Z">
+        <seg>スモーキン・ジョー</seg>
       </tuv>
     </tu>
     <tu>
@@ -30440,6 +30600,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Topsy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133218Z" creationid="yumas" creationdate="20240808T133218Z">
+        <seg>トプシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Torag the Corrupted</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T094826Z" creationid="yumas" creationdate="20240805T094826Z">
@@ -30736,6 +30904,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Treacle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133208Z" creationid="yumas" creationdate="20240808T133208Z">
+        <seg>トリークル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tread-softly</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T130104Z" creationid="yumas" creationdate="20240731T130104Z">
@@ -30920,6 +31096,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Trufitus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133301Z" creationid="yumas" creationdate="20240808T133301Z">
+        <seg>トルフィタス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tstanon Karlak</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T133142Z" creationid="yumas" creationdate="20240807T133014Z">
@@ -30940,6 +31124,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045820Z" creationid="yumas" creationdate="20240805T045820Z">
         <seg>ツラエル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Turbogroomer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133129Z" creationid="yumas" creationdate="20240808T133129Z">
+        <seg>ツーボグルーマー</seg>
       </tuv>
     </tu>
     <tu>
@@ -31700,6 +31892,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085849Z" creationid="yumas" creationdate="20240730T085849Z">
         <seg>竿を使う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vaeringk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T133225Z" creationid="yumas" creationdate="20240808T133225Z">
+        <seg>ヴァエリングク</seg>
       </tuv>
     </tu>
     <tu>
