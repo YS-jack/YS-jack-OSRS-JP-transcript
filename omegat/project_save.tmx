@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Amulet of defence</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T063938Z" creationid="2008l" creationdate="20240808T063938Z">
+        <seg>守備力のアミュレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Amulet of doomion</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T073245Z" creationid="2008l" creationdate="20240805T072142Z">
@@ -1118,10 +1126,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Amulet of magic</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T063737Z" creationid="2008l" creationdate="20240808T063737Z">
+        <seg>魔法のアミュレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Amulet of othanian</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T073237Z" creationid="2008l" creationdate="20240805T072025Z">
         <seg>オサニアンのアミュレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Amulet of power</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T064006Z" creationid="2008l" creationdate="20240808T064006Z">
+        <seg>力のアミュレット</seg>
       </tuv>
     </tu>
     <tu>
