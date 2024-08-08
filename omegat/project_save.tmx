@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Amulet of strength</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T063728Z" creationid="2008l" creationdate="20240808T063728Z">
+        <seg>腕力のアミュレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Anchovies</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T062356Z" creationid="2008l" creationdate="20240723T062356Z">
@@ -28912,6 +28920,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Unholy symbol</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T063540Z" creationid="2008l" creationdate="20240808T063540Z">
+        <seg>けがれのシンボル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Unicorn</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T133720Z" creationid="yumas" creationdate="20240806T133720Z">
@@ -29016,10 +29032,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Unpowered symbol</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T063530Z" creationid="2008l" creationdate="20240808T063530Z">
+        <seg>無力のシンボル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Unstamped letter</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T071731Z" creationid="2008l" creationdate="20240725T071731Z">
         <seg>切手のない手紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Unstrung emblem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T063456Z" creationid="2008l" creationdate="20240808T063456Z">
+        <seg>紐無しのエンブレム</seg>
       </tuv>
     </tu>
     <tu>
