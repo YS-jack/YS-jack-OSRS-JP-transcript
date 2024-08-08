@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Agrith-Na-Na</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T235048Z" creationid="yumas" creationdate="20240808T235048Z">
+        <seg>アグリス・ナナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ahab</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T081512Z" creationid="yumas" creationdate="20240805T081512Z">
@@ -8502,6 +8510,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Derni</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T235324Z" creationid="yumas" creationdate="20240808T235324Z">
+        <seg>デーニ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dernu</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T235322Z" creationid="yumas" creationdate="20240808T235322Z">
+        <seg>デーヌ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Derrik</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T213514Z" creationid="yumas" creationdate="20240807T213514Z">
@@ -8570,6 +8594,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T071858Z" creationid="2008l" creationdate="20240808T071858Z">
         <seg>砂漠のシャツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dessourt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T235120Z" creationid="yumas" creationdate="20240808T235120Z">
+        <seg>デスート</seg>
       </tuv>
     </tu>
     <tu>
@@ -8962,6 +8994,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070621Z" creationid="yumas" creationdate="20240805T070621Z">
         <seg>ドナル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dondakan the Dwarf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T235145Z" creationid="yumas" creationdate="20240808T235145Z">
+        <seg>ドワーフのドンダカン</seg>
       </tuv>
     </tu>
     <tu>
@@ -9618,6 +9658,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T120747Z" creationid="yumas" creationdate="20240806T120747Z">
         <seg>ドワーフの船頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dwarven Engineer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T235155Z" creationid="yumas" creationdate="20240808T235155Z">
+        <seg>ドワーフの技術者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dwarven Ferryman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T235314Z" creationid="yumas" creationdate="20240808T235314Z">
+        <seg>ドワーフの渡し守</seg>
       </tuv>
     </tu>
     <tu>
@@ -11350,6 +11406,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Flambeed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T235054Z" creationid="yumas" creationdate="20240808T235054Z">
+        <seg>フラムビード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Flax</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T065411Z" creationid="2008l" creationdate="20240808T065411Z">
@@ -12026,6 +12090,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T110139Z" creationid="yumas" creationdate="20240731T110139Z">
         <seg>装備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gelatinnoth Mother</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T235134Z" creationid="yumas" creationdate="20240808T235134Z">
+        <seg>ゲラティノスの母</seg>
       </tuv>
     </tu>
     <tu>
@@ -12802,6 +12874,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T115638Z" creationid="yumas" creationdate="20240805T073703Z">
         <seg>ノームの店主</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome soldier</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T235329Z" creationid="yumas" creationdate="20240808T235329Z">
+        <seg>ノームの兵士</seg>
       </tuv>
     </tu>
     <tu>
@@ -16000,8 +16080,8 @@
       <tuv lang="en-GB">
         <seg>Jubbly bird</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240808T235028Z" creationid="yumas" creationdate="20240808T235028Z">
-        <seg>ジャビー鳥</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T235035Z" creationid="yumas" creationdate="20240808T235028Z">
+        <seg>ジャブリー鳥</seg>
       </tuv>
     </tu>
     <tu>
@@ -16374,6 +16454,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Karamel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T235114Z" creationid="yumas" creationdate="20240808T235114Z">
+        <seg>カラメル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Karamja</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120948Z" creationid="yumas" creationdate="20240731T120948Z">
@@ -16562,6 +16650,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240719T121838Z" creationid="2008l" creationdate="20240719T062255Z">
         <seg>カザードの鉄兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Khorvak, a dwarven engineer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T235237Z" creationid="yumas" creationdate="20240808T235211Z">
+        <seg>コーヴァク、ドワーフの技術者</seg>
       </tuv>
     </tu>
     <tu>
@@ -19618,6 +19714,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T122537Z" creationid="yumas" creationdate="20240806T122537Z">
         <seg>ミノタウロス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Miodvetnir</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T235320Z" creationid="yumas" creationdate="20240808T235320Z">
+        <seg>ミオドヴェントニー</seg>
       </tuv>
     </tu>
     <tu>
@@ -25738,6 +25842,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T223226Z" creationid="yumas" creationdate="20240808T223226Z">
         <seg>ルクフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rolad</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T235157Z" creationid="yumas" creationdate="20240808T235157Z">
+        <seg>ロラルド</seg>
       </tuv>
     </tu>
     <tu>
