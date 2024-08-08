@@ -8294,6 +8294,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Desert Wolf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T134901Z" creationid="yumas" creationdate="20240808T134901Z">
+        <seg>砂漠オオカミ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Desert boots</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T071922Z" creationid="2008l" creationdate="20240808T071922Z">
@@ -16206,6 +16214,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>King Healthorg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T134854Z" creationid="yumas" creationdate="20240808T134854Z">
+        <seg>ヘルソーグ王</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>King Percival</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120140Z" creationid="yumas" creationdate="20240808T120140Z">
@@ -19016,8 +19032,16 @@
       <tuv lang="en-GB">
         <seg>Mine cart</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240807T211857Z" creationid="yumas" creationdate="20240807T211857Z">
-        <seg>採掘カート</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T134940Z" creationid="yumas" creationdate="20240807T211857Z">
+        <seg>トロッコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mine cart driver</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T135006Z" creationid="yumas" creationdate="20240808T135006Z">
+        <seg>トロッコ操縦士</seg>
       </tuv>
     </tu>
     <tu>
@@ -31452,6 +31476,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T064027Z" creationid="yumas" creationdate="20240805T064027Z">
         <seg>ウグルグ・ナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ugthanki</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240808T134908Z" creationid="yumas" creationdate="20240808T134908Z">
+        <seg>ウグサンキ</seg>
       </tuv>
     </tu>
     <tu>
