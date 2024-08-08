@@ -7678,10 +7678,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Desert boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T071922Z" creationid="2008l" creationdate="20240808T071922Z">
+        <seg>砂漠の靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Desert eagle</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T091023Z" creationid="yumas" creationdate="20240805T091023Z">
         <seg>砂漠ワシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Desert robe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T071910Z" creationid="2008l" creationdate="20240808T071910Z">
+        <seg>砂漠のローブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Desert shirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T071858Z" creationid="2008l" creationdate="20240808T071858Z">
+        <seg>砂漠のシャツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -17386,6 +17410,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T065622Z" creationid="2008l" creationdate="20240727T065622Z">
         <seg>手紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Metal key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T071957Z" creationid="2008l" creationdate="20240808T071957Z">
+        <seg>金属の鍵</seg>
       </tuv>
     </tu>
     <tu>
@@ -30260,6 +30292,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T115858Z" creationid="yumas" creationdate="20240731T115858Z">
         <seg>防水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Waterskin(0)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T071755Z" creationid="2008l" creationdate="20240808T071755Z">
+        <seg>水袋（０）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Waterskin(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T071751Z" creationid="2008l" creationdate="20240808T071751Z">
+        <seg>水袋（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Waterskin(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T071747Z" creationid="2008l" creationdate="20240808T071742Z">
+        <seg>水袋（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Waterskin(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240808T071745Z" creationid="2008l" creationdate="20240808T071740Z">
+        <seg>水袋（３）</seg>
       </tuv>
     </tu>
     <tu>
