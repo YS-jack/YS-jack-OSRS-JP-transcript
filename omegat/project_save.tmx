@@ -13390,6 +13390,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Goblin guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T004922Z" creationid="yumas" creationdate="20240809T004922Z">
+        <seg>ゴブリンの警備員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Goblin kitchen key</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240725T064340Z">
@@ -13634,6 +13642,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T124255Z" creationid="yumas" creationdate="20240731T124255Z">
         <seg>に捕まる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grave scorpion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T005240Z" creationid="yumas" creationdate="20240809T005240Z">
+        <seg>墓サソリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -21862,10 +21878,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Observatory assistant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T004815Z" creationid="yumas" creationdate="20240809T004815Z">
+        <seg>天文台の助手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Observatory lens</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T064518Z" creationid="2008l" creationdate="20240725T064518Z">
         <seg>天文台のレンズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Observatory professor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T004824Z" creationid="yumas" creationdate="20240809T004824Z">
+        <seg>天文台の専門家</seg>
       </tuv>
     </tu>
     <tu>
@@ -29366,6 +29398,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sleeping guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T004917Z" creationid="yumas" creationdate="20240809T004917Z">
+        <seg>眠る警備員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sleepwalker</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070140Z" creationid="yumas" creationdate="20240805T070140Z">
@@ -29894,10 +29934,18 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Spirit of Scorpius</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T004953Z" creationid="yumas" creationdate="20240809T004953Z">
+        <seg>スコーピアスの魂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Spirit of Zadimus</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T004424Z" creationid="yumas" creationdate="20240809T004424Z">
-        <seg>ザジマスの精霊</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T005001Z" creationid="yumas" creationdate="20240809T004424Z">
+        <seg>ザジマスの魂</seg>
       </tuv>
     </tu>
     <tu>
