@@ -4222,6 +4222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bow and Arrow salesman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T021912Z" creationid="yumas" creationdate="20240809T021912Z">
+        <seg>弓矢の営業マン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bow string</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T065211Z" creationid="2008l" creationdate="20240808T065211Z">
@@ -5570,6 +5578,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053641Z" creationid="yumas" creationdate="20240805T053641Z">
         <seg>ドニー船長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Captain Errdo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T022127Z" creationid="yumas" creationdate="20240809T022127Z">
+        <seg>エード機長</seg>
       </tuv>
     </tu>
     <tu>
@@ -7658,6 +7674,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T213208Z" creationid="yumas" creationdate="20240730T213208Z">
         <seg>交信する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Competition Judge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T022006Z" creationid="yumas" creationdate="20240809T022006Z">
+        <seg>大会の審判</seg>
       </tuv>
     </tu>
     <tu>
@@ -13830,10 +13854,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gnome Archer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T022132Z" creationid="yumas" creationdate="20240809T022132Z">
+        <seg>ノームのアーチャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gnome Coach</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T133603Z" creationid="yumas" creationdate="20240807T133603Z">
         <seg>ノームのコーチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome Driver</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T022139Z" creationid="yumas" creationdate="20240809T022139Z">
+        <seg>ノームの運転手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome Mage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T022146Z" creationid="yumas" creationdate="20240809T022146Z">
+        <seg>ノーム魔術師</seg>
       </tuv>
     </tu>
     <tu>
@@ -13866,6 +13914,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T133611Z" creationid="yumas" creationdate="20240807T133611Z">
         <seg>ノーム・ボーラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome banker</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T022054Z" creationid="yumas" creationdate="20240809T022054Z">
+        <seg>ノームの銀行員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome child</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T022028Z" creationid="yumas" creationdate="20240809T022028Z">
+        <seg>子供のノーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -13910,6 +13974,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gnome trainer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T022031Z" creationid="yumas" creationdate="20240809T022031Z">
+        <seg>ノームのトレーナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gnome traveller</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T021739Z" creationid="yumas" creationdate="20240809T021739Z">
@@ -13930,6 +14002,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T133619Z" creationid="yumas" creationdate="20240807T133619Z">
         <seg>ノーム・ウィンガー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome woman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T022105Z" creationid="yumas" creationdate="20240809T022058Z">
+        <seg>女性のノーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -17286,6 +17366,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jimmy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T022013Z" creationid="yumas" creationdate="20240809T022013Z">
+        <seg>ジミー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jimmy Dazzler</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T133031Z" creationid="yumas" creationdate="20240808T133031Z">
@@ -19570,6 +19658,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T122403Z" creationid="yumas" creationdate="20240806T122403Z">
         <seg>リヂオ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lieutenant Schepbur</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T022255Z" creationid="yumas" creationdate="20240809T022255Z">
+        <seg>スケプバー中尉</seg>
       </tuv>
     </tu>
     <tu>
@@ -26618,6 +26714,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T005344Z" creationid="yumas" creationdate="20240809T005344Z">
         <seg>リーソ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ref</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T022016Z" creationid="yumas" creationdate="20240809T022016Z">
+        <seg>レフ</seg>
       </tuv>
     </tu>
     <tu>
@@ -34112,6 +34216,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ticket Merchant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T022011Z" creationid="yumas" creationdate="20240809T022011Z">
+        <seg>チケットの商人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ticket dwarf</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T001900Z" creationid="yumas" creationdate="20240809T001900Z">
@@ -34528,6 +34640,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tortoise</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T022018Z" creationid="yumas" creationdate="20240809T022018Z">
+        <seg>カメ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tortured soul</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T123843Z" creationid="yumas" creationdate="20240807T123843Z">
@@ -34564,6 +34684,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T205726Z" creationid="yumas" creationdate="20240807T205726Z">
         <seg>強いヤツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tower Advisor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T021919Z" creationid="yumas" creationdate="20240809T021919Z">
+        <seg>タワーの顧問</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tower Archer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T021925Z" creationid="yumas" creationdate="20240809T021925Z">
+        <seg>タワー・アーチャー</seg>
       </tuv>
     </tu>
     <tu>
@@ -34868,6 +35004,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T132904Z" creationid="yumas" creationdate="20240806T132904Z">
         <seg>トレズノー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tribal Weapon Salesman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T021956Z" creationid="yumas" creationdate="20240809T021956Z">
+        <seg>部族武器の営業マン</seg>
       </tuv>
     </tu>
     <tu>
