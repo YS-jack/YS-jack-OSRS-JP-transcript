@@ -8694,6 +8694,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Corsair Traitor (hard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T064454Z" creationid="yumas" creationdate="20240809T064454Z">
+        <seg>私掠船の裏切者（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cosmic Being</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T112533Z" creationid="yumas" creationdate="20240805T112533Z">
@@ -30566,6 +30574,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Revenant cyclops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T063548Z" creationid="yumas" creationdate="20240809T063548Z">
+        <seg>幽鬼のサイクロプス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Revenant dark beast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T063621Z" creationid="yumas" creationdate="20240809T063621Z">
+        <seg>幽鬼の暗黒獣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Revenant demon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T063556Z" creationid="yumas" creationdate="20240809T063556Z">
+        <seg>幽鬼の悪魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Revenant dragon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T064345Z" creationid="yumas" creationdate="20240809T064345Z">
+        <seg>幽鬼の竜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Revenant goblin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T063528Z" creationid="yumas" creationdate="20240809T063519Z">
@@ -30574,10 +30614,50 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Revenant hellhound</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T063553Z" creationid="yumas" creationdate="20240809T063553Z">
+        <seg>幽鬼のヘルハウンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Revenant hobgoblin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T063543Z" creationid="yumas" creationdate="20240809T063543Z">
+        <seg>幽鬼のホブゴブリン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Revenant imp</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T063056Z" creationid="yumas" creationdate="20240809T063056Z">
         <seg>幽鬼の小悪魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Revenant knight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T064342Z" creationid="yumas" creationdate="20240809T064342Z">
+        <seg>幽鬼の騎士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Revenant ork</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T063603Z" creationid="yumas" creationdate="20240809T063603Z">
+        <seg>幽鬼のオーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Revenant pyrefiend</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T063536Z" creationid="yumas" creationdate="20240809T063536Z">
+        <seg>幽鬼のパイヤーフィーンド</seg>
       </tuv>
     </tu>
     <tu>
