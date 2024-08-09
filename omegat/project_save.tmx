@@ -20526,6 +20526,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lizardman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042012Z" creationid="yumas" creationdate="20240809T042012Z">
+        <seg>リザードマン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lizardman shaman</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T040309Z" creationid="yumas" creationdate="20240809T040309Z">
@@ -32274,6 +32282,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T041957Z" creationid="yumas" creationdate="20240809T041957Z">
         <seg>兵士（lvl1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Soldier (tier 2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042002Z" creationid="yumas" creationdate="20240809T042002Z">
+        <seg>兵士（lvl2）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Soldier (tier 3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042003Z" creationid="yumas" creationdate="20240809T042003Z">
+        <seg>兵士（lvl3）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Soldier (tier 4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042003Z" creationid="yumas" creationdate="20240809T042003Z">
+        <seg>兵士（lvl4）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Soldier (tier 5)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042004Z" creationid="yumas" creationdate="20240809T042004Z">
+        <seg>兵士（lvl5）</seg>
       </tuv>
     </tu>
     <tu>
