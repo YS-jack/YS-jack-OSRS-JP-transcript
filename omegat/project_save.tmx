@@ -3078,6 +3078,46 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Baboon Brawler</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T114326Z" creationid="yumas" creationdate="20240809T114326Z">
+        <seg>暴れ者のヒヒ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Baboon Mage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T114345Z" creationid="yumas" creationdate="20240809T114345Z">
+        <seg>魔術師のヒヒ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Baboon Shaman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T114350Z" creationid="yumas" creationdate="20240809T114350Z">
+        <seg>シャーマンのヒヒ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Baboon Thrall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T114531Z" creationid="yumas" creationdate="20240809T114531Z">
+        <seg>スロールのヒヒ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Baboon Thrower</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T114340Z" creationid="yumas" creationdate="20240809T114340Z">
+        <seg>投げるヒヒ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Baby Chinchompa</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T040150Z" creationid="yumas" creationdate="20240809T040150Z">
@@ -10682,6 +10722,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T070159Z" creationid="2008l" creationdate="20240809T070159Z">
         <seg>カレー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cursed Baboon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T114449Z" creationid="yumas" creationdate="20240809T114449Z">
+        <seg>呪われたヒヒ</seg>
       </tuv>
     </tu>
     <tu>
@@ -30792,8 +30840,8 @@
       <tuv lang="en-GB">
         <seg>Orb of Darkness</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T114219Z" creationid="yumas" creationdate="20240809T114219Z">
-        <seg>オーブ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T114232Z" creationid="yumas" creationdate="20240809T114219Z">
+        <seg>暗黒のオーブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -47180,6 +47228,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T010402Z" creationid="yumas" creationdate="20240805T095525Z">
         <seg>ヴォイド・ナイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Volatile Baboon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T114445Z" creationid="yumas" creationdate="20240809T114445Z">
+        <seg>不安定なヒヒ</seg>
       </tuv>
     </tu>
     <tu>
