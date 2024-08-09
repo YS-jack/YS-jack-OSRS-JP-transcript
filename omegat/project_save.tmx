@@ -17478,6 +17478,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hoop Snake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T062516Z" creationid="yumas" creationdate="20240809T062432Z">
+        <seg>輪のヘビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hopeless beast</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T221956Z" creationid="yumas" creationdate="20240808T221956Z">
@@ -35894,10 +35902,18 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stunned Hoop Snake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T062534Z" creationid="yumas" creationdate="20240809T062534Z">
+        <seg>動転した輪のヘビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stunted demonic gorilla</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T044104Z" creationid="yumas" creationdate="20240809T044104Z">
-        <seg>動転する悪魔のゴリラ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T062609Z" creationid="yumas" creationdate="20240809T044104Z">
+        <seg>発育不良の悪魔のゴリラ</seg>
       </tuv>
     </tu>
     <tu>
@@ -36948,6 +36964,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100018Z" creationid="yumas" creationdate="20240730T100018Z">
         <seg>タップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tar Bubbles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T062346Z" creationid="yumas" creationdate="20240809T062346Z">
+        <seg>タールの泡</seg>
       </tuv>
     </tu>
     <tu>
