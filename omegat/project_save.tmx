@@ -4814,6 +4814,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Boar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T103709Z" creationid="yumas" creationdate="20240809T103709Z">
+        <seg>イノシシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Boar31337Killer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T131459Z" creationid="yumas" creationdate="20240806T131459Z">
@@ -6730,6 +6738,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053552Z" creationid="yumas" creationdate="20240805T053552Z">
         <seg>ブレインデス船長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Captain Bruce</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T103640Z" creationid="yumas" creationdate="20240809T103640Z">
+        <seg>ブルース隊長</seg>
       </tuv>
     </tu>
     <tu>
@@ -12830,6 +12846,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dusty Aliv</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T103820Z" creationid="yumas" creationdate="20240809T103820Z">
+        <seg>ダスティー・アリヴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dusty key</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240806T065136Z">
@@ -14746,6 +14770,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T032252Z" creationid="yumas" creationdate="20240803T032252Z">
         <seg>農業ギルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Farolt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T103809Z" creationid="yumas" creationdate="20240809T103809Z">
+        <seg>ファーロルト</seg>
       </tuv>
     </tu>
     <tu>
@@ -21414,6 +21446,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Istoria</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T103811Z" creationid="yumas" creationdate="20240809T103811Z">
+        <seg>イストリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Items</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T131931Z" creationid="yumas" creationdate="20240730T131931Z">
@@ -21850,6 +21890,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T090727Z" creationid="yumas" creationdate="20240809T090727Z">
         <seg>ジェス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jessie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T103649Z" creationid="yumas" creationdate="20240809T103649Z">
+        <seg>ジェシー</seg>
       </tuv>
     </tu>
     <tu>
@@ -26166,6 +26214,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lynx</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T103732Z" creationid="yumas" creationdate="20240809T103732Z">
+        <seg>オオヤマネコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lynx Tamer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T103758Z" creationid="yumas" creationdate="20240809T103758Z">
+        <seg>オオヤマネコ調教師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lyra</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T132748Z" creationid="yumas" creationdate="20240806T132748Z">
@@ -29578,6 +29642,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T094328Z" creationid="yumas" creationdate="20240809T094328Z">
         <seg>ニロカス・プリンキパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nylocas Queen</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T103900Z" creationid="yumas" creationdate="20240809T103900Z">
+        <seg>女王ニロカス</seg>
       </tuv>
     </tu>
     <tu>
@@ -37770,6 +37842,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T001842Z" creationid="yumas" creationdate="20240809T001842Z">
         <seg>モスフィスツ軍曹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sergeant Ricardo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T103647Z" creationid="yumas" creationdate="20240809T103647Z">
+        <seg>リカード軍曹</seg>
       </tuv>
     </tu>
     <tu>
@@ -46428,6 +46508,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T083217Z" creationid="yumas" creationdate="20240809T083217Z">
         <seg>ヴリトラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vulcan Orvoros</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T103831Z" creationid="yumas" creationdate="20240809T103827Z">
+        <seg>バルカン・オーボロス</seg>
       </tuv>
     </tu>
     <tu>
