@@ -6432,16 +6432,16 @@
       <tuv lang="en-GB">
         <seg>Chaos Elemental</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T134304Z" creationid="yumas" creationdate="20240805T134304Z">
-        <seg>混沌のエレメンタル</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T035839Z" creationid="yumas" creationdate="20240805T134304Z">
+        <seg>混沌エレメンタル</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Chaos Elemental Jr.</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T134316Z" creationid="yumas" creationdate="20240805T134316Z">
-        <seg>混沌のエレメンタル・ジュニア</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T035852Z" creationid="yumas" creationdate="20240805T134316Z">
+        <seg>混沌エレメンタル・Jr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8790,6 +8790,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dagannoth Prime Jr.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T035802Z" creationid="yumas" creationdate="20240809T035802Z">
+        <seg>ダガノス・プライム・Jr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dagannoth Rex</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T114126Z" creationid="yumas" creationdate="20240806T114126Z">
@@ -8798,10 +8806,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dagannoth Rex Jr.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T035816Z" creationid="yumas" creationdate="20240809T035816Z">
+        <seg>ダガノス・レックス・Jr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dagannoth Supreme</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T114112Z" creationid="yumas" creationdate="20240806T114112Z">
         <seg>ダガノス・スプリーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dagannoth Supreme Jr.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T035753Z" creationid="yumas" creationdate="20240809T035753Z">
+        <seg>ダガノス・スプリーム・Jr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11314,6 +11338,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T044744Z" creationid="yumas" creationdate="20240804T044744Z">
         <seg>エネルギー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Energy sprite</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T035738Z" creationid="yumas" creationdate="20240809T035738Z">
+        <seg>エナジー・スプライト</seg>
       </tuv>
     </tu>
     <tu>
@@ -37106,8 +37138,8 @@
       <tuv lang="en-GB">
         <seg>Vet'ion Jr.</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T011402Z" creationid="yumas" creationdate="20240809T011402Z">
-        <seg>ヴェティオン・ジュニア</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T035859Z" creationid="yumas" creationdate="20240809T011402Z">
+        <seg>ヴェティオン・Jr.</seg>
       </tuv>
     </tu>
     <tu>
