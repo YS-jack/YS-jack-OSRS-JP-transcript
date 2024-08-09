@@ -5742,6 +5742,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Burnt stew</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T070028Z" creationid="2008l" creationdate="20240809T070028Z">
+        <seg>焦げたシチュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Burnt swordfish</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T063911Z" creationid="2008l" creationdate="20240723T063911Z">
@@ -18734,6 +18742,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Incomplete stew</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T070009Z" creationid="2008l" creationdate="20240809T070009Z">
+        <seg>未完成のシチュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Infernal Mage</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T050000Z" creationid="yumas" creationdate="20240805T050000Z">
@@ -20030,10 +20046,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jug of bad wine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T065837Z" creationid="2008l" creationdate="20240809T065837Z">
+        <seg>まずいワインのジャグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jug of water</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T065000Z" creationid="2008l" creationdate="20240809T065000Z">
         <seg>満杯の水差し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jug of wine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T065913Z" creationid="2008l" creationdate="20240809T065913Z">
+        <seg>ワインのジャグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -36094,6 +36126,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Spice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T070151Z" creationid="2008l" creationdate="20240809T070151Z">
+        <seg>香辛料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Spice seller</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134419Z" creationid="yumas" creationdate="20240807T134252Z">
@@ -36938,6 +36978,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T040453Z" creationid="yumas" creationdate="20240809T040448Z">
         <seg>スティーブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stew</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T070021Z" creationid="2008l" creationdate="20240809T070021Z">
+        <seg>シチュー</seg>
       </tuv>
     </tu>
     <tu>
@@ -40808,6 +40856,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Uncooked stew</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T070018Z" creationid="2008l" creationdate="20240809T070018Z">
+        <seg>生のシチュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Uncut diamond</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240807T195310Z" creationid="2008l" creationdate="20240807T195310Z">
@@ -40924,6 +40980,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T124843Z" creationid="yumas" creationdate="20240808T124843Z">
         <seg>アンデッドの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Unfermented wine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T065940Z" creationid="2008l" creationdate="20240809T065940Z">
+        <seg>生のワイン</seg>
       </tuv>
     </tu>
     <tu>
