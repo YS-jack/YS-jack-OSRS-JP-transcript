@@ -1566,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Apothecary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T000959Z" creationid="yumas" creationdate="20240809T000959Z">
+        <seg>薬剤師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Apparition</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T121205Z" creationid="yumas" creationdate="20240808T121205Z">
@@ -6534,6 +6542,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chronozon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T000923Z" creationid="yumas" creationdate="20240809T000923Z">
+        <seg>クロノゾン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Chuck</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T135829Z" creationid="yumas" creationdate="20240807T135829Z">
@@ -9366,6 +9382,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Draul Leptoc</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001018Z" creationid="yumas" creationdate="20240809T001018Z">
+        <seg>ドロール・レプトック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Draynor Manor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T033453Z" creationid="yumas" creationdate="20240803T033453Z">
@@ -10978,6 +11002,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T064614Z" creationid="yumas" creationdate="20240805T064614Z">
         <seg>バッデン神父</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Father Lawrence</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001012Z" creationid="yumas" creationdate="20240809T001012Z">
+        <seg>ロウレンス神父</seg>
       </tuv>
     </tu>
     <tu>
@@ -16030,6 +16062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jeremy Clerksin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001039Z" creationid="yumas" creationdate="20240809T001039Z">
+        <seg>ジェレミー・クラークシン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jerico</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T071106Z" creationid="yumas" creationdate="20240805T071106Z">
@@ -16234,6 +16274,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070726Z" creationid="yumas" creationdate="20240805T070726Z">
         <seg>ジュリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Juliet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T000938Z" creationid="yumas" creationdate="20240809T000938Z">
+        <seg>ジュリエット</seg>
       </tuv>
     </tu>
     <tu>
@@ -19390,6 +19438,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Martina Scorsby</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001029Z" creationid="yumas" creationdate="20240809T001029Z">
+        <seg>マーティナ・スコースビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mary</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T121532Z" creationid="yumas" creationdate="20240808T121532Z">
@@ -22418,6 +22474,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T072849Z" creationid="yumas" creationdate="20240805T072849Z">
         <seg>フィリップ・カーニレアン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Phillipa</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001021Z" creationid="yumas" creationdate="20240809T001021Z">
+        <seg>フィリパ</seg>
       </tuv>
     </tu>
     <tu>
@@ -26066,6 +26130,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093846Z" creationid="yumas" creationdate="20240730T093846Z">
         <seg>を転がす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Romeo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001004Z" creationid="yumas" creationdate="20240809T001004Z">
+        <seg>ロミオ</seg>
       </tuv>
     </tu>
     <tu>
@@ -30058,6 +30130,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T213008Z" creationid="yumas" creationdate="20240730T213008Z">
         <seg>を吸う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Suit of armour</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001215Z" creationid="yumas" creationdate="20240809T001215Z">
+        <seg>鎧</seg>
       </tuv>
     </tu>
     <tu>
@@ -34592,6 +34672,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wizard Grayzag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T000935Z" creationid="yumas" creationdate="20240809T000935Z">
+        <seg>魔法使いグレイザグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Wizard Jalarast</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134924Z" creationid="yumas" creationdate="20240807T134924Z">
@@ -36257,6 +36345,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T115950Z" creationid="yumas" creationdate="20240808T115950Z">
         <seg>スミス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">12228</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Boot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T000917Z" creationid="yumas" creationdate="20240809T000917Z">
+        <seg>ブート</seg>
       </tuv>
     </tu>
   </body>
