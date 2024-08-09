@@ -2750,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Aubury</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093528Z" creationid="yumas" creationdate="20240809T093528Z">
+        <seg>オーブリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Auctioneer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T090052Z" creationid="yumas" creationdate="20240809T090052Z">
@@ -4850,6 +4858,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T061406Z" creationid="yumas" creationdate="20240809T061406Z">
         <seg>浮かぶ化石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Body Golem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093605Z" creationid="yumas" creationdate="20240809T093605Z">
+        <seg>体ゴーレム</seg>
       </tuv>
     </tu>
     <tu>
@@ -7650,6 +7666,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T035437Z" creationid="yumas" creationdate="20240809T035437Z">
         <seg>混沌の狂信者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chaos Golem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093533Z" creationid="yumas" creationdate="20240809T093533Z">
+        <seg>混沌ゴーレム</seg>
       </tuv>
     </tu>
     <tu>
@@ -15346,6 +15370,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T051147Z" creationid="yumas" creationdate="20240809T051147Z">
         <seg>燃盛るパイヤーロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Flawed Golem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093651Z" creationid="yumas" creationdate="20240809T093651Z">
+        <seg>欠陥のあるゴーレム</seg>
       </tuv>
     </tu>
     <tu>
@@ -26950,6 +26982,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Meredith</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093716Z" creationid="yumas" creationdate="20240809T093716Z">
+        <seg>メレジス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Merlin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T204614Z" creationid="yumas" creationdate="20240807T204614Z">
@@ -27138,6 +27178,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T095220Z" creationid="yumas" creationdate="20240803T095220Z">
         <seg>心の祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mind Golem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093613Z" creationid="yumas" creationdate="20240809T093613Z">
+        <seg>心ゴーレム</seg>
       </tuv>
     </tu>
     <tu>
@@ -33062,6 +33110,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ramarno</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093520Z" creationid="yumas" creationdate="20240809T093520Z">
+        <seg>ラマーノ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ramocean</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T042144Z" creationid="yumas" creationdate="20240809T042144Z">
@@ -33210,6 +33266,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T090025Z" creationid="yumas" creationdate="20240805T090025Z">
         <seg>ランツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raqueel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093720Z" creationid="yumas" creationdate="20240809T093720Z">
+        <seg>ラキール</seg>
       </tuv>
     </tu>
     <tu>
@@ -47824,6 +47888,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Zamorakian recruiter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093713Z" creationid="yumas" creationdate="20240809T093702Z">
+        <seg>ザモラックのスカウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Zanaris choir</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T014634Z" creationid="yumas" creationdate="20240809T014634Z">
@@ -47868,6 +47940,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T211903Z" creationid="yumas" creationdate="20240807T211903Z">
         <seg>ジーロット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zebak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093522Z" creationid="yumas" creationdate="20240809T093522Z">
+        <seg>ゼバク</seg>
       </tuv>
     </tu>
     <tu>
@@ -49267,6 +49347,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T093327Z" creationid="yumas" creationdate="20240809T093327Z">
         <seg>ウィロウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">13781</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Gem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T094034Z" creationid="yumas" creationdate="20240809T094034Z">
+        <seg>ジェム</seg>
       </tuv>
     </tu>
   </body>
