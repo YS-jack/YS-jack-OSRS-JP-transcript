@@ -2222,6 +2222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Arianwyn (hard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T082844Z" creationid="yumas" creationdate="20240809T082844Z">
+        <seg>アリアンウィン（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Aristarchus</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T205840Z" creationid="yumas" creationdate="20240807T205840Z">
@@ -2950,6 +2958,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bakuna</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T083141Z" creationid="yumas" creationdate="20240809T083141Z">
+        <seg>バクナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Balance</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T115918Z" creationid="yumas" creationdate="20240731T115918Z">
@@ -3362,6 +3378,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043009Z" creationid="yumas" creationdate="20240805T043009Z">
         <seg>バジリスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Basilisk Knight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T083116Z" creationid="yumas" creationdate="20240809T083116Z">
+        <seg>バジリスク・ナイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Basilisk Sentinel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T083028Z" creationid="yumas" creationdate="20240809T083028Z">
+        <seg>バジリスクの歩哨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Basilisk Youngling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T083056Z" creationid="yumas" creationdate="20240809T083056Z">
+        <seg>若いバジリスク</seg>
       </tuv>
     </tu>
     <tu>
@@ -13574,6 +13614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Essyllt (hard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T082902Z" creationid="yumas" creationdate="20240809T082902Z">
+        <seg>エシルト（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Estate agent</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T132147Z" creationid="yumas" creationdate="20240807T132147Z">
@@ -15314,6 +15362,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T065240Z" creationid="yumas" creationdate="20240809T065240Z">
         <seg>フレジャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik Warrior</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T083037Z" creationid="yumas" creationdate="20240809T083037Z">
+        <seg>フレメニックの戦士</seg>
       </tuv>
     </tu>
     <tu>
@@ -18610,6 +18666,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T114954Z" creationid="yumas" creationdate="20240730T114954Z">
         <seg>から収穫する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Haskell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T083031Z" creationid="yumas" creationdate="20240809T083031Z">
+        <seg>ハスケル</seg>
       </tuv>
     </tu>
     <tu>
@@ -26978,6 +27042,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T003244Z" creationid="yumas" creationdate="20240809T003244Z">
         <seg>サル世話人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Monstrous Basilisk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T083059Z" creationid="yumas" creationdate="20240809T083059Z">
+        <seg>極悪なバジリスク</seg>
       </tuv>
     </tu>
     <tu>
@@ -41256,6 +41328,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The Jormungand</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T083106Z" creationid="yumas" creationdate="20240809T083106Z">
+        <seg>ザ・ジョームンガンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The Kendal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T082932Z" creationid="yumas" creationdate="20240805T082932Z">
@@ -42228,6 +42308,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T114808Z" creationid="yumas" creationdate="20240808T114808Z">
         <seg>町の衛兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Toy Doll</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T082911Z" creationid="yumas" creationdate="20240809T082911Z">
+        <seg>おもちゃの人形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Toy Mouse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T082915Z" creationid="yumas" creationdate="20240809T082915Z">
+        <seg>おもちゃのネズミ</seg>
       </tuv>
     </tu>
     <tu>
