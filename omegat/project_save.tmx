@@ -3654,6 +3654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bees!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T090808Z" creationid="yumas" creationdate="20240809T090808Z">
+        <seg>ハチ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Beggar</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T204918Z" creationid="yumas" creationdate="20240807T204918Z">
@@ -6590,6 +6598,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Captain Bleemadge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T090845Z" creationid="yumas" creationdate="20240809T090845Z">
+        <seg>ブリーマッジ機長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Captain Braindeath</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053552Z" creationid="yumas" creationdate="20240805T053552Z">
@@ -6618,6 +6634,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T124925Z" creationid="yumas" creationdate="20240806T124925Z">
         <seg>ダエーキン機長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Captain Dalbur</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T090827Z" creationid="yumas" creationdate="20240809T090827Z">
+        <seg>ダルバー機長</seg>
       </tuv>
     </tu>
     <tu>
@@ -6666,6 +6690,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T042342Z" creationid="yumas" creationdate="20240809T042342Z">
         <seg>クハレド船長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Captain Klemfoodle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T090948Z" creationid="yumas" creationdate="20240809T090948Z">
+        <seg>クレンフードル機長</seg>
       </tuv>
     </tu>
     <tu>
@@ -17518,6 +17550,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gordon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091007Z" creationid="yumas" creationdate="20240809T091007Z">
+        <seg>ゴードン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Goreu</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T004138Z" creationid="yumas" creationdate="20240809T004138Z">
@@ -19106,6 +19146,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T131311Z" creationid="yumas" creationdate="20240806T131311Z">
         <seg>料理長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Headless Beast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091004Z" creationid="yumas" creationdate="20240809T091004Z">
+        <seg>首無しの獣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Headless Beast (hard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091000Z" creationid="yumas" creationdate="20240809T091000Z">
+        <seg>首無しの獣（上級）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21058,6 +21114,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T081504Z" creationid="yumas" creationdate="20240805T081504Z">
         <seg>ジャック・シーガル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jack-o'-Lantern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T090912Z" creationid="yumas" creationdate="20240809T090912Z">
+        <seg>カボチャのちょうちん</seg>
       </tuv>
     </tu>
     <tu>
@@ -24114,6 +24178,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T111054Z" creationid="yumas" creationdate="20240803T111054Z">
         <seg>リーグの統計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Leagues Assistant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T090925Z" creationid="yumas" creationdate="20240809T090925Z">
+        <seg>リーグの助手</seg>
       </tuv>
     </tu>
     <tu>
@@ -29622,6 +29694,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ornate undead combat dummy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091042Z" creationid="yumas" creationdate="20240809T091019Z">
+        <seg>華麗なアンデッド戦闘サンドバッグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ornate wilderness combat dummy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091053Z" creationid="yumas" creationdate="20240809T091053Z">
+        <seg>華麗なウィルダネス戦闘サンドバッグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Oronwen</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T090954Z" creationid="yumas" creationdate="20240805T090954Z">
@@ -30986,6 +31074,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T133508Z" creationid="yumas" creationdate="20240806T133508Z">
         <seg>ブタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pig Thing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T090804Z" creationid="yumas" creationdate="20240809T090804Z">
+        <seg>ブタみたいなヤツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -42300,6 +42396,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052727Z" creationid="yumas" creationdate="20240805T052727Z">
         <seg>熱核スモーク・デビル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Thessalia</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T090929Z" creationid="yumas" creationdate="20240809T090929Z">
+        <seg>セサリア</seg>
       </tuv>
     </tu>
     <tu>
