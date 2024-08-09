@@ -2166,6 +2166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Archpriest of the Unicorn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T085120Z" creationid="yumas" creationdate="20240809T085120Z">
+        <seg>ユニコーンの大司祭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ardougne</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122438Z" creationid="yumas" creationdate="20240730T122438Z">
@@ -10590,6 +10598,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dark Squirrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T084949Z" creationid="yumas" creationdate="20240809T084949Z">
+        <seg>暗黒のリス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dark beast</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T115833Z" creationid="yumas" creationdate="20240808T115833Z">
@@ -10650,6 +10666,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T052251Z" creationid="yumas" creationdate="20240804T052251Z">
         <seg>ダーク・メヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Darkmeyer Slave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T085128Z" creationid="yumas" creationdate="20240809T085128Z">
+        <seg>ダーク・メヤーの奴隷</seg>
       </tuv>
     </tu>
     <tu>
@@ -11830,6 +11854,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Draconis Sanguine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T085206Z" creationid="yumas" creationdate="20240809T085206Z">
+        <seg>ドラコニス・サウグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dragon battleaxe</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T065814Z" creationid="2008l" creationdate="20240731T065814Z">
@@ -12082,6 +12114,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T040312Z" creationid="yumas" creationdate="20240809T040312Z">
         <seg>ドリュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Drezel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T084942Z" creationid="yumas" creationdate="20240809T084942Z">
+        <seg>ドレーゼル</seg>
       </tuv>
     </tu>
     <tu>
@@ -22694,6 +22734,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Knight of the Lion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T085047Z" creationid="yumas" creationdate="20240809T085047Z">
+        <seg>ライオンの騎士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Knight of the Owl</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T085032Z" creationid="yumas" creationdate="20240809T085032Z">
+        <seg>フクロウの騎士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Knight of the Unicorn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T085039Z" creationid="yumas" creationdate="20240809T085039Z">
+        <seg>ユニコーンの騎士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Knight of the Wolf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T085042Z" creationid="yumas" creationdate="20240809T085042Z">
+        <seg>オオカミの騎士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Knock-Out</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084557Z" creationid="2008l" creationdate="20240715T082819Z">
@@ -27318,6 +27390,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mort Nightshade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T085232Z" creationid="yumas" creationdate="20240809T085232Z">
+        <seg>モート・ナイトシェード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mort'ton Local</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T081239Z" creationid="yumas" creationdate="20240805T081239Z">
@@ -28330,6 +28410,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T115641Z" creationid="yumas" creationdate="20240808T115641Z">
         <seg>ノラ・T・ハッグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Noranna Tytanin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T085141Z" creationid="yumas" creationdate="20240809T085141Z">
+        <seg>ノランナ・チタニン</seg>
       </tuv>
     </tu>
     <tu>
@@ -29378,6 +29466,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T013012Z" creationid="yumas" creationdate="20240809T013012Z">
         <seg>老いたヘルキャット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Owl</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T085134Z" creationid="yumas" creationdate="20240809T085134Z">
+        <seg>フクロウ</seg>
       </tuv>
     </tu>
     <tu>
@@ -44304,6 +44400,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Valentin Rasputin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T085147Z" creationid="yumas" creationdate="20240809T085147Z">
+        <seg>ヴァレンチン・ラスプチン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Valeria</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T125219Z" creationid="yumas" creationdate="20240808T125219Z">
@@ -44348,6 +44452,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T135109Z" creationid="yumas" creationdate="20240807T135109Z">
         <seg>吸血犬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vampyrus Diaemus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T085243Z" creationid="yumas" creationdate="20240809T085243Z">
+        <seg>ヴァンピルス・ヂアエマス</seg>
       </tuv>
     </tu>
     <tu>
@@ -44792,6 +44904,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Vlad Bechstein</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T085157Z" creationid="yumas" creationdate="20240809T085157Z">
+        <seg>ヴラド・ベチステイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Vladimir</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T125257Z" creationid="yumas" creationdate="20240808T125257Z">
@@ -44836,6 +44956,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T132549Z" creationid="yumas" creationdate="20240808T132549Z">
         <seg>ヴォルフ・オラフソン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Von van Von</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T085151Z" creationid="yumas" creationdate="20240809T085151Z">
+        <seg>ヴォン・ヴァン・ヴォン</seg>
       </tuv>
     </tu>
     <tu>
