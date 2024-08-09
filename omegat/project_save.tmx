@@ -1478,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Amrod</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T080057Z" creationid="yumas" creationdate="20240809T080057Z">
+        <seg>アームロッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Amulet mould</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240806T065307Z" creationid="2008l" creationdate="20240806T065307Z">
@@ -9174,6 +9182,86 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Corrupted Bat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T080019Z" creationid="yumas" creationdate="20240809T080019Z">
+        <seg>変異コウモリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Corrupted Bear</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T080033Z" creationid="yumas" creationdate="20240809T080033Z">
+        <seg>変異グマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Corrupted Dark Beast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T080044Z" creationid="yumas" creationdate="20240809T080044Z">
+        <seg>変異した暗黒獣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Corrupted Dragon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T080037Z" creationid="yumas" creationdate="20240809T080037Z">
+        <seg>変異した竜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Corrupted Hunllef</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T080009Z" creationid="yumas" creationdate="20240809T080009Z">
+        <seg>変異ハンレフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Corrupted Rat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T080013Z" creationid="yumas" creationdate="20240809T080013Z">
+        <seg>変異ネズミ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Corrupted Scorpion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T080028Z" creationid="yumas" creationdate="20240809T080028Z">
+        <seg>変異ザソリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Corrupted Spider</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T080016Z" creationid="yumas" creationdate="20240809T080016Z">
+        <seg>変異グモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Corrupted Unicorn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T080024Z" creationid="yumas" creationdate="20240809T080024Z">
+        <seg>変異ユニコーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Corrupted Wolf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T080030Z" creationid="yumas" creationdate="20240809T080030Z">
+        <seg>変異オオカミ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Corrupted Youngllef</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T073924Z" creationid="yumas" creationdate="20240809T073924Z">
@@ -9726,10 +9814,82 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crystalline Bat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075925Z" creationid="yumas" creationdate="20240809T075925Z">
+        <seg>結晶コウモリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crystalline Bear</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075949Z" creationid="yumas" creationdate="20240809T075949Z">
+        <seg>結晶グマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crystalline Dark Beast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075959Z" creationid="yumas" creationdate="20240809T075959Z">
+        <seg>結晶の暗黒獣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crystalline Dragon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075954Z" creationid="yumas" creationdate="20240809T075954Z">
+        <seg>結晶の竜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crystalline Hunllef</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T075859Z" creationid="yumas" creationdate="20240809T075859Z">
-        <seg>結晶のハンレフ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075912Z" creationid="yumas" creationdate="20240809T075859Z">
+        <seg>結晶ハンレフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crystalline Rat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075915Z" creationid="yumas" creationdate="20240809T075909Z">
+        <seg>結晶ネズミ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crystalline Scorpion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075941Z" creationid="yumas" creationdate="20240809T075941Z">
+        <seg>結晶ザソリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crystalline Spider</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075921Z" creationid="yumas" creationdate="20240809T075921Z">
+        <seg>結晶グモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crystalline Unicorn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075930Z" creationid="yumas" creationdate="20240809T075930Z">
+        <seg>結晶ユニコーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crystalline Wolf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075944Z" creationid="yumas" creationdate="20240809T075944Z">
+        <seg>結晶オオカミ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9794,6 +9954,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T070159Z" creationid="2008l" creationdate="20240809T070159Z">
         <seg>カレー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Curufin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T080102Z" creationid="yumas" creationdate="20240809T080102Z">
+        <seg>クルフィン</seg>
       </tuv>
     </tu>
     <tu>
@@ -12866,6 +13034,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T123222Z" creationid="yumas" creationdate="20240808T123222Z">
         <seg>エンクレーブの衛兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Enerdhil</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T080106Z" creationid="yumas" creationdate="20240809T080106Z">
+        <seg>エネーデヒルウ</seg>
       </tuv>
     </tu>
     <tu>
@@ -25622,6 +25798,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Miriel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T080059Z" creationid="yumas" creationdate="20240809T080059Z">
+        <seg>ミリエル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mirror</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T055906Z" creationid="yumas" creationdate="20240809T055906Z">
@@ -32674,6 +32858,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T132846Z" creationid="yumas" creationdate="20240806T132846Z">
         <seg>ラジエン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rhiannon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T080053Z" creationid="yumas" creationdate="20240809T080053Z">
+        <seg>リアノン</seg>
       </tuv>
     </tu>
     <tu>
@@ -45108,6 +45300,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T133043Z" creationid="yumas" creationdate="20240807T133043Z">
         <seg>ザクルン・グリチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zalcano</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T080049Z" creationid="yumas" creationdate="20240809T080049Z">
+        <seg>ザルカーノ</seg>
       </tuv>
     </tu>
     <tu>
