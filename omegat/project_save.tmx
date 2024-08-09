@@ -1086,10 +1086,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Akkha</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T120047Z" creationid="yumas" creationdate="20240809T120047Z">
+        <seg>アクハ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Akkha's Phantom</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T120038Z" creationid="yumas" creationdate="20240809T120038Z">
         <seg>アクハのファントム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Akkha's Shadow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T120053Z" creationid="yumas" creationdate="20240809T120053Z">
+        <seg>アクハの影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Akkhito</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T120136Z" creationid="yumas" creationdate="20240809T120136Z">
+        <seg>アクヒト</seg>
       </tuv>
     </tu>
     <tu>
@@ -3094,6 +3118,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ba-Ba</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T120042Z" creationid="yumas" creationdate="20240809T120042Z">
+        <seg>バーバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ba-Ba's Phantom</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T115916Z" creationid="yumas" creationdate="20240809T115916Z">
@@ -3106,6 +3138,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T220755Z" creationid="yumas" creationdate="20240807T220755Z">
         <seg>バーバ・ヤーガ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Babi</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T120138Z" creationid="yumas" creationdate="20240809T120138Z">
+        <seg>バビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Baboon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T120045Z" creationid="yumas" creationdate="20240809T120045Z">
+        <seg>ヒヒ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3426,6 +3474,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T084618Z" creationid="2008l" creationdate="20240715T083013Z">
         <seg>銀行にアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bank Camel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T120130Z" creationid="yumas" creationdate="20240809T120130Z">
+        <seg>銀行ラクダ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6338,6 +6394,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T115126Z" creationid="yumas" creationdate="20240803T115126Z">
         <seg>を燃やす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burning Orb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T120108Z" creationid="yumas" creationdate="20240809T120108Z">
+        <seg>燃えるオーブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16502,6 +16566,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Frozen Orb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T120111Z" creationid="yumas" creationdate="20240809T120111Z">
+        <seg>凍ったオーブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fry</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T045523Z" creationid="yumas" creationdate="20240804T045523Z">
@@ -23450,6 +23522,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T120015Z" creationid="yumas" creationdate="20240809T115956Z">
         <seg>ケフリのファントム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kephriti</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T120146Z" creationid="yumas" creationdate="20240809T120146Z">
+        <seg>ケフリティ</seg>
       </tuv>
     </tu>
     <tu>
@@ -30930,6 +31010,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T114232Z" creationid="yumas" creationdate="20240809T114219Z">
         <seg>暗黒のオーブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Orb of Lightning</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T120101Z" creationid="yumas" creationdate="20240809T120101Z">
+        <seg>雷のオーブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -45576,6 +45664,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tumeken's Damaged Guardian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T120446Z" creationid="yumas" creationdate="20240809T120446Z">
+        <seg>ツメケンの損傷した守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tumeken's Guardian</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T112739Z" creationid="yumas" creationdate="20240809T112739Z">
@@ -46484,6 +46580,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T063530Z" creationid="2008l" creationdate="20240808T063530Z">
         <seg>無力のシンボル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Unstable Orb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T120120Z" creationid="yumas" creationdate="20240809T120120Z">
+        <seg>不安定なオーブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -49388,6 +49492,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T115333Z" creationid="yumas" creationdate="20240809T115333Z">
         <seg>ゼバックの尻尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zebo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T120148Z" creationid="yumas" creationdate="20240809T120148Z">
+        <seg>ゼボ</seg>
       </tuv>
     </tu>
     <tu>
