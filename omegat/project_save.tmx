@@ -1902,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Armadylean guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T034709Z" creationid="yumas" creationdate="20240809T034709Z">
+        <seg>アーマディルの番人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Armod</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070555Z" creationid="yumas" creationdate="20240805T070555Z">
@@ -30406,6 +30414,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sherlock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T034634Z" creationid="yumas" creationdate="20240809T034634Z">
+        <seg>シャーロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shifter</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T095207Z" creationid="yumas" creationdate="20240805T095207Z">
@@ -39885,6 +39901,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T015516Z" creationid="yumas" creationdate="20240809T015516Z">
         <seg>クイーンの腹子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">12682</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Pay-dirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T034609Z" creationid="yumas" creationdate="20240809T034609Z">
+        <seg>有望な鉱脈</seg>
       </tuv>
     </tu>
   </body>
