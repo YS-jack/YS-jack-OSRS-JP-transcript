@@ -790,10 +790,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Agility Boss</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015618Z" creationid="yumas" creationdate="20240809T015618Z">
+        <seg>アジリティのボス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Agility Instructor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T063941Z" creationid="yumas" creationdate="20240805T063941Z">
         <seg>運動神経の講師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Agility Trainer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015644Z" creationid="yumas" creationdate="20240809T015644Z">
+        <seg>アジリティのトレーナー</seg>
       </tuv>
     </tu>
     <tu>
@@ -954,6 +970,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T133526Z" creationid="yumas" creationdate="20240808T133526Z">
         <seg>アル・シャビム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Al the Camel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015730Z" creationid="yumas" creationdate="20240809T015730Z">
+        <seg>ラクダのアル</seg>
       </tuv>
     </tu>
     <tu>
@@ -5250,6 +5274,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052637Z" creationid="yumas" creationdate="20240805T052621Z">
         <seg>カリストの子グマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cam the Camel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015747Z" creationid="yumas" creationdate="20240809T015747Z">
+        <seg>ラクダのカム</seg>
       </tuv>
     </tu>
     <tu>
@@ -10622,6 +10654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Elly the Camel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015738Z" creationid="yumas" creationdate="20240809T015738Z">
+        <seg>ラクダのエリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Elnock Inquisitor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T013228Z" creationid="yumas" creationdate="20240809T013223Z">
@@ -14038,6 +14078,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Grace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015525Z" creationid="yumas" creationdate="20240809T015525Z">
+        <seg>グレース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Grail Maiden</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120124Z" creationid="yumas" creationdate="20240808T120124Z">
@@ -16930,6 +16978,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T133927Z" creationid="yumas" creationdate="20240731T133927Z">
         <seg>瓶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jarvald</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015657Z" creationid="yumas" creationdate="20240809T015657Z">
+        <seg>ジャーヴァルド</seg>
       </tuv>
     </tu>
     <tu>
@@ -22870,6 +22926,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ollie the Camel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015741Z" creationid="yumas" creationdate="20240809T015741Z">
+        <seg>ラクダのオリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Oneiromancer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T220736Z" creationid="yumas" creationdate="20240807T220736Z">
@@ -27526,6 +27590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rock lobster</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015708Z" creationid="yumas" creationdate="20240809T015708Z">
+        <seg>岩ロブスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rock pick</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T065043Z" creationid="2008l" creationdate="20240725T071138Z">
@@ -28358,6 +28430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sand Crab</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015647Z" creationid="yumas" creationdate="20240809T015647Z">
+        <seg>砂ガニ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sand storm</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T064756Z" creationid="yumas" creationdate="20240805T064756Z">
@@ -28378,6 +28458,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T005323Z" creationid="yumas" creationdate="20240809T005323Z">
         <seg>サンディー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sandy rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015654Z" creationid="yumas" creationdate="20240809T015654Z">
+        <seg>砂まみれの岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -28650,6 +28738,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T115705Z" creationid="yumas" creationdate="20240805T115705Z">
         <seg>女子生徒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Scion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015522Z" creationid="yumas" creationdate="20240809T015522Z">
+        <seg>シオン</seg>
       </tuv>
     </tu>
     <tu>
@@ -30246,6 +30342,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Skullball</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015536Z" creationid="yumas" creationdate="20240809T015536Z">
+        <seg>スカルボール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Skullball Boss</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015552Z" creationid="yumas" creationdate="20240809T015552Z">
+        <seg>スカルボールのボス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Skullball Trainer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015639Z" creationid="yumas" creationdate="20240809T015621Z">
+        <seg>スカルボールのトレーナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Skulls</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T120038Z" creationid="yumas" creationdate="20240729T120038Z">
@@ -30898,6 +31018,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T095213Z" creationid="yumas" creationdate="20240805T095213Z">
         <seg>スピナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spinolyp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015719Z" creationid="yumas" creationdate="20240809T015719Z">
+        <seg>スピノリップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -32098,6 +32226,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045303Z" creationid="yumas" creationdate="20240805T045303Z">
         <seg>容疑者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Suspicious water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015711Z" creationid="yumas" creationdate="20240809T015711Z">
+        <seg>怪しい水</seg>
       </tuv>
     </tu>
     <tu>
@@ -35992,6 +36128,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wallasalki</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015700Z" creationid="yumas" creationdate="20240809T015700Z">
+        <seg>ワラサルキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Wally</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T001549Z" creationid="yumas" creationdate="20240809T001549Z">
@@ -38519,6 +38663,28 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T002135Z" creationid="yumas" creationdate="20240809T002135Z">
         <seg>ウェポンズマスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">12461</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Penance Queen</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015507Z" creationid="yumas" creationdate="20240809T015507Z">
+        <seg>クイーン・ペナンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">12462</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Queen spawn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T015516Z" creationid="yumas" creationdate="20240809T015516Z">
+        <seg>クイーンの腹子</seg>
       </tuv>
     </tu>
   </body>
