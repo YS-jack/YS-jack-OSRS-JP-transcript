@@ -1718,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ancient Guardian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093310Z" creationid="yumas" creationdate="20240809T093310Z">
+        <seg>古代の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ancient Wizard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T045249Z" creationid="yumas" creationdate="20240809T045249Z">
@@ -2674,6 +2682,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T013122Z" creationid="yumas" creationdate="20240809T013122Z">
         <seg>アシンの影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Atlas</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093337Z" creationid="yumas" creationdate="20240809T093337Z">
+        <seg>アトラス</seg>
       </tuv>
     </tu>
     <tu>
@@ -6142,6 +6158,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Burntof</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093340Z" creationid="yumas" creationdate="20240809T093340Z">
+        <seg>バーントフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Burrow</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T234719Z" creationid="yumas" creationdate="20240808T234719Z">
@@ -8194,6 +8218,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T052731Z" creationid="yumas" creationdate="20240804T052731Z">
         <seg>確認・チャージ解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Checkal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093334Z" creationid="yumas" creationdate="20240809T093334Z">
+        <seg>チェッカル</seg>
       </tuv>
     </tu>
     <tu>
@@ -16002,6 +16034,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T210101Z" creationid="yumas" creationdate="20240807T210101Z">
         <seg>火格子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fuse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093517Z" creationid="yumas" creationdate="20240809T093517Z">
+        <seg>導火線</seg>
       </tuv>
     </tu>
     <tu>
@@ -26446,6 +26486,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Marley</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093330Z" creationid="yumas" creationdate="20240809T093330Z">
+        <seg>マーレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Marlo</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T090644Z" creationid="yumas" creationdate="20240809T090644Z">
@@ -35826,6 +35874,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062829Z" creationid="2008l" creationdate="20240722T062829Z">
         <seg>ゴムの管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rubble</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093410Z" creationid="yumas" creationdate="20240809T093410Z">
+        <seg>がれき</seg>
       </tuv>
     </tu>
     <tu>
@@ -49200,6 +49256,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T083720Z" creationid="yumas" creationdate="20240809T083720Z">
         <seg>エイコーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">13764</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Willow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T093327Z" creationid="yumas" creationdate="20240809T093327Z">
+        <seg>ウィロウ</seg>
       </tuv>
     </tu>
   </body>
