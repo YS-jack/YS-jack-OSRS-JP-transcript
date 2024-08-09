@@ -1070,6 +1070,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ali the Farmer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T020153Z" creationid="yumas" creationdate="20240809T020153Z">
+        <seg>農民ののアリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ali the Guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T020241Z" creationid="yumas" creationdate="20240809T020241Z">
+        <seg>衛兵のアリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ali the Hag</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T205130Z" creationid="yumas" creationdate="20240807T205130Z">
@@ -1110,10 +1126,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ali the Smith</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T020149Z" creationid="yumas" creationdate="20240809T020149Z">
+        <seg>鍛冶屋のアリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ali the Snake Charmer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T205157Z" creationid="yumas" creationdate="20240807T205157Z">
         <seg>ヘビ使いのアリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ali the Tailor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T020236Z" creationid="yumas" creationdate="20240809T020236Z">
+        <seg>仕立屋のアリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12350,6 +12382,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Flying Book</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T020319Z" creationid="yumas" creationdate="20240809T020319Z">
+        <seg>飛ぶ本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Flying female vampire</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T220221Z" creationid="yumas" creationdate="20240807T220221Z">
@@ -17554,6 +17594,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T122941Z" creationid="yumas" creationdate="20240808T122941Z">
         <seg>陪審</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Justiciar Zachariah</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T020649Z" creationid="yumas" creationdate="20240809T020649Z">
+        <seg>司法高官のザカリア</seg>
       </tuv>
     </tu>
     <tu>
@@ -32330,6 +32378,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045235Z" creationid="yumas" creationdate="20240805T045235Z">
         <seg>虫の群れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sweeper</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T020316Z" creationid="yumas" creationdate="20240809T020316Z">
+        <seg>掃除人</seg>
       </tuv>
     </tu>
     <tu>
