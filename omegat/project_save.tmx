@@ -1886,6 +1886,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Aretha</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T043344Z" creationid="yumas" creationdate="20240809T043344Z">
+        <seg>アレサ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Arhein</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134150Z" creationid="yumas" creationdate="20240807T134150Z">
@@ -3210,6 +3218,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T111602Z" creationid="yumas" creationdate="20240805T111602Z">
         <seg>ベッティー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Biblia</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T043437Z" creationid="yumas" creationdate="20240809T043437Z">
+        <seg>ビブリア</seg>
       </tuv>
     </tu>
     <tu>
@@ -7482,6 +7498,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T122116Z" creationid="yumas" creationdate="20240808T122116Z">
         <seg>事務員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Clerris</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T043337Z" creationid="yumas" creationdate="20240809T043337Z">
+        <seg>クレリス</seg>
       </tuv>
     </tu>
     <tu>
@@ -16766,6 +16790,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Horphis</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T043439Z" creationid="yumas" creationdate="20240809T043439Z">
+        <seg>ホーフィス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Horvik</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T134457Z" creationid="yumas" creationdate="20240806T134457Z">
@@ -20854,6 +20886,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Logosia</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T043434Z" creationid="yumas" creationdate="20240809T043434Z">
+        <seg>ロゴシア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Logs</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T074005Z" creationid="2008l" creationdate="20240805T074005Z">
@@ -24270,6 +24310,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Okina</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T043342Z" creationid="yumas" creationdate="20240809T043342Z">
+        <seg>オキナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Olaf Hradson</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T132543Z" creationid="yumas" creationdate="20240808T132543Z">
@@ -26558,6 +26606,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Professor Gracklebone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T043448Z" creationid="yumas" creationdate="20240809T043448Z">
+        <seg>グラックルボーン先生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Professor Imblewyn</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T124558Z" creationid="yumas" creationdate="20240806T124558Z">
@@ -27678,6 +27734,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Reanimated TzHaar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T043237Z" creationid="yumas" creationdate="20240809T043237Z">
+        <seg>復活したツザー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Reanimated abyssal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T043325Z" creationid="yumas" creationdate="20240809T043325Z">
+        <seg>復活した深淵のモノ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Reanimated aviansie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T043312Z" creationid="yumas" creationdate="20240809T043312Z">
+        <seg>復活したアヴィアンシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Reanimated bear</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T042921Z" creationid="yumas" creationdate="20240809T042921Z">
@@ -27710,10 +27790,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Reanimated demon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T043240Z" creationid="yumas" creationdate="20240809T043240Z">
+        <seg>復活した悪魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Reanimated dog</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T042934Z" creationid="yumas" creationdate="20240809T042934Z">
         <seg>復活した犬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Reanimated dragon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T043335Z" creationid="yumas" creationdate="20240809T043335Z">
+        <seg>復活した竜</seg>
       </tuv>
     </tu>
     <tu>
@@ -31994,6 +32090,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T034947Z" creationid="yumas" creationdate="20240809T034947Z">
         <seg>スカロフィア修道女</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sister Soul Jar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T043431Z" creationid="yumas" creationdate="20240809T043431Z">
+        <seg>ソウル・ジャー修道女</seg>
       </tuv>
     </tu>
     <tu>
@@ -36776,6 +36880,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Trossa</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T043551Z" creationid="yumas" creationdate="20240809T043551Z">
+        <seg>トロッサ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Trotters</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045704Z" creationid="yumas" creationdate="20240805T045704Z">
@@ -36988,6 +37100,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053933Z" creationid="yumas" creationdate="20240805T053933Z">
         <seg>チラスの衛兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tyss</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T043459Z" creationid="yumas" creationdate="20240809T043459Z">
+        <seg>ティス</seg>
       </tuv>
     </tu>
     <tu>
@@ -38100,6 +38220,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T205730Z" creationid="yumas" creationdate="20240807T205730Z">
         <seg>村人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Villia</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T043442Z" creationid="yumas" creationdate="20240809T043442Z">
+        <seg>ヴィリア</seg>
       </tuv>
     </tu>
     <tu>
