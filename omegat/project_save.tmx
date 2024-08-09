@@ -360,8 +360,8 @@
       <tuv lang="en-GB">
         <seg>Abyssal protector</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T111158Z" creationid="yumas" creationdate="20240809T111158Z">
-        <seg>深淵の守護者</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T111247Z" creationid="yumas" creationdate="20240809T111158Z">
+        <seg>深淵を守るモノ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2146,6 +2146,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T092642Z" creationid="yumas" creationdate="20240805T092642Z">
         <seg>弟子（中級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Apprentice Felix</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T111311Z" creationid="yumas" creationdate="20240809T111311Z">
+        <seg>助手のフィーリックス</seg>
       </tuv>
     </tu>
     <tu>
@@ -27278,6 +27286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Medium catalytic guardian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T111452Z" creationid="yumas" creationdate="20240809T111432Z">
+        <seg>普通触媒の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Medium ninja monkey</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T085942Z" creationid="yumas" creationdate="20240805T085942Z">
@@ -41502,6 +41518,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strong catalytic guardian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T111514Z" creationid="yumas" creationdate="20240809T111514Z">
+        <seg>強触媒の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strongbones</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T105634Z" creationid="yumas" creationdate="20240809T105634Z">
@@ -43332,6 +43356,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120357Z" creationid="yumas" creationdate="20240808T120357Z">
         <seg>釣りの王</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Great Guardian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T111300Z" creationid="yumas" creationdate="20240809T111300Z">
+        <seg>偉大なる守護者</seg>
       </tuv>
     </tu>
     <tu>
@@ -47260,6 +47292,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T015208Z" creationid="yumas" creationdate="20240809T015208Z">
         <seg>ワイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weak catalytic guardian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T111422Z" creationid="yumas" creationdate="20240809T111422Z">
+        <seg>弱触媒の守護者</seg>
       </tuv>
     </tu>
     <tu>
