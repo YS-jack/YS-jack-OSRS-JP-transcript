@@ -3286,6 +3286,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Beer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064634Z" creationid="2008l" creationdate="20240809T064634Z">
+        <seg>ビール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Beer glass</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064658Z" creationid="2008l" creationdate="20240809T064658Z">
+        <seg>ビールグラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Beggar</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T204918Z" creationid="yumas" creationdate="20240807T204918Z">
@@ -4622,6 +4638,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bowl</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064713Z" creationid="2008l" creationdate="20240809T064713Z">
+        <seg>ボール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bowl of water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064709Z" creationid="2008l" creationdate="20240809T064709Z">
+        <seg>水のボール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Boy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T115630Z" creationid="yumas" creationdate="20240808T115630Z">
@@ -5358,10 +5390,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bucket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064717Z" creationid="2008l" creationdate="20240809T064717Z">
+        <seg>バケツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bucket of milk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064728Z" creationid="2008l" creationdate="20240809T064728Z">
+        <seg>ミルクのバケツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bucket of sand</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T065512Z" creationid="2008l" creationdate="20240808T065512Z">
         <seg>砂のバケツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bucket of water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064735Z" creationid="2008l" creationdate="20240809T064735Z">
+        <seg>水のバケツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -11470,6 +11526,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dwarven stout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064620Z" creationid="2008l" creationdate="20240809T064620Z">
+        <seg>ドワーフ・スタウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Eadburg</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120555Z" creationid="yumas" creationdate="20240808T120555Z">
@@ -16390,6 +16454,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Grog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064629Z" creationid="2008l" creationdate="20240809T064629Z">
+        <seg>グロッグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ground charcoal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T070847Z" creationid="2008l" creationdate="20240726T063724Z">
@@ -19530,6 +19602,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T211823Z" creationid="yumas" creationdate="20240807T211823Z">
         <seg>ジャブスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064815Z" creationid="2008l" creationdate="20240809T064815Z">
+        <seg>水差し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jug of water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T065000Z" creationid="2008l" creationdate="20240809T065000Z">
+        <seg>満杯の水差し</seg>
       </tuv>
     </tu>
     <tu>
@@ -28146,6 +28234,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T135511Z" creationid="yumas" creationdate="20240807T135511Z">
         <seg>郵便屋のピート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064739Z" creationid="2008l" creationdate="20240809T064739Z">
+        <seg>鍋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pot of flour</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064800Z" creationid="2008l" creationdate="20240809T064800Z">
+        <seg>小麦粉の鍋</seg>
       </tuv>
     </tu>
     <tu>
