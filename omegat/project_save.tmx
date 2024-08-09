@@ -2134,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Artur Hosidius</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T063249Z" creationid="yumas" creationdate="20240809T063249Z">
+        <seg>アルテゥル・ホシディアス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Arvel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T004140Z" creationid="yumas" creationdate="20240809T004140Z">
@@ -30366,6 +30374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Revenant imp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T063056Z" creationid="yumas" creationdate="20240809T063056Z">
+        <seg>幽鬼の小悪魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Revert</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T135620Z" creationid="yumas" creationdate="20240803T115334Z">
@@ -32066,6 +32082,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T015647Z" creationid="yumas" creationdate="20240809T015647Z">
         <seg>砂ガニ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sand Snake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T063158Z" creationid="yumas" creationdate="20240809T063158Z">
+        <seg>砂ヘビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sand Snake (hard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T063153Z" creationid="yumas" creationdate="20240809T063153Z">
+        <seg>砂ヘビ（上級）</seg>
       </tuv>
     </tu>
     <tu>
@@ -43447,6 +43479,28 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T062904Z" creationid="yumas" creationdate="20240809T062904Z">
         <seg>ドーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">13122</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Midnight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T063130Z" creationid="yumas" creationdate="20240809T063130Z">
+        <seg>ミッドナイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">13123</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Noon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T063136Z" creationid="yumas" creationdate="20240809T063136Z">
+        <seg>ヌーン</seg>
       </tuv>
     </tu>
   </body>
