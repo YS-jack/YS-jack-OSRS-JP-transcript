@@ -2862,6 +2862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Benny</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T002250Z" creationid="yumas" creationdate="20240809T002250Z">
+        <seg>ベニー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bentamir</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T120026Z" creationid="yumas" creationdate="20240806T120026Z">
@@ -7962,6 +7970,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064327Z" creationid="2008l" creationdate="20240726T064327Z">
         <seg>紅茶一杯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Curator Haig Halen</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T002248Z" creationid="yumas" creationdate="20240809T002248Z">
+        <seg>館長のハイグ・ハレン</seg>
       </tuv>
     </tu>
     <tu>
@@ -16262,6 +16278,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jig cart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T003140Z" creationid="yumas" creationdate="20240809T003140Z">
+        <seg>治具カート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jiminua</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T134535Z" creationid="yumas" creationdate="20240806T134535Z">
@@ -16370,6 +16394,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045805Z" creationid="yumas" creationdate="20240805T045805Z">
         <seg>ジョン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jonny the beard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T002150Z" creationid="yumas" creationdate="20240809T002150Z">
+        <seg>髭のジョニー</seg>
       </tuv>
     </tu>
     <tu>
@@ -30302,6 +30334,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Straven</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T002139Z" creationid="yumas" creationdate="20240809T002139Z">
+        <seg>ストレーヴン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stray dog</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T134618Z" creationid="yumas" creationdate="20240806T134618Z">
@@ -36716,6 +36756,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T000917Z" creationid="yumas" creationdate="20240809T000917Z">
         <seg>ブート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">12284</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Weaponsmaster</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T002135Z" creationid="yumas" creationdate="20240809T002135Z">
+        <seg>ウェポンズマスター</seg>
       </tuv>
     </tu>
   </body>
