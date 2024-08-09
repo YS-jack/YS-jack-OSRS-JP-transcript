@@ -8686,6 +8686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Combat Test (maxhit)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T071210Z" creationid="yumas" creationdate="20240809T071210Z">
+        <seg>戦闘テスト（最高ヒット）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Combat dummy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T132812Z" creationid="yumas" creationdate="20240806T132812Z">
@@ -11038,6 +11046,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Don't Know What</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T071112Z" creationid="yumas" creationdate="20240809T071112Z">
+        <seg>何か分からない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Donal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070621Z" creationid="yumas" creationdate="20240805T070621Z">
@@ -11458,6 +11474,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T040312Z" creationid="yumas" creationdate="20240809T040312Z">
         <seg>ドリュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Driftwood</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T071136Z" creationid="yumas" creationdate="20240809T071136Z">
+        <seg>流木</seg>
       </tuv>
     </tu>
     <tu>
@@ -12066,6 +12090,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T124615Z" creationid="yumas" creationdate="20240806T124615Z">
         <seg>エーベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Eek</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T071222Z" creationid="yumas" creationdate="20240809T071222Z">
+        <seg>イーク</seg>
       </tuv>
     </tu>
     <tu>
@@ -16094,6 +16126,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Goat Poo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T071147Z" creationid="yumas" creationdate="20240809T071147Z">
+        <seg>ヤギのフン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Goblin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T054015Z" creationid="yumas" creationdate="20240805T054015Z">
@@ -18678,6 +18718,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Icicle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T071133Z" creationid="yumas" creationdate="20240809T071133Z">
+        <seg>氷柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Icthlarin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T121209Z" creationid="yumas" creationdate="20240808T121209Z">
@@ -18730,6 +18778,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T050653Z" creationid="yumas" creationdate="20240809T050653Z">
         <seg>イグニシア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ikkle Hydra</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T071319Z" creationid="yumas" creationdate="20240809T071319Z">
+        <seg>イックル・ヒドラ</seg>
       </tuv>
     </tu>
     <tu>
@@ -25590,6 +25646,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mother</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T070938Z" creationid="yumas" creationdate="20240809T070938Z">
+        <seg>母</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mother Mallum</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T224740Z" creationid="yumas" creationdate="20240808T224740Z">
@@ -26734,10 +26798,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Odd Mushroom</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T071104Z" creationid="yumas" creationdate="20240809T071104Z">
+        <seg>奇妙なキノコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Odd Old Man</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T074017Z" creationid="yumas" creationdate="20240805T074017Z">
         <seg>奇妙なおじいさん</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Odd Stone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T071201Z" creationid="yumas" creationdate="20240809T071201Z">
+        <seg>奇妙な石</seg>
       </tuv>
     </tu>
     <tu>
@@ -27810,6 +27890,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120228Z" creationid="yumas" creationdate="20240808T120228Z">
         <seg>百姓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pebble</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T071140Z" creationid="yumas" creationdate="20240809T071140Z">
+        <seg>小石</seg>
       </tuv>
     </tu>
     <tu>
@@ -32678,6 +32766,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Root</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T071115Z" creationid="yumas" creationdate="20240809T071115Z">
+        <seg>根</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rope</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T062204Z" creationid="2008l" creationdate="20240729T062204Z">
@@ -36022,6 +36118,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Snowflake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T071051Z" creationid="yumas" creationdate="20240809T071051Z">
+        <seg>雪片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Snowy knight</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T012229Z" creationid="yumas" creationdate="20240809T012229Z">
@@ -39084,6 +39188,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T132822Z" creationid="yumas" creationdate="20240808T132822Z">
         <seg>獣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Collector</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T071228Z" creationid="yumas" creationdate="20240809T071228Z">
+        <seg>収集家</seg>
       </tuv>
     </tu>
     <tu>
@@ -43272,6 +43384,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wizard Cromperty</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T071219Z" creationid="yumas" creationdate="20240809T071219Z">
+        <seg>魔法使いのクロンペーティー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Wizard Frumscone</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T135205Z" creationid="yumas" creationdate="20240807T135134Z">
@@ -43588,6 +43708,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T115628Z" creationid="yumas" creationdate="20240808T115628Z">
         <seg>黄色い羊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yellow Snow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T071156Z" creationid="yumas" creationdate="20240809T071156Z">
+        <seg>黄色い雪</seg>
       </tuv>
     </tu>
     <tu>
