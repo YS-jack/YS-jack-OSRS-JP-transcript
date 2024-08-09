@@ -6224,8 +6224,8 @@
       <tuv lang="en-GB">
         <seg>Cave crawler</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T045900Z" creationid="yumas" creationdate="20240805T045900Z">
-        <seg>洞窟を這うもの</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T051007Z" creationid="yumas" creationdate="20240805T045900Z">
+        <seg>洞窟を這うモノ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6938,6 +6938,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085949Z" creationid="yumas" creationdate="20240730T085949Z">
         <seg>を追いかける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chasm Crawler</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T050926Z" creationid="yumas" creationdate="20240809T050915Z">
+        <seg>裂け目を這うモノ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7882,6 +7890,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T043636Z" creationid="yumas" creationdate="20240809T043636Z">
         <seg>コブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cockathrice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T051129Z" creationid="yumas" creationdate="20240809T051129Z">
+        <seg>コカスライス</seg>
       </tuv>
     </tu>
     <tu>
@@ -13070,6 +13086,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Flaming pyrelord</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T051147Z" creationid="yumas" creationdate="20240809T051147Z">
+        <seg>燃盛るパイヤーロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Flax</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T065411Z" creationid="2008l" creationdate="20240808T065411Z">
@@ -13088,8 +13112,8 @@
       <tuv lang="en-GB">
         <seg>Flesh Crawler</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240806T123219Z" creationid="yumas" creationdate="20240806T123219Z">
-        <seg>肉を這うもの</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T050937Z" creationid="yumas" creationdate="20240806T123219Z">
+        <seg>肉を這うモノ</seg>
       </tuv>
     </tu>
     <tu>
@@ -14482,6 +14506,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T123225Z" creationid="yumas" creationdate="20240806T123225Z">
         <seg>巨大なネズミ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Giant rockslug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T051055Z" creationid="yumas" creationdate="20240809T051049Z">
+        <seg>巨大な岩ナメクジ</seg>
       </tuv>
     </tu>
     <tu>
@@ -31282,6 +31314,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T070021Z" creationid="2008l" creationdate="20240726T065900Z">
         <seg>殴り書きのメモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Screaming banshee</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T051027Z" creationid="yumas" creationdate="20240809T051027Z">
+        <seg>叫ぶバンシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Screaming twisted banshee</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T051035Z" creationid="yumas" creationdate="20240809T051035Z">
+        <seg>叫ぶ歪んだバンシー</seg>
       </tuv>
     </tu>
     <tu>
