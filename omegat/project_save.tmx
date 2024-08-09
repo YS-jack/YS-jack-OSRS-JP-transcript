@@ -5774,6 +5774,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Captain Rachelle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T041105Z" creationid="yumas" creationdate="20240809T041105Z">
+        <seg>ラチェレ隊長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Captain Rovin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T001546Z" creationid="yumas" creationdate="20240809T001546Z">
@@ -13574,6 +13582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>General Babacus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T040854Z" creationid="yumas" creationdate="20240809T040854Z">
+        <seg>ババカス将軍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>General Bentnoze</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T054043Z" creationid="yumas" creationdate="20240805T054043Z">
@@ -13610,6 +13626,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T203752Z" creationid="yumas" creationdate="20240807T203752Z">
         <seg>カザード将軍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>General Kilian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T040858Z" creationid="yumas" creationdate="20240809T040858Z">
+        <seg>キリアン将軍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>General Salara</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T040847Z" creationid="yumas" creationdate="20240809T040847Z">
+        <seg>サララ将軍</seg>
       </tuv>
     </tu>
     <tu>
@@ -14858,6 +14890,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T011056Z" creationid="yumas" creationdate="20240803T011056Z">
         <seg>グレート・クーレンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Great blue heron</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T040821Z" creationid="yumas" creationdate="20240809T040821Z">
+        <seg>アオサギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -20742,6 +20782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Look-out</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T040828Z" creationid="yumas" creationdate="20240809T040828Z">
+        <seg>見張り所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Look-over</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T120119Z" creationid="yumas" creationdate="20240803T120119Z">
@@ -23422,6 +23470,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>New Recruit Tony</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T040953Z" creationid="yumas" creationdate="20240809T040953Z">
+        <seg>新人トニー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>New farming patch</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T230603Z" creationid="yumas" creationdate="20240808T230603Z">
@@ -23678,10 +23734,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Nurse Boubou</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T041040Z" creationid="yumas" creationdate="20240809T041040Z">
+        <seg>ナースのボウボウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nurse Inn'Juree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T041030Z" creationid="yumas" creationdate="20240809T041030Z">
+        <seg>ナースのインジュリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Nurse Sarah</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T071156Z" creationid="yumas" creationdate="20240805T071156Z">
         <seg>サラ看護師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nurse Wooned</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T041023Z" creationid="yumas" creationdate="20240809T041023Z">
+        <seg>ナースのウーンド</seg>
       </tuv>
     </tu>
     <tu>
@@ -38696,6 +38776,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wounded soldier</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T040827Z" creationid="yumas" creationdate="20240809T040827Z">
+        <seg>負傷兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Write-Role</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T132625Z" creationid="yumas" creationdate="20240803T132625Z">
@@ -40360,6 +40448,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T034609Z" creationid="yumas" creationdate="20240809T034609Z">
         <seg>有望な鉱脈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">12744</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Look-out</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T040839Z" creationid="yumas" creationdate="20240809T040839Z">
+        <seg>見張り人</seg>
       </tuv>
     </tu>
   </body>
