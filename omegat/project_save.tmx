@@ -13870,6 +13870,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Flour</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T065150Z" creationid="2008l" creationdate="20240809T065150Z">
+        <seg>小麦粉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Flower Girl</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T213558Z" creationid="yumas" creationdate="20240807T213558Z">
@@ -16034,6 +16042,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T074341Z" creationid="2008l" creationdate="20240716T074341Z">
         <seg>聖杯の鐘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grain</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T065159Z" creationid="2008l" creationdate="20240809T065159Z">
+        <seg>穀物</seg>
       </tuv>
     </tu>
     <tu>
@@ -28414,6 +28430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Potato</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T065135Z" creationid="2008l" creationdate="20240809T065135Z">
+        <seg>ジャガイモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Potion</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T071337Z" creationid="2008l" creationdate="20240720T071337Z">
@@ -29858,6 +29882,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T052842Z" creationid="2008l" creationdate="20240723T062349Z">
         <seg>生エビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raw swamp paste</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T065055Z" creationid="2008l" creationdate="20240809T065055Z">
+        <seg>生の沼ペースト</seg>
       </tuv>
     </tu>
     <tu>
@@ -36966,10 +36998,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Swamp paste</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T065127Z" creationid="2008l" creationdate="20240809T065127Z">
+        <seg>沼ペースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Swamp snake</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T013100Z" creationid="yumas" creationdate="20240809T013100Z">
         <seg>沼ヘビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Swamp tar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T065059Z" creationid="2008l" creationdate="20240809T065042Z">
+        <seg>沼タール</seg>
       </tuv>
     </tu>
     <tu>
