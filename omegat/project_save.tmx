@@ -2150,10 +2150,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Apprentice Cordelia</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112138Z" creationid="yumas" creationdate="20240809T112138Z">
+        <seg>助手コーデリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Apprentice Felix</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T111311Z" creationid="yumas" creationdate="20240809T111311Z">
         <seg>助手のフィーリックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Apprentice Tamara</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112131Z" creationid="yumas" creationdate="20240809T112131Z">
+        <seg>助手タマラ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2226,6 +2242,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T070215Z" creationid="2008l" creationdate="20240805T070215Z">
         <seg>弓のチケット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Archmage Sedridor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112117Z" creationid="yumas" creationdate="20240809T112117Z">
+        <seg>大魔術師セドリドー</seg>
       </tuv>
     </tu>
     <tu>
@@ -7546,6 +7570,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T092904Z" creationid="yumas" creationdate="20240805T092904Z">
         <seg>部屋の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Champion of Scabaras</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112353Z" creationid="yumas" creationdate="20240809T112353Z">
+        <seg>スカラベのチャンピオン</seg>
       </tuv>
     </tu>
     <tu>
@@ -19958,6 +19990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>High Priest of Scabaras</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112332Z" creationid="yumas" creationdate="20240809T112332Z">
+        <seg>スカラベの教皇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>High Priestess Zul-Harcinqa</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T093228Z" creationid="yumas" creationdate="20240805T093228Z">
@@ -23718,6 +23758,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Kovac</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112254Z" creationid="yumas" creationdate="20240809T112254Z">
+        <seg>コヴァック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Kragen</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T132746Z" creationid="yumas" creationdate="20240806T132746Z">
@@ -27326,6 +27374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mehhar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112317Z" creationid="yumas" creationdate="20240809T112317Z">
+        <seg>メフハー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Meiyerditch citizen</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T220532Z" creationid="yumas" creationdate="20240807T220532Z">
@@ -27418,6 +27474,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T205500Z" creationid="yumas" creationdate="20240807T205500Z">
         <seg>メナファイトの長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Menaphite Shadow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112151Z" creationid="yumas" creationdate="20240809T112151Z">
+        <seg>メナファイトの影</seg>
       </tuv>
     </tu>
     <tu>
@@ -34326,6 +34390,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Reanimated hellhound</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112157Z" creationid="yumas" creationdate="20240809T112157Z">
+        <seg>復活したヘルハウンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Reanimated horror</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T043012Z" creationid="yumas" creationdate="20240809T043012Z">
@@ -38294,6 +38366,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shadow Rift</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112405Z" creationid="yumas" creationdate="20240809T112405Z">
+        <seg>影の裂け目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shadow Wyrm</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T090615Z" creationid="yumas" creationdate="20240809T090615Z">
@@ -39926,6 +40006,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Smithing catalyst</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112250Z" creationid="yumas" creationdate="20240809T112250Z">
+        <seg>鍛冶の触媒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Smoggy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T043652Z" creationid="yumas" creationdate="20240809T043652Z">
@@ -40482,6 +40570,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T015719Z" creationid="yumas" creationdate="20240809T015719Z">
         <seg>スピノリップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spirit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112311Z" creationid="yumas" creationdate="20240809T112311Z">
+        <seg>精霊</seg>
       </tuv>
     </tu>
     <tu>
@@ -47996,6 +48092,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T061026Z" creationid="yumas" creationdate="20240809T061026Z">
         <seg>魔法使いのミズゴグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wizard Persten</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112125Z" creationid="yumas" creationdate="20240809T112125Z">
+        <seg>魔法使いペーステン</seg>
       </tuv>
     </tu>
     <tu>
