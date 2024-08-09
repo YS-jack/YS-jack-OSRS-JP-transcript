@@ -27288,8 +27288,16 @@
       <tuv lang="en-GB">
         <seg>Medium catalytic guardian</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T111452Z" creationid="yumas" creationdate="20240809T111432Z">
-        <seg>普通触媒の守護者</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T111617Z" creationid="yumas" creationdate="20240809T111432Z">
+        <seg>普通の触媒の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Medium elemental guardian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T111555Z" creationid="yumas" creationdate="20240809T111555Z">
+        <seg>普通の元素の守護者</seg>
       </tuv>
     </tu>
     <tu>
@@ -30730,6 +30738,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T130153Z" creationid="yumas" creationdate="20240803T130153Z">
         <seg>外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Overcharged catalytic guardian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T111530Z" creationid="yumas" creationdate="20240809T111530Z">
+        <seg>限界突破した触媒の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Overcharged elemental guardian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T111640Z" creationid="yumas" creationdate="20240809T111640Z">
+        <seg>限界突破した元素の守護者</seg>
       </tuv>
     </tu>
     <tu>
@@ -41520,8 +41544,16 @@
       <tuv lang="en-GB">
         <seg>Strong catalytic guardian</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T111514Z" creationid="yumas" creationdate="20240809T111514Z">
-        <seg>強触媒の守護者</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T111619Z" creationid="yumas" creationdate="20240809T111514Z">
+        <seg>強い触媒の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strong elemental guardian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T111626Z" creationid="yumas" creationdate="20240809T111602Z">
+        <seg>強い元素の守護者</seg>
       </tuv>
     </tu>
     <tu>
@@ -47298,8 +47330,16 @@
       <tuv lang="en-GB">
         <seg>Weak catalytic guardian</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T111422Z" creationid="yumas" creationdate="20240809T111422Z">
-        <seg>弱触媒の守護者</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T111614Z" creationid="yumas" creationdate="20240809T111422Z">
+        <seg>弱い触媒の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weak elemental guardian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T111606Z" creationid="yumas" creationdate="20240809T111542Z">
+        <seg>弱い元素の守護者</seg>
       </tuv>
     </tu>
     <tu>
