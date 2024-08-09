@@ -4574,6 +4574,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blood Reaver</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T111039Z" creationid="yumas" creationdate="20240809T111039Z">
+        <seg>ブラッド・リーヴァー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blood rune</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062940Z" creationid="2008l" creationdate="20240725T062940Z">
@@ -40450,6 +40458,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T041313Z" creationid="yumas" creationdate="20240805T041313Z">
         <seg>精霊樹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spiritual Mage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T110222Z" creationid="yumas" creationdate="20240809T110222Z">
+        <seg>魔術師の霊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spiritual Ranger</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T110221Z" creationid="yumas" creationdate="20240809T110221Z">
+        <seg>レンジャーの霊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spiritual Warrior</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T110221Z" creationid="yumas" creationdate="20240809T110221Z">
+        <seg>戦士の霊</seg>
       </tuv>
     </tu>
     <tu>
