@@ -1486,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Andrea</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042610Z" creationid="yumas" creationdate="20240809T042610Z">
+        <seg>アンドレア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Angry barbarian spirit</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T012316Z" creationid="yumas" creationdate="20240809T012310Z">
@@ -5750,6 +5758,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Captain Janaway</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042547Z" creationid="yumas" creationdate="20240809T042547Z">
+        <seg>ジャナウェイ船長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Captain Khaled</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042342Z" creationid="yumas" creationdate="20240809T042342Z">
+        <seg>クハレド船長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Captain Lamdoo</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T123916Z" creationid="yumas" creationdate="20240806T123916Z">
@@ -6566,6 +6590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Charles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042604Z" creationid="yumas" creationdate="20240809T042604Z">
+        <seg>チャールズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Charley</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T115843Z" creationid="yumas" creationdate="20240808T115843Z">
@@ -7050,6 +7082,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T071111Z" creationid="yumas" creationdate="20240805T071111Z">
         <seg>化学者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cheryl</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042601Z" creationid="yumas" creationdate="20240809T042601Z">
+        <seg>チェリル</seg>
       </tuv>
     </tu>
     <tu>
@@ -20278,6 +20318,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Leenz</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042503Z" creationid="yumas" creationdate="20240809T042503Z">
+        <seg>リーンズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Left head</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043047Z" creationid="yumas" creationdate="20240805T043031Z">
@@ -21010,6 +21058,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T135217Z" creationid="yumas" creationdate="20240805T135217Z">
         <seg>ロレライ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lorraine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042615Z" creationid="yumas" creationdate="20240809T042615Z">
+        <seg>ロライン</seg>
       </tuv>
     </tu>
     <tu>
@@ -22042,6 +22098,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093227Z" creationid="yumas" creationdate="20240730T093227Z">
         <seg>を融かす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Melvin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042607Z" creationid="yumas" creationdate="20240809T042607Z">
+        <seg>メルヴィン</seg>
       </tuv>
     </tu>
     <tu>
@@ -24838,6 +24902,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Patrolman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042414Z" creationid="yumas" creationdate="20240809T042357Z">
+        <seg>男性の巡査</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Patrolwoman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042416Z" creationid="yumas" creationdate="20240809T042411Z">
+        <seg>女性の巡査</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pauline Polaris</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T220801Z" creationid="yumas" creationdate="20240807T220801Z">
@@ -26014,10 +26094,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Poor looking man</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042446Z" creationid="yumas" creationdate="20240809T042436Z">
+        <seg>貧しそうな男性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Poor looking woman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042443Z" creationid="yumas" creationdate="20240809T042443Z">
+        <seg>貧しそうな女性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pop</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110117Z" creationid="yumas" creationdate="20240713T103013Z">
         <seg>を割る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Port Official</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042524Z" creationid="yumas" creationdate="20240809T042524Z">
+        <seg>港湾職員</seg>
       </tuv>
     </tu>
     <tu>
@@ -26034,6 +26138,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T113249Z" creationid="yumas" creationdate="20240730T112744Z">
         <seg>とサリム港へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Port worker</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T042558Z" creationid="yumas" creationdate="20240809T042558Z">
+        <seg>港の職員</seg>
       </tuv>
     </tu>
     <tu>
