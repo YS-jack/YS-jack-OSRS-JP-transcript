@@ -5742,6 +5742,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Captain Ginea</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T041135Z" creationid="yumas" creationdate="20240809T041135Z">
+        <seg>ギニー隊長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Captain Lamdoo</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T123916Z" creationid="yumas" creationdate="20240806T123916Z">
@@ -10334,6 +10342,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Drill Sergeant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T041110Z" creationid="yumas" creationdate="20240809T041110Z">
+        <seg>ドリル軍曹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Drink</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T131438Z" creationid="yumas" creationdate="20240731T131438Z">
@@ -13370,6 +13386,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T122341Z" creationid="yumas" creationdate="20240806T122341Z">
         <seg>ガムフレッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gang boss</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T041154Z" creationid="yumas" creationdate="20240809T041154Z">
+        <seg>ギャングのボス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gangster</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T041149Z" creationid="yumas" creationdate="20240809T041149Z">
+        <seg>ギャング</seg>
       </tuv>
     </tu>
     <tu>
@@ -32234,6 +32266,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120544Z" creationid="yumas" creationdate="20240808T120544Z">
         <seg>兵士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Soldier (tier 1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T041957Z" creationid="yumas" creationdate="20240809T041957Z">
+        <seg>兵士（lvl1）</seg>
       </tuv>
     </tu>
     <tu>
