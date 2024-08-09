@@ -1454,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Amascut</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112607Z" creationid="yumas" creationdate="20240809T112607Z">
+        <seg>アマスカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ambassador Alvijar</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T001913Z" creationid="yumas" creationdate="20240809T001913Z">
@@ -8694,6 +8702,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Citizen</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112510Z" creationid="yumas" creationdate="20240809T112510Z">
+        <seg>市民</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>City guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T123115Z" creationid="yumas" creationdate="20240808T123115Z">
@@ -9218,6 +9234,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T063222Z" creationid="2008l" creationdate="20240723T063222Z">
         <seg>タラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Coenus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112421Z" creationid="yumas" creationdate="20240809T112421Z">
+        <seg>コエナス</seg>
       </tuv>
     </tu>
     <tu>
@@ -19630,6 +19654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Head Menaphite Guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112506Z" creationid="yumas" creationdate="20240809T112506Z">
+        <seg>メナファイトの衛兵長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Head Mourner</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T075341Z" creationid="yumas" creationdate="20240809T075341Z">
@@ -21642,6 +21674,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T123459Z" creationid="yumas" creationdate="20240807T123459Z">
         <seg>イワザル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jabari</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112423Z" creationid="yumas" creationdate="20240809T112423Z">
+        <seg>ジャバリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -23942,6 +23982,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lady Keli</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112534Z" creationid="yumas" creationdate="20240809T112534Z">
+        <seg>レディー・ケリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lady Kelyn Ithell</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T075102Z" creationid="yumas" creationdate="20240809T075102Z">
@@ -24034,6 +24082,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T121343Z" creationid="yumas" creationdate="20240730T121230Z">
         <seg>ランズ・エンドへ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lanthus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112654Z" creationid="yumas" creationdate="20240809T112654Z">
+        <seg>ランサス</seg>
       </tuv>
     </tu>
     <tu>
@@ -25674,6 +25730,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T115122Z" creationid="yumas" creationdate="20240803T115122Z">
         <seg>ピッキング道具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Locust</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112542Z" creationid="yumas" creationdate="20240809T112542Z">
+        <seg>バッタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -27466,6 +27530,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T074249Z" creationid="yumas" creationdate="20240809T074249Z">
         <seg>セレンの記憶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Menaphite Akh</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112419Z" creationid="yumas" creationdate="20240809T112419Z">
+        <seg>メナファイト・アク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Menaphite Guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112435Z" creationid="yumas" creationdate="20240809T112435Z">
+        <seg>メナファイトの衛兵</seg>
       </tuv>
     </tu>
     <tu>
@@ -31702,6 +31782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pharaoh Kemesis</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112429Z" creationid="yumas" creationdate="20240809T112429Z">
+        <seg>ファラオ・ケメシス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pheasant</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045436Z" creationid="yumas" creationdate="20240805T045436Z">
@@ -32258,6 +32346,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T112115Z" creationid="yumas" creationdate="20240803T112115Z">
         <seg>セルを置く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Plague cow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112558Z" creationid="yumas" creationdate="20240809T112558Z">
+        <seg>疫病牛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Plague frog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112547Z" creationid="yumas" creationdate="20240809T112547Z">
+        <seg>疫病ガエル</seg>
       </tuv>
     </tu>
     <tu>
@@ -32890,6 +32994,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T064557Z" creationid="yumas" creationdate="20240809T064557Z">
         <seg>プリムラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Prince Ali</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112539Z" creationid="yumas" creationdate="20240809T112539Z">
+        <seg>アリ王子</seg>
       </tuv>
     </tu>
     <tu>
@@ -33730,6 +33842,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T044343Z" creationid="yumas" creationdate="20240809T044343Z">
         <seg>ラエリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raetul</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112614Z" creationid="yumas" creationdate="20240809T112614Z">
+        <seg>ラエツル</seg>
       </tuv>
     </tu>
     <tu>
@@ -38066,6 +38186,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T220818Z" creationid="yumas" creationdate="20240807T220818Z">
         <seg>セレン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Selim</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112410Z" creationid="yumas" creationdate="20240809T112410Z">
+        <seg>セリム</seg>
       </tuv>
     </tu>
     <tu>
@@ -48232,6 +48360,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Worker</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112611Z" creationid="yumas" creationdate="20240809T112611Z">
+        <seg>労働者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Workman</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T124648Z" creationid="yumas" creationdate="20240805T115712Z">
@@ -50273,6 +50409,28 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T094800Z" creationid="yumas" creationdate="20240809T094800Z">
         <seg>火の波</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">13906</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Roger</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112456Z" creationid="yumas" creationdate="20240809T112456Z">
+        <seg>ロジャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">13918</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Hannibal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T112715Z" creationid="yumas" creationdate="20240809T112715Z">
+        <seg>ハンニバル</seg>
       </tuv>
     </tu>
   </body>
