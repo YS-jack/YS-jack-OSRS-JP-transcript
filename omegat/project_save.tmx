@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Alchemical Hydra</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T072856Z" creationid="yumas" creationdate="20240809T072856Z">
+        <seg>錬金術のヒドラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Alchemy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T044816Z" creationid="yumas" creationdate="20240804T044816Z">
@@ -14982,6 +14990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Garbek quo Maten</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T072759Z" creationid="yumas" creationdate="20240809T072759Z">
+        <seg>ガーベク・クォ・マテン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Garden supplier</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T132406Z" creationid="yumas" creationdate="20240807T132406Z">
@@ -18662,6 +18678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hydra</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T072813Z" creationid="yumas" creationdate="20240809T072813Z">
+        <seg>ヒドラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hygd</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120622Z" creationid="yumas" creationdate="20240808T120622Z">
@@ -21582,10 +21606,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Konar quo Maten</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T072904Z" creationid="yumas" creationdate="20240809T072904Z">
+        <seg>コナー・クォ・マテン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Konoo</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T042054Z" creationid="yumas" creationdate="20240809T042054Z">
         <seg>コヌー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kormar quo Maten</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T072754Z" creationid="yumas" creationdate="20240809T072754Z">
+        <seg>コマー・クォ・マテン</seg>
       </tuv>
     </tu>
     <tu>
@@ -27594,6 +27634,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T090954Z" creationid="yumas" creationdate="20240805T090954Z">
         <seg>オロンウェン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Orrvor quo Maten</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T072810Z" creationid="yumas" creationdate="20240809T072810Z">
+        <seg>オルヴォー・クォ・マテン</seg>
       </tuv>
     </tu>
     <tu>
@@ -34006,6 +34054,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Saradominist recruiter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T073121Z" creationid="yumas" creationdate="20240809T073121Z">
+        <seg>サラドミンのスカウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sarah</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052732Z" creationid="yumas" creationdate="20240805T052732Z">
@@ -34426,6 +34482,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T213050Z" creationid="yumas" creationdate="20240807T213050Z">
         <seg>船員ロリス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Seaman Morris</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T072918Z" creationid="yumas" creationdate="20240809T072918Z">
+        <seg>船員モリス</seg>
       </tuv>
     </tu>
     <tu>
@@ -37926,6 +37990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sulphur Lizard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T072837Z" creationid="yumas" creationdate="20240809T072837Z">
+        <seg>硫黄トカゲ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sulphuric broline</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064835Z" creationid="2008l" creationdate="20240723T064835Z">
@@ -39024,6 +39096,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tarfol quo Maten</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T072749Z" creationid="yumas" creationdate="20240809T072749Z">
+        <seg>ターフォル・クォ・マテン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Target</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T223250Z" creationid="yumas" creationdate="20240808T223250Z">
@@ -39116,6 +39196,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T132127Z" creationid="yumas" creationdate="20240807T132127Z">
         <seg>剥製師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Taylor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T072912Z" creationid="yumas" creationdate="20240809T072912Z">
+        <seg>テイラー</seg>
       </tuv>
     </tu>
     <tu>
@@ -39740,6 +39828,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134834Z" creationid="yumas" creationdate="20240805T134834Z">
         <seg>ベッド下のモノ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Third Age Mage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T073037Z" creationid="yumas" creationdate="20240809T073037Z">
+        <seg>第３紀の魔術師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Third Age Ranger</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T072949Z" creationid="yumas" creationdate="20240809T072949Z">
+        <seg>第３紀のレンジャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Third Age Warrior</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T072943Z" creationid="yumas" creationdate="20240809T072943Z">
+        <seg>第３紀の戦士</seg>
       </tuv>
     </tu>
     <tu>
@@ -44036,6 +44148,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T111611Z" creationid="yumas" creationdate="20240805T111611Z">
         <seg>ウィディン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wyrm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T072817Z" creationid="yumas" creationdate="20240809T072817Z">
+        <seg>ワーム</seg>
       </tuv>
     </tu>
     <tu>
