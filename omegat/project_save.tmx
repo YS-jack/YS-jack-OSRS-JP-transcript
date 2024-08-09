@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ambassador Alvijar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001913Z" creationid="yumas" creationdate="20240809T001913Z">
+        <seg>アルヴィジャー大使</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ambassador Ferrnook</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T124501Z" creationid="yumas" creationdate="20240806T124501Z">
@@ -2202,6 +2210,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T114408Z" creationid="yumas" creationdate="20240805T044048Z">
         <seg>幼い青竜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Baby green dragon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T002020Z" creationid="yumas" creationdate="20240809T002020Z">
+        <seg>幼い緑竜</seg>
       </tuv>
     </tu>
     <tu>
@@ -4678,6 +4694,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Builder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001941Z" creationid="yumas" creationdate="20240809T001941Z">
+        <seg>建築業者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Buinn</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T120812Z" creationid="yumas" creationdate="20240806T120812Z">
@@ -5234,6 +5258,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T123916Z" creationid="yumas" creationdate="20240806T123916Z">
         <seg>ラムドゥー機長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Captain Lawgof</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T002008Z" creationid="yumas" creationdate="20240809T002008Z">
+        <seg>ラウゴフ隊長</seg>
       </tuv>
     </tu>
     <tu>
@@ -5986,6 +6018,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T085616Z" creationid="yumas" creationdate="20240805T085616Z">
         <seg>チャーリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Charlie the Tramp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T002034Z" creationid="yumas" creationdate="20240809T002034Z">
+        <seg>浮浪者チャーリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -14126,6 +14166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>H.A.M. Mage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001825Z" creationid="yumas" creationdate="20240809T001825Z">
+        <seg>H.A.M.の魔術師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>H.A.M. Member</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T123500Z" creationid="yumas" creationdate="20240806T123500Z">
@@ -16838,6 +16886,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Katrine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T002037Z" creationid="yumas" creationdate="20240809T002037Z">
+        <seg>カトリンヌ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Kaylee</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T081402Z" creationid="yumas" creationdate="20240805T081402Z">
@@ -18698,6 +18754,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T133135Z" creationid="yumas" creationdate="20240808T133135Z">
         <seg>ロキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lollk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001948Z" creationid="yumas" creationdate="20240809T001948Z">
+        <seg>ロルク</seg>
       </tuv>
     </tu>
     <tu>
@@ -27558,10 +27622,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sergeant Mossfists</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001842Z" creationid="yumas" creationdate="20240809T001842Z">
+        <seg>モスフィスツ軍曹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sergeant Sambur</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T094232Z" creationid="yumas" creationdate="20240805T094232Z">
         <seg>サンブール軍曹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sergeant Slimetoes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001849Z" creationid="yumas" creationdate="20240809T001849Z">
+        <seg>スライムトーズ軍曹</seg>
       </tuv>
     </tu>
     <tu>
@@ -28162,6 +28242,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T113958Z" creationid="yumas" creationdate="20240808T113958Z">
         <seg>商人のシグムンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sigmund and Zanik</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001835Z" creationid="yumas" creationdate="20240809T001835Z">
+        <seg>シグムンドとザニック</seg>
       </tuv>
     </tu>
     <tu>
@@ -31416,6 +31504,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tegdak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001944Z" creationid="yumas" creationdate="20240809T001944Z">
+        <seg>テゲダク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tegid</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T223254Z" creationid="yumas" creationdate="20240808T223254Z">
@@ -31964,6 +32060,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T222003Z" creationid="yumas" creationdate="20240808T222003Z">
         <seg>チアデチェ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ticket dwarf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001900Z" creationid="yumas" creationdate="20240809T001900Z">
+        <seg>チケット・ドワーフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ticket goblin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T001855Z" creationid="yumas" creationdate="20240809T001855Z">
+        <seg>チケット・ゴブリン</seg>
       </tuv>
     </tu>
     <tu>
@@ -34452,6 +34564,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240727T065748Z">
         <seg>武器庫のカギ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weaponsmaster</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T002111Z" creationid="yumas" creationdate="20240809T002111Z">
+        <seg>武器の達人</seg>
       </tuv>
     </tu>
     <tu>
