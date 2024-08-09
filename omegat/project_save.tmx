@@ -9926,6 +9926,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Deranged archaeologist</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T062747Z" creationid="yumas" creationdate="20240809T062747Z">
+        <seg>錯乱した考古学者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Derni</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T235324Z" creationid="yumas" creationdate="20240808T235324Z">
@@ -14810,6 +14818,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T133709Z" creationid="yumas" creationdate="20240806T133709Z">
         <seg>巨大なコウモリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Giant boulder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T062808Z" creationid="yumas" creationdate="20240809T062754Z">
+        <seg>巨大な岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -20614,6 +20630,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Large boulder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T062812Z" creationid="yumas" creationdate="20240809T062812Z">
+        <seg>大きな岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Large cave</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T234737Z" creationid="yumas" creationdate="20240808T234737Z">
@@ -21218,6 +21242,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T130408Z" creationid="yumas" creationdate="20240803T130408Z">
         <seg>放つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lava beast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T062832Z" creationid="yumas" creationdate="20240809T062832Z">
+        <seg>溶岩の獣</seg>
       </tuv>
     </tu>
     <tu>
@@ -23354,6 +23386,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T065739Z" creationid="2008l" creationdate="20240723T065739Z">
         <seg>医療用ガウン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Medium boulder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T062823Z" creationid="yumas" creationdate="20240809T062823Z">
+        <seg>普通の岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -26418,6 +26458,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093056Z" creationid="yumas" creationdate="20240730T093056Z">
         <seg>にパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Passive Tar Monster</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T062701Z" creationid="yumas" creationdate="20240809T062701Z">
+        <seg>消極的なタールの化け物</seg>
       </tuv>
     </tu>
     <tu>
@@ -34334,6 +34382,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Small boulder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T062827Z" creationid="yumas" creationdate="20240809T062827Z">
+        <seg>小さな岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Small fishing net</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T064950Z" creationid="2008l" creationdate="20240722T064941Z">
@@ -36996,6 +37052,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T062346Z" creationid="yumas" creationdate="20240809T062346Z">
         <seg>タールの泡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tar Monster</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T062636Z" creationid="yumas" creationdate="20240809T062636Z">
+        <seg>タールの化け物</seg>
       </tuv>
     </tu>
     <tu>
@@ -43353,6 +43417,28 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T043621Z" creationid="yumas" creationdate="20240809T043621Z">
         <seg>ノヴァイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">13119</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Dusk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T062900Z" creationid="yumas" creationdate="20240809T062900Z">
+        <seg>ダスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">13120</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Dawn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T062904Z" creationid="yumas" creationdate="20240809T062904Z">
+        <seg>ドーン</seg>
       </tuv>
     </tu>
   </body>
