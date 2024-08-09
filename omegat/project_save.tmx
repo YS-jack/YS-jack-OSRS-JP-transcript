@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Abyssal portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T053032Z" creationid="yumas" creationdate="20240809T053032Z">
+        <seg>深淵のポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Abyssal walker</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T125754Z" creationid="yumas" creationdate="20240806T125754Z">
@@ -15430,6 +15438,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Great Olm (Right claw)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T053311Z" creationid="yumas" creationdate="20240809T053311Z">
+        <seg>偉大なるオルㇺ（右足）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Great blue heron</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T040821Z" creationid="yumas" creationdate="20240809T040821Z">
@@ -21914,6 +21930,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T213128Z" creationid="yumas" creationdate="20240807T213128Z">
         <seg>ルーサス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lux grub</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T053038Z" creationid="yumas" creationdate="20240809T053038Z">
+        <seg>ラックス・グラブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -31518,6 +31542,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Scavenger beast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T053228Z" creationid="yumas" creationdate="20240809T053228Z">
+        <seg>スカベンジャー・ビースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Scavvo</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T134404Z" creationid="yumas" creationdate="20240806T134404Z">
@@ -36256,6 +36288,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tekton</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T053111Z" creationid="yumas" creationdate="20240809T053111Z">
+        <seg>テクトン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tekton (enraged)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T053140Z" creationid="yumas" creationdate="20240809T053120Z">
+        <seg>テクトン（怒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tele</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T052325Z" creationid="yumas" creationdate="20240804T052325Z">
@@ -39140,6 +39188,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T205745Z" creationid="yumas" creationdate="20240807T205745Z">
         <seg>ヴェロニカ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vespine soldier</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T053109Z" creationid="yumas" creationdate="20240809T053109Z">
+        <seg>軍隊スズメバチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vespula</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T053020Z" creationid="yumas" creationdate="20240809T053020Z">
+        <seg>ヴェスプラ</seg>
       </tuv>
     </tu>
     <tu>
