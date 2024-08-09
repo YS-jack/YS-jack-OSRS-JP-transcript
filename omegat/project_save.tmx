@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Agile Scarab</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T115323Z" creationid="yumas" creationdate="20240809T115323Z">
+        <seg>俊敏なスカラベ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Agility Boss</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T015618Z" creationid="yumas" creationdate="20240809T015618Z">
@@ -2210,6 +2218,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T080602Z" creationid="yumas" creationdate="20240809T080602Z">
         <seg>アランウェ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Arcane Scarab</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T115311Z" creationid="yumas" creationdate="20240809T115311Z">
+        <seg>神秘のスカラベ</seg>
       </tuv>
     </tu>
     <tu>
@@ -4742,6 +4758,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blood Cloud</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T115404Z" creationid="yumas" creationdate="20240809T115404Z">
+        <seg>血の雲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blood Reaver</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T111039Z" creationid="yumas" creationdate="20240809T111039Z">
@@ -4794,6 +4818,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T094855Z" creationid="yumas" creationdate="20240805T094855Z">
         <seg>ブラッドワーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bloody Wave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T115400Z" creationid="yumas" creationdate="20240809T115400Z">
+        <seg>血の波</seg>
       </tuv>
     </tu>
     <tu>
@@ -13658,6 +13690,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T112914Z" creationid="yumas" creationdate="20240809T112914Z">
         <seg>エリディニスの守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Elidinis' Warden</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T115508Z" creationid="yumas" creationdate="20240809T115508Z">
+        <seg>エリディニスの監視者</seg>
       </tuv>
     </tu>
     <tu>
@@ -49280,6 +49320,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Zebak's Tail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T115333Z" creationid="yumas" creationdate="20240809T115333Z">
+        <seg>ゼバックの尻尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Zeke</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T134427Z" creationid="yumas" creationdate="20240806T134427Z">
@@ -50719,6 +50767,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T112715Z" creationid="yumas" creationdate="20240809T112715Z">
         <seg>ハンニバル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_npc.xliff</prop>
+      <prop type="id">13959</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Wave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T115357Z" creationid="yumas" creationdate="20240809T115357Z">
+        <seg>波</seg>
       </tuv>
     </tu>
   </body>
