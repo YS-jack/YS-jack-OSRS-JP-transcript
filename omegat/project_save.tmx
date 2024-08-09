@@ -11326,6 +11326,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ent</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T035033Z" creationid="yumas" creationdate="20240809T035033Z">
+        <seg>エント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Enter</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T211455Z" creationid="yumas" creationdate="20240730T211455Z">
@@ -19630,6 +19638,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lava dragon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T035015Z" creationid="yumas" creationdate="20240809T035015Z">
+        <seg>溶岩の竜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Law rune</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062909Z" creationid="2008l" creationdate="20240725T062909Z">
@@ -21138,6 +21154,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045548Z" creationid="yumas" creationdate="20240805T045548Z">
         <seg>男</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mandrith</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T035050Z" creationid="yumas" creationdate="20240809T035050Z">
+        <seg>マンドリス</seg>
       </tuv>
     </tu>
     <tu>
@@ -23362,6 +23386,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T071729Z" creationid="2008l" creationdate="20240716T071729Z">
         <seg>ヌロディオンのメモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Numpty</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T035252Z" creationid="yumas" creationdate="20240809T035252Z">
+        <seg>ナンプティー</seg>
       </tuv>
     </tu>
     <tu>
@@ -25738,6 +25770,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T125048Z" creationid="yumas" creationdate="20240803T125048Z">
         <seg>プリフディナス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Prifddinas guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T035047Z" creationid="yumas" creationdate="20240809T035047Z">
+        <seg>プリフディナスの衛兵</seg>
       </tuv>
     </tu>
     <tu>
@@ -29102,6 +29142,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Runite Golem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T035220Z" creationid="yumas" creationdate="20240809T035056Z">
+        <seg>ルーナイトのゴーレム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Runite Minor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T132527Z" creationid="yumas" creationdate="20240806T132527Z">
@@ -29112,8 +29160,16 @@
       <tuv lang="en-GB">
         <seg>Runite ore</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240724T064955Z" creationid="2008l" creationdate="20240724T064955Z">
-        <seg>ルーン鉱石</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T035155Z" creationid="2008l" creationdate="20240724T064955Z">
+        <seg>ルーナイト鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Runite rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T035246Z" creationid="yumas" creationdate="20240809T035133Z">
+        <seg>ルーナイトの岩</seg>
       </tuv>
     </tu>
     <tu>
