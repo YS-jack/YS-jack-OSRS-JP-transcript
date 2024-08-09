@@ -1702,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ancient Ghost</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091311Z" creationid="yumas" creationdate="20240809T091311Z">
+        <seg>古代のゴースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ancient Wizard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T045249Z" creationid="yumas" creationdate="20240809T045249Z">
@@ -2802,6 +2810,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T070406Z" creationid="2008l" creationdate="20240720T070406Z">
         <seg>アバントーの薬液（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Avatar of Creation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091214Z" creationid="yumas" creationdate="20240809T091214Z">
+        <seg>創造の化身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Avatar of Destruction</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091254Z" creationid="yumas" creationdate="20240809T091254Z">
+        <seg>破壊の化身</seg>
       </tuv>
     </tu>
     <tu>
@@ -15486,6 +15510,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Forgotten Soul</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091302Z" creationid="yumas" creationdate="20240809T091302Z">
+        <seg>忘却の魂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Former Vampyre</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T214149Z" creationid="yumas" creationdate="20240807T214149Z">
@@ -16106,6 +16138,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T085729Z" creationid="yumas" creationdate="20240805T085729Z">
         <seg>ガーコー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Garl</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091316Z" creationid="yumas" creationdate="20240809T091316Z">
+        <seg>ガール</seg>
       </tuv>
     </tu>
     <tu>
@@ -17914,6 +17954,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T064951Z" creationid="2008l" creationdate="20240808T064951Z">
         <seg>緑色染料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Green fireflies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091358Z" creationid="yumas" creationdate="20240809T091358Z">
+        <seg>緑のヒノムシ</seg>
       </tuv>
     </tu>
     <tu>
@@ -28790,6 +28838,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Nomad</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091133Z" creationid="yumas" creationdate="20240809T091133Z">
+        <seg>ノーマッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Noodle</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T063705Z" creationid="yumas" creationdate="20240805T063705Z">
@@ -29694,18 +29750,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ornate kalphite combat dummy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091113Z" creationid="yumas" creationdate="20240809T091113Z">
+        <seg>華麗なカルファイト戦闘バッグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ornate kurask combat dummy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091130Z" creationid="yumas" creationdate="20240809T091130Z">
+        <seg>華麗なクラスク戦闘バッグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ornate undead combat dummy</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T091042Z" creationid="yumas" creationdate="20240809T091019Z">
-        <seg>華麗なアンデッド戦闘サンドバッグ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091121Z" creationid="yumas" creationdate="20240809T091019Z">
+        <seg>華麗なアンデッド戦闘バッグ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Ornate wilderness combat dummy</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T091053Z" creationid="yumas" creationdate="20240809T091053Z">
-        <seg>華麗なウィルダネス戦闘サンドバッグ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091117Z" creationid="yumas" creationdate="20240809T091053Z">
+        <seg>華麗なウィルダネス戦闘バッグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -33646,6 +33718,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Red fireflies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091329Z" creationid="yumas" creationdate="20240809T091329Z">
+        <seg>赤いヒノムシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Red halloween mask</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T065454Z" creationid="2008l" creationdate="20240729T065454Z">
@@ -36730,6 +36810,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T051035Z" creationid="yumas" creationdate="20240809T051035Z">
         <seg>叫ぶ歪んだバンシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Scrubfoot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091315Z" creationid="yumas" creationdate="20240809T091315Z">
+        <seg>スクラブフット</seg>
       </tuv>
     </tu>
     <tu>
@@ -42832,6 +42920,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tiny Tempor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091341Z" creationid="yumas" creationdate="20240809T091341Z">
+        <seg>ちっこいテンポー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tirrie</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T222153Z" creationid="yumas" creationdate="20240808T222153Z">
@@ -47532,6 +47628,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T035949Z" creationid="yumas" creationdate="20240809T035949Z">
         <seg>ジリアナ・Jr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zimberfizz</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T091137Z" creationid="yumas" creationdate="20240809T091137Z">
+        <seg>ジンベーフィズ</seg>
       </tuv>
     </tu>
     <tu>
