@@ -2030,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Asyn shadow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013122Z" creationid="yumas" creationdate="20240809T013122Z">
+        <seg>アシンの影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Attach</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112633Z" creationid="yumas" creationdate="20240731T112633Z">
@@ -2650,6 +2658,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070820Z" creationid="yumas" creationdate="20240805T070820Z">
         <seg>バレルチェスト（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Barricade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013150Z" creationid="yumas" creationdate="20240809T013150Z">
+        <seg>バリケード</seg>
       </tuv>
     </tu>
     <tu>
@@ -8638,6 +8654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead swamp snake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013106Z" creationid="yumas" creationdate="20240809T013106Z">
+        <seg>死んだ沼ヘビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Deadfall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T233940Z" creationid="yumas" creationdate="20240808T233940Z">
@@ -10502,6 +10526,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Elnock Inquisitor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013228Z" creationid="yumas" creationdate="20240809T013223Z">
+        <seg>エルノック・インキジター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Elsie</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T134540Z" creationid="yumas" creationdate="20240806T134540Z">
@@ -11258,6 +11290,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T113043Z" creationid="yumas" creationdate="20240805T113043Z">
         <seg>妖精</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fairy Aeryka</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013244Z" creationid="yumas" creationdate="20240809T013244Z">
+        <seg>妖精アエリカ</seg>
       </tuv>
     </tu>
     <tu>
@@ -13206,6 +13246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Giant snail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013115Z" creationid="yumas" creationdate="20240809T013115Z">
+        <seg>巨大なカタツムリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Giant spider</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T122424Z" creationid="yumas" creationdate="20240806T122424Z">
@@ -14966,6 +15014,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Head</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013141Z" creationid="yumas" creationdate="20240809T013141Z">
+        <seg>頭部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Head Guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T073004Z" creationid="yumas" creationdate="20240805T073004Z">
@@ -15902,6 +15958,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Immenizz</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013235Z" creationid="yumas" creationdate="20240809T013235Z">
+        <seg>イメニズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Imp</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T133401Z" creationid="yumas" creationdate="20240807T133401Z">
@@ -15914,6 +15978,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T195207Z" creationid="yumas" creationdate="20240807T195207Z">
         <seg>小悪魔のチャンピオン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Imp defender</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013655Z" creationid="yumas" creationdate="20240809T013655Z">
+        <seg>子悪魔の守護者</seg>
       </tuv>
     </tu>
     <tu>
@@ -20318,6 +20390,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Master Farmer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013207Z" creationid="yumas" creationdate="20240809T013207Z">
+        <seg>偉い農民</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Master fisher</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T135220Z" creationid="yumas" creationdate="20240806T135220Z">
@@ -21690,6 +21770,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T222135Z" creationid="yumas" creationdate="20240807T222135Z">
         <seg>マーキー・パット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Murphy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013053Z" creationid="yumas" creationdate="20240809T013053Z">
+        <seg>マーフィー</seg>
       </tuv>
     </tu>
     <tu>
@@ -25174,6 +25262,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rachael</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013057Z" creationid="yumas" creationdate="20240809T013057Z">
+        <seg>ラチャエル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Radat</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T222821Z" creationid="yumas" creationdate="20240808T222821Z">
@@ -27102,6 +27198,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Riyl shadow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013120Z" creationid="yumas" creationdate="20240809T013120Z">
+        <seg>リールの影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Robert the Strong</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T130307Z" creationid="yumas" creationdate="20240806T130307Z">
@@ -28762,6 +28866,14 @@
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240716T184333Z" creationid="b0sh" creationdate="20240716T184333Z">
         <seg>を縫う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013129Z" creationid="yumas" creationdate="20240809T013129Z">
+        <seg>陰</seg>
       </tuv>
     </tu>
     <tu>
@@ -31694,6 +31806,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Swamp snake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013100Z" creationid="yumas" creationdate="20240809T013100Z">
+        <seg>沼ヘビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Swamp toad</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T090736Z" creationid="yumas" creationdate="20240805T090049Z">
@@ -34496,6 +34616,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Undead Lumberjack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013147Z" creationid="yumas" creationdate="20240809T013147Z">
+        <seg>アンデッドの木こり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Undead chicken</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T123618Z" creationid="yumas" creationdate="20240807T123618Z">
@@ -35540,6 +35668,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T121139Z" creationid="yumas" creationdate="20240808T121115Z">
         <seg>彷徨う者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wandering impling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T013308Z" creationid="yumas" creationdate="20240809T013256Z">
+        <seg>さまよう子悪魔</seg>
       </tuv>
     </tu>
     <tu>
