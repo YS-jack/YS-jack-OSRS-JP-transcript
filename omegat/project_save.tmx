@@ -5614,6 +5614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bryn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075722Z" creationid="yumas" creationdate="20240809T075722Z">
+        <seg>ブリン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bryophyta</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T065731Z" creationid="yumas" creationdate="20240809T065731Z">
@@ -9718,6 +9726,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crystalline Hunllef</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075859Z" creationid="yumas" creationdate="20240809T075859Z">
+        <seg>結晶のハンレフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cuffs</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T135249Z" creationid="yumas" creationdate="20240807T135249Z">
@@ -11006,6 +11022,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Disciple of Iban</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075709Z" creationid="yumas" creationdate="20240809T075709Z">
+        <seg>アイバンの弟子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Disciple of Yama</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T060231Z" creationid="yumas" creationdate="20240809T060231Z">
@@ -11184,8 +11208,8 @@
       <tuv lang="en-GB">
         <seg>Doll of iban</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240805T071724Z" creationid="2008l" creationdate="20240805T071724Z">
-        <seg>イバンの人形</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075651Z" creationid="2008l" creationdate="20240805T071724Z">
+        <seg>アイバンの人形</seg>
       </tuv>
     </tu>
     <tu>
@@ -12218,6 +12242,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T043748Z" creationid="yumas" creationdate="20240804T043731Z">
         <seg>でエクトーヘワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075720Z" creationid="yumas" creationdate="20240809T075720Z">
+        <seg>エッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -18496,8 +18528,8 @@
       <tuv lang="en-GB">
         <seg>History of iban</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240805T071835Z" creationid="2008l" creationdate="20240805T071835Z">
-        <seg>イバンの歴史</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075651Z" creationid="2008l" creationdate="20240805T071835Z">
+        <seg>アイバンの歴史</seg>
       </tuv>
     </tu>
     <tu>
@@ -18910,34 +18942,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Iban</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075711Z" creationid="yumas" creationdate="20240809T075711Z">
+        <seg>アイバン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Iban's ashes</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240805T072348Z" creationid="2008l" creationdate="20240805T072348Z">
-        <seg>イバンの灰</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075651Z" creationid="2008l" creationdate="20240805T072348Z">
+        <seg>アイバンの灰</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Iban's dove</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240805T071946Z" creationid="2008l" creationdate="20240805T071946Z">
-        <seg>イバンのハト</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075651Z" creationid="2008l" creationdate="20240805T071946Z">
+        <seg>アイバンのハト</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Iban's shadow</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240805T072216Z" creationid="2008l" creationdate="20240805T072216Z">
-        <seg>イバンの影</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075651Z" creationid="2008l" creationdate="20240805T072216Z">
+        <seg>アイバンの影</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Iban's staff</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240731T070501Z" creationid="2008l" creationdate="20240731T070501Z">
-        <seg>イバンの杖</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075651Z" creationid="2008l" creationdate="20240731T070501Z">
+        <seg>アイバンの杖</seg>
       </tuv>
     </tu>
     <tu>
@@ -21706,6 +21746,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T131958Z" creationid="yumas" creationdate="20240807T131958Z">
         <seg>サソリの王</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>King Thoros</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T075718Z" creationid="yumas" creationdate="20240809T075718Z">
+        <seg>ソロス王</seg>
       </tuv>
     </tu>
     <tu>
