@@ -158,6 +158,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>2/3 cake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064112Z" creationid="2008l" creationdate="20240809T064112Z">
+        <seg>2/3ケーキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>2/3 chocolate cake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064156Z" creationid="2008l" creationdate="20240809T064156Z">
+        <seg>2/3チョコレートケーキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>50% Luke</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053558Z" creationid="yumas" creationdate="20240805T053558Z">
@@ -2194,6 +2210,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214915Z" creationid="yumas" creationdate="20240730T214901Z">
         <seg>を登る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Asgarnian ale</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064321Z" creationid="2008l" creationdate="20240809T064321Z">
+        <seg>アスガルニアンエール</seg>
       </tuv>
     </tu>
     <tu>
@@ -5502,6 +5526,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Burnt cake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064210Z" creationid="2008l" creationdate="20240809T064210Z">
+        <seg>焦げたケーキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Burnt fish</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T062440Z" creationid="2008l" creationdate="20240723T062440Z">
@@ -5762,6 +5794,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T210511Z" creationid="yumas" creationdate="20240730T085814Z">
         <seg>カゴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064051Z" creationid="2008l" creationdate="20240809T064051Z">
+        <seg>ケーキ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7578,6 +7618,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T064719Z" creationid="2008l" creationdate="20240808T064719Z">
         <seg>ノミ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chocolate cake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064150Z" creationid="2008l" creationdate="20240809T064150Z">
+        <seg>チョコレートケーキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chocolate slice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064202Z" creationid="2008l" creationdate="20240809T064202Z">
+        <seg>チョコレートスライス</seg>
       </tuv>
     </tu>
     <tu>
@@ -34510,6 +34566,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Slice of cake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064131Z" creationid="2008l" creationdate="20240809T064131Z">
+        <seg>ケーキのスライス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Slide</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T222410Z" creationid="yumas" creationdate="20240730T222410Z">
@@ -39676,6 +39740,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T125419Z" creationid="yumas" creationdate="20240803T125419Z">
         <seg>チャージ解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Uncooked cake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240809T064010Z" creationid="2008l" creationdate="20240809T064010Z">
+        <seg>生のケーキ</seg>
       </tuv>
     </tu>
     <tu>
