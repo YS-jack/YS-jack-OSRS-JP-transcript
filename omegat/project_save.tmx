@@ -9854,6 +9854,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Core</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T115645Z" creationid="yumas" creationdate="20240809T115645Z">
+        <seg>核</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Corkat quo Sihar</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T072002Z" creationid="yumas" creationdate="20240809T072002Z">
@@ -14154,6 +14162,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T044744Z" creationid="yumas" creationdate="20240804T044744Z">
         <seg>エネルギー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Energy Siphon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T115904Z" creationid="yumas" creationdate="20240809T115904Z">
+        <seg>エネルギーの吸収源</seg>
       </tuv>
     </tu>
     <tu>
@@ -32046,6 +32062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Phantom</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T115521Z" creationid="yumas" creationdate="20240809T115521Z">
+        <seg>ファントム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Phantom Hand</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T094818Z" creationid="yumas" creationdate="20240809T094818Z">
@@ -45532,6 +45556,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T112739Z" creationid="yumas" creationdate="20240809T112739Z">
         <seg>ツメケンの守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tumeken's Warden</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T115515Z" creationid="yumas" creationdate="20240809T115515Z">
+        <seg>ツメケンの監視者</seg>
       </tuv>
     </tu>
     <tu>
