@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Abyssal Sire</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T014838Z" creationid="yumas" creationdate="20240809T014838Z">
+        <seg>深淵の雄親</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Abyssal demon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043025Z" creationid="yumas" creationdate="20240805T043025Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T125207Z" creationid="yumas" creationdate="20240806T125207Z">
         <seg>深淵のヒル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Abyssal orphan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T014802Z" creationid="yumas" creationdate="20240809T014802Z">
+        <seg>深淵の孤児</seg>
       </tuv>
     </tu>
     <tu>
@@ -2290,6 +2306,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T114254Z" creationid="yumas" creationdate="20240805T043337Z">
         <seg>幼い赤竜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Baby tanglefoot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T014653Z" creationid="yumas" creationdate="20240809T014653Z">
+        <seg>幼いタングルフット</seg>
       </tuv>
     </tu>
     <tu>
@@ -5866,6 +5890,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T062355Z" creationid="2008l" creationdate="20240726T062355Z">
         <seg>陶器の遺物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cerberus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T014707Z" creationid="yumas" creationdate="20240809T014707Z">
+        <seg>ケルベロス</seg>
       </tuv>
     </tu>
     <tu>
@@ -11382,6 +11414,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fairy chef</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T014703Z" creationid="yumas" creationdate="20240809T014703Z">
+        <seg>妖精のシェフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fairy shop assistant</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T134124Z" creationid="yumas" creationdate="20240806T134124Z">
@@ -11530,6 +11570,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T032252Z" creationid="yumas" creationdate="20240803T032252Z">
         <seg>農業ギルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fat Rocco</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T014543Z" creationid="yumas" creationdate="20240809T014543Z">
+        <seg>太ったロッコ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12786,6 +12834,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T233925Z" creationid="yumas" creationdate="20240806T122557Z">
         <seg>戦のゲート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gatekeeper</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T014600Z" creationid="yumas" creationdate="20240809T014600Z">
+        <seg>門番</seg>
       </tuv>
     </tu>
     <tu>
@@ -17730,6 +17786,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240722T062701Z">
         <seg>カギ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Key Master</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T014739Z" creationid="yumas" creationdate="20240809T014739Z">
+        <seg>カギの管理者</seg>
       </tuv>
     </tu>
     <tu>
@@ -31822,6 +31886,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Summoned Soul</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T014714Z" creationid="yumas" creationdate="20240809T014714Z">
+        <seg>召喚された魂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Summoned Zombie</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T042622Z" creationid="yumas" creationdate="20240805T042622Z">
@@ -32716,6 +32788,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122426Z" creationid="yumas" creationdate="20240730T122426Z">
         <seg>革をなす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tanglefoot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T014638Z" creationid="yumas" creationdate="20240809T014638Z">
+        <seg>タングルフット</seg>
       </tuv>
     </tu>
     <tu>
@@ -37124,6 +37204,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T140549Z" creationid="yumas" creationdate="20240806T140549Z">
         <seg>ザモラックの魔法使い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zanaris choir</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T014634Z" creationid="yumas" creationdate="20240809T014634Z">
+        <seg>ザナリスの合唱団</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zandar Horfyre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T014608Z" creationid="yumas" creationdate="20240809T014608Z">
+        <seg>ザンダー・ホーフィー</seg>
       </tuv>
     </tu>
     <tu>
