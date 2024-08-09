@@ -5462,10 +5462,18 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Callisto</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T025330Z" creationid="yumas" creationdate="20240809T025319Z">
+        <seg>カリストー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Callisto cub</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T052637Z" creationid="yumas" creationdate="20240805T052621Z">
-        <seg>カリストの子グマ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T025340Z" creationid="yumas" creationdate="20240805T052621Z">
+        <seg>カリストーの子グマ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12214,6 +12222,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Financial Seer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T025316Z" creationid="yumas" creationdate="20240809T025316Z">
+        <seg>金融預言者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Financial Wizard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T034225Z" creationid="yumas" creationdate="20240809T034225Z">
+        <seg>金融の天才</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Finn</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070505Z" creationid="yumas" creationdate="20240805T070505Z">
@@ -13314,6 +13338,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T023856Z" creationid="yumas" creationdate="20240809T023856Z">
         <seg>ゲラティノスの母（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gelin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T025244Z" creationid="yumas" creationdate="20240809T025244Z">
+        <seg>ゲリン</seg>
       </tuv>
     </tu>
     <tu>
@@ -20706,6 +20738,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T132748Z" creationid="yumas" creationdate="20240806T132748Z">
         <seg>リラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mac</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T025242Z" creationid="yumas" creationdate="20240809T025242Z">
+        <seg>マック</seg>
       </tuv>
     </tu>
     <tu>
@@ -36722,16 +36762,16 @@
       <tuv lang="en-GB">
         <seg>Venenatis</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T052605Z" creationid="yumas" creationdate="20240805T052605Z">
-        <seg>ベネナティス</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T025351Z" creationid="yumas" creationdate="20240805T052605Z">
+        <seg>ヴェネナティス</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Venenatis spiderling</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T052530Z" creationid="yumas" creationdate="20240805T052530Z">
-        <seg>ベネナティスの幼体</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T025404Z" creationid="yumas" creationdate="20240805T052530Z">
+        <seg>ヴェネナティスの幼体</seg>
       </tuv>
     </tu>
     <tu>
