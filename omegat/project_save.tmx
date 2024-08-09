@@ -9558,6 +9558,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Deathly mage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T053543Z" creationid="yumas" creationdate="20240809T053532Z">
+        <seg>死の魔術師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Deathly ranger</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T053537Z" creationid="yumas" creationdate="20240809T053529Z">
+        <seg>死のレンジャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Deboard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T114719Z" creationid="yumas" creationdate="20240730T114705Z">
@@ -12888,8 +12904,8 @@
       <tuv lang="en-GB">
         <seg>Fire</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T211529Z" creationid="yumas" creationdate="20240730T211522Z">
-        <seg>を放つ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T053358Z" creationid="yumas" creationdate="20240730T211522Z">
+        <seg>火</seg>
       </tuv>
     </tu>
     <tu>
@@ -15434,6 +15450,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T011056Z" creationid="yumas" creationdate="20240803T011056Z">
         <seg>グレート・クーレンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Great Olm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T053319Z" creationid="yumas" creationdate="20240809T053319Z">
+        <seg>偉大なるオルㇺ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Great Olm (Left claw)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T053326Z" creationid="yumas" creationdate="20240809T053326Z">
+        <seg>偉大なるオルㇺ（左足）</seg>
       </tuv>
     </tu>
     <tu>
@@ -22702,6 +22734,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Meat tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T053622Z" creationid="yumas" creationdate="20240809T053622Z">
+        <seg>肉の木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Medic</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T132955Z" creationid="yumas" creationdate="20240803T132955Z">
@@ -24146,6 +24186,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T044801Z" creationid="yumas" creationdate="20240809T044801Z">
         <seg>ブラッドベルドの変異体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Muttadile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T053551Z" creationid="yumas" creationdate="20240809T053551Z">
+        <seg>ムタジル</seg>
       </tuv>
     </tu>
     <tu>
@@ -41460,6 +41508,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T131741Z" creationid="yumas" creationdate="20240730T131741Z">
         <seg>ロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41611</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Fire</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T053406Z" creationid="yumas" creationdate="20240809T053406Z">
+        <seg>を放つ</seg>
       </tuv>
     </tu>
     <tu>
