@@ -18574,6 +18574,70 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jal-Ak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T060540Z" creationid="yumas" creationdate="20240809T060540Z">
+        <seg>ジャル・アク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jal-AkRek-Ket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T060559Z" creationid="yumas" creationdate="20240809T060559Z">
+        <seg>ジャル・アクレク・ケット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jal-AkRek-Mej</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T060546Z" creationid="yumas" creationdate="20240809T060546Z">
+        <seg>ジャル・アクレク・メジュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jal-AkRek-Xil</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T060551Z" creationid="yumas" creationdate="20240809T060551Z">
+        <seg>ジャル・アクレク・ジル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jal-ImKot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T060635Z" creationid="yumas" creationdate="20240809T060635Z">
+        <seg>ジャル・イムコト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jal-MejRah</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T060536Z" creationid="yumas" creationdate="20240809T060536Z">
+        <seg>ジャル・メジュラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jal-Nib</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T060522Z" creationid="yumas" creationdate="20240809T060522Z">
+        <seg>ジャル・ニブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jal-Nib-Rek</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T060334Z" creationid="yumas" creationdate="20240809T060334Z">
+        <seg>ジャル・ニブ・レク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jamila</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T113915Z" creationid="yumas" creationdate="20240808T113915Z">
@@ -38688,10 +38752,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>TzHaar-Hur-Rin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T060512Z" creationid="yumas" creationdate="20240809T060512Z">
+        <seg>ツザー・ハー・リン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>TzHaar-Hur-Tel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T135614Z" creationid="yumas" creationdate="20240805T135614Z">
         <seg>ツザー・フー・テル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>TzHaar-Hur-Zal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T060504Z" creationid="yumas" creationdate="20240809T060504Z">
+        <seg>ツザー・ハー・ザル</seg>
       </tuv>
     </tu>
     <tu>
@@ -38704,10 +38784,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>TzHaar-Ket-Yil</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T060404Z" creationid="yumas" creationdate="20240809T060404Z">
+        <seg>ツザー・ケット・イル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>TzHaar-Ket-Zuh</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T060346Z" creationid="yumas" creationdate="20240809T060346Z">
+        <seg>ツザー・ケット・ズー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>TzHaar-Mej</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T135501Z" creationid="yumas" creationdate="20240805T135501Z">
         <seg>ツザー・メジュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>TzHaar-Mej-Bal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T060455Z" creationid="yumas" creationdate="20240809T060455Z">
+        <seg>ツザー・メジュ・バル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>TzHaar-Mej-Dir</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240809T060439Z" creationid="yumas" creationdate="20240809T060420Z">
+        <seg>ツザー・メジュ・ダー</seg>
       </tuv>
     </tu>
     <tu>
