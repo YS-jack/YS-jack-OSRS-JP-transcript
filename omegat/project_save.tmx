@@ -1558,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Altar of Guthix</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T054329Z" creationid="yumas" creationdate="20240810T054329Z">
+        <seg>ガシックスの祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Altarkiz</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T064825Z" creationid="yumas" creationdate="20240809T064825Z">
@@ -20134,6 +20142,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gravestone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T054145Z" creationid="yumas" creationdate="20240810T054145Z">
+        <seg>墓石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Graveyard Guardian</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T020830Z" creationid="yumas" creationdate="20240809T020830Z">
@@ -21970,6 +21986,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T060934Z" creationid="yumas" creationdate="20240809T060934Z">
         <seg>ヘンドー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Henge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T054323Z" creationid="yumas" creationdate="20240810T054323Z">
+        <seg>ヘンジ</seg>
       </tuv>
     </tu>
     <tu>
@@ -26634,6 +26658,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T050758Z" creationid="yumas" creationdate="20240810T050758Z">
         <seg>大きなドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Large grave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T054234Z" creationid="yumas" creationdate="20240810T054234Z">
+        <seg>大きな墓</seg>
       </tuv>
     </tu>
     <tu>
@@ -43504,8 +43536,8 @@
       <tuv lang="en-GB">
         <seg>Small gravestone</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240810T053832Z" creationid="yumas" creationdate="20240810T053832Z">
-        <seg>小さな墓</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T054151Z" creationid="yumas" creationdate="20240810T053832Z">
+        <seg>小さな墓石</seg>
       </tuv>
     </tu>
     <tu>
