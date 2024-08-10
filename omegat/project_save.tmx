@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Abyssal axon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T013609Z" creationid="yumas" creationdate="20240810T013609Z">
+        <seg>深淵の軸索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Abyssal demon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043025Z" creationid="yumas" creationdate="20240805T043025Z">
@@ -7650,6 +7658,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T012652Z" creationid="yumas" creationdate="20240810T012652Z">
         <seg>触媒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Catalytic Guardian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T013656Z" creationid="yumas" creationdate="20240810T013656Z">
+        <seg>触媒の守護者</seg>
       </tuv>
     </tu>
     <tu>
@@ -17958,6 +17974,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Giant goblin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T013725Z" creationid="yumas" creationdate="20240810T013725Z">
+        <seg>巨大なゴブリン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Giant lobster</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T123624Z" creationid="yumas" creationdate="20240807T123624Z">
@@ -26072,8 +26096,8 @@
       <tuv lang="en-GB">
         <seg>Lesser Demon Champion</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240807T195304Z" creationid="yumas" creationdate="20240807T195304Z">
-        <seg>下位の悪魔のチャンピオン</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T013523Z" creationid="yumas" creationdate="20240807T195304Z">
+        <seg>下位悪魔のチャンピオン</seg>
       </tuv>
     </tu>
     <tu>
@@ -26088,8 +26112,8 @@
       <tuv lang="en-GB">
         <seg>Lesser demon</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T133604Z" creationid="yumas" creationdate="20240805T133604Z">
-        <seg>下位の悪魔</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T013448Z" creationid="yumas" creationdate="20240805T133604Z">
+        <seg>下位悪魔</seg>
       </tuv>
     </tu>
     <tu>
@@ -26794,6 +26818,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T063313Z" creationid="yumas" creationdate="20240805T063313Z">
         <seg>ステージの警備員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Longramble</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T013825Z" creationid="yumas" creationdate="20240810T013825Z">
+        <seg>ロングランブル</seg>
       </tuv>
     </tu>
     <tu>
@@ -30018,6 +30050,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T044801Z" creationid="yumas" creationdate="20240809T044801Z">
         <seg>ブラッドベルドの変異体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mutated Terrorbird</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T013734Z" creationid="yumas" creationdate="20240810T013734Z">
+        <seg>変異したテラー鳥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mutated Tortoise</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T013740Z" creationid="yumas" creationdate="20240810T013740Z">
+        <seg>変異したカメ</seg>
       </tuv>
     </tu>
     <tu>
@@ -38886,18 +38934,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Scarred black demon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T013719Z" creationid="yumas" creationdate="20240810T013719Z">
+        <seg>負傷した黒悪魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Scarred greater demon</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240810T013431Z" creationid="yumas" creationdate="20240810T013431Z">
-        <seg>負傷した上位の悪魔</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T013500Z" creationid="yumas" creationdate="20240810T013431Z">
+        <seg>負傷した上位悪魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Scarred hellhound</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T013540Z" creationid="yumas" creationdate="20240810T013540Z">
+        <seg>負傷したヘルハウンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Scarred imp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T013648Z" creationid="yumas" creationdate="20240810T013648Z">
+        <seg>負傷した小悪魔</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Scarred lesser demon</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240810T012717Z" creationid="yumas" creationdate="20240810T012717Z">
-        <seg>負傷した下位の悪魔</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T013508Z" creationid="yumas" creationdate="20240810T012717Z">
+        <seg>負傷した下位悪魔</seg>
       </tuv>
     </tu>
     <tu>
