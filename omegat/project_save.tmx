@@ -20406,6 +20406,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Guild Hunter Aco (Expert)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T024435Z" creationid="yumas" creationdate="20240810T024435Z">
+        <seg>ギルドの狩人・アコ（専門）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guild Hunter Cervus (Adept)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T024407Z" creationid="yumas" creationdate="20240810T024316Z">
+        <seg>ギルドの狩人・サーヴァス（達人）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Guild Hunter Fox</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T022720Z" creationid="yumas" creationdate="20240810T022720Z">
@@ -20424,8 +20440,24 @@
       <tuv lang="en-GB">
         <seg>Guild Hunter Ornus (Adept)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240810T024306Z" creationid="yumas" creationdate="20240810T024306Z">
-        <seg>ギルドの狩人・オーナス（熟練）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T024402Z" creationid="yumas" creationdate="20240810T024306Z">
+        <seg>ギルドの狩人・オーナス（達人）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guild Hunter Teco (Expert)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T024442Z" creationid="yumas" creationdate="20240810T024442Z">
+        <seg>ギルドの狩人・テコ（専門）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guild Hunter Wolf (Master)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T024627Z" creationid="yumas" creationdate="20240810T024627Z">
+        <seg>ギルドの狩人・ウォルフ（師匠）</seg>
       </tuv>
     </tu>
     <tu>
