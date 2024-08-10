@@ -5086,6 +5086,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bloodthirsty Nechryarch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015542Z" creationid="yumas" creationdate="20240810T015536Z">
+        <seg>血に飢えたネクリアーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bloodthirsty Night beast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015502Z" creationid="yumas" creationdate="20240810T015502Z">
+        <seg>血に飢えたナイト・ビースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bloodthirsty Repugnant spectre</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T015250Z" creationid="yumas" creationdate="20240810T015250Z">
@@ -5094,10 +5110,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bloodthirsty Shadow Wyrm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015601Z" creationid="yumas" creationdate="20240810T015553Z">
+        <seg>血に飢えた影ワーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bloodthirsty Turoth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015549Z" creationid="yumas" creationdate="20240810T015549Z">
+        <seg>血に飢えたツーロス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bloodthirsty abomination</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T015214Z" creationid="yumas" creationdate="20240810T015214Z">
         <seg>血に飢えた忌まわしきモノ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bloodthirsty abyssal demon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015526Z" creationid="yumas" creationdate="20240810T015526Z">
+        <seg>血に飢えた深淵の悪魔</seg>
       </tuv>
     </tu>
     <tu>
@@ -5126,10 +5166,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bloodthirsty gargoyle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015353Z" creationid="yumas" creationdate="20240810T015346Z">
+        <seg>血に飢えたガーゴイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bloodthirsty hand</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T014305Z" creationid="yumas" creationdate="20240810T014305Z">
         <seg>血に飢えた手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bloodthirsty kurask</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015304Z" creationid="yumas" creationdate="20240810T015304Z">
+        <seg>血に飢えたクラスク</seg>
       </tuv>
     </tu>
     <tu>
@@ -5146,6 +5202,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T014815Z" creationid="yumas" creationdate="20240810T014815Z">
         <seg>血に飢えたパイヤーロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bloodthirsty smoke devil</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015325Z" creationid="yumas" creationdate="20240810T015325Z">
+        <seg>血に飢えたスモーク・デビル</seg>
       </tuv>
     </tu>
     <tu>
@@ -30856,8 +30920,8 @@
       <tuv lang="en-GB">
         <seg>Night beast</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T051912Z" creationid="yumas" creationdate="20240809T051912Z">
-        <seg>夜の獣</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015510Z" creationid="yumas" creationdate="20240809T051912Z">
+        <seg>ナイト・ビースト</seg>
       </tuv>
     </tu>
     <tu>
