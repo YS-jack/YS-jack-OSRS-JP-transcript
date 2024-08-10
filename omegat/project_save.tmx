@@ -4246,6 +4246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Beehive</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T050737Z" creationid="yumas" creationdate="20240810T050737Z">
+        <seg>ハチの巣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Beer</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T064634Z" creationid="2008l" creationdate="20240809T064634Z">
@@ -8766,6 +8774,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chaos altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T050727Z" creationid="yumas" creationdate="20240810T050727Z">
+        <seg>混沌の祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Chaos druid</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053054Z" creationid="yumas" creationdate="20240805T053054Z">
@@ -9402,6 +9418,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T042601Z" creationid="yumas" creationdate="20240809T042601Z">
         <seg>チェリル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T050802Z" creationid="yumas" creationdate="20240810T050802Z">
+        <seg>宝箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -18094,6 +18118,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gangplank</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T050754Z" creationid="yumas" creationdate="20240810T050754Z">
+        <seg>渡り板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gangster</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T041149Z" creationid="yumas" creationdate="20240809T041149Z">
@@ -18882,6 +18914,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T095148Z" creationid="yumas" creationdate="20240805T095148Z">
         <seg>巨大な地下グモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Giant crystal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T050734Z" creationid="yumas" creationdate="20240810T050734Z">
+        <seg>巨大な水晶</seg>
       </tuv>
     </tu>
     <tu>
@@ -26302,6 +26342,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Large door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T050758Z" creationid="yumas" creationdate="20240810T050758Z">
+        <seg>大きなドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Large mosquito</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T023010Z" creationid="yumas" creationdate="20240809T023010Z">
@@ -27434,6 +27482,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T071117Z" creationid="2008l" creationdate="20240718T071117Z">
         <seg>レバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lever bracket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T050931Z" creationid="yumas" creationdate="20240810T050931Z">
+        <seg>レバーの装着口</seg>
       </tuv>
     </tu>
     <tu>
@@ -35666,6 +35722,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T213456Z" creationid="yumas" creationdate="20240807T213456Z">
         <seg>アストリド姫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Prison Gate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T050814Z" creationid="yumas" creationdate="20240810T050814Z">
+        <seg>牢屋の扉</seg>
       </tuv>
     </tu>
     <tu>
@@ -44078,6 +44142,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stairs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T050715Z" creationid="yumas" creationdate="20240810T050715Z">
+        <seg>階段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stake</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240806T063205Z" creationid="2008l" creationdate="20240806T063205Z">
@@ -48208,6 +48280,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Trapdoor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T050952Z" creationid="yumas" creationdate="20240810T050952Z">
+        <seg>落とし戸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Trapped Soul</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T071613Z" creationid="yumas" creationdate="20240809T071613Z">
@@ -50284,6 +50364,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T043442Z" creationid="yumas" creationdate="20240809T043442Z">
         <seg>ヴィリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T050719Z" creationid="yumas" creationdate="20240810T050719Z">
+        <seg>ツル</seg>
       </tuv>
     </tu>
     <tu>
