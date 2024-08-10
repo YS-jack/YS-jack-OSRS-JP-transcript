@@ -2531,7 +2531,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="317">
         <xliff:source>Unpowered orb</xliff:source>
-        <xliff:target state="translated">無力のオーブ</xliff:target>
+        <xliff:target state="translated">無効力のオーブ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Unpowered orb
@@ -7587,7 +7587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="949">
         <xliff:source>Unpowered symbol</xliff:source>
-        <xliff:target state="translated">無力のシンボル</xliff:target>
+        <xliff:target state="translated">無効力のシンボル</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Unpowered symbol
@@ -49859,7 +49859,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6233">
         <xliff:source>Beaver</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ビーバー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Beaver
@@ -77275,7 +77275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9660">
         <xliff:source>Wisp</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ウィスプ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Wisp
@@ -77283,7 +77283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9661">
         <xliff:source>Butch</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ブッチュ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Butch
@@ -77291,7 +77291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9662">
         <xliff:source>Baron</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">バロン</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Baron
@@ -77299,7 +77299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9663">
         <xliff:source>Lil'viathan</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ちっこいヴァイアサン</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Lil'viathan

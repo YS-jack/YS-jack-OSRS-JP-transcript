@@ -6403,7 +6403,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10983">
         <xliff:source>Lesser demon</xliff:source>
-        <xliff:target state="translated">下位の悪魔</xliff:target>
+        <xliff:target state="translated">下位悪魔</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Lesser demon
@@ -6411,7 +6411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10984">
         <xliff:source>Greater demon</xliff:source>
-        <xliff:target state="translated">上位の悪魔</xliff:target>
+        <xliff:target state="translated">上位悪魔</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Greater demon
@@ -11067,7 +11067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11566">
         <xliff:source>Lesser Demon Champion</xliff:source>
-        <xliff:target state="translated">下位の悪魔のチャンピオン</xliff:target>
+        <xliff:target state="translated">下位悪魔のチャンピオン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Lesser Demon Champion
@@ -21635,7 +21635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12887">
         <xliff:source>Mutated Bloodveld</xliff:source>
-        <xliff:target state="translated">ブラッドベルドの変異体</xliff:target>
+        <xliff:target state="translated">変異ブラッドベルド</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Mutated Bloodveld
@@ -22011,7 +22011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12934">
         <xliff:source>Insatiable mutated Bloodveld</xliff:source>
-        <xliff:target state="translated">強欲なブラッドベルドの変異体</xliff:target>
+        <xliff:target state="translated">強欲な変異ブラッドベルド</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Insatiable mutated Bloodveld
@@ -22091,7 +22091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12944">
         <xliff:source>Night beast</xliff:source>
-        <xliff:target state="translated">夜の獣</xliff:target>
+        <xliff:target state="translated">ナイト・ビースト</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Night beast
@@ -30795,7 +30795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14032">
         <xliff:source>Hallowed Sepulchre Coffin</xliff:source>
-        <xliff:target state="translated">聖なるセプルカーの棺</xliff:target>
+        <xliff:target state="translated">聖なるセプルカの棺</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Hallowed Sepulchre Coffin
@@ -30803,7 +30803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14033">
         <xliff:source>Hallowed Sepulchre Grand Coffin</xliff:source>
-        <xliff:target state="translated">ハロウド・セプルシュレ</xliff:target>
+        <xliff:target state="translated">聖なるセプルカの大棺</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Hallowed Sepulchre Grand Coffin
@@ -30811,7 +30811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14034">
         <xliff:source>Corrupted Warrior</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">変異した戦士</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Corrupted Warrior
@@ -30819,7 +30819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14035">
         <xliff:source>Emma</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エマ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Emma
@@ -30827,7 +30827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14036">
         <xliff:source>Suzie</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">スーズィー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Suzie
@@ -30835,7 +30835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14037">
         <xliff:source>Flowering bush (Lilac)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">花咲く低木（リラック）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Flowering bush (Lilac)
@@ -30843,7 +30843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14038">
         <xliff:source>Sir Pear Visor</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">サー・ペア・バイザー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Sir Pear Visor
@@ -30851,7 +30851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14039">
         <xliff:source>Strange bush (Lilac)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">謎の低木（リラク）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Strange bush (Lilac)
@@ -30859,7 +30859,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14040">
         <xliff:source>Flowering bush (Pink)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">花咲く低木（ピンク）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Flowering bush (Pink)
@@ -30867,7 +30867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14041">
         <xliff:source>Strange bush (Pink)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">謎の低木（ピンク）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Strange bush (Pink)
@@ -30875,7 +30875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14042">
         <xliff:source>Flowering bush (Red)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">花咲く低木（赤）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Flowering bush (Red)
@@ -30883,7 +30883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14043">
         <xliff:source>Strange bush (Red)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">謎の低木（赤）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Strange bush (Red)
@@ -30891,7 +30891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14044">
         <xliff:source>Flowering bush (Orange)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">花咲く低木（オレンジ）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Flowering bush (Orange)
@@ -30899,7 +30899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14045">
         <xliff:source>Strange bush (Orange)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">謎の低木（オレンジ）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Strange bush (Orange)
@@ -30907,7 +30907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14046">
         <xliff:source>Flowering bush (Yellow)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">花咲く低木（黄）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Flowering bush (Yellow)
@@ -30915,7 +30915,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14047">
         <xliff:source>Strange bush (Yellow)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">謎の低木（黄）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Strange bush (Yellow)
@@ -30923,7 +30923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14048">
         <xliff:source>Flowering bush (White)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">花咲く低木（白）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Flowering bush (White)
@@ -30931,7 +30931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14049">
         <xliff:source>Strange bush (White)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">謎の低木（白）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Strange bush (White)
@@ -30939,7 +30939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14050">
         <xliff:source>Flowering bush (Green)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">花咲く低木（黄）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Flowering bush (Green)
@@ -30947,7 +30947,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14051">
         <xliff:source>Strange bush (Green)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">謎の低木（緑）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Strange bush (Green)
@@ -30955,7 +30955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14052">
         <xliff:source>Flowering bush (Blue)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">花咲く低木（青）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Flowering bush (Blue)
@@ -30963,7 +30963,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14053">
         <xliff:source>Strange bush (Blue)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">謎の低木（青）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Strange bush (Blue)
@@ -30971,7 +30971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14054">
         <xliff:source>Wisp</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ウィスプ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Wisp
@@ -30979,7 +30979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14055">
         <xliff:source>Butch</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ブッチュ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Butch
@@ -30987,7 +30987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14056">
         <xliff:source>Baron</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">バロン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Baron
@@ -30995,7 +30995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14057">
         <xliff:source>Lil'viathan</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ちっこいヴァイアサン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Lil'viathan
@@ -31003,7 +31003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14058">
         <xliff:source>Asgarnia Smith</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アスガニア・スミス</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Asgarnia Smith
@@ -31011,7 +31011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14059">
         <xliff:source>Woodcutting Leprechaun</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">木こりのレプラコーン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Woodcutting Leprechaun
@@ -31019,7 +31019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14060">
         <xliff:source>Duke Sucellus</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">スケラス公爵</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Duke Sucellus
@@ -31027,7 +31027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14061">
         <xliff:source>Friendly Bees</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">友好的なハチ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Friendly Bees
@@ -31035,7 +31035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14062">
         <xliff:source>Beaver</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ビーバー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Beaver
@@ -31043,7 +31043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14063">
         <xliff:source>Odd Figure</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">奇妙な存在</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Odd Figure
@@ -31051,7 +31051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14064">
         <xliff:source>The Whisperer</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ザ・ウィスパラー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: The Whisperer
@@ -31059,7 +31059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14065">
         <xliff:source>Floating Column</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">浮く柱</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Floating Column
@@ -31067,7 +31067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14066">
         <xliff:source>Lost Soul</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">迷える魂</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Lost Soul
@@ -31075,7 +31075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14067">
         <xliff:source>The Leviathan</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ザ・リヴァイアサン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: The Leviathan
@@ -31083,7 +31083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14068">
         <xliff:source>Tail</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">尾</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Tail
@@ -31091,7 +31091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14069">
         <xliff:source>Abyssal pathfinder</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">深淵の探索者</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Abyssal pathfinder
@@ -31099,7 +31099,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14070">
         <xliff:source>The Leviathan?</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ザ・リヴァイアサン？</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: The Leviathan?
@@ -31107,7 +31107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14071">
         <xliff:source>Vardorvis</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ヴァードーヴィス</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Vardorvis
@@ -31115,7 +31115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14072">
         <xliff:source>Large Tendril</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">大きな巻きひげ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Large Tendril
@@ -31123,7 +31123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14073">
         <xliff:source>Vardorvis' Head</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ヴァードーヴィスの頭部</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Vardorvis' Head
@@ -31131,7 +31131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14074">
         <xliff:source>Prescott</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">プレスコット</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Prescott
@@ -31139,7 +31139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14075">
         <xliff:source>Ketla</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ケトラ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Ketla
@@ -31147,7 +31147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14076">
         <xliff:source>Me?</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">自分？</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Me?
@@ -31155,7 +31155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14077">
         <xliff:source>Shadow Keeper</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">影の守護者</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Shadow Keeper
@@ -31163,7 +31163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14078">
         <xliff:source>Barus</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">バルス</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Barus
@@ -31171,7 +31171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14079">
         <xliff:source>Kasonde</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">カソンデ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Kasonde
@@ -31179,7 +31179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14080">
         <xliff:source>Strangled</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">絞殺された者</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Strangled
@@ -31187,7 +31187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14081">
         <xliff:source>Strangled Bear</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">絞殺されたクマ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Strangled Bear
@@ -31195,7 +31195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14082">
         <xliff:source>Strangled Boar</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">絞殺されたイノシシ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Strangled Boar
@@ -31203,7 +31203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14083">
         <xliff:source>Strangled Lynx</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">絞殺されたオオヤマネコ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Strangled Lynx
@@ -31211,7 +31211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14084">
         <xliff:source>Dr Banikan</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">バニカン先生</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Dr Banikan
@@ -31219,7 +31219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14085">
         <xliff:source>Sliske</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">スレスケー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Sliske
@@ -31227,7 +31227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14086">
         <xliff:source>The Forsaken Assassin</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">見捨てられた暗殺者</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: The Forsaken Assassin
@@ -31235,7 +31235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14087">
         <xliff:source>Ketla the Unworthy</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">不肖ケトラ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Ketla the Unworthy
@@ -31243,7 +31243,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14088">
         <xliff:source>Kasonde the Craven</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">渇望のカソンデ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Kasonde the Craven
@@ -31251,7 +31251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14089">
         <xliff:source>Persten the Deceitful</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">欺瞞のペーステン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Persten the Deceitful
@@ -31259,7 +31259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14090">
         <xliff:source>Wighted Leech</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">錐のヒル</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Wighted Leech
@@ -31267,7 +31267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14091">
         <xliff:source>Smoke Totem</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">煙のトーテム</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Smoke Totem
@@ -31275,7 +31275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14092">
         <xliff:source>Shadow Totem</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">影のトーテム</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Shadow Totem
@@ -31283,7 +31283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14093">
         <xliff:source>Blood Totem</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血のトーテム</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Blood Totem
@@ -31291,7 +31291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14094">
         <xliff:source>Ice Totem</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">氷のトーテム</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Ice Totem
@@ -31299,7 +31299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14095">
         <xliff:source>Mysterious Bandit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">不可思議な盗賊</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Mysterious Bandit
@@ -31307,7 +31307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14096">
         <xliff:source>Cerebral pathfinder</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">脳の探索者</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Cerebral pathfinder
@@ -31315,7 +31315,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14097">
         <xliff:source>Cerebral pathbreaker</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">脳の開拓者</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Cerebral pathbreaker
@@ -31323,7 +31323,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14098">
         <xliff:source>Catalyst</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">触媒</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Catalyst
@@ -31331,7 +31331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14099">
         <xliff:source>Scarred lesser demon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">負傷した下位悪魔</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Scarred lesser demon
@@ -31339,7 +31339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14100">
         <xliff:source>Light leech</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">灯すヒル</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Light leech
@@ -31347,7 +31347,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14101">
         <xliff:source>Crimson sanguisphera</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">深紅のサングイスフェラ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Crimson sanguisphera
@@ -31355,7 +31355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14102">
         <xliff:source>Radiant sanguisphera</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">放射性サングイスフェラ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Radiant sanguisphera
@@ -31363,7 +31363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14103">
         <xliff:source>Brain Pillar</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">脳柱</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Brain Pillar
@@ -31371,7 +31371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14104">
         <xliff:source>Abyssal antibody</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">深淵の抗体</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Abyssal antibody
@@ -31379,7 +31379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14105">
         <xliff:source>Scarred greater demon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">負傷した上位悪魔</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Scarred greater demon
@@ -31387,7 +31387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14106">
         <xliff:source>Scarred hellhound</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">負傷したヘルハウンド</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Scarred hellhound
@@ -31395,7 +31395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14107">
         <xliff:source>Abyssal axon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">深淵の軸索</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Abyssal axon
@@ -31403,7 +31403,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14108">
         <xliff:source>Scarred imp</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">負傷した小悪魔</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Scarred imp
@@ -31411,7 +31411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14109">
         <xliff:source>Catalytic Guardian</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">触媒の守護者</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Catalytic Guardian
@@ -31419,7 +31419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14110">
         <xliff:source>Scarred black demon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">負傷した黒悪魔</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Scarred black demon
@@ -31427,7 +31427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14111">
         <xliff:source>Giant goblin</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">巨大なゴブリン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Giant goblin
@@ -31435,7 +31435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14112">
         <xliff:source>Mutated Terrorbird</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">変異テラー鳥</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Mutated Terrorbird
@@ -31443,7 +31443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14113">
         <xliff:source>Mutated Tortoise</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">変異カメ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Mutated Tortoise
@@ -31451,7 +31451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14114">
         <xliff:source>Longramble</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ロングランブル</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Longramble
@@ -31459,7 +31459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14115">
         <xliff:source>Yewnock the Engineer</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">技術者のユーノック</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Yewnock the Engineer
@@ -31467,7 +31467,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14116">
         <xliff:source>King Bolrie</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ボルリー王</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: King Bolrie
@@ -31475,7 +31475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14117">
         <xliff:source>Bolrie</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ボルリー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bolrie
@@ -31483,7 +31483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14118">
         <xliff:source>Advisor</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">顧問</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Advisor
@@ -31491,7 +31491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14119">
         <xliff:source>Argenthorg</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アーゲンソーグ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Argenthorg
@@ -31499,7 +31499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14120">
         <xliff:source>Terrorbird Guard 21</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">テラー鳥の警備兵21</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Terrorbird Guard 21
@@ -31507,7 +31507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14121">
         <xliff:source>Terrorbird Guard 72</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">テラー鳥の警備兵72</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Terrorbird Guard 72
@@ -31515,7 +31515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14122">
         <xliff:source>Big Monolith</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">大きなモノリス</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Big Monolith
@@ -31523,7 +31523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14123">
         <xliff:source>Small Monolith</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">小さなモノリス</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Small Monolith
@@ -31531,7 +31531,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14124">
         <xliff:source>Warped Tortoise</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">歪んだカメ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Warped Tortoise
@@ -31539,7 +31539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14125">
         <xliff:source>Warped Terrorbird</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">歪んだテラー鳥</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Warped Terrorbird
@@ -31547,7 +31547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14126">
         <xliff:source>Hagus</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ハグス</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Hagus
@@ -31555,7 +31555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14127">
         <xliff:source>Spidey dog</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クモイヌ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Spidey dog
@@ -31563,7 +31563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14128">
         <xliff:source>Unfinished Beehive</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">未完成なハチの巣</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Unfinished Beehive
@@ -31571,7 +31571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14129">
         <xliff:source>Complete Beehive</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">完成したハチの巣</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Complete Beehive
@@ -31579,7 +31579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14130">
         <xliff:source>Wild Beehive</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">野生のハチの巣</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Wild Beehive
@@ -31587,7 +31587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14131">
         <xliff:source>Ritual circle (green)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魔法陣（緑）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Ritual circle (green)
@@ -31595,7 +31595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14132">
         <xliff:source>Ritual circle (yellow)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魔法陣（黄）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Ritual circle (yellow)
@@ -31603,7 +31603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14133">
         <xliff:source>Ritual circle (blue)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魔法陣（青）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Ritual circle (blue)
@@ -31611,7 +31611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14134">
         <xliff:source>Ritual circle (red)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魔法陣（赤）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Ritual circle (red)
@@ -31619,7 +31619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14135">
         <xliff:source>Bloodthirsty hand</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えた手</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty hand
@@ -31627,7 +31627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14136">
         <xliff:source>Bloodthirsty Crawler</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えた這うモノ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty Crawler
@@ -31635,7 +31635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14137">
         <xliff:source>Bloodthirsty banshee</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えたバンシー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty banshee
@@ -31643,7 +31643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14138">
         <xliff:source>Fox trap</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">キツネの罠</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Fox trap
@@ -31651,7 +31651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14139">
         <xliff:source>Bloodthirsty twisted banshee</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢え歪んだバンシー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty twisted banshee
@@ -31659,7 +31659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14140">
         <xliff:source>Entling</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">幼いエント</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Entling
@@ -31667,7 +31667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14141">
         <xliff:source>Pruned Entling</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">せん定された幼いエント</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Pruned Entling
@@ -31675,7 +31675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14142">
         <xliff:source>Friendly Ent</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">優しいエント</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Friendly Ent
@@ -31683,7 +31683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14143">
         <xliff:source>Poacher</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">密猟者</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Poacher
@@ -31691,7 +31691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14144">
         <xliff:source>Frightened Fox</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">怯えたキツネ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Frightened Fox
@@ -31699,7 +31699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14145">
         <xliff:source>Bloodthirst rockslug</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えた岩ナメクジ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirst rockslug
@@ -31707,7 +31707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14146">
         <xliff:source>Bloodthirsty Cockathrice</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えたコカスライス</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty Cockathrice
@@ -31715,7 +31715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14147">
         <xliff:source>Bloodthirsty pyrelord</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えたパイヤーロード</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty pyrelord
@@ -31723,7 +31723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14148">
         <xliff:source>Bloodthirsty Infernal pyrelord</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えた獄炎のパイヤーロード</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty Infernal pyrelord
@@ -31731,7 +31731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14149">
         <xliff:source>Bloodthirsty basilisk</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えたバジリスク</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty basilisk
@@ -31739,7 +31739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14150">
         <xliff:source>Bloodthirsty Basilisk Sentinel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えたバジリスク歩哨</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty Basilisk Sentinel
@@ -31747,7 +31747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14151">
         <xliff:source>Bloodthirsty Mage</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えた魔術師</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty Mage
@@ -31755,7 +31755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14152">
         <xliff:source>Bloodthirsty Bloodveld</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えたブラッドヴェルド</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty Bloodveld
@@ -31763,7 +31763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14153">
         <xliff:source>Bloodthirsty mutated Bloodveld</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えた変異ブラッドヴェルド</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty mutated Bloodveld
@@ -31771,7 +31771,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14154">
         <xliff:source>Bloodthirsty Jelly</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えたゼリー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty Jelly
@@ -31779,7 +31779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14155">
         <xliff:source>Bloodthirsty warped Jelly</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢え歪んだゼリー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty warped Jelly
@@ -31787,7 +31787,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14156">
         <xliff:source>Bloodthirsty abomination</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えた忌まわしきモノ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty abomination
@@ -31795,7 +31795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14157">
         <xliff:source>Bloodthirsty spectre</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えた亡霊</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty spectre
@@ -31803,7 +31803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14158">
         <xliff:source>Bloodthirsty Repugnant spectre</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えた嫌悪の亡霊</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty Repugnant spectre
@@ -31811,7 +31811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14159">
         <xliff:source>Bloodthirsty choke devil</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えたチョーク・デビル</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty choke devil
@@ -31819,7 +31819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14160">
         <xliff:source>Bloodthirsty kurask</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えたクラスク</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty kurask
@@ -31827,7 +31827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14161">
         <xliff:source>Bloodthirsty smoke devil</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えたスモーク・デビル</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty smoke devil
@@ -31835,7 +31835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14162">
         <xliff:source>Bloodthirsty gargoyle</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えたガーゴイル</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty gargoyle
@@ -31843,7 +31843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14163">
         <xliff:source>Bloodthirsty Night beast</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えたナイト・ビースト</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty Night beast
@@ -31851,7 +31851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14164">
         <xliff:source>Bloodthirsty abyssal demon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えた深淵の悪魔</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty abyssal demon
@@ -31859,7 +31859,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14165">
         <xliff:source>Bloodthirsty Nechryarch</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えたネクリアーク</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty Nechryarch
@@ -31867,7 +31867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14166">
         <xliff:source>Bloodthirsty Turoth</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えたツーロス</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty Turoth
@@ -31875,7 +31875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14167">
         <xliff:source>Bloodthirsty Shadow Wyrm</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えた影ワーム</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty Shadow Wyrm
@@ -31883,7 +31883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14168">
         <xliff:source>Bloodthirsty Drake</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えたドレイク</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty Drake
@@ -31891,7 +31891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14169">
         <xliff:source>Bloodthirsty Hydra</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血に飢えたヒドラ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bloodthirsty Hydra
@@ -31899,7 +31899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14170">
         <xliff:source>Muspah</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マスパ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Muspah
