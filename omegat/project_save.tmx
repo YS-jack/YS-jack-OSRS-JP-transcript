@@ -3646,6 +3646,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bank buffalo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T024825Z" creationid="yumas" creationdate="20240810T024825Z">
+        <seg>銀行バッファロー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bank guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134907Z" creationid="yumas" creationdate="20240805T134907Z">
@@ -20408,8 +20416,8 @@
       <tuv lang="en-GB">
         <seg>Guild Hunter Aco (Expert)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240810T024435Z" creationid="yumas" creationdate="20240810T024435Z">
-        <seg>ギルドの狩人・アコ（専門）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T024700Z" creationid="yumas" creationdate="20240810T024435Z">
+        <seg>ギルドの狩人・アコ（専家）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20448,8 +20456,8 @@
       <tuv lang="en-GB">
         <seg>Guild Hunter Teco (Expert)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240810T024442Z" creationid="yumas" creationdate="20240810T024442Z">
-        <seg>ギルドの狩人・テコ（専門）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T024631Z" creationid="yumas" creationdate="20240810T024442Z">
+        <seg>ギルドの狩人・テコ（専家）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20458,6 +20466,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T024627Z" creationid="yumas" creationdate="20240810T024627Z">
         <seg>ギルドの狩人・ウォルフ（師匠）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guild Scribe Verity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T024755Z" creationid="yumas" creationdate="20240810T024715Z">
+        <seg>ギルドの書記・ヴェリティー</seg>
       </tuv>
     </tu>
     <tu>
@@ -39848,8 +39864,8 @@
       <tuv lang="en-GB">
         <seg>Santa's scribe</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240810T020059Z" creationid="yumas" creationdate="20240810T020059Z">
-        <seg>サンタズ・スクリブル</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T024734Z" creationid="yumas" creationdate="20240810T020059Z">
+        <seg>サンタの書記</seg>
       </tuv>
     </tu>
     <tu>
