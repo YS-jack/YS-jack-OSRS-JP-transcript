@@ -5654,6 +5654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blurberry bar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T051824Z" creationid="yumas" creationdate="20240810T051824Z">
+        <seg>ブラーベリーのバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blurite ore</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T070633Z" creationid="2008l" creationdate="20240725T070633Z">
@@ -5890,6 +5898,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064249Z" creationid="2008l" creationdate="20240726T064249Z">
         <seg>化学に関する本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bookcase</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T051656Z" creationid="yumas" creationdate="20240810T051656Z">
+        <seg>本棚</seg>
       </tuv>
     </tu>
     <tu>
@@ -7542,6 +7558,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Candles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T051850Z" creationid="yumas" creationdate="20240810T051850Z">
+        <seg>ロウソク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Caninelle Draynar</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T085803Z" creationid="yumas" creationdate="20240809T085803Z">
@@ -8586,6 +8610,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070722Z" creationid="yumas" creationdate="20240805T070722Z">
         <seg>チャンシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chandelier</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T051856Z" creationid="yumas" creationdate="20240810T051856Z">
+        <seg>シャンデリア</seg>
       </tuv>
     </tu>
     <tu>
@@ -11194,6 +11226,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T075043Z" creationid="2008l" creationdate="20240805T075043Z">
         <seg>クランドーの地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crashed glider</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T051755Z" creationid="yumas" creationdate="20240810T051755Z">
+        <seg>墜落したグライダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -19438,6 +19478,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gnome glider</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T051739Z" creationid="yumas" creationdate="20240810T051739Z">
+        <seg>ノームのグライダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gnome guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T085720Z" creationid="yumas" creationdate="20240805T085720Z">
@@ -22142,6 +22190,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hollowed rock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T051845Z" creationid="yumas" creationdate="20240810T051845Z">
+        <seg>空の岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Holoy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T133452Z" creationid="yumas" creationdate="20240806T133452Z">
@@ -22954,6 +23010,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T050501Z" creationid="yumas" creationdate="20240809T050435Z">
         <seg>非力な炎魔術師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Incinerator</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T051733Z" creationid="yumas" creationdate="20240810T051733Z">
+        <seg>焼却炉</seg>
       </tuv>
     </tu>
     <tu>
@@ -26298,6 +26362,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T040800Z" creationid="yumas" creationdate="20240809T040800Z">
         <seg>ラミー・ラングル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lamp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T051847Z" creationid="yumas" creationdate="20240810T051847Z">
+        <seg>ランプ</seg>
       </tuv>
     </tu>
     <tu>
@@ -44926,6 +44998,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strange machine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T051714Z" creationid="yumas" creationdate="20240810T051714Z">
+        <seg>不思議な機械</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strange plant</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045208Z" creationid="yumas" creationdate="20240805T045208Z">
@@ -50804,6 +50884,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214222Z" creationid="yumas" creationdate="20240730T214222Z">
         <seg>を歩いて上る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T051659Z" creationid="yumas" creationdate="20240810T051659Z">
+        <seg>壁</seg>
       </tuv>
     </tu>
     <tu>
