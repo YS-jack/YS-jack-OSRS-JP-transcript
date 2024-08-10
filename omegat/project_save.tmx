@@ -5022,6 +5022,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bloodthirsty Crawler</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T014319Z" creationid="yumas" creationdate="20240810T014319Z">
+        <seg>血に飢えた這うモノ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bloodthirsty banshee</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T014404Z" creationid="yumas" creationdate="20240810T014404Z">
+        <seg>血に飢えたバンシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bloodthirsty hand</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T014305Z" creationid="yumas" creationdate="20240810T014305Z">
+        <seg>血に飢えた手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bloodveld</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T051805Z" creationid="yumas" creationdate="20240805T051805Z">
@@ -9962,6 +9986,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T122759Z" creationid="yumas" creationdate="20240803T122759Z">
         <seg>完成させる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Complete Beehive</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T014139Z" creationid="yumas" creationdate="20240810T014139Z">
+        <seg>完成したハチの巣</seg>
       </tuv>
     </tu>
     <tu>
@@ -20026,6 +20058,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T003930Z" creationid="yumas" creationdate="20240809T003930Z">
         <seg>ハフバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hagus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T014107Z" creationid="yumas" creationdate="20240810T014107Z">
+        <seg>ハグス</seg>
       </tuv>
     </tu>
     <tu>
@@ -37462,6 +37502,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ritual circle (blue)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T014248Z" creationid="yumas" creationdate="20240810T014248Z">
+        <seg>魔法陣（青）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ritual circle (green)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T014234Z" creationid="yumas" creationdate="20240810T014234Z">
+        <seg>魔法陣（緑）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ritual circle (red)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T014256Z" creationid="yumas" creationdate="20240810T014256Z">
+        <seg>魔法陣（赤）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ritual circle (yellow)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T014244Z" creationid="yumas" creationdate="20240810T014244Z">
+        <seg>魔法陣（黄）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>River troll</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T040213Z" creationid="yumas" creationdate="20240809T040213Z">
@@ -41914,6 +41986,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T122426Z" creationid="yumas" creationdate="20240806T122426Z">
         <seg>クモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spidey dog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T014119Z" creationid="yumas" creationdate="20240810T014119Z">
+        <seg>クモイヌ</seg>
       </tuv>
     </tu>
     <tu>
@@ -47456,6 +47536,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Unfinished Beehive</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T014134Z" creationid="yumas" creationdate="20240810T014134Z">
+        <seg>未完成なハチの巣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Unfired bowl</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T070223Z" creationid="2008l" creationdate="20240808T070223Z">
@@ -48888,6 +48976,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Warped Terrorbird</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T014101Z" creationid="yumas" creationdate="20240810T014101Z">
+        <seg>歪んだテラー鳥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Warped Tortoise</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T014056Z" creationid="yumas" creationdate="20240810T014056Z">
@@ -49396,6 +49492,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T012344Z" creationid="yumas" creationdate="20240810T012344Z">
         <seg>錐のヒル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wild Beehive</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T014146Z" creationid="yumas" creationdate="20240810T014146Z">
+        <seg>野生のハチの巣</seg>
       </tuv>
     </tu>
     <tu>
