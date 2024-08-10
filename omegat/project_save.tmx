@@ -5070,10 +5070,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bloodthirsty Jelly</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015142Z" creationid="yumas" creationdate="20240810T015142Z">
+        <seg>血に飢えたゼリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bloodthirsty Mage</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T014946Z" creationid="yumas" creationdate="20240810T014946Z">
         <seg>血に飢えた魔術師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bloodthirsty Repugnant spectre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015250Z" creationid="yumas" creationdate="20240810T015250Z">
+        <seg>血に飢えた嫌悪の亡霊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bloodthirsty abomination</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015214Z" creationid="yumas" creationdate="20240810T015214Z">
+        <seg>血に飢えた忌まわしきモノ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5090,6 +5114,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T014840Z" creationid="yumas" creationdate="20240810T014840Z">
         <seg>血に飢えたバジリスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bloodthirsty choke devil</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015259Z" creationid="yumas" creationdate="20240810T015259Z">
+        <seg>血に飢えたチョーク・デビル</seg>
       </tuv>
     </tu>
     <tu>
@@ -5118,10 +5150,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bloodthirsty spectre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015237Z" creationid="yumas" creationdate="20240810T015237Z">
+        <seg>血に飢えた亡霊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bloodthirsty twisted banshee</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T014535Z" creationid="yumas" creationdate="20240810T014452Z">
         <seg>血に飢え歪んだバンシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bloodthirsty warped Jelly</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015150Z" creationid="yumas" creationdate="20240810T015150Z">
+        <seg>血に飢え歪んだゼリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -22072,8 +22120,8 @@
       <tuv lang="en-GB">
         <seg>Insatiable mutated Bloodveld</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T051321Z" creationid="yumas" creationdate="20240809T051321Z">
-        <seg>強欲なブラッドベルドの変異体</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015042Z" creationid="yumas" creationdate="20240809T051321Z">
+        <seg>強欲な変異ブラッドベルド</seg>
       </tuv>
     </tu>
     <tu>
@@ -30240,24 +30288,24 @@
       <tuv lang="en-GB">
         <seg>Mutated Bloodveld</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T044801Z" creationid="yumas" creationdate="20240809T044801Z">
-        <seg>ブラッドベルドの変異体</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015030Z" creationid="yumas" creationdate="20240809T044801Z">
+        <seg>変異ブラッドベルド</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Mutated Terrorbird</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240810T013734Z" creationid="yumas" creationdate="20240810T013734Z">
-        <seg>変異したテラー鳥</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015047Z" creationid="yumas" creationdate="20240810T013734Z">
+        <seg>変異テラー鳥</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Mutated Tortoise</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240810T013740Z" creationid="yumas" creationdate="20240810T013740Z">
-        <seg>変異したカメ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T015050Z" creationid="yumas" creationdate="20240810T013740Z">
+        <seg>変異カメ</seg>
       </tuv>
     </tu>
     <tu>
