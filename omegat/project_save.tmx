@@ -7334,6 +7334,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Callio</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T023919Z" creationid="yumas" creationdate="20240810T023919Z">
+        <seg>カリオ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Callisto</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T025330Z" creationid="yumas" creationdate="20240809T025319Z">
@@ -20414,10 +20422,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Guild Hunter Ornus (Adept)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T024306Z" creationid="yumas" creationdate="20240810T024306Z">
+        <seg>ギルドの狩人・オーナス（熟練）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Guildmaster</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T063318Z" creationid="yumas" creationdate="20240805T063318Z">
         <seg>ギルドマスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guildmaster Apatura</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T023937Z" creationid="yumas" creationdate="20240810T023937Z">
+        <seg>ギルドマスターのアパチュラ</seg>
       </tuv>
     </tu>
     <tu>
@@ -22034,6 +22058,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T091519Z" creationid="yumas" creationdate="20240805T091519Z">
         <seg>狩りの専門家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Huntmaster Gilman (Novice)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T024214Z" creationid="yumas" creationdate="20240810T024214Z">
+        <seg>猟匠ギルマン（新米）</seg>
       </tuv>
     </tu>
     <tu>
