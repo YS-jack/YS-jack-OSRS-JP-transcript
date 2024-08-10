@@ -2350,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Apple pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240810T070352Z" creationid="2008l" creationdate="20240810T070352Z">
+        <seg>アップルパイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Apply</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T041006Z" creationid="yumas" creationdate="20240805T041006Z">
@@ -7250,6 +7258,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T063811Z" creationid="2008l" creationdate="20240810T063811Z">
         <seg>焦げた肉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burnt pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240810T070412Z" creationid="2008l" creationdate="20240810T070412Z">
+        <seg>焦げたパイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -21622,6 +21638,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Half a meat pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240810T070453Z" creationid="2008l" creationdate="20240810T070453Z">
+        <seg>1/2ミートパイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Half a redberry pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240810T070507Z" creationid="2008l" creationdate="20240810T070507Z">
+        <seg>1/2ベリーパイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Half an apple pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240810T070540Z" creationid="2008l" creationdate="20240810T070540Z">
+        <seg>1/2アップルパイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Half baked batta</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T065821Z" creationid="2008l" creationdate="20240810T065821Z">
@@ -30414,6 +30454,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Meat pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240810T070406Z" creationid="2008l" creationdate="20240810T070406Z">
+        <seg>肉パイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Meat pizza</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T070056Z" creationid="2008l" creationdate="20240810T070056Z">
@@ -34454,6 +34502,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Palm leaf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240810T070703Z" creationid="2008l" creationdate="20240810T070703Z">
+        <seg>ヤシの葉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Palm of Resourcefulness</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T114056Z" creationid="yumas" creationdate="20240809T114056Z">
@@ -38142,6 +38198,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Raw oomlie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240810T070611Z" creationid="2008l" creationdate="20240810T070611Z">
+        <seg>生のウームリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Raw pike</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T063423Z" creationid="2008l" creationdate="20240723T063423Z">
@@ -38770,6 +38834,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T065216Z" creationid="2008l" creationdate="20240809T065216Z">
         <seg>赤ベリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Redberry pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240810T070359Z" creationid="2008l" creationdate="20240810T070359Z">
+        <seg>ベリーパイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -50480,6 +50552,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Uncooked berry pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240810T070349Z" creationid="2008l" creationdate="20240810T070349Z">
+        <seg>生のベリーパイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Uncooked cake</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T064010Z" creationid="2008l" creationdate="20240809T064010Z">
@@ -50498,8 +50578,8 @@
       <tuv lang="en-GB">
         <seg>Uncooked meat pie</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240810T070342Z" creationid="2008l" creationdate="20240810T070342Z">
-        <seg>生の肉パイ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240810T070500Z" creationid="2008l" creationdate="20240810T070342Z">
+        <seg>生のミートパイ</seg>
       </tuv>
     </tu>
     <tu>
