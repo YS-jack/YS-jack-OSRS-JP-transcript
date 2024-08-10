@@ -16638,6 +16638,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Figurehead</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T052042Z" creationid="yumas" creationdate="20240810T052042Z">
+        <seg>船首像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Filamina</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T044314Z" creationid="yumas" creationdate="20240809T044314Z">
@@ -22610,6 +22618,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T120920Z" creationid="yumas" creationdate="20240809T120920Z">
         <seg>ラクダのイビル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ice Light</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T051908Z" creationid="yumas" creationdate="20240810T051908Z">
+        <seg>氷の灯り</seg>
       </tuv>
     </tu>
     <tu>
@@ -34942,6 +34958,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pile of rope</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T052053Z" creationid="yumas" creationdate="20240810T052053Z">
+        <seg>ロープの山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Piles</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T042545Z" creationid="yumas" creationdate="20240805T042545Z">
@@ -41914,6 +41938,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T065601Z" creationid="2008l" creationdate="20240725T065601Z">
         <seg>船のチケット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ship's ladder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T052057Z" creationid="yumas" creationdate="20240810T052057Z">
+        <seg>船のハシゴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ship's wheel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T052135Z" creationid="yumas" creationdate="20240810T052135Z">
+        <seg>舵輪</seg>
       </tuv>
     </tu>
     <tu>
@@ -51632,6 +51672,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Winch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T052217Z" creationid="yumas" creationdate="20240810T052217Z">
+        <seg>ウィンチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Wind</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T125951Z" creationid="yumas" creationdate="20240803T125916Z">
@@ -54253,6 +54301,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T030010Z" creationid="yumas" creationdate="20240810T030010Z">
         <seg>スパイク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_object.xliff</prop>
+      <prop type="id">14410</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Sail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T051942Z" creationid="yumas" creationdate="20240810T051942Z">
+        <seg>帆</seg>
       </tuv>
     </tu>
   </body>
