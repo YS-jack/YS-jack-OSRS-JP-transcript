@@ -6358,6 +6358,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken Fence</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T080948Z" creationid="yumas" creationdate="20240810T080948Z">
+        <seg>壊れたフェンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken Handz</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134108Z" creationid="yumas" creationdate="20240805T134108Z">
@@ -6898,6 +6906,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T064748Z" creationid="2008l" creationdate="20240808T064748Z">
         <seg>茶色のエプロン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Brown spice (4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T080936Z" creationid="yumas" creationdate="20240810T080936Z">
+        <seg>茶色の香辛料（４）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8538,6 +8554,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T051007Z" creationid="yumas" creationdate="20240805T045900Z">
         <seg>洞窟を這うモノ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cave entrance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T080950Z" creationid="yumas" creationdate="20240810T080950Z">
+        <seg>洞窟の入口</seg>
       </tuv>
     </tu>
     <tu>
@@ -11726,6 +11750,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crevice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T080851Z" creationid="yumas" creationdate="20240810T080851Z">
+        <seg>隙間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Criminal's dagger</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T071238Z" creationid="2008l" creationdate="20240808T071238Z">
@@ -12146,6 +12178,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T114449Z" creationid="yumas" creationdate="20240809T114449Z">
         <seg>呪われたヒヒ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Curtain</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T080854Z" creationid="yumas" creationdate="20240810T080854Z">
+        <seg>カーテン</seg>
       </tuv>
     </tu>
     <tu>
@@ -14690,6 +14730,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T070659Z" creationid="2008l" creationdate="20240716T070659Z">
         <seg>ドワーフの遺体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dwarf statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T081058Z" creationid="yumas" creationdate="20240810T081058Z">
+        <seg>ドワーフの像</seg>
       </tuv>
     </tu>
     <tu>
@@ -20010,6 +20058,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T064638Z" creationid="2008l" creationdate="20240810T064632Z">
         <seg>ノームの香辛料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T081101Z" creationid="yumas" creationdate="20240810T081101Z">
+        <seg>ノームの像</seg>
       </tuv>
     </tu>
     <tu>
@@ -34198,6 +34254,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Orange spice (4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T080914Z" creationid="yumas" creationdate="20240810T080914Z">
+        <seg>オレンジの香辛料（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Orb of Darkness</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T114232Z" creationid="yumas" creationdate="20240809T114219Z">
@@ -38962,6 +39026,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T030237Z" creationid="yumas" creationdate="20240810T030237Z">
         <seg>赤いスキンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Red spice (4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T080907Z" creationid="yumas" creationdate="20240810T080907Z">
+        <seg>赤い香辛料（４）</seg>
       </tuv>
     </tu>
     <tu>
@@ -45854,6 +45926,62 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T081105Z" creationid="yumas" creationdate="20240810T081105Z">
+        <seg>像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Statue of Saradomin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T081112Z" creationid="yumas" creationdate="20240810T081112Z">
+        <seg>サラドミンの像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Statue of Zamorak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T081117Z" creationid="yumas" creationdate="20240810T081117Z">
+        <seg>ザモラックの像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Statue of a king</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T080958Z" creationid="yumas" creationdate="20240810T080958Z">
+        <seg>王の像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Statue of a queen</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T081004Z" creationid="yumas" creationdate="20240810T081004Z">
+        <seg>女王の像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Statue of a warrior</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T080954Z" creationid="yumas" creationdate="20240810T080954Z">
+        <seg>戦士の像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Statue steps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T081428Z" creationid="yumas" creationdate="20240810T081428Z">
+        <seg>像の台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Status</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T124138Z" creationid="yumas" creationdate="20240731T124138Z">
@@ -50096,6 +50224,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tribal statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T081055Z" creationid="yumas" creationdate="20240810T081055Z">
+        <seg>部族の像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tribesman</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053127Z" creationid="yumas" creationdate="20240805T053127Z">
@@ -54028,6 +54164,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T065158Z" creationid="2008l" creationdate="20240729T065158Z">
         <seg>黄色いパーティーハット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yellow spice (4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T080945Z" creationid="yumas" creationdate="20240810T080945Z">
+        <seg>黄色の香辛料（４）</seg>
       </tuv>
     </tu>
     <tu>
