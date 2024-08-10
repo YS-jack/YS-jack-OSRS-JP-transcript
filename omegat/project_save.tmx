@@ -3630,6 +3630,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bakery stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T082313Z" creationid="yumas" creationdate="20240810T082239Z">
+        <seg>パンの屋台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bakuna</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T083141Z" creationid="yumas" creationdate="20240809T083141Z">
@@ -18566,6 +18574,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fur stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T082307Z" creationid="yumas" creationdate="20240810T082307Z">
+        <seg>毛皮の屋台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fur trader</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134519Z" creationid="yumas" creationdate="20240807T134519Z">
@@ -19018,6 +19034,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134221Z" creationid="yumas" creationdate="20240807T134221Z">
         <seg>宝石の商人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gem stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T082310Z" creationid="yumas" creationdate="20240810T082242Z">
+        <seg>宝石の屋台</seg>
       </tuv>
     </tu>
     <tu>
@@ -30386,6 +30410,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T205016Z" creationid="yumas" creationdate="20240807T205016Z">
         <seg>市場の販売人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Market stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T082358Z" creationid="yumas" creationdate="20240810T082358Z">
+        <seg>屋台</seg>
       </tuv>
     </tu>
     <tu>
@@ -43718,6 +43750,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Silk stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T082316Z" creationid="yumas" creationdate="20240810T082224Z">
+        <seg>絹の屋台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Silk trader</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T134420Z" creationid="yumas" creationdate="20240806T134420Z">
@@ -43816,8 +43856,8 @@
       <tuv lang="en-GB">
         <seg>Silver stall</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240810T082219Z" creationid="yumas" creationdate="20240810T082219Z">
-        <seg>銀屋台</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T082335Z" creationid="yumas" creationdate="20240810T082219Z">
+        <seg>銀の屋台</seg>
       </tuv>
     </tu>
     <tu>
@@ -45394,6 +45434,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134419Z" creationid="yumas" creationdate="20240807T134252Z">
         <seg>香辛料の販売人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spice stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T082342Z" creationid="yumas" creationdate="20240810T082342Z">
+        <seg>香辛料の屋台</seg>
       </tuv>
     </tu>
     <tu>
