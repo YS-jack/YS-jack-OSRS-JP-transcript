@@ -10158,6 +10158,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Closed chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T051011Z" creationid="yumas" creationdate="20240810T051011Z">
+        <seg>閉じた宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Clothears</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T005308Z" creationid="yumas" creationdate="20240809T005308Z">
@@ -10682,6 +10690,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T063059Z" creationid="2008l" creationdate="20240729T063059Z">
         <seg>調理鍋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cooking range</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T051346Z" creationid="yumas" creationdate="20240810T051346Z">
+        <seg>ガスレンジ</seg>
       </tuv>
     </tu>
     <tu>
@@ -33098,6 +33114,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122927Z" creationid="yumas" creationdate="20240730T122927Z">
         <seg>冒険の旅路を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Open chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T051014Z" creationid="yumas" creationdate="20240810T051014Z">
+        <seg>開いた宝箱</seg>
       </tuv>
     </tu>
     <tu>
