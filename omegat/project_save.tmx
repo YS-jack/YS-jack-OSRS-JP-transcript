@@ -3702,6 +3702,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bamboo Door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T145334Z" creationid="yumas" creationdate="20240810T145334Z">
+        <seg>竹のドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Banana</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T065428Z" creationid="2008l" creationdate="20240809T065428Z">
@@ -7934,6 +7942,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cannon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T145414Z" creationid="yumas" creationdate="20240810T145414Z">
+        <seg>砲兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cannon barrels</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T072431Z" creationid="2008l" creationdate="20240716T072431Z">
@@ -7969,6 +7985,14 @@
         <seg>Cannonball</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T123505Z" creationid="2008l" creationdate="20240716T071026Z">
+        <seg>大砲の弾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cannonballs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T145417Z" creationid="yumas" creationdate="20240810T145417Z">
         <seg>大砲の弾</seg>
       </tuv>
     </tu>
@@ -10234,6 +10258,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T112510Z" creationid="yumas" creationdate="20240809T112510Z">
         <seg>市民</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>City Gate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T145410Z" creationid="yumas" creationdate="20240810T145410Z">
+        <seg>都市の門</seg>
       </tuv>
     </tu>
     <tu>
@@ -29490,6 +29522,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T113500Z" creationid="yumas" creationdate="20240731T113450Z">
         <seg>上を見る </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Loom</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T145403Z" creationid="yumas" creationdate="20240810T145403Z">
+        <seg>織機</seg>
       </tuv>
     </tu>
     <tu>
@@ -54292,6 +54332,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T233528Z" creationid="yumas" creationdate="20240808T233528Z">
         <seg>木製のカート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wooden defence</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240810T145441Z" creationid="yumas" creationdate="20240810T145441Z">
+        <seg>木製の守備</seg>
       </tuv>
     </tu>
     <tu>
