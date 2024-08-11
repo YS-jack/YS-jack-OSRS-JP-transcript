@@ -3734,6 +3734,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ballista</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T030929Z" creationid="yumas" creationdate="20240811T030929Z">
+        <seg>バリスタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Balloon Animal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045422Z" creationid="yumas" creationdate="20240805T045422Z">
@@ -4594,6 +4602,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T132827Z" creationid="yumas" creationdate="20240808T132827Z">
         <seg>ベレモーデ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bellows</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T030949Z" creationid="yumas" creationdate="20240811T030949Z">
+        <seg>ふいご</seg>
       </tuv>
     </tu>
     <tu>
@@ -12370,6 +12386,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134552Z" creationid="yumas" creationdate="20240805T134552Z">
         <seg>カラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crumbled wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T030933Z" creationid="yumas" creationdate="20240811T030933Z">
+        <seg>崩れた壁</seg>
       </tuv>
     </tu>
     <tu>
@@ -23214,6 +23238,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Heap of bricks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T030847Z" creationid="yumas" creationdate="20240811T030847Z">
+        <seg>大量のレンガ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Heart crystal</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T065249Z" creationid="2008l" creationdate="20240727T065249Z">
@@ -27526,6 +27558,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Kitchen gate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T031002Z" creationid="yumas" creationdate="20240811T031002Z">
+        <seg>台所のゲート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Kitten</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T203621Z" creationid="yumas" creationdate="20240730T114354Z">
@@ -30814,6 +30854,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Magic Portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T030745Z" creationid="yumas" creationdate="20240811T030745Z">
+        <seg>魔法のポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Magic axe</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T133842Z" creationid="yumas" creationdate="20240806T133842Z">
@@ -32010,6 +32058,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T071957Z" creationid="2008l" creationdate="20240808T071957Z">
         <seg>金属の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Metal pieces</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T030954Z" creationid="yumas" creationdate="20240811T030954Z">
+        <seg>鉄の部品</seg>
       </tuv>
     </tu>
     <tu>
@@ -34666,6 +34722,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T113914Z" creationid="yumas" creationdate="20240809T113914Z">
         <seg>オベリスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Obelisk of Air</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T030734Z" creationid="yumas" creationdate="20240811T030734Z">
+        <seg>大気のオベリスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Obelisk of Earth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T030725Z" creationid="yumas" creationdate="20240811T030725Z">
+        <seg>土のオベリスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Obelisk of Fire</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T030739Z" creationid="yumas" creationdate="20240811T030739Z">
+        <seg>火のオベリスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Obelisk of Water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T030730Z" creationid="yumas" creationdate="20240811T030730Z">
+        <seg>水のオベリスク</seg>
       </tuv>
     </tu>
     <tu>
@@ -51732,6 +51820,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T115523Z" creationid="yumas" creationdate="20240803T115523Z">
         <seg>で移動：開始地点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trawler net</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T030913Z" creationid="yumas" creationdate="20240811T030913Z">
+        <seg>トローラーの網</seg>
       </tuv>
     </tu>
     <tu>
