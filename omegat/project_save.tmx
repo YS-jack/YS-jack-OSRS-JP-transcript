@@ -41016,8 +41016,16 @@
       <tuv lang="en-GB">
         <seg>Pedal</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T112545Z" creationid="yumas" creationdate="20240731T112545Z">
-        <seg>を踏む</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T131029Z" creationid="yumas" creationdate="20240731T112545Z">
+        <seg>ペダル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pedals</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T131016Z" creationid="yumas" creationdate="20240811T131016Z">
+        <seg>ペダル</seg>
       </tuv>
     </tu>
     <tu>
@@ -64332,6 +64340,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112511Z" creationid="yumas" creationdate="20240731T112511Z">
         <seg>を回収</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41826</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Pedal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T131037Z" creationid="yumas" creationdate="20240811T131037Z">
+        <seg>を踏む</seg>
       </tuv>
     </tu>
     <tu>
