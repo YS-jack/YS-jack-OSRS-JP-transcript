@@ -3462,6 +3462,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Aviary Hatch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044252Z" creationid="yumas" creationdate="20240811T044252Z">
+        <seg>飼鳥のハッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Avinia</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T025352Z" creationid="yumas" creationdate="20240810T025352Z">
@@ -6814,6 +6822,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken Fire altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044347Z" creationid="yumas" creationdate="20240811T044347Z">
+        <seg>壊れた火の祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken Handz</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134108Z" creationid="yumas" creationdate="20240805T134108Z">
@@ -6826,6 +6842,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T023120Z" creationid="yumas" creationdate="20240811T023120Z">
         <seg>壊れた</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken Wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044323Z" creationid="yumas" creationdate="20240811T044323Z">
+        <seg>壊れた壁</seg>
       </tuv>
     </tu>
     <tu>
@@ -15590,6 +15614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Druid's robes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044152Z" creationid="yumas" creationdate="20240811T044152Z">
+        <seg>ドルイドのローブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Drunk dragon</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T063109Z" creationid="2008l" creationdate="20240810T063109Z">
@@ -18630,6 +18662,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fire altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044341Z" creationid="yumas" creationdate="20240811T044341Z">
+        <seg>火の祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fire battlestaff</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T070239Z" creationid="2008l" creationdate="20240731T070239Z">
@@ -18970,6 +19010,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T023824Z" creationid="yumas" creationdate="20240809T023824Z">
         <seg>フラムビード（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Flaming Fire altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044337Z" creationid="yumas" creationdate="20240811T044337Z">
+        <seg>燃える火の祭壇</seg>
       </tuv>
     </tu>
     <tu>
@@ -19938,6 +19986,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T044819Z" creationid="yumas" creationdate="20240804T044819Z">
         <seg>機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Funeral Pyre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044429Z" creationid="yumas" creationdate="20240811T044429Z">
+        <seg>火葬用の木材</seg>
       </tuv>
     </tu>
     <tu>
@@ -24958,6 +25014,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Huge Mushroom</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044300Z" creationid="yumas" creationdate="20240811T044300Z">
+        <seg>巨大なキノコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Huge spider</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043155Z" creationid="yumas" creationdate="20240805T043155Z">
@@ -29802,6 +29866,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T130408Z" creationid="yumas" creationdate="20240803T130408Z">
         <seg>放つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Laundry Basket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044203Z" creationid="yumas" creationdate="20240811T044203Z">
+        <seg>洗濯カゴ</seg>
       </tuv>
     </tu>
     <tu>
@@ -48214,6 +48286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Solid bronze door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044437Z" creationid="yumas" creationdate="20240811T044437Z">
+        <seg>頑丈な銅ｎo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Solihib</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T003304Z" creationid="yumas" creationdate="20240809T003304Z">
@@ -49730,6 +49810,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T041518Z" creationid="yumas" creationdate="20240811T041518Z">
         <seg>石橋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stone stand</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044314Z" creationid="yumas" creationdate="20240811T044314Z">
+        <seg>石のスタンド</seg>
       </tuv>
     </tu>
     <tu>
@@ -51988,6 +52076,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T041710Z" creationid="yumas" creationdate="20240811T041706Z">
         <seg>寺の扉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Temple wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044326Z" creationid="yumas" creationdate="20240811T044326Z">
+        <seg>寺の壁</seg>
       </tuv>
     </tu>
     <tu>
@@ -56536,6 +56632,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Warning sign</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044318Z" creationid="yumas" creationdate="20240811T044318Z">
+        <seg>警告標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Warped Jelly</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T045031Z" creationid="yumas" creationdate="20240809T045031Z">
@@ -56588,6 +56692,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T032047Z" creationid="yumas" creationdate="20240803T032047Z">
         <seg>戦士ギルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Washing Line</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044302Z" creationid="yumas" creationdate="20240811T044302Z">
+        <seg>洗濯干しのロープ</seg>
       </tuv>
     </tu>
     <tu>
