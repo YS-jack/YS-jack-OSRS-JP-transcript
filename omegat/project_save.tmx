@@ -6590,6 +6590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Brick</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T031934Z" creationid="yumas" creationdate="20240811T031934Z">
+        <seg>レンガ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bricks</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T024939Z" creationid="yumas" creationdate="20240811T024939Z">
@@ -8154,6 +8162,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T083042Z" creationid="yumas" creationdate="20240805T083042Z">
         <seg>キャンプ居住者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Campsite bed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032014Z" creationid="yumas" creationdate="20240811T032014Z">
+        <seg>キャンプのベッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -12985,6 +13001,14 @@
         <seg>Daconia rock</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T054814Z" creationid="2008l" creationdate="20240728T054814Z">
+        <seg>ダコニアの石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Daconia rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032030Z" creationid="yumas" creationdate="20240811T032030Z">
         <seg>ダコニアの石</seg>
       </tuv>
     </tu>
@@ -20958,6 +20982,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gnome goal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032019Z" creationid="yumas" creationdate="20240811T032019Z">
+        <seg>ノーム・ゴール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gnome guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T085720Z" creationid="yumas" creationdate="20240805T085720Z">
@@ -21866,6 +21898,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T125155Z" creationid="yumas" creationdate="20240808T125155Z">
         <seg>グリゴー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grill</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T031932Z" creationid="yumas" creationdate="20240811T031932Z">
+        <seg>グリル</seg>
       </tuv>
     </tu>
     <tu>
@@ -24098,6 +24138,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T132134Z" creationid="yumas" creationdate="20240806T132134Z">
         <seg>Hopleez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hopper controls</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032535Z" creationid="yumas" creationdate="20240811T032535Z">
+        <seg>ホッパー操作棒</seg>
       </tuv>
     </tu>
     <tu>
@@ -31006,6 +31054,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Magic door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032023Z" creationid="yumas" creationdate="20240811T032023Z">
+        <seg>魔法のドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Magic gold feather</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T074422Z" creationid="2008l" creationdate="20240716T074422Z">
@@ -35678,6 +35734,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ornate candle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032041Z" creationid="yumas" creationdate="20240811T032041Z">
+        <seg>華麗なロウソク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ornate combat dummy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T072720Z" creationid="yumas" creationdate="20240809T072720Z">
@@ -36146,6 +36210,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T212518Z" creationid="yumas" creationdate="20240807T212518Z">
         <seg>フルイの指導者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Panning point</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T031957Z" creationid="yumas" creationdate="20240811T031957Z">
+        <seg>フルイをする場所</seg>
       </tuv>
     </tu>
     <tu>
@@ -46702,6 +46774,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Soil</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032008Z" creationid="yumas" creationdate="20240811T032008Z">
+        <seg>土</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Soil patch</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T230021Z" creationid="yumas" creationdate="20240808T230021Z">
@@ -46954,6 +47034,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T070739Z" creationid="2008l" creationdate="20240725T070739Z">
         <seg>標本瓶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Specimen tray</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032006Z" creationid="yumas" creationdate="20240811T032006Z">
+        <seg>標本トレー</seg>
       </tuv>
     </tu>
     <tu>
@@ -55516,6 +55604,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T071600Z" creationid="2008l" creationdate="20240721T071600Z">
         <seg>ザモラックのワイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wine rack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032035Z" creationid="yumas" creationdate="20240811T032035Z">
+        <seg>ワインのラック</seg>
       </tuv>
     </tu>
     <tu>
