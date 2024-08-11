@@ -1966,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ancient Gate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035447Z" creationid="yumas" creationdate="20240811T035447Z">
+        <seg>古のゲート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ancient Ghost</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T091311Z" creationid="yumas" creationdate="20240809T091311Z">
@@ -14110,6 +14118,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Desk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035440Z" creationid="yumas" creationdate="20240811T035440Z">
+        <seg>デスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Desmodus Lasiurus</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T084834Z" creationid="yumas" creationdate="20240809T084834Z">
@@ -18290,6 +18306,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T053358Z" creationid="yumas" creationdate="20240730T211522Z">
         <seg>火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fire Wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035438Z" creationid="yumas" creationdate="20240811T035438Z">
+        <seg>火の壁</seg>
       </tuv>
     </tu>
     <tu>
@@ -25926,6 +25950,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jagged wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035520Z" creationid="yumas" creationdate="20240811T035520Z">
+        <seg>ギザギザの壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jaguar</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T023048Z" creationid="yumas" creationdate="20240810T023048Z">
@@ -26878,6 +26910,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jungle Bush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035403Z" creationid="yumas" creationdate="20240811T035403Z">
+        <seg>ジャングルの低木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jungle Demon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T085819Z" creationid="yumas" creationdate="20240805T085819Z">
@@ -26890,6 +26930,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T024104Z" creationid="yumas" creationdate="20240809T024104Z">
         <seg>ジャングルの悪魔（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jungle Palm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035356Z" creationid="yumas" creationdate="20240811T035356Z">
+        <seg>ジャングルのヤシの木</seg>
       </tuv>
     </tu>
     <tu>
@@ -26946,6 +26994,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T131721Z" creationid="yumas" creationdate="20240807T131721Z">
         <seg>ジャングル・グモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jungle tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035350Z" creationid="yumas" creationdate="20240811T035350Z">
+        <seg>ジャングルの木</seg>
       </tuv>
     </tu>
     <tu>
@@ -29678,6 +29734,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Legends Guild door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035429Z" creationid="yumas" creationdate="20240811T035429Z">
+        <seg>伝説ギルドのドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Legends' Guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T115114Z" creationid="yumas" creationdate="20240808T115114Z">
@@ -31902,6 +31966,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Marked wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035541Z" creationid="yumas" creationdate="20240811T035541Z">
+        <seg>マークされた壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Market Guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134903Z" creationid="yumas" creationdate="20240805T134903Z">
@@ -33806,6 +33878,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mossy rock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035435Z" creationid="yumas" creationdate="20240811T035435Z">
+        <seg>コケが生えた岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Most of a Zombie</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T012520Z" creationid="yumas" creationdate="20240809T012520Z">
@@ -34314,6 +34394,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T070428Z" creationid="2008l" creationdate="20240731T070428Z">
         <seg>秘伝の火の杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mystic portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035345Z" creationid="yumas" creationdate="20240811T035345Z">
+        <seg>秘伝のポータル</seg>
       </tuv>
     </tu>
     <tu>
@@ -39902,6 +39990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Raft</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035246Z" creationid="yumas" creationdate="20240811T035246Z">
+        <seg>イカダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ragnar</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T082920Z" creationid="yumas" creationdate="20240805T082920Z">
@@ -40018,6 +40114,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T115408Z" creationid="yumas" creationdate="20240806T115408Z">
         <seg>ランヂボー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Range</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035300Z" creationid="yumas" creationdate="20240811T035300Z">
+        <seg>ガスレンジ</seg>
       </tuv>
     </tu>
     <tu>
@@ -46662,6 +46766,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Slashed bush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035412Z" creationid="yumas" creationdate="20240811T035412Z">
+        <seg>切られた低木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Slashed web</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T145221Z" creationid="yumas" creationdate="20240810T145221Z">
@@ -47434,6 +47546,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T123948Z" creationid="yumas" creationdate="20240806T123948Z">
         <seg>スパング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sparkling pool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035341Z" creationid="yumas" creationdate="20240811T035341Z">
+        <seg>光る水たまり</seg>
       </tuv>
     </tu>
     <tu>
@@ -48234,6 +48354,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T025718Z" creationid="yumas" creationdate="20240811T025718Z">
         <seg>グラリアル像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Statue of Guthix</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035303Z" creationid="yumas" creationdate="20240811T035303Z">
+        <seg>ガシックスの像</seg>
       </tuv>
     </tu>
     <tu>
