@@ -5430,6 +5430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T042650Z" creationid="yumas" creationdate="20240811T042650Z">
+        <seg>刃物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blaec</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T005341Z" creationid="yumas" creationdate="20240809T005341Z">
@@ -11206,6 +11214,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Climbing Rope</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T042911Z" creationid="yumas" creationdate="20240811T042911Z">
+        <seg>登る用のロープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Climbing rocks</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T031441Z" creationid="yumas" creationdate="20240811T031441Z">
@@ -11216,8 +11232,8 @@
       <tuv lang="en-GB">
         <seg>Climbing rope</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T035035Z" creationid="yumas" creationdate="20240811T035035Z">
-        <seg>登るようロープ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T042917Z" creationid="yumas" creationdate="20240811T035035Z">
+        <seg>登る用のロープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -15862,6 +15878,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dying tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T042818Z" creationid="yumas" creationdate="20240811T042818Z">
+        <seg>死にそうな木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dying tree Stump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T042825Z" creationid="yumas" creationdate="20240811T042825Z">
+        <seg>死にそうな切り株</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dynamite(p)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T033340Z" creationid="yumas" creationdate="20240811T033340Z">
@@ -18962,6 +18994,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T082635Z" creationid="yumas" creationdate="20240809T082635Z">
         <seg>フロキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Floor spikes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T042740Z" creationid="yumas" creationdate="20240811T042740Z">
+        <seg>床のトゲ</seg>
       </tuv>
     </tu>
     <tu>
@@ -32102,6 +32142,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mannequin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T042802Z" creationid="yumas" creationdate="20240811T042802Z">
+        <seg>マネキン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Manni the Reveller</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T114416Z" creationid="yumas" creationdate="20240808T114416Z">
@@ -39370,6 +39418,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062450Z" creationid="2008l" creationdate="20240722T062450Z">
         <seg>圧力計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pressure pad</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T042758Z" creationid="yumas" creationdate="20240811T042748Z">
+        <seg>圧力パッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -48374,6 +48430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Spinning blades</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T042658Z" creationid="yumas" creationdate="20240811T042658Z">
+        <seg>回転する刃物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Spinolyp</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T015719Z" creationid="yumas" creationdate="20240809T015719Z">
@@ -49434,6 +49498,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T065411Z" creationid="yumas" creationdate="20240809T065411Z">
         <seg>石の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stone Mechanism</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T042857Z" creationid="yumas" creationdate="20240811T042857Z">
+        <seg>石の仕掛け</seg>
       </tuv>
     </tu>
     <tu>
@@ -52364,6 +52436,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T222003Z" creationid="yumas" creationdate="20240808T222003Z">
         <seg>チアデチェ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ticket Dispenser</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T042735Z" creationid="yumas" creationdate="20240811T042735Z">
+        <seg>チケット配布機</seg>
       </tuv>
     </tu>
     <tu>
@@ -56372,6 +56452,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T115858Z" creationid="yumas" creationdate="20240731T115858Z">
         <seg>防水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Waterpump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T042807Z" creationid="yumas" creationdate="20240811T042807Z">
+        <seg>水ポンプ</seg>
       </tuv>
     </tu>
     <tu>
