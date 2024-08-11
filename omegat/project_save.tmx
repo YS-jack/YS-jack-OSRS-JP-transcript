@@ -7118,6 +7118,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Box</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T124138Z" creationid="yumas" creationdate="20240811T124138Z">
+        <seg>箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Box trap</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T025846Z" creationid="yumas" creationdate="20240811T025846Z">
@@ -7570,6 +7578,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T103357Z" creationid="yumas" creationdate="20240811T103357Z">
         <seg>割れた丸太</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken mace trap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T124313Z" creationid="yumas" creationdate="20240811T124313Z">
+        <seg>壊れた槌矛の罠</seg>
       </tuv>
     </tu>
     <tu>
@@ -15614,6 +15630,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dense runestone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T124346Z" creationid="yumas" creationdate="20240811T124346Z">
+        <seg>濃密なルーンストーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Denulth</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120539Z" creationid="yumas" creationdate="20240808T120539Z">
@@ -17850,6 +17874,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T120808Z" creationid="yumas" creationdate="20240806T120808Z">
         <seg>ドワーフの鉱夫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dwarven machinery</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T124137Z" creationid="yumas" creationdate="20240811T124137Z">
+        <seg>ドワーフの機材</seg>
       </tuv>
     </tu>
     <tu>
@@ -20974,6 +21006,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Flag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T124201Z" creationid="yumas" creationdate="20240811T124201Z">
+        <seg>旗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Flagpole</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T020826Z" creationid="yumas" creationdate="20240811T020826Z">
@@ -21714,6 +21754,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T065240Z" creationid="yumas" creationdate="20240809T065240Z">
         <seg>フレジャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik Boat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T124159Z" creationid="yumas" creationdate="20240811T124159Z">
+        <seg>フレメニックのボート</seg>
       </tuv>
     </tu>
     <tu>
@@ -30514,6 +30562,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T072639Z" creationid="yumas" creationdate="20240809T072639Z">
         <seg>ケイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kelda Hops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T124054Z" creationid="yumas" creationdate="20240811T124054Z">
+        <seg>ケルダ・ホップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kelda Hops Patch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T124050Z" creationid="yumas" creationdate="20240811T124050Z">
+        <seg>ケルダ・ホップの小区画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kelda Stout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T124125Z" creationid="yumas" creationdate="20240811T124125Z">
+        <seg>ケルダのスタウト</seg>
       </tuv>
     </tu>
     <tu>
@@ -57872,6 +57944,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Track support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T124145Z" creationid="yumas" creationdate="20240811T124145Z">
+        <seg>線路のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tracker gnome 1</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T235912Z" creationid="yumas" creationdate="20240808T235912Z">
@@ -58188,6 +58268,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043616Z" creationid="yumas" creationdate="20240805T043616Z">
         <seg>宝物の妖精</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trebuchet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T124249Z" creationid="yumas" creationdate="20240811T124240Z">
+        <seg>投石機</seg>
       </tuv>
     </tu>
     <tu>
