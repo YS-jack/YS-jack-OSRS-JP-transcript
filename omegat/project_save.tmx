@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adult Yommi tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035954Z" creationid="yumas" creationdate="20240811T035954Z">
+        <seg>成長したヨミー木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adventurer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T055034Z" creationid="yumas" creationdate="20240805T055034Z">
@@ -13694,6 +13702,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead Yommi</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T040003Z" creationid="yumas" creationdate="20240811T040003Z">
+        <seg>死んだヨミー木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead Yommi sapling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035940Z" creationid="yumas" creationdate="20240811T035940Z">
+        <seg>死んだヨミーの若木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead bat</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T034513Z" creationid="yumas" creationdate="20240811T034513Z">
@@ -17962,6 +17986,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T133045Z" creationid="yumas" creationdate="20240808T133045Z">
         <seg>フェルクラシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Felled Yommi tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T040020Z" creationid="yumas" creationdate="20240811T040020Z">
+        <seg>切り倒されたヨミー木</seg>
       </tuv>
     </tu>
     <tu>
@@ -43118,6 +43150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rotten Yommi</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T040032Z" creationid="yumas" creationdate="20240811T040032Z">
+        <seg>腐ったヨミー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rotten apple</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T065652Z" creationid="2008l" creationdate="20240809T065652Z">
@@ -53008,6 +53048,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Trimmed Yommi</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T040559Z" creationid="yumas" creationdate="20240811T040559Z">
+        <seg>製材されたヨミー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tristan</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T065554Z" creationid="yumas" creationdate="20240809T065554Z">
@@ -57188,6 +57236,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T035849Z" creationid="yumas" creationdate="20240811T035849Z">
         <seg>ヨミー木の苗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yommi tree sapling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035931Z" creationid="yumas" creationdate="20240811T035931Z">
+        <seg>ヨミー木の若木</seg>
       </tuv>
     </tu>
     <tu>
