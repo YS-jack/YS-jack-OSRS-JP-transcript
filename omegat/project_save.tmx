@@ -28952,8 +28952,8 @@
       <tuv lang="en-GB">
         <seg>Key print</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240811T074739Z" creationid="2008l" creationdate="20240811T074739Z">
-        <seg>鍵の刻印</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T074929Z" creationid="2008l" creationdate="20240811T074739Z">
+        <seg>鍵の型</seg>
       </tuv>
     </tu>
     <tu>
@@ -38490,6 +38490,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T062701Z" creationid="yumas" creationdate="20240809T062701Z">
         <seg>消極的なタールの化け物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T074754Z" creationid="2008l" creationdate="20240811T074754Z">
+        <seg>ペースト</seg>
       </tuv>
     </tu>
     <tu>
