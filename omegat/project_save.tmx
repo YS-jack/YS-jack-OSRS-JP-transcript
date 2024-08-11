@@ -2414,6 +2414,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Antifire potion(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075258Z" creationid="2008l" creationdate="20240811T075258Z">
+        <seg>火耐性の薬液（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Antifire potion(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075256Z" creationid="2008l" creationdate="20240811T075256Z">
+        <seg>火耐性の薬液（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Antifire potion(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075254Z" creationid="2008l" creationdate="20240811T075254Z">
+        <seg>火耐性の薬液（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Antifire potion(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075252Z" creationid="2008l" creationdate="20240811T075252Z">
+        <seg>火耐性の薬液（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Antipoison(1)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T071049Z" creationid="2008l" creationdate="20240720T071049Z">
@@ -2434,6 +2466,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T071045Z" creationid="2008l" creationdate="20240720T071045Z">
         <seg>解毒剤（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Antipoison(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075205Z" creationid="2008l" creationdate="20240811T075205Z">
+        <seg>解毒剤（４）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3254,6 +3294,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Assorted flowers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075356Z" creationid="2008l" creationdate="20240811T075356Z">
+        <seg>盛り合わせの花</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Asteros Arceuus</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T094338Z" creationid="yumas" creationdate="20240809T094338Z">
@@ -3354,6 +3402,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T070706Z" creationid="2008l" creationdate="20240720T070706Z">
         <seg>攻撃力増強薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Attack potion(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075143Z" creationid="2008l" creationdate="20240811T075143Z">
+        <seg>攻撃力増強薬（４）</seg>
       </tuv>
     </tu>
     <tu>
@@ -14534,6 +14590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Defence potion(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075151Z" creationid="2008l" creationdate="20240811T075151Z">
+        <seg>守備力増強薬（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Defiler</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T095220Z" creationid="yumas" creationdate="20240805T095220Z">
@@ -19458,6 +19522,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T071010Z" creationid="2008l" creationdate="20240720T071010Z">
         <seg>釣り増強薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fishing potion(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075157Z" creationid="2008l" creationdate="20240811T075157Z">
+        <seg>釣り増強薬（４）</seg>
       </tuv>
     </tu>
     <tu>
@@ -41990,6 +42062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ranging potion(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075204Z" creationid="2008l" creationdate="20240811T075204Z">
+        <seg>弓増強薬（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ranis Drakan</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T220209Z" creationid="yumas" creationdate="20240807T220209Z">
@@ -42870,6 +42950,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Red flowers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075509Z" creationid="2008l" creationdate="20240811T075509Z">
+        <seg>赤い花</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Red halloween mask</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T065454Z" creationid="2008l" creationdate="20240729T065454Z">
@@ -43570,6 +43658,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T065356Z" creationid="2008l" creationdate="20240721T065356Z">
         <seg>回復薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Restore potion(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075148Z" creationid="2008l" creationdate="20240811T075148Z">
+        <seg>回復薬（４）</seg>
       </tuv>
     </tu>
     <tu>
@@ -51904,8 +52000,8 @@
       <tuv lang="en-GB">
         <seg>Super attack(4)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240729T135708Z" creationid="yumas" creationdate="20240729T135708Z">
-        <seg>超攻撃力薬（１）</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075155Z" creationid="yumas" creationdate="20240729T135708Z">
+        <seg>超攻撃力薬（４）</seg>
       </tuv>
     </tu>
     <tu>
@@ -51934,6 +52030,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Super defence(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075202Z" creationid="2008l" creationdate="20240811T075202Z">
+        <seg>超守備力薬（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Super strength(1)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T064920Z" creationid="2008l" creationdate="20240721T064920Z">
@@ -51958,6 +52062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Super strength(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075200Z" creationid="2008l" creationdate="20240811T075200Z">
+        <seg>超腕力薬（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Superantipoison(1)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T064957Z" creationid="2008l" creationdate="20240721T064957Z">
@@ -51978,6 +52090,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T064953Z" creationid="2008l" creationdate="20240721T064953Z">
         <seg>超解毒剤（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Superantipoison(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075207Z" creationid="2008l" creationdate="20240811T075207Z">
+        <seg>超解毒剤（４）</seg>
       </tuv>
     </tu>
     <tu>
@@ -60180,6 +60300,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T065111Z" creationid="2008l" creationdate="20240721T065106Z">
         <seg>ザモラックの秘薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak brew(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T075210Z" creationid="2008l" creationdate="20240811T075210Z">
+        <seg>ザモラックの秘薬（４）</seg>
       </tuv>
     </tu>
     <tu>
