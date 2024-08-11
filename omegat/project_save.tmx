@@ -10606,6 +10606,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Champion Statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231446Z" creationid="yumas" creationdate="20240811T231446Z">
+        <seg>チャンピオンの像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Champion of Scabaras</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T113144Z" creationid="yumas" creationdate="20240809T112353Z">
@@ -12422,6 +12430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Closed booth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231454Z" creationid="yumas" creationdate="20240811T231454Z">
+        <seg>閉まったブース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Closed chest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T051011Z" creationid="yumas" creationdate="20240810T051011Z">
@@ -12650,6 +12666,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T070535Z" creationid="2008l" creationdate="20240730T070535Z">
         <seg>コイフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Coin Collector</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231552Z" creationid="yumas" creationdate="20240811T231536Z">
+        <seg>コイン回収機</seg>
       </tuv>
     </tu>
     <tu>
@@ -14918,6 +14942,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Danger Sign</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231516Z" creationid="yumas" creationdate="20240811T231516Z">
+        <seg>危険標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Danger sign</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T023522Z" creationid="yumas" creationdate="20240811T023522Z">
@@ -17174,6 +17206,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Doric's Whetstone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231531Z" creationid="yumas" creationdate="20240811T231531Z">
+        <seg>ドリックの砥石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Doris</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T224803Z" creationid="yumas" creationdate="20240808T224803Z">
@@ -18022,6 +18062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dwarf Flag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231421Z" creationid="yumas" creationdate="20240811T231421Z">
+        <seg>ドワーフの旗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dwarf MultiCannon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T054625Z" creationid="yumas" creationdate="20240811T054625Z">
@@ -18626,6 +18674,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T004135Z" creationid="yumas" creationdate="20240809T004135Z">
         <seg>エルフのアーチャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Elf Flag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231423Z" creationid="yumas" creationdate="20240811T231423Z">
+        <seg>エルフの旗</seg>
       </tuv>
     </tu>
     <tu>
@@ -21774,6 +21830,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Food chute</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231614Z" creationid="yumas" creationdate="20240811T231614Z">
+        <seg>餌落とし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Food trough</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T050536Z" creationid="yumas" creationdate="20240810T050536Z">
@@ -24034,6 +24098,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T022139Z" creationid="yumas" creationdate="20240809T022139Z">
         <seg>ノームの運転手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome Flag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231433Z" creationid="yumas" creationdate="20240811T231433Z">
+        <seg>ノームの旗</seg>
       </tuv>
     </tu>
     <tu>
@@ -27870,6 +27942,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Human Flag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231417Z" creationid="yumas" creationdate="20240811T231417Z">
+        <seg>人類の旗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hunding</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T132017Z" creationid="yumas" creationdate="20240807T132017Z">
@@ -28250,6 +28330,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T121209Z" creationid="yumas" creationdate="20240808T121209Z">
         <seg>イクスラリン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Icy Cavern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231515Z" creationid="yumas" creationdate="20240811T231515Z">
+        <seg>凍った大洞窟</seg>
       </tuv>
     </tu>
     <tu>
@@ -59840,6 +59928,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>TzHaar Flag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231441Z" creationid="yumas" creationdate="20240811T231441Z">
+        <seg>ツザーの旗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>TzHaar-Hur</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T135534Z" creationid="yumas" creationdate="20240805T135534Z">
@@ -62652,6 +62748,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T125821Z" creationid="yumas" creationdate="20240806T125821Z">
         <seg>人狼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Werewolf Flag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231437Z" creationid="yumas" creationdate="20240811T231437Z">
+        <seg>オオカミの旗</seg>
       </tuv>
     </tu>
     <tu>
