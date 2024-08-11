@@ -2598,6 +2598,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Apple Press</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T124017Z" creationid="yumas" creationdate="20240811T124017Z">
+        <seg>リンゴ圧縮機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Apple Tree</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T111437Z" creationid="yumas" creationdate="20240811T111437Z">
@@ -12238,6 +12246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Closed Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T123959Z" creationid="yumas" creationdate="20240811T123959Z">
+        <seg>閉じた宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Closed bank booth</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T094713Z" creationid="yumas" creationdate="20240811T094713Z">
@@ -18766,6 +18782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Empty rack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T123958Z" creationid="yumas" creationdate="20240811T123958Z">
+        <seg>空のラック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Empty-Out</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T114211Z" creationid="yumas" creationdate="20240731T114211Z">
@@ -23752,8 +23776,8 @@
       <tuv lang="en-GB">
         <seg>Gnome on a rack</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T123942Z" creationid="yumas" creationdate="20240811T123942Z">
-        <seg>ラック上にいるノーム</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T123955Z" creationid="yumas" creationdate="20240811T123942Z">
+        <seg>ラック上のノーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -39582,6 +39606,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Open Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T124000Z" creationid="yumas" creationdate="20240811T124000Z">
+        <seg>開いた宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Open Cupboard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T053549Z" creationid="yumas" creationdate="20240810T053549Z">
@@ -47370,6 +47402,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T113427Z" creationid="yumas" creationdate="20240803T113427Z">
         <seg>時計回りに回転</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rotten Apple Pile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T124023Z" creationid="yumas" creationdate="20240811T124023Z">
+        <seg>腐ったリンゴの山</seg>
       </tuv>
     </tu>
     <tu>
