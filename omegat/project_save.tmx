@@ -16702,6 +16702,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dwarven Consortium Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T095331Z" creationid="yumas" creationdate="20240811T095331Z">
+        <seg>ドワーフ・コンソーシアムのテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dwarven Engineer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T235155Z" creationid="yumas" creationdate="20240808T235155Z">
@@ -40552,8 +40560,8 @@
       <tuv lang="en-GB">
         <seg>Poor Bed</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T094925Z" creationid="yumas" creationdate="20240811T094925Z">
-        <seg>低質なベッド</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T094931Z" creationid="yumas" creationdate="20240811T094925Z">
+        <seg>低品質なベッド</seg>
       </tuv>
     </tu>
     <tu>
