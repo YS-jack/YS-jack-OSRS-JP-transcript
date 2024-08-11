@@ -1003,7 +1003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41383">
         <xliff:source>Exit</xliff:source>
-        <xliff:target state="translated">で出る</xliff:target>
+        <xliff:target state="translated">から出る</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Portal
@@ -3091,7 +3091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41644">
         <xliff:source>Exit</xliff:source>
-        <xliff:target state="translated">で出る</xliff:target>
+        <xliff:target state="translated">から出る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Cave exit
@@ -5715,7 +5715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41972">
         <xliff:source>Trap</xliff:source>
-        <xliff:target state="translated">罠を仕掛ける</xliff:target>
+        <xliff:target state="translated">に罠を仕掛ける</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Pit

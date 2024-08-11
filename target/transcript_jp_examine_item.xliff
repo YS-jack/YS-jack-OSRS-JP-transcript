@@ -3747,7 +3747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="19366">
         <xliff:source>A rock</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">岩石</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rock
@@ -25611,7 +25611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22099">
         <xliff:source>Pond</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">池</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Pond
@@ -25627,7 +25627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22101">
         <xliff:source>Dungeon entrance</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ダンジョンの入口</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Dungeon entrance
@@ -25651,7 +25651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22104">
         <xliff:source>Oak tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Oak tree
@@ -25659,7 +25659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22105">
         <xliff:source>Willow tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">柳</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Willow tree
@@ -25667,7 +25667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22106">
         <xliff:source>Maple tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">楓</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Maple tree
@@ -25675,7 +25675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22107">
         <xliff:source>Yew tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">イチイ</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Yew tree
@@ -25683,7 +25683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22108">
         <xliff:source>Magic tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魔法樹</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Magic tree
@@ -25707,7 +25707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22111">
         <xliff:source>Fern</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">シダ</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Fern
@@ -25731,7 +25731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22114">
         <xliff:source>Reeds</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アシ</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Reeds
@@ -25739,7 +25739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22115">
         <xliff:source>Bush</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">低木</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Bush
@@ -25771,7 +25771,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22119">
         <xliff:source>Huge plant</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">巨大な植物</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Huge plant
@@ -25811,7 +25811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22124">
         <xliff:source>Boundary stones</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">境界石</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Boundary stones
@@ -25819,7 +25819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22125">
         <xliff:source>Wooden fence</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">木製のフェンス</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Wooden fence
@@ -25827,7 +25827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22126">
         <xliff:source>Stone wall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">石の壁</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Stone wall
@@ -25835,7 +25835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22127">
         <xliff:source>Iron railings</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">鉄のフェンス</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Iron railings
@@ -25843,7 +25843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22128">
         <xliff:source>Picket fence</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">杭柵</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Picket fence
@@ -25851,7 +25851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22129">
         <xliff:source>Garden fence</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">庭のフェンス</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Garden fence
@@ -25859,7 +25859,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22130">
         <xliff:source>Marble wall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">大理石の壁</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Marble wall
@@ -25923,7 +25923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22138">
         <xliff:source>Rosemary</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ローズマリー</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rosemary
@@ -25931,7 +25931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22139">
         <xliff:source>Daffodils</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">水仙</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Daffodils
@@ -25939,7 +25939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22140">
         <xliff:source>Bluebells</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ツリガネスイセン</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Bluebells
@@ -25947,7 +25947,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22141">
         <xliff:source>Sunflower</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ヒマワリ</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Sunflower
@@ -25955,7 +25955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22142">
         <xliff:source>Marigolds</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マリーゴールド</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Marigolds
@@ -25963,7 +25963,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22143">
         <xliff:source>Roses</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">バラ</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Roses
@@ -26139,7 +26139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22165">
         <xliff:source>Cat basket</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ネコのバスケット</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Cat basket
@@ -26299,7 +26299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22185">
         <xliff:source>Kurask head</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クラスクの頭部</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Kurask head
@@ -26683,7 +26683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22233">
         <xliff:source>Rocking chair</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ゆり椅子</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Rocking chair
