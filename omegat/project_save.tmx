@@ -52970,8 +52970,8 @@
       <tuv lang="en-GB">
         <seg>Trap</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T125000Z" creationid="yumas" creationdate="20240731T125000Z">
-        <seg>罠を仕掛ける</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041352Z" creationid="yumas" creationdate="20240731T125000Z">
+        <seg>罠</seg>
       </tuv>
     </tu>
     <tu>
@@ -58398,6 +58398,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T123806Z" creationid="yumas" creationdate="20240731T123806Z">
         <seg>から丸太を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41972</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Trap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041407Z" creationid="yumas" creationdate="20240811T041407Z">
+        <seg>に罠を仕掛ける</seg>
       </tuv>
     </tu>
     <tu>
