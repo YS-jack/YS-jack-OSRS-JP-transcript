@@ -5392,8 +5392,8 @@
       <tuv lang="en-GB">
         <seg>Bittercap Mushrooms</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T121227Z" creationid="yumas" creationdate="20240811T121227Z">
-        <seg>ビターキャップ・キノコ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121535Z" creationid="yumas" creationdate="20240811T121227Z">
+        <seg>ビタキャップダケ</seg>
       </tuv>
     </tu>
     <tu>
@@ -14936,8 +14936,8 @@
       <tuv lang="en-GB">
         <seg>Dead Bittercap Mushrooms</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T121342Z" creationid="yumas" creationdate="20240811T121342Z">
-        <seg>死んだビターキャップ・キノコ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121545Z" creationid="yumas" creationdate="20240811T121342Z">
+        <seg>死んだビタキャップダケ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16016,8 +16016,8 @@
       <tuv lang="en-GB">
         <seg>Diseased Bittercap Mushrooms</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T121235Z" creationid="yumas" creationdate="20240811T121235Z">
-        <seg>病気のビターキャップ・キノコ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121540Z" creationid="yumas" creationdate="20240811T121235Z">
+        <seg>病気のビタキャップダケ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16058,6 +16058,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T113521Z" creationid="yumas" creationdate="20240811T113521Z">
         <seg>病気のツタウルシの低木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased Spirit Tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121607Z" creationid="yumas" creationdate="20240811T121607Z">
+        <seg>病気の切り株</seg>
       </tuv>
     </tu>
     <tu>
@@ -52242,6 +52250,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T092718Z" creationid="yumas" creationdate="20240809T092718Z">
         <seg>精霊のアングラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spirit Tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121410Z" creationid="yumas" creationdate="20240811T121410Z">
+        <seg>精霊樹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spirit Tree Patch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121552Z" creationid="yumas" creationdate="20240811T121552Z">
+        <seg>精霊樹の小区画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spirit Tree Stump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121602Z" creationid="yumas" creationdate="20240811T121602Z">
+        <seg>精霊樹の切り株</seg>
       </tuv>
     </tu>
     <tu>
