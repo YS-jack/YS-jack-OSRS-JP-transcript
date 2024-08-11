@@ -1974,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>An ogre standard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T105616Z" creationid="yumas" creationdate="20240811T105616Z">
+        <seg>オーガの水準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>An old Dwarf</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T224841Z" creationid="yumas" creationdate="20240808T224841Z">
@@ -7250,6 +7258,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134108Z" creationid="yumas" creationdate="20240805T134108Z">
         <seg>Broken Handz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken Lecturn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T105532Z" creationid="yumas" creationdate="20240811T105532Z">
+        <seg>壊れ詠唱台</seg>
       </tuv>
     </tu>
     <tu>
@@ -37858,6 +37874,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043202Z" creationid="yumas" creationdate="20240805T043202Z">
         <seg>オーガ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ogre Coffin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T105437Z" creationid="yumas" creationdate="20240811T105437Z">
+        <seg>オーガの棺</seg>
       </tuv>
     </tu>
     <tu>
