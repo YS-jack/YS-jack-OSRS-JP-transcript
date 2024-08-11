@@ -7246,6 +7246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bull's head</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T021341Z" creationid="yumas" creationdate="20240811T021341Z">
+        <seg>雄牛の頭部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bullroarer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T071107Z" creationid="2008l" creationdate="20240726T065024Z">
@@ -14434,6 +14442,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T063716Z" creationid="2008l" creationdate="20240731T063716Z">
         <seg>竜鉄の角盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragon's head</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T021216Z" creationid="yumas" creationdate="20240811T021216Z">
+        <seg>竜の頭部</seg>
       </tuv>
     </tu>
     <tu>
@@ -22318,6 +22334,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hanging banner</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T021204Z" creationid="yumas" creationdate="20240811T021204Z">
+        <seg>掛けられたバナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hangman game</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043601Z" creationid="yumas" creationdate="20240805T043601Z">
@@ -27466,6 +27490,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T121343Z" creationid="yumas" creationdate="20240730T121230Z">
         <seg>ランズ・エンドへ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Landscape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T021050Z" creationid="yumas" creationdate="20240811T021050Z">
+        <seg>風景画</seg>
       </tuv>
     </tu>
     <tu>
@@ -35098,6 +35130,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T090134Z" creationid="yumas" creationdate="20240809T090134Z">
         <seg>塗られた者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Painting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T021028Z" creationid="yumas" creationdate="20240811T021028Z">
+        <seg>絵画</seg>
       </tuv>
     </tu>
     <tu>
@@ -46382,6 +46422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Star chart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T021122Z" creationid="yumas" creationdate="20240811T021122Z">
+        <seg>星図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Starflower</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T113129Z" creationid="yumas" creationdate="20240805T113129Z">
@@ -51896,6 +51944,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Unicorn's head</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T021213Z" creationid="yumas" creationdate="20240811T021213Z">
+        <seg>ユニコーンの頭部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Unicow</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T211805Z" creationid="yumas" creationdate="20240807T211805Z">
@@ -56718,6 +56774,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T020900Z" creationid="yumas" creationdate="20240811T020900Z">
         <seg>シンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_object.xliff</prop>
+      <prop type="id">14575</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Cross</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T021150Z" creationid="yumas" creationdate="20240811T021150Z">
+        <seg>バツ印</seg>
       </tuv>
     </tu>
   </body>
