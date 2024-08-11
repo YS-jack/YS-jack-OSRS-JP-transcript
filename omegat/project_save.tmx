@@ -11070,6 +11070,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Church pew</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T053118Z" creationid="yumas" creationdate="20240811T053118Z">
+        <seg>教会の会衆席</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Churn</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120136Z" creationid="yumas" creationdate="20240731T120136Z">
@@ -12736,8 +12744,8 @@
       <tuv lang="en-GB">
         <seg>Crack</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T105218Z" creationid="yumas" creationdate="20240731T105218Z">
-        <seg>こじ開ける</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T053132Z" creationid="yumas" creationdate="20240731T105218Z">
+        <seg>ひび</seg>
       </tuv>
     </tu>
     <tu>
@@ -20734,6 +20742,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Garden fence</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T053111Z" creationid="yumas" creationdate="20240811T053111Z">
+        <seg>庭のフェンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Garden supplier</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T132406Z" creationid="yumas" creationdate="20240807T132406Z">
@@ -22106,6 +22122,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T085720Z" creationid="yumas" creationdate="20240805T085720Z">
         <seg>ノームの衛兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome landing light</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T053605Z" creationid="yumas" creationdate="20240811T053605Z">
+        <seg>ノームの着陸灯</seg>
       </tuv>
     </tu>
     <tu>
@@ -35966,6 +35990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ned's Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T053017Z" creationid="yumas" creationdate="20240811T053017Z">
+        <seg>ネッドのテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Needle</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T064020Z" creationid="2008l" creationdate="20240808T064020Z">
@@ -39154,6 +39186,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T061115Z" creationid="2008l" creationdate="20240724T065610Z">
         <seg>ツルハシの柄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Picket fence</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T053107Z" creationid="yumas" creationdate="20240811T053107Z">
+        <seg>杭柵</seg>
       </tuv>
     </tu>
     <tu>
@@ -46286,6 +46326,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sculpture</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T053235Z" creationid="yumas" creationdate="20240811T053235Z">
+        <seg>彫刻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Scurrius</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T044324Z" creationid="yumas" creationdate="20240809T044324Z">
@@ -46514,6 +46562,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T003212Z" creationid="yumas" creationdate="20240809T003212Z">
         <seg>予見者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Seers weathervane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T053307Z" creationid="yumas" creationdate="20240811T053307Z">
+        <seg>シアーズの風見</seg>
       </tuv>
     </tu>
     <tu>
@@ -58232,6 +58288,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Weathervane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T053253Z" creationid="yumas" creationdate="20240811T053253Z">
+        <seg>風見</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Weave</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T213058Z" creationid="yumas" creationdate="20240730T213052Z">
@@ -60553,6 +60617,17 @@
     </tu>
     <tu>
       <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41789</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Crack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T053145Z" creationid="yumas" creationdate="20240811T053145Z">
+        <seg>こじ開ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
       <prop type="id">41794</prop>
       <prop type="path">//transcript.db</prop>
       <tuv lang="en-GB">
@@ -61165,6 +61240,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T040424Z" creationid="yumas" creationdate="20240805T040424Z">
         <seg>を逆にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41232</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Crack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T053208Z" creationid="yumas" creationdate="20240811T053208Z">
+        <seg>こじ開ける</seg>
       </tuv>
     </tu>
     <tu>
