@@ -1856,8 +1856,8 @@
       <tuv lang="en-GB">
         <seg>Ammunition crate</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T091706Z" creationid="yumas" creationdate="20240809T091706Z">
-        <seg>弾丸の木箱</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T130350Z" creationid="yumas" creationdate="20240809T091706Z">
+        <seg>弾丸の箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -13558,10 +13558,18 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crate of rune caskets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T130533Z" creationid="yumas" creationdate="20240811T130519Z">
+        <seg>ルーンの木箱の箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crates</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T032746Z" creationid="yumas" creationdate="20240811T032746Z">
-        <seg>木箱</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T130357Z" creationid="yumas" creationdate="20240811T032746Z">
+        <seg>箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -24400,8 +24408,8 @@
       <tuv lang="en-GB">
         <seg>Goutweed Crate</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T043244Z" creationid="yumas" creationdate="20240811T043244Z">
-        <seg>グート草の木箱</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T130403Z" creationid="yumas" creationdate="20240811T043244Z">
+        <seg>グート草の箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -26098,6 +26106,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T110538Z" creationid="yumas" creationdate="20240811T110538Z">
         <seg>かかったマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hanging dye</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T130656Z" creationid="yumas" creationdate="20240811T130656Z">
+        <seg>吊るされた染物</seg>
       </tuv>
     </tu>
     <tu>
@@ -63916,6 +63932,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T131801Z" creationid="yumas" creationdate="20240806T131801Z">
         <seg>r2t2pnsh0Ty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>rune casket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T130633Z" creationid="yumas" creationdate="20240811T130633Z">
+        <seg>ルーンの木箱</seg>
       </tuv>
     </tu>
     <tu>
