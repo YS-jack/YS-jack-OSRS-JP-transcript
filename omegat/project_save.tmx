@@ -7310,6 +7310,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bullrushes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T023908Z" creationid="yumas" creationdate="20240811T023908Z">
+        <seg>イグサ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Buneir</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T020834Z" creationid="yumas" creationdate="20240810T020834Z">
@@ -7610,6 +7618,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T122713Z" creationid="yumas" creationdate="20240803T122713Z">
         <seg>埋める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T023733Z" creationid="yumas" creationdate="20240811T023733Z">
+        <seg>低木</seg>
       </tuv>
     </tu>
     <tu>
@@ -17006,10 +17022,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fairy bank</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T023800Z" creationid="yumas" creationdate="20240811T023800Z">
+        <seg>妖精の銀行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fairy chef</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T014703Z" creationid="yumas" creationdate="20240809T014703Z">
         <seg>妖精のシェフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fairy house</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T023757Z" creationid="yumas" creationdate="20240811T023757Z">
+        <seg>妖精の家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fairy market stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T023805Z" creationid="yumas" creationdate="20240811T023805Z">
+        <seg>妖精の屋台</seg>
       </tuv>
     </tu>
     <tu>
@@ -18937,6 +18977,14 @@
         <seg>Fungi</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053316Z" creationid="yumas" creationdate="20240805T053316Z">
+        <seg>菌類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fungus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T023924Z" creationid="yumas" creationdate="20240811T023924Z">
         <seg>菌類</seg>
       </tuv>
     </tu>
@@ -22862,6 +22910,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hedge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T023729Z" creationid="yumas" creationdate="20240811T023729Z">
+        <seg>生垣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hegio, Teoki of Ranul</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T025953Z" creationid="yumas" creationdate="20240810T025953Z">
@@ -23834,6 +23890,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T235445Z" creationid="yumas" creationdate="20240808T235445Z">
         <seg>氷の女王</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ice Throne</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T023717Z" creationid="yumas" creationdate="20240811T023717Z">
+        <seg>氷の王座</seg>
       </tuv>
     </tu>
     <tu>
@@ -33062,6 +33126,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mushrooms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T023909Z" creationid="yumas" creationdate="20240811T023909Z">
+        <seg>キノコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Muspah</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T015623Z" creationid="yumas" creationdate="20240810T015623Z">
@@ -37290,6 +37362,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T053824Z" creationid="yumas" creationdate="20240810T053824Z">
         <seg>鍋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Potted fern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T023829Z" creationid="yumas" creationdate="20240811T023829Z">
+        <seg>鉢植えのシダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Potted flower</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T023839Z" creationid="yumas" creationdate="20240811T023839Z">
+        <seg>花の鉢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Potted plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T023846Z" creationid="yumas" creationdate="20240811T023846Z">
+        <seg>鉢の植物</seg>
       </tuv>
     </tu>
     <tu>
@@ -41622,6 +41718,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rosebush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T023753Z" creationid="yumas" creationdate="20240811T023753Z">
+        <seg>バラの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rosie</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T071736Z" creationid="yumas" creationdate="20240809T071731Z">
@@ -45434,6 +45538,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T062827Z" creationid="yumas" creationdate="20240809T062827Z">
         <seg>小さな岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Small fern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T023938Z" creationid="yumas" creationdate="20240811T023938Z">
+        <seg>小さなシダ</seg>
       </tuv>
     </tu>
     <tu>
