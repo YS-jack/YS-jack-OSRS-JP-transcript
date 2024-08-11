@@ -21782,6 +21782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gnome Glider</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T050407Z" creationid="yumas" creationdate="20240811T050407Z">
+        <seg>ノームのグライダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gnome Mage</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T022146Z" creationid="yumas" creationdate="20240809T022146Z">
@@ -22290,6 +22298,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T085944Z" creationid="yumas" creationdate="20240805T085944Z">
         <seg>ゴリラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gorilla Statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T050304Z" creationid="yumas" creationdate="20240811T050304Z">
+        <seg>ゴリラの像</seg>
       </tuv>
     </tu>
     <tu>
@@ -34574,6 +34590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Monkey Statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T050307Z" creationid="yumas" creationdate="20240811T050307Z">
+        <seg>サルの像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Monkey Zombie</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T004117Z" creationid="yumas" creationdate="20240809T004107Z">
@@ -42426,6 +42450,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221105Z" creationid="yumas" creationdate="20240730T221105Z">
         <seg>強化する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Reinitialisation Panel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T050907Z" creationid="yumas" creationdate="20240811T050907Z">
+        <seg>再初期化パネル</seg>
       </tuv>
     </tu>
     <tu>
@@ -52544,6 +52576,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Teleportation Device</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T050417Z" creationid="yumas" creationdate="20240811T050417Z">
+        <seg>ワープ機材</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Teleports</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T045635Z" creationid="yumas" creationdate="20240804T045635Z">
@@ -57372,6 +57412,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T010308Z" creationid="yumas" creationdate="20240803T010308Z">
         <seg>監視塔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Watchtower Legs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T050400Z" creationid="yumas" creationdate="20240811T050333Z">
+        <seg>見張り塔のふもと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Watchtower Middle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T050356Z" creationid="yumas" creationdate="20240811T050356Z">
+        <seg>見張り塔の真ん中</seg>
       </tuv>
     </tu>
     <tu>
