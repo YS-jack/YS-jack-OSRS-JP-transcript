@@ -4526,6 +4526,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Barley</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T120434Z" creationid="yumas" creationdate="20240811T120434Z">
+        <seg>大麦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Barmaid</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T115709Z" creationid="yumas" creationdate="20240806T115709Z">
@@ -14902,6 +14910,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead Barley</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T120442Z" creationid="yumas" creationdate="20240811T120442Z">
+        <seg>死んだ大麦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead Belladonna</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T112933Z" creationid="yumas" creationdate="20240811T112933Z">
@@ -14914,6 +14930,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T114252Z" creationid="yumas" creationdate="20240811T114252Z">
         <seg>死んだカルカン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead Hammerstone Hops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T120411Z" creationid="yumas" creationdate="20240811T120411Z">
+        <seg>死んだハマーストーン・ホップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead Jute</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T120630Z" creationid="yumas" creationdate="20240811T120630Z">
+        <seg>死んだ黄麻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead Krandorian Hops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T120546Z" creationid="yumas" creationdate="20240811T120546Z">
+        <seg>死んだクランドリアン・ホップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -15926,6 +15966,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Diseased Barley</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T120439Z" creationid="yumas" creationdate="20240811T120439Z">
+        <seg>病気の大麦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Diseased Belladonna</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T112927Z" creationid="yumas" creationdate="20240811T112927Z">
@@ -15946,6 +15994,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T120407Z" creationid="yumas" creationdate="20240811T120407Z">
         <seg>病気のハマーストーン・ホップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased Jute</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T120626Z" creationid="yumas" creationdate="20240811T120626Z">
+        <seg>病気の黄麻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased Krandorian Hops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T120538Z" creationid="yumas" creationdate="20240811T120538Z">
+        <seg>病気のクランドリアン・ホップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -26870,6 +26934,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hops Patch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T120450Z" creationid="yumas" creationdate="20240811T120450Z">
+        <seg>ホップの小区間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Horace</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T042150Z" creationid="yumas" creationdate="20240809T042150Z">
@@ -29654,6 +29726,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jute</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T120618Z" creationid="yumas" creationdate="20240811T120618Z">
+        <seg>黄麻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jyn</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T131759Z" creationid="yumas" creationdate="20240806T131759Z">
@@ -30930,6 +31010,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052454Z" creationid="yumas" creationdate="20240805T052454Z">
         <seg>クラーケン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Krandorian Hops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T120529Z" creationid="yumas" creationdate="20240811T120529Z">
+        <seg>クランドリアン・ホップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -61196,6 +61284,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T081952Z" creationid="yumas" creationdate="20240805T081952Z">
         <seg>野生のケビット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wildblood Hops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121022Z" creationid="yumas" creationdate="20240811T121022Z">
+        <seg>ワイルドブラッド・ホップ</seg>
       </tuv>
     </tu>
     <tu>
