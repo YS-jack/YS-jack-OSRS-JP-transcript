@@ -3902,6 +3902,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bank chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T034133Z" creationid="yumas" creationdate="20240811T034124Z">
+        <seg>銀行箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bank guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134907Z" creationid="yumas" creationdate="20240805T134907Z">
@@ -32710,6 +32718,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mine cave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T034441Z" creationid="yumas" creationdate="20240811T034441Z">
+        <seg>鉱山の洞窟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mine door entrance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T034116Z" creationid="yumas" creationdate="20240811T034056Z">
+        <seg>鉱山の入口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mine supervisor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T043940Z" creationid="yumas" creationdate="20240809T043940Z">
@@ -55956,6 +55980,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T130908Z" creationid="yumas" creationdate="20240731T130908Z">
         <seg>を巻く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Window</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T034118Z" creationid="yumas" creationdate="20240811T034118Z">
+        <seg>窓</seg>
       </tuv>
     </tu>
     <tu>
