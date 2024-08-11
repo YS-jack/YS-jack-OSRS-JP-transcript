@@ -42238,6 +42238,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ranger boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T081522Z" creationid="2008l" creationdate="20240811T081522Z">
+        <seg>射手の靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ranging Guild</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T032226Z" creationid="yumas" creationdate="20240803T032226Z">
@@ -62164,6 +62172,17 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T071022Z" creationid="2008l" creationdate="20240810T071022Z">
         <seg>ハンマー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_item.xliff</prop>
+      <prop type="id">1370</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Watch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240811T081117Z" creationid="2008l" creationdate="20240811T081117Z">
+        <seg>時計</seg>
       </tuv>
     </tu>
     <tu>
