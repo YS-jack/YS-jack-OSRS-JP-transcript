@@ -4382,6 +4382,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bar dispenser</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T131006Z" creationid="yumas" creationdate="20240811T131006Z">
+        <seg>延べ棒ディスペンサー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bar pumps</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T021022Z" creationid="yumas" creationdate="20240811T021022Z">
@@ -4648,8 +4656,8 @@
       <tuv lang="en-GB">
         <seg>Bars</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T114246Z" creationid="yumas" creationdate="20240730T114246Z">
-        <seg>で延べ棒の状態を設定</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T130924Z" creationid="yumas" creationdate="20240730T114246Z">
+        <seg>延べ棒</seg>
       </tuv>
     </tu>
     <tu>
@@ -17954,6 +17962,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T113130Z" creationid="yumas" creationdate="20240811T113130Z">
         <seg>ドエルベリーの低木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dye Pots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T130710Z" creationid="yumas" creationdate="20240811T130710Z">
+        <seg>染料の容器</seg>
       </tuv>
     </tu>
     <tu>
@@ -43582,6 +43598,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T130847Z" creationid="yumas" creationdate="20240811T130847Z">
+        <seg>ポンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pumpkin</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T065407Z" creationid="2008l" creationdate="20240809T065407Z">
@@ -54158,6 +54182,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stove</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T130714Z" creationid="yumas" creationdate="20240811T130714Z">
+        <seg>ストーブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strange Creature</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T121141Z" creationid="yumas" creationdate="20240809T121141Z">
@@ -56492,6 +56524,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T133014Z" creationid="yumas" creationdate="20240803T133014Z">
         <seg>虫と言う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Temperature gauge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T130844Z" creationid="yumas" creationdate="20240811T130844Z">
+        <seg>温度計測器</seg>
       </tuv>
     </tu>
     <tu>
@@ -64120,6 +64160,17 @@
     </tu>
     <tu>
       <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41482</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Bars</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T130931Z" creationid="yumas" creationdate="20240811T130931Z">
+        <seg>で延べ棒の状態を設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
       <prop type="id">41484</prop>
       <prop type="path">//transcript.db</prop>
       <tuv lang="en-GB">
@@ -65271,6 +65322,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T044942Z" creationid="yumas" creationdate="20240811T044942Z">
         <seg>シェル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_object.xliff</prop>
+      <prop type="id">15608</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Coke</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T130830Z" creationid="yumas" creationdate="20240811T130830Z">
+        <seg>コーク</seg>
       </tuv>
     </tu>
   </body>
