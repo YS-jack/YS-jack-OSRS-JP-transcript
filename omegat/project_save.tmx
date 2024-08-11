@@ -2936,8 +2936,8 @@
       <tuv lang="en-GB">
         <seg>Armour</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T110052Z" creationid="yumas" creationdate="20240713T102410Z">
-        <seg>から防具をもらう</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T094817Z" creationid="yumas" creationdate="20240713T102410Z">
+        <seg>鎧</seg>
       </tuv>
     </tu>
     <tu>
@@ -4150,6 +4150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bank booth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T094716Z" creationid="yumas" creationdate="20240811T094716Z">
+        <seg>銀行ブース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bank buffalo</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T024825Z" creationid="yumas" creationdate="20240810T024825Z">
@@ -5218,6 +5226,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T003249Z" creationid="yumas" creationdate="20240809T003249Z">
         <seg>鳥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bird cage stand</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T094738Z" creationid="yumas" creationdate="20240811T094738Z">
+        <seg>鳥かごスタンド</seg>
       </tuv>
     </tu>
     <tu>
@@ -11918,6 +11934,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Clothes stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T094752Z" creationid="yumas" creationdate="20240811T094752Z">
+        <seg>服の屋台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Clothing shelves</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T023141Z" creationid="yumas" creationdate="20240811T023141Z">
@@ -13065,6 +13089,14 @@
         <seg>Crafting Stall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T050925Z" creationid="yumas" creationdate="20240811T050925Z">
+        <seg>工作道具の屋台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crafting stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T094753Z" creationid="yumas" creationdate="20240811T094753Z">
         <seg>工作道具の屋台</seg>
       </tuv>
     </tu>
@@ -16610,6 +16642,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T082406Z" creationid="yumas" creationdate="20240805T082406Z">
         <seg>ドワーフのギャング組員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dwarf mirror</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T094856Z" creationid="yumas" creationdate="20240811T094856Z">
+        <seg>ドワーフの鏡</seg>
       </tuv>
     </tu>
     <tu>
@@ -21334,6 +21374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gem Stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T094748Z" creationid="yumas" creationdate="20240811T094748Z">
+        <seg>宝石の屋台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gem bag</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T070722Z" creationid="2008l" creationdate="20240727T070722Z">
@@ -21794,6 +21842,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T140556Z" creationid="yumas" creationdate="20240807T140556Z">
         <seg>巨人のチャンピオン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Giant Dwarf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T094808Z" creationid="yumas" creationdate="20240811T094808Z">
+        <seg>巨大なドワーフ</seg>
       </tuv>
     </tu>
     <tu>
@@ -39718,6 +39774,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pickaxe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T094849Z" creationid="yumas" creationdate="20240811T094849Z">
+        <seg>ツルハシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pickaxe handle</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T061115Z" creationid="2008l" creationdate="20240724T065610Z">
@@ -40482,6 +40546,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T064553Z" creationid="yumas" creationdate="20240809T064553Z">
         <seg>跳ね橋の管理者ポンツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Poor Bed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T094925Z" creationid="yumas" creationdate="20240811T094925Z">
+        <seg>低質なベッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -43226,6 +43298,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T075509Z" creationid="2008l" creationdate="20240811T075509Z">
         <seg>赤い花</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Red fungi</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T094743Z" creationid="yumas" creationdate="20240811T094743Z">
+        <seg>赤い菌類</seg>
       </tuv>
     </tu>
     <tu>
@@ -61307,6 +61387,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T120046Z" creationid="yumas" creationdate="20240729T115816Z">
         <seg>ドクロを付与</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41272</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Armour</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T094838Z" creationid="yumas" creationdate="20240811T094838Z">
+        <seg>から防具をもらう</seg>
       </tuv>
     </tu>
     <tu>
