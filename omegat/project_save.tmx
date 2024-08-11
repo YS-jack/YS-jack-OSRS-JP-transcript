@@ -12422,6 +12422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Coat rack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223230Z" creationid="yumas" creationdate="20240811T223230Z">
+        <seg>コート掛け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cob</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T043636Z" creationid="yumas" creationdate="20240809T043636Z">
@@ -44702,6 +44710,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rat wheel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223348Z" creationid="yumas" creationdate="20240811T223348Z">
+        <seg>ネズミの回し車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rat's tail</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T064650Z" creationid="2008l" creationdate="20240722T064650Z">
@@ -47450,6 +47466,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T023613Z" creationid="yumas" creationdate="20240811T023613Z">
         <seg>ゆり椅子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rocking unicorn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223430Z" creationid="yumas" creationdate="20240811T223430Z">
+        <seg>揺りユニコーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -64391,6 +64415,17 @@
     </tu>
     <tu>
       <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41419</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Board</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223146Z" creationid="yumas" creationdate="20240811T223146Z">
+        <seg>に乗る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
       <prop type="id">41423</prop>
       <prop type="path">//transcript.db</prop>
       <tuv lang="en-GB">
@@ -64497,6 +64532,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T043031Z" creationid="yumas" creationdate="20240811T043031Z">
         <seg>から出る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41657</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Board</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223137Z" creationid="yumas" creationdate="20240811T223137Z">
+        <seg>に乗る</seg>
       </tuv>
     </tu>
     <tu>
