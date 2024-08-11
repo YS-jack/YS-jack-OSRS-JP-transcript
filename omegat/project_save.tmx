@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Abandoned Cart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044829Z" creationid="yumas" creationdate="20240811T044829Z">
+        <seg>放置されたカート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Abbot Langley</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T125102Z" creationid="yumas" creationdate="20240806T125102Z">
@@ -4518,6 +4526,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Battlements</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T045037Z" creationid="yumas" creationdate="20240811T045037Z">
+        <seg>胸壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Battlestaff</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T070232Z" creationid="2008l" creationdate="20240731T070232Z">
@@ -6930,6 +6946,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T001637Z" creationid="yumas" creationdate="20240809T001637Z">
         <seg>壊れた粘土のゴーレム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T045036Z" creationid="yumas" creationdate="20240811T045036Z">
+        <seg>壊れたドア</seg>
       </tuv>
     </tu>
     <tu>
@@ -9418,6 +9442,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T055341Z" creationid="yumas" creationdate="20240809T055341Z">
         <seg>洞窟ヘビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cave wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T045104Z" creationid="yumas" creationdate="20240811T045104Z">
+        <seg>洞窟の壁</seg>
       </tuv>
     </tu>
     <tu>
@@ -18846,6 +18878,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fish stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044801Z" creationid="yumas" creationdate="20240811T044801Z">
+        <seg>魚の屋台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fish-In</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T113224Z" creationid="yumas" creationdate="20240731T113224Z">
@@ -23334,6 +23374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Guthix Portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T045010Z" creationid="yumas" creationdate="20240811T045010Z">
+        <seg>ガシックスのポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Guzzle</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T123242Z" creationid="yumas" creationdate="20240803T123242Z">
@@ -26174,6 +26222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Iron ladder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044955Z" creationid="yumas" creationdate="20240811T044955Z">
+        <seg>鉄のハシゴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Iron longsword</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064418Z" creationid="2008l" creationdate="20240731T064418Z">
@@ -28042,6 +28098,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T125057Z" creationid="yumas" creationdate="20240805T125057Z">
         <seg>キーパ・ケチロン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Keg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044823Z" creationid="yumas" creationdate="20240811T044823Z">
+        <seg>小樽</seg>
       </tuv>
     </tu>
     <tu>
@@ -39390,6 +39454,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Potter's Wheel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044928Z" creationid="yumas" creationdate="20240811T044928Z">
+        <seg>ろくろ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pottery Oven</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044855Z" creationid="yumas" creationdate="20240811T044855Z">
+        <seg>陶芸窯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pour</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T112306Z" creationid="yumas" creationdate="20240803T112306Z">
@@ -44974,6 +45054,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Saradomin Portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044959Z" creationid="yumas" creationdate="20240811T044959Z">
+        <seg>サラドミンのポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Saradomin priest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T140118Z" creationid="yumas" creationdate="20240805T140118Z">
@@ -48806,6 +48894,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Spinning wheel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044912Z" creationid="yumas" creationdate="20240811T044912Z">
+        <seg>糸車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Spinolyp</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T015719Z" creationid="yumas" creationdate="20240809T015719Z">
@@ -48922,6 +49018,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T114950Z" creationid="yumas" creationdate="20240806T114950Z">
         <seg>ツバのゴブリン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spit roast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044751Z" creationid="yumas" creationdate="20240811T044751Z">
+        <seg>串焼き</seg>
       </tuv>
     </tu>
     <tu>
@@ -49218,6 +49322,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T004827Z" creationid="yumas" creationdate="20240803T004827Z">
         <seg>一般</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Standard Stand</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044949Z" creationid="yumas" creationdate="20240811T044949Z">
+        <seg>普通のスタンド</seg>
       </tuv>
     </tu>
     <tu>
@@ -49818,6 +49930,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T041154Z" creationid="yumas" creationdate="20240811T041154Z">
         <seg>脚立</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stepping stone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T045032Z" creationid="yumas" creationdate="20240811T045032Z">
+        <seg>踏み石</seg>
       </tuv>
     </tu>
     <tu>
@@ -57976,6 +58096,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wooden Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044756Z" creationid="yumas" creationdate="20240811T044756Z">
+        <seg>木製のテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Wooden cart</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T233528Z" creationid="yumas" creationdate="20240808T233528Z">
@@ -58620,6 +58748,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134213Z" creationid="yumas" creationdate="20240807T134213Z">
         <seg>ザンボ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak Portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T045007Z" creationid="yumas" creationdate="20240811T045007Z">
+        <seg>ザモラックのポータル</seg>
       </tuv>
     </tu>
     <tu>
@@ -60365,6 +60501,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T034533Z" creationid="yumas" creationdate="20240811T034533Z">
         <seg>ブランコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_object.xliff</prop>
+      <prop type="id">15069</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Shell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044942Z" creationid="yumas" creationdate="20240811T044942Z">
+        <seg>シェル</seg>
       </tuv>
     </tu>
   </body>
