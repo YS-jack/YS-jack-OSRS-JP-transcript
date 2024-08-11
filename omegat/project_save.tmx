@@ -1614,6 +1614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Altar slab</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T025507Z" creationid="yumas" creationdate="20240811T025507Z">
+        <seg>祭壇の石板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Altarkiz</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T064825Z" creationid="yumas" creationdate="20240809T064825Z">
@@ -4338,6 +4346,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T074304Z" creationid="yumas" creationdate="20240809T074304Z">
         <seg>バクストリアン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bay window</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T025440Z" creationid="yumas" creationdate="20240811T025440Z">
+        <seg>出窓</seg>
       </tuv>
     </tu>
     <tu>
@@ -50612,6 +50628,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T024936Z" creationid="yumas" creationdate="20240811T024936Z">
         <seg>木材</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Timber defence</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T025449Z" creationid="yumas" creationdate="20240811T025449Z">
+        <seg>材木の守備</seg>
       </tuv>
     </tu>
     <tu>
