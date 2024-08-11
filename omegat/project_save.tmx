@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Abstract mural</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044744Z" creationid="yumas" creationdate="20240811T044744Z">
+        <seg>抽象壁画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Abyssal Sire</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T014838Z" creationid="yumas" creationdate="20240809T014838Z">
@@ -5046,6 +5054,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044528Z" creationid="yumas" creationdate="20240811T044528Z">
+        <seg>黒鉄の宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black Guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T084404Z" creationid="yumas" creationdate="20240805T084404Z">
@@ -6994,6 +7010,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064628Z" creationid="2008l" creationdate="20240731T064628Z">
         <seg>銅の両手剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044518Z" creationid="yumas" creationdate="20240811T044518Z">
+        <seg>銅の宝箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -17398,6 +17422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Escape rope</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044704Z" creationid="yumas" creationdate="20240811T044704Z">
+        <seg>避難用ロープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Escape-event</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T122007Z" creationid="yumas" creationdate="20240731T122007Z">
@@ -19910,6 +19942,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Frozen table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044709Z" creationid="yumas" creationdate="20240811T044709Z">
+        <seg>凍ったテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Frozen weapons</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T023748Z" creationid="yumas" creationdate="20240810T023748Z">
@@ -21946,6 +21986,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T061107Z" creationid="yumas" creationdate="20240805T061107Z">
         <seg>金の羊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Golden tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044637Z" creationid="yumas" creationdate="20240811T044637Z">
+        <seg>黄金の木</seg>
       </tuv>
     </tu>
     <tu>
@@ -24530,6 +24578,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134655Z" creationid="yumas" creationdate="20240805T134655Z">
         <seg>丘の巨人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hillside entrance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044556Z" creationid="yumas" creationdate="20240811T044556Z">
+        <seg>丘の入り口</seg>
       </tuv>
     </tu>
     <tu>
@@ -29050,6 +29106,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T061102Z" creationid="yumas" creationdate="20240805T061102Z">
         <seg>ラリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lalli's Stew</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044652Z" creationid="yumas" creationdate="20240811T044652Z">
+        <seg>ラリーのシチュー</seg>
       </tuv>
     </tu>
     <tu>
@@ -46742,6 +46806,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Silver Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044533Z" creationid="yumas" creationdate="20240811T044533Z">
+        <seg>銀の宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Silver Cog Director</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T021129Z" creationid="yumas" creationdate="20240806T112620Z">
@@ -48286,10 +48358,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Solid black door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044502Z" creationid="yumas" creationdate="20240811T044502Z">
+        <seg>頑丈な黒鉄の扉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Solid bronze door</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T044437Z" creationid="yumas" creationdate="20240811T044437Z">
-        <seg>頑丈な銅ｎo</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044448Z" creationid="yumas" creationdate="20240811T044437Z">
+        <seg>頑丈な銅の扉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Solid silver door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044510Z" creationid="yumas" creationdate="20240811T044510Z">
+        <seg>頑丈な銀の扉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Solid steel door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044454Z" creationid="yumas" creationdate="20240811T044454Z">
+        <seg>頑丈な鋼鉄の扉</seg>
       </tuv>
     </tu>
     <tu>
@@ -49374,6 +49470,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Steel Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044523Z" creationid="yumas" creationdate="20240811T044523Z">
+        <seg>鋼鉄の宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Steel arrow</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T081305Z" creationid="2008l" creationdate="20240729T061314Z">
@@ -49938,6 +50042,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T094337Z" creationid="yumas" creationdate="20240805T094333Z">
         <seg>不思議なおじいさん</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strange altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044619Z" creationid="yumas" creationdate="20240811T044619Z">
+        <seg>奇妙な祭壇</seg>
       </tuv>
     </tu>
     <tu>
@@ -50778,6 +50890,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045235Z" creationid="yumas" creationdate="20240805T045235Z">
         <seg>虫の群れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Swaying tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044633Z" creationid="yumas" creationdate="20240811T044633Z">
+        <seg>揺れる木</seg>
       </tuv>
     </tu>
     <tu>
@@ -57868,6 +57988,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T145441Z" creationid="yumas" creationdate="20240810T145441Z">
         <seg>木製の守備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wooden doors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T044537Z" creationid="yumas" creationdate="20240811T044537Z">
+        <seg>木製のドア</seg>
       </tuv>
     </tu>
     <tu>
