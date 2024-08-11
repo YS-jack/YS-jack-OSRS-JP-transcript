@@ -11870,6 +11870,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Column</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T052341Z" creationid="yumas" creationdate="20240811T052341Z">
+        <seg>柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Combat Instructor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T135911Z" creationid="yumas" creationdate="20240807T135911Z">
@@ -13202,6 +13210,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T145034Z" creationid="yumas" creationdate="20240810T145034Z">
         <seg>水晶の塊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crystal growth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T052507Z" creationid="yumas" creationdate="20240811T052507Z">
+        <seg>成長した水晶</seg>
       </tuv>
     </tu>
     <tu>
@@ -19082,6 +19098,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T045250Z" creationid="yumas" creationdate="20240811T045250Z">
         <seg>暖炉スペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fireplace surround</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T052333Z" creationid="yumas" creationdate="20240811T052333Z">
+        <seg>暖炉の囲い</seg>
       </tuv>
     </tu>
     <tu>
