@@ -1630,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Allotment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122246Z" creationid="yumas" creationdate="20240811T122246Z">
+        <seg>アロメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Almera</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T121030Z" creationid="yumas" creationdate="20240808T121030Z">
@@ -8798,6 +8806,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cabbages</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122034Z" creationid="yumas" creationdate="20240811T122034Z">
+        <seg>キャベツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cabin Boy Colin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T064717Z" creationid="yumas" creationdate="20240809T064717Z">
@@ -14998,6 +15014,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead Oak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121936Z" creationid="yumas" creationdate="20240811T121936Z">
+        <seg>死んだ樫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead Poison Ivy bush</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T114013Z" creationid="yumas" creationdate="20240811T114013Z">
@@ -15030,6 +15054,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead Willow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122008Z" creationid="yumas" creationdate="20240811T122008Z">
+        <seg>死んだ柳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead Wolf</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T121137Z" creationid="yumas" creationdate="20240809T121137Z">
@@ -15042,6 +15074,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T121144Z" creationid="yumas" creationdate="20240811T121144Z">
         <seg>死んだヤニリアン・ホップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead Yew</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122033Z" creationid="yumas" creationdate="20240811T122033Z">
+        <seg>死んだイチイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -15082,6 +15122,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T034513Z" creationid="yumas" creationdate="20240811T034513Z">
         <seg>死んだコウモリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead cabbages</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122041Z" creationid="yumas" creationdate="20240811T122041Z">
+        <seg>死んだキャベツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -15202,6 +15250,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T115601Z" creationid="yumas" creationdate="20240811T115601Z">
         <seg>死んだパイナップルの植物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead potatoes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122124Z" creationid="yumas" creationdate="20240811T122124Z">
+        <seg>死んだジャガイモ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16094,6 +16150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Diseased Oak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121931Z" creationid="yumas" creationdate="20240811T121931Z">
+        <seg>病気の樫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Diseased Poison Ivy bush</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T113521Z" creationid="yumas" creationdate="20240811T113521Z">
@@ -16118,10 +16182,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Diseased Willow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122006Z" creationid="yumas" creationdate="20240811T122006Z">
+        <seg>病気の柳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Diseased Yanillian Hops</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T121132Z" creationid="yumas" creationdate="20240811T121132Z">
         <seg>病気のヤニリアン・ホップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased Yew</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122030Z" creationid="yumas" creationdate="20240811T122030Z">
+        <seg>病気のイチイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16138,6 +16218,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T115642Z" creationid="yumas" creationdate="20240811T115642Z">
         <seg>病気のバナナの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased cabbages</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122038Z" creationid="yumas" creationdate="20240811T122038Z">
+        <seg>病気のキャベツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16250,6 +16338,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T115552Z" creationid="yumas" creationdate="20240811T115552Z">
         <seg>病気のパイナップルの植物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased potatoes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122111Z" creationid="yumas" creationdate="20240811T122111Z">
+        <seg>病気のジャガイモ</seg>
       </tuv>
     </tu>
     <tu>
@@ -42246,6 +42342,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Potato plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122104Z" creationid="yumas" creationdate="20240811T122104Z">
+        <seg>ジャガイモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Potato seed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122045Z" creationid="yumas" creationdate="20240811T122045Z">
+        <seg>ジャガイモの種</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Potion</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T071337Z" creationid="2008l" creationdate="20240720T071337Z">
@@ -61520,6 +61632,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Willow tree stump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121959Z" creationid="yumas" creationdate="20240811T121959Z">
+        <seg>柳の切り株</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Wilough</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T203725Z" creationid="yumas" creationdate="20240807T203725Z">
@@ -62496,6 +62616,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Yew sapling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122018Z" creationid="yumas" creationdate="20240811T122018Z">
+        <seg>イチイの若木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Yew shortbow</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T055913Z" creationid="2008l" creationdate="20240728T055913Z">
@@ -62516,6 +62644,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T045735Z" creationid="yumas" creationdate="20240811T045735Z">
         <seg>イチイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yew tree stump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122024Z" creationid="yumas" creationdate="20240811T122024Z">
+        <seg>イチイの切り株</seg>
       </tuv>
     </tu>
     <tu>
