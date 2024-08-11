@@ -5238,6 +5238,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Betty's cauldron</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223608Z" creationid="yumas" creationdate="20240811T223608Z">
+        <seg>ベッティーの大釜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Biblia</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T043437Z" creationid="yumas" creationdate="20240809T043437Z">
@@ -5426,6 +5434,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T065216Z" creationid="2008l" creationdate="20240723T065216Z">
         <seg>鳥の餌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bird snare</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223506Z" creationid="yumas" creationdate="20240811T223506Z">
+        <seg>鳥の罠</seg>
       </tuv>
     </tu>
     <tu>
@@ -5898,6 +5914,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T011815Z" creationid="yumas" creationdate="20240809T011815Z">
         <seg>黒ワーロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blackboard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223442Z" creationid="yumas" creationdate="20240811T223442Z">
+        <seg>黒板</seg>
       </tuv>
     </tu>
     <tu>
@@ -10450,6 +10474,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045839Z" creationid="yumas" creationdate="20240805T045839Z">
         <seg>チャエルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chain</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223618Z" creationid="yumas" creationdate="20240811T223618Z">
+        <seg>チェーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -18166,6 +18198,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Easel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223953Z" creationid="yumas" creationdate="20240811T223953Z">
+        <seg>イーゼル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Easter dance</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T052805Z" creationid="yumas" creationdate="20240804T052805Z">
@@ -18930,6 +18970,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T065640Z" creationid="2008l" creationdate="20240809T065640Z">
         <seg>空のカップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Empty desk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223446Z" creationid="yumas" creationdate="20240811T223446Z">
+        <seg>空のデスク</seg>
       </tuv>
     </tu>
     <tu>
@@ -27586,6 +27634,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T041257Z" creationid="yumas" creationdate="20240811T041257Z">
         <seg>病院の棚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hot Coals</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223632Z" creationid="yumas" creationdate="20240811T223632Z">
+        <seg>熱い石炭</seg>
       </tuv>
     </tu>
     <tu>
@@ -42902,10 +42958,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Potato plants</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223550Z" creationid="yumas" creationdate="20240811T223550Z">
+        <seg>ジャガイモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Potato seed</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T122045Z" creationid="yumas" creationdate="20240811T122045Z">
         <seg>ジャガイモの種</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Potatoes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223551Z" creationid="yumas" creationdate="20240811T223551Z">
+        <seg>ジャガイモ</seg>
       </tuv>
     </tu>
     <tu>
@@ -43530,6 +43602,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T093849Z" creationid="yumas" creationdate="20240805T093849Z">
         <seg>ピエレブ二等兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Private portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223530Z" creationid="yumas" creationdate="20240811T223524Z">
+        <seg>専用のポータル</seg>
       </tuv>
     </tu>
     <tu>
@@ -58728,6 +58808,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tree Stump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223552Z" creationid="yumas" creationdate="20240811T223552Z">
+        <seg>木の切り株</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tree patch</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T121707Z" creationid="yumas" creationdate="20240811T121707Z">
@@ -59868,6 +59956,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T121908Z" creationid="yumas" creationdate="20240808T121908Z">
         <seg>アンフェース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Unferth's patch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T223549Z" creationid="yumas" creationdate="20240811T223549Z">
+        <seg>アンフェースの小区画</seg>
       </tuv>
     </tu>
     <tu>
