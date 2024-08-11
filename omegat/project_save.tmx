@@ -18150,6 +18150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fertile Soil</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T040755Z" creationid="yumas" creationdate="20240811T040755Z">
+        <seg>超えた土地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fever spider</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053839Z" creationid="yumas" creationdate="20240805T053839Z">
@@ -43150,10 +43158,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rotten Totem pole</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T040616Z" creationid="yumas" creationdate="20240811T040616Z">
+        <seg>腐ったトーテム・ポール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rotten Yommi</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T040032Z" creationid="yumas" creationdate="20240811T040032Z">
         <seg>腐ったヨミー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rotten Yommi tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T040609Z" creationid="yumas" creationdate="20240811T040609Z">
+        <seg>腐ったヨミー木</seg>
       </tuv>
     </tu>
     <tu>
@@ -52467,6 +52491,14 @@
         <seg>Totem Pole</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T020833Z" creationid="yumas" creationdate="20240811T020833Z">
+        <seg>トーテム・ポール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Totem pole</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T040610Z" creationid="yumas" creationdate="20240811T040610Z">
         <seg>トーテム・ポール</seg>
       </tuv>
     </tu>
