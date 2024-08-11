@@ -4638,6 +4638,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Barrels</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T225910Z" creationid="yumas" creationdate="20240811T225910Z">
+        <seg>樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Barricade</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T013150Z" creationid="yumas" creationdate="20240809T013150Z">
@@ -7370,6 +7378,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053905Z" creationid="yumas" creationdate="20240805T053905Z">
         <seg>醸造者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Brewer's Barrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T225938Z" creationid="yumas" creationdate="20240811T225938Z">
+        <seg>醸造者の樽</seg>
       </tuv>
     </tu>
     <tu>
@@ -31462,6 +31478,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Kings' ladder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T230047Z" creationid="yumas" creationdate="20240811T230047Z">
+        <seg>王のハシゴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Kit Breaker</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T030308Z" creationid="yumas" creationdate="20240810T030308Z">
@@ -35082,6 +35106,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T234100Z" creationid="yumas" creationdate="20240808T234100Z">
         <seg>失敗した魔法の箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic circle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T230145Z" creationid="yumas" creationdate="20240811T230145Z">
+        <seg>魔法陣</seg>
       </tuv>
     </tu>
     <tu>
@@ -42454,6 +42486,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pirate Sign</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T230019Z" creationid="yumas" creationdate="20240811T230019Z">
+        <seg>海賊の標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pirate map</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T021831Z" creationid="yumas" creationdate="20240811T021831Z">
@@ -43490,6 +43530,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T124105Z" creationid="yumas" creationdate="20240731T124105Z">
         <seg>を押す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pressure Barrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T230003Z" creationid="yumas" creationdate="20240811T230003Z">
+        <seg>圧力バレル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pressure Lever</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T225942Z" creationid="yumas" creationdate="20240811T225942Z">
+        <seg>圧力レバー</seg>
       </tuv>
     </tu>
     <tu>
