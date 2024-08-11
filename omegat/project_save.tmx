@@ -14526,6 +14526,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dairy cow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122820Z" creationid="yumas" creationdate="20240811T122820Z">
+        <seg>乳牛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Daisies</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T024233Z" creationid="yumas" creationdate="20240811T024233Z">
@@ -15322,6 +15330,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T024340Z" creationid="yumas" creationdate="20240811T024340Z">
         <seg>死んだ木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead watermelons</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122533Z" creationid="yumas" creationdate="20240811T122533Z">
+        <seg>死んだスイカ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16426,6 +16442,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T122508Z" creationid="yumas" creationdate="20240811T122508Z">
         <seg>病気のトマト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased watermelons</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122531Z" creationid="yumas" creationdate="20240811T122531Z">
+        <seg>病気のスイカ</seg>
       </tuv>
     </tu>
     <tu>
@@ -57362,8 +57386,8 @@
       <tuv lang="en-GB">
         <seg>Tomato plant</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T122504Z" creationid="yumas" creationdate="20240811T122504Z">
-        <seg>トマトの植物</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122515Z" creationid="yumas" creationdate="20240811T122504Z">
+        <seg>トマト</seg>
       </tuv>
     </tu>
     <tu>
@@ -61172,6 +61196,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T023950Z" creationid="yumas" creationdate="20240811T023950Z">
         <seg>スイレン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Watermelon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122528Z" creationid="yumas" creationdate="20240811T122525Z">
+        <seg>スイカ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Watermelon seed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122522Z" creationid="yumas" creationdate="20240811T122522Z">
+        <seg>スイカの種</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Watermelons</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122523Z" creationid="yumas" creationdate="20240811T122523Z">
+        <seg>スイカ</seg>
       </tuv>
     </tu>
     <tu>
