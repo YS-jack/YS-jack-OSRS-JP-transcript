@@ -13366,6 +13366,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Damaged Earth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T040832Z" creationid="yumas" creationdate="20240811T040832Z">
+        <seg>傷んだ台地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Damaged armour</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T062743Z" creationid="2008l" creationdate="20240726T062743Z">
@@ -18152,8 +18160,8 @@
       <tuv lang="en-GB">
         <seg>Fertile Soil</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T040755Z" creationid="yumas" creationdate="20240811T040755Z">
-        <seg>超えた土地</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T040803Z" creationid="yumas" creationdate="20240811T040755Z">
+        <seg>肥えた土地</seg>
       </tuv>
     </tu>
     <tu>
@@ -18250,6 +18258,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T052759Z" creationid="yumas" creationdate="20240804T052759Z">
         <seg>満たす・確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Filled Recess</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041047Z" creationid="yumas" creationdate="20240811T041047Z">
+        <seg>埋まったくぼみ</seg>
       </tuv>
     </tu>
     <tu>
@@ -40926,6 +40942,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Recess</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041033Z" creationid="yumas" creationdate="20240811T041033Z">
+        <seg>くぼみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Recharge-jewellery</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T005126Z" creationid="yumas" creationdate="20240803T005126Z">
@@ -42914,6 +42938,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T045436Z" creationid="yumas" creationdate="20240809T045436Z">
         <seg>ロッキー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rocky Ledge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T040852Z" creationid="yumas" creationdate="20240811T040852Z">
+        <seg>岩棚</seg>
       </tuv>
     </tu>
     <tu>
