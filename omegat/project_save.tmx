@@ -8886,6 +8886,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Carved rock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035547Z" creationid="yumas" creationdate="20240811T035547Z">
+        <seg>刻まれた岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Casket</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064519Z" creationid="2008l" creationdate="20240723T064519Z">
@@ -38398,6 +38406,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Polluted water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035633Z" creationid="yumas" creationdate="20240811T035633Z">
+        <seg>汚染された水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Polmafi Ferdygris</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T001323Z" creationid="yumas" creationdate="20240809T001323Z">
@@ -43738,6 +43754,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T050403Z" creationid="yumas" creationdate="20240810T050403Z">
         <seg>袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sacred water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035552Z" creationid="yumas" creationdate="20240811T035552Z">
+        <seg>聖なる水</seg>
       </tuv>
     </tu>
     <tu>
@@ -50488,6 +50512,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tall Reeds</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035642Z" creationid="yumas" creationdate="20240811T035642Z">
+        <seg>高いアシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Taloned Wyvern</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T061605Z" creationid="yumas" creationdate="20240809T061605Z">
@@ -55624,6 +55656,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Water Pool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035628Z" creationid="yumas" creationdate="20240811T035628Z">
+        <seg>水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Water battlestaff</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T070242Z" creationid="2008l" creationdate="20240731T070242Z">
@@ -57138,16 +57178,24 @@
       <tuv lang="en-GB">
         <seg>Yommi totem</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240727T065434Z" creationid="2008l" creationdate="20240727T065434Z">
-        <seg>ヨッミのトーテム</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035734Z" creationid="2008l" creationdate="20240727T065434Z">
+        <seg>ヨミーのトーテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yommi tree baby</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035849Z" creationid="yumas" creationdate="20240811T035849Z">
+        <seg>ヨミー木の苗</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Yommi tree seeds</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240727T064259Z" creationid="2008l" creationdate="20240727T064259Z">
-        <seg>ヨッミ木の種</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T035725Z" creationid="2008l" creationdate="20240727T064259Z">
+        <seg>ヨミー木の種</seg>
       </tuv>
     </tu>
     <tu>
