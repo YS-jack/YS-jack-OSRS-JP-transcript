@@ -6686,6 +6686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bridge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041453Z" creationid="yumas" creationdate="20240811T041453Z">
+        <seg>橋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Briget</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T044302Z" creationid="yumas" creationdate="20240809T044258Z">
@@ -16054,6 +16062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Eerie statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041701Z" creationid="yumas" creationdate="20240811T041701Z">
+        <seg>イーリーの像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Efa</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T082448Z" creationid="yumas" creationdate="20240809T082448Z">
@@ -18770,6 +18786,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T051147Z" creationid="yumas" creationdate="20240809T051147Z">
         <seg>燃盛るパイヤーロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Flat rock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041419Z" creationid="yumas" creationdate="20240811T041419Z">
+        <seg>平たい岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -23354,6 +23378,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T021204Z" creationid="yumas" creationdate="20240811T021204Z">
         <seg>掛けられたバナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hanging log</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041721Z" creationid="yumas" creationdate="20240811T041721Z">
+        <seg>吊るされた丸太</seg>
       </tuv>
     </tu>
     <tu>
@@ -35654,6 +35686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Odd markings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041451Z" creationid="yumas" creationdate="20240811T041451Z">
+        <seg>奇妙な印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Oddskull</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T121057Z" creationid="yumas" creationdate="20240808T121057Z">
@@ -38014,6 +38054,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pile of rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041512Z" creationid="yumas" creationdate="20240811T041512Z">
+        <seg>岩の山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pile of rope</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T052053Z" creationid="yumas" creationdate="20240810T052053Z">
@@ -38366,6 +38414,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041502Z" creationid="yumas" creationdate="20240811T041502Z">
+        <seg>プラットホーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Play</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T212426Z" creationid="yumas" creationdate="20240730T212426Z">
@@ -38658,6 +38714,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T122817Z" creationid="yumas" creationdate="20240806T122817Z">
         <seg>死のポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Portcullis</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041556Z" creationid="yumas" creationdate="20240811T041556Z">
+        <seg>落とし格子</seg>
       </tuv>
     </tu>
     <tu>
@@ -42990,10 +43054,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rockpile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041613Z" creationid="yumas" creationdate="20240811T041605Z">
+        <seg>大量の岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rocks</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T042657Z" creationid="yumas" creationdate="20240805T042657Z">
         <seg>岩石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rockslide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041637Z" creationid="yumas" creationdate="20240811T041637Z">
+        <seg>岩の斜面</seg>
       </tuv>
     </tu>
     <tu>
@@ -47262,6 +47342,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Smashed cage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041623Z" creationid="yumas" creationdate="20240811T041623Z">
+        <seg>壊された檻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Smashed chair</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T023542Z" creationid="yumas" creationdate="20240811T023542Z">
@@ -48406,6 +48494,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stalagmites</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041444Z" creationid="yumas" creationdate="20240811T041444Z">
+        <seg>石じゅん</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stamina Boost</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T130919Z" creationid="yumas" creationdate="20240803T130919Z">
@@ -49082,6 +49178,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T065411Z" creationid="yumas" creationdate="20240809T065411Z">
         <seg>石の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stone bridge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041518Z" creationid="yumas" creationdate="20240811T041518Z">
+        <seg>石橋</seg>
       </tuv>
     </tu>
     <tu>
@@ -49898,6 +50002,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T082924Z" creationid="yumas" creationdate="20240805T082924Z">
         <seg>スビヂ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Swamp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041508Z" creationid="yumas" creationdate="20240811T041508Z">
+        <seg>沼</seg>
       </tuv>
     </tu>
     <tu>
@@ -51300,6 +51412,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T073333Z" creationid="yumas" creationdate="20240809T073333Z">
         <seg>テンプルグモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Temple door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T041710Z" creationid="yumas" creationdate="20240811T041706Z">
+        <seg>寺の扉</seg>
       </tuv>
     </tu>
     <tu>
