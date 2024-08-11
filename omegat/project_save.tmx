@@ -7374,6 +7374,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Brewing control</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T225136Z" creationid="yumas" creationdate="20240811T225136Z">
+        <seg>醸造操作機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Brewing vat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T225156Z" creationid="yumas" creationdate="20240811T225156Z">
+        <seg>醸造槽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Brian</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T134533Z" creationid="yumas" creationdate="20240806T134533Z">
@@ -11546,6 +11562,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T031535Z" creationid="yumas" creationdate="20240811T031535Z">
         <seg>煙突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chimney Pipe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T225116Z" creationid="yumas" creationdate="20240811T225116Z">
+        <seg>煙突のパイプ</seg>
       </tuv>
     </tu>
     <tu>
@@ -40574,6 +40598,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Output Tap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T225906Z" creationid="yumas" creationdate="20240811T225906Z">
+        <seg>栓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Outside</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T130153Z" creationid="yumas" creationdate="20240803T130153Z">
@@ -53598,6 +53630,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stagnant Lake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T225102Z" creationid="yumas" creationdate="20240811T225102Z">
+        <seg>よどんだ湖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Staircase</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T030110Z" creationid="yumas" creationdate="20240811T030110Z">
@@ -58808,6 +58848,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Trashed Patch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T225041Z" creationid="yumas" creationdate="20240811T225041Z">
+        <seg>捨てられた小区画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Travel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T105928Z" creationid="yumas" creationdate="20240713T094759Z">
@@ -63212,6 +63260,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T110705Z" creationid="yumas" creationdate="20240811T110705Z">
         <seg>木製の障害物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wooden Stair</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T225121Z" creationid="yumas" creationdate="20240811T225121Z">
+        <seg>木製の階段</seg>
       </tuv>
     </tu>
     <tu>
