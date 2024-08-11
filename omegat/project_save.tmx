@@ -4560,8 +4560,8 @@
       <tuv lang="en-GB">
         <seg>Barrier</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T075224Z" creationid="yumas" creationdate="20240809T075216Z">
-        <seg>防壁</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T114345Z" creationid="yumas" creationdate="20240809T075216Z">
+        <seg>バリア</seg>
       </tuv>
     </tu>
     <tu>
@@ -14854,6 +14854,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead Calquat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T114252Z" creationid="yumas" creationdate="20240811T114252Z">
+        <seg>死んだカルカン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead Monk</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T132753Z" creationid="yumas" creationdate="20240808T132753Z">
@@ -15754,6 +15762,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T112927Z" creationid="yumas" creationdate="20240811T112927Z">
         <seg>病気のベラドンナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased Calquat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T114249Z" creationid="yumas" creationdate="20240811T114249Z">
+        <seg>病気のカルカン</seg>
       </tuv>
     </tu>
     <tu>
@@ -18958,6 +18974,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Exit portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T114333Z" creationid="yumas" creationdate="20240811T114333Z">
+        <seg>出口ポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Exit-cave</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T130309Z" creationid="yumas" creationdate="20240731T130309Z">
@@ -20530,6 +20554,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T213558Z" creationid="yumas" creationdate="20240807T213558Z">
         <seg>花売りの少女</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Flower Patch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T114740Z" creationid="yumas" creationdate="20240811T114740Z">
+        <seg>花の小区画</seg>
       </tuv>
     </tu>
     <tu>
@@ -53690,6 +53722,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T075207Z" creationid="2008l" creationdate="20240811T075207Z">
         <seg>超解毒剤（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Supplies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T114326Z" creationid="yumas" creationdate="20240811T114256Z">
+        <seg>物資</seg>
       </tuv>
     </tu>
     <tu>
