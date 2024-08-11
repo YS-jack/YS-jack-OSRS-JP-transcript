@@ -4280,8 +4280,16 @@
       <tuv lang="en-GB">
         <seg>Bank Deposit Box</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T231249Z" creationid="yumas" creationdate="20240811T231249Z">
-        <seg>保管ボックス</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231304Z" creationid="yumas" creationdate="20240811T231249Z">
+        <seg>ポスト型金庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bank Deposit Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231412Z" creationid="yumas" creationdate="20240811T231412Z">
+        <seg>金庫</seg>
       </tuv>
     </tu>
     <tu>
