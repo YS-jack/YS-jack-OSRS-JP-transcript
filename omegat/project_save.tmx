@@ -11078,10 +11078,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cloth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032603Z" creationid="yumas" creationdate="20240811T032603Z">
+        <seg>布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Clothears</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T005308Z" creationid="yumas" creationdate="20240809T005308Z">
         <seg>クロスイエーズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Clothes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032600Z" creationid="yumas" creationdate="20240811T032600Z">
+        <seg>服</seg>
       </tuv>
     </tu>
     <tu>
@@ -12190,6 +12206,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032751Z" creationid="yumas" creationdate="20240811T032751Z">
+        <seg>クレーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crashed glider</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T051755Z" creationid="yumas" creationdate="20240810T051755Z">
@@ -12210,6 +12234,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T114422Z" creationid="yumas" creationdate="20240806T114422Z">
         <seg>クレート・ゴブリン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crates</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032746Z" creationid="yumas" creationdate="20240811T032746Z">
+        <seg>木箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -17290,6 +17322,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T224050Z" creationid="yumas" creationdate="20240808T224050Z">
         <seg>エゼキアル・ラブクラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fabric</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032647Z" creationid="yumas" creationdate="20240811T032647Z">
+        <seg>生地</seg>
       </tuv>
     </tu>
     <tu>
@@ -22990,6 +23030,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hanger</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032550Z" creationid="yumas" creationdate="20240811T032550Z">
+        <seg>ハンガー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hanging banner</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T021204Z" creationid="yumas" creationdate="20240811T021204Z">
@@ -28262,6 +28310,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lantern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032548Z" creationid="yumas" creationdate="20240811T032548Z">
+        <seg>ちょうちん</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lanthus</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T112654Z" creationid="yumas" creationdate="20240809T112654Z">
@@ -30450,6 +30506,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T050713Z" creationid="yumas" creationdate="20240810T050713Z">
         <seg>緩いフェンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Loose panel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032747Z" creationid="yumas" creationdate="20240811T032745Z">
+        <seg>緩いパネル</seg>
       </tuv>
     </tu>
     <tu>
@@ -35234,6 +35298,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T063043Z" creationid="2008l" creationdate="20240722T063043Z">
         <seg>油差し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Oil lamp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032621Z" creationid="yumas" creationdate="20240811T032621Z">
+        <seg>石油ランプ</seg>
       </tuv>
     </tu>
     <tu>
@@ -42614,6 +42686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Row boat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032716Z" creationid="yumas" creationdate="20240811T032716Z">
+        <seg>手漕ぎボート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rowdy Guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T135708Z" creationid="yumas" creationdate="20240808T135708Z">
@@ -44578,6 +44658,14 @@
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240716T184333Z" creationid="b0sh" creationdate="20240716T184333Z">
         <seg>を縫う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sewing machine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032558Z" creationid="yumas" creationdate="20240811T032558Z">
+        <seg>ミシン</seg>
       </tuv>
     </tu>
     <tu>
@@ -47416,8 +47504,16 @@
       <tuv lang="en-GB">
         <seg>Spooky picture</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T021552Z" creationid="yumas" creationdate="20240811T021552Z">
-        <seg>怖い絵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032820Z" creationid="yumas" creationdate="20240811T021552Z">
+        <seg>不気味な絵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spooky stairs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032808Z" creationid="yumas" creationdate="20240811T032808Z">
+        <seg>不気味な階段</seg>
       </tuv>
     </tu>
     <tu>
@@ -47426,6 +47522,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T011111Z" creationid="yumas" creationdate="20240809T011111Z">
         <seg>斑点ケビット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spray</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T032545Z" creationid="yumas" creationdate="20240811T032545Z">
+        <seg>スプレー</seg>
       </tuv>
     </tu>
     <tu>
