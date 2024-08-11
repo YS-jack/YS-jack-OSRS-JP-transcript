@@ -2614,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Apple tree stump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115543Z" creationid="yumas" creationdate="20240811T115543Z">
+        <seg>リンゴの木の切り株</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Apply</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T041006Z" creationid="yumas" creationdate="20240805T041006Z">
@@ -4130,6 +4138,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T030030Z" creationid="yumas" creationdate="20240811T030030Z">
         <seg>バナナの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Banana tree stump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115658Z" creationid="yumas" creationdate="20240811T115658Z">
+        <seg>バナナの木の切り株</seg>
       </tuv>
     </tu>
     <tu>
@@ -14110,6 +14126,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Curry tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115737Z" creationid="yumas" creationdate="20240811T115737Z">
+        <seg>カレーの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Curry tree stump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115803Z" creationid="yumas" creationdate="20240811T115803Z">
+        <seg>カレーの木の切り株</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cursed Baboon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T114449Z" creationid="yumas" creationdate="20240809T114449Z">
@@ -14918,6 +14950,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead apple tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115537Z" creationid="yumas" creationdate="20240811T115537Z">
+        <seg>死んだリンゴの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead banana tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115653Z" creationid="yumas" creationdate="20240811T115653Z">
+        <seg>死んだバナナの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead bat</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T034513Z" creationid="yumas" creationdate="20240811T034513Z">
@@ -14938,6 +14986,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T113100Z" creationid="yumas" creationdate="20240811T113100Z">
         <seg>死んだカダバベリーの低木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead curry tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115749Z" creationid="yumas" creationdate="20240811T115749Z">
+        <seg>死んだカレーの木</seg>
       </tuv>
     </tu>
     <tu>
@@ -14998,6 +15054,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead pineapple plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115601Z" creationid="yumas" creationdate="20240811T115601Z">
+        <seg>死んだパイナップルの植物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead redberry bush</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T114103Z" creationid="yumas" creationdate="20240811T114103Z">
@@ -15040,8 +15104,8 @@
       <tuv lang="en-GB">
         <seg>Dead woad plant</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T115417Z" creationid="yumas" creationdate="20240811T115417Z">
-        <seg>死んだアイ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115534Z" creationid="yumas" creationdate="20240811T115417Z">
+        <seg>死んだアイの植物</seg>
       </tuv>
     </tu>
     <tu>
@@ -15838,6 +15902,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Diseased banana tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115642Z" creationid="yumas" creationdate="20240811T115642Z">
+        <seg>病気のバナナの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Diseased cactus</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T114156Z" creationid="yumas" creationdate="20240811T114156Z">
@@ -15850,6 +15922,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T113054Z" creationid="yumas" creationdate="20240811T113023Z">
         <seg>病気のカダバベリーの低木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased curry tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115743Z" creationid="yumas" creationdate="20240811T115743Z">
+        <seg>病気のカレーの木</seg>
       </tuv>
     </tu>
     <tu>
@@ -15902,6 +15982,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Diseased pineapple plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115552Z" creationid="yumas" creationdate="20240811T115552Z">
+        <seg>病気のパイナップルの植物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Diseased redberry bush</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T114053Z" creationid="yumas" creationdate="20240811T114053Z">
@@ -15928,8 +16016,8 @@
       <tuv lang="en-GB">
         <seg>Diseased woad plant</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T115414Z" creationid="yumas" creationdate="20240811T115414Z">
-        <seg>病気のアイ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115514Z" creationid="yumas" creationdate="20240811T115414Z">
+        <seg>病気のアイの植物</seg>
       </tuv>
     </tu>
     <tu>
@@ -41046,6 +41134,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pineapple plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115544Z" creationid="yumas" creationdate="20240811T115544Z">
+        <seg>パイナップルの植物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pineapple plant stump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115629Z" creationid="yumas" creationdate="20240811T115629Z">
+        <seg>パイナップルの植物の切り株</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pineapple punch</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T062950Z" creationid="2008l" creationdate="20240810T062950Z">
@@ -61442,8 +61546,8 @@
       <tuv lang="en-GB">
         <seg>Woad plant</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T115411Z" creationid="yumas" creationdate="20240811T115411Z">
-        <seg>アイ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115455Z" creationid="yumas" creationdate="20240811T115411Z">
+        <seg>アイの植物</seg>
       </tuv>
     </tu>
     <tu>
