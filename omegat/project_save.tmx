@@ -1374,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Alcove</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T095903Z" creationid="yumas" creationdate="20240811T095903Z">
+        <seg>アルコーブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Alec Kincade</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T064514Z" creationid="yumas" creationdate="20240809T064514Z">
@@ -5582,6 +5590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black mushrooms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T095906Z" creationid="yumas" creationdate="20240811T095906Z">
+        <seg>黒いキノコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black platebody</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T083053Z" creationid="2008l" creationdate="20240729T204216Z">
@@ -7318,6 +7334,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken kiln</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T100015Z" creationid="yumas" creationdate="20240811T100015Z">
+        <seg>壊れた窯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken ladder</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T145226Z" creationid="yumas" creationdate="20240810T145226Z">
@@ -8234,6 +8258,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T064210Z" creationid="2008l" creationdate="20240809T064210Z">
         <seg>焦げたケーキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burnt chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T100100Z" creationid="yumas" creationdate="20240811T100100Z">
+        <seg>焦げた宝箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -22942,6 +22974,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Golem arm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T095919Z" creationid="yumas" creationdate="20240811T095910Z">
+        <seg>ゴーレムの腕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Golem body</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T095931Z" creationid="yumas" creationdate="20240811T095931Z">
+        <seg>ゴーレムの胴体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Golem foot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T095923Z" creationid="yumas" creationdate="20240811T095913Z">
+        <seg>ゴーレムのアシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Golem head</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T095935Z" creationid="yumas" creationdate="20240811T095935Z">
+        <seg>ゴーレムの頭部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Golova</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T042158Z" creationid="yumas" creationdate="20240809T042158Z">
@@ -36414,6 +36478,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mystical mirror</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T100106Z" creationid="yumas" creationdate="20240811T100106Z">
+        <seg>秘伝の鏡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Naghead</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T005244Z" creationid="yumas" creationdate="20240809T005244Z">
@@ -40394,6 +40466,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T123249Z" creationid="yumas" creationdate="20240803T123249Z">
         <seg>で遊ぶ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Plinth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T100044Z" creationid="yumas" creationdate="20240811T100044Z">
+        <seg>台座</seg>
       </tuv>
     </tu>
     <tu>
@@ -47414,6 +47494,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Secure chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T100147Z" creationid="yumas" creationdate="20240811T100147Z">
+        <seg>金庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Security Guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T005842Z" creationid="yumas" creationdate="20240809T005842Z">
@@ -51162,6 +51250,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T111731Z" creationid="yumas" creationdate="20240731T110354Z">
         <seg>一般魔法の書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Standing Torch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T100054Z" creationid="yumas" creationdate="20240811T100054Z">
+        <seg>立てられた松明</seg>
       </tuv>
     </tu>
     <tu>
@@ -57868,6 +57964,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T220149Z" creationid="yumas" creationdate="20240807T213913Z">
         <seg>ジュビネート吸血鬼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vampyre tomb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T100120Z" creationid="yumas" creationdate="20240811T100120Z">
+        <seg>吸血鬼の墓</seg>
       </tuv>
     </tu>
     <tu>
