@@ -3240,8 +3240,8 @@
       <tuv lang="en-GB">
         <seg>Asgarnian Hops</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T120315Z" creationid="yumas" creationdate="20240811T120315Z">
-        <seg>アスガニア・ホップ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121104Z" creationid="yumas" creationdate="20240811T120315Z">
+        <seg>アスガニアン・ホップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5386,6 +5386,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T065216Z" creationid="2008l" creationdate="20240723T065216Z">
         <seg>鳥の餌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bittercap Mushrooms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121227Z" creationid="yumas" creationdate="20240811T121227Z">
+        <seg>ビターキャップ・キノコ</seg>
       </tuv>
     </tu>
     <tu>
@@ -14904,8 +14912,8 @@
       <tuv lang="en-GB">
         <seg>Dead Asgarnian Hops</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T120326Z" creationid="yumas" creationdate="20240811T120326Z">
-        <seg>死んだアスガニア・ホップ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121116Z" creationid="yumas" creationdate="20240811T120326Z">
+        <seg>死んだアスガニアン・ホップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -14922,6 +14930,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T112933Z" creationid="yumas" creationdate="20240811T112933Z">
         <seg>死んだベラドンナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead Bittercap Mushrooms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121342Z" creationid="yumas" creationdate="20240811T121342Z">
+        <seg>死んだビターキャップ・キノコ</seg>
       </tuv>
     </tu>
     <tu>
@@ -14982,10 +14998,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead Wildblood Hops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121034Z" creationid="yumas" creationdate="20240811T121034Z">
+        <seg>死んだワイルドブラッド・ホップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead Wolf</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T121137Z" creationid="yumas" creationdate="20240809T121137Z">
         <seg>死んだオオカミ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead Yanillian Hops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121144Z" creationid="yumas" creationdate="20240811T121144Z">
+        <seg>死んだヤニリアン・ホップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -15960,8 +15992,8 @@
       <tuv lang="en-GB">
         <seg>Diseased Asgarnian Hops</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T120320Z" creationid="yumas" creationdate="20240811T120320Z">
-        <seg>病気のアスガニア・ホップ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121109Z" creationid="yumas" creationdate="20240811T120320Z">
+        <seg>病気のアスガニアン・ホップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -15978,6 +16010,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T112927Z" creationid="yumas" creationdate="20240811T112927Z">
         <seg>病気のベラドンナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased Bittercap Mushrooms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121235Z" creationid="yumas" creationdate="20240811T121235Z">
+        <seg>病気のビターキャップ・キノコ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16018,6 +16058,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T113521Z" creationid="yumas" creationdate="20240811T113521Z">
         <seg>病気のツタウルシの低木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased Wildblood Hops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121029Z" creationid="yumas" creationdate="20240811T121029Z">
+        <seg>病気のワイルドブラッド・ホップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased Yanillian Hops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121132Z" creationid="yumas" creationdate="20240811T121132Z">
+        <seg>病気のヤニリアン・ホップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -37314,6 +37370,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120716Z" creationid="yumas" creationdate="20240808T120716Z">
         <seg>キノコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mushroom patch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121201Z" creationid="yumas" creationdate="20240811T121201Z">
+        <seg>キノコの小区画</seg>
       </tuv>
     </tu>
     <tu>
@@ -62172,6 +62236,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T010328Z" creationid="yumas" creationdate="20240803T010328Z">
         <seg>ヤニル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yanillian Hops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T121101Z" creationid="yumas" creationdate="20240811T121101Z">
+        <seg>ヤニリアン・ホップ</seg>
       </tuv>
     </tu>
     <tu>
