@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>A rock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T051029Z" creationid="yumas" creationdate="20240811T051029Z">
+        <seg>岩石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>A scribbled note</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T071157Z" creationid="2008l" creationdate="20240726T070100Z">
@@ -9150,6 +9158,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cart tunnel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T051101Z" creationid="yumas" creationdate="20240811T051101Z">
+        <seg>カートの入口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Carved doors</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T031452Z" creationid="yumas" creationdate="20240811T031452Z">
@@ -12678,6 +12694,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crafting Stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T050925Z" creationid="yumas" creationdate="20240811T050925Z">
+        <seg>工作道具の屋台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crafting tutor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134801Z" creationid="yumas" creationdate="20240807T134801Z">
@@ -13146,6 +13170,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240729T063726Z">
         <seg>水晶のカギ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crystal outcrop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T051201Z" creationid="yumas" creationdate="20240811T051201Z">
+        <seg>水晶の露頭</seg>
       </tuv>
     </tu>
     <tu>
@@ -17902,6 +17934,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Exit Sign</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T050912Z" creationid="yumas" creationdate="20240811T050912Z">
+        <seg>出口標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Exit door</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T033326Z" creationid="yumas" creationdate="20240811T033326Z">
@@ -19622,6 +19662,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Food Stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T050929Z" creationid="yumas" creationdate="20240811T050929Z">
+        <seg>屋台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Food Trough</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T043231Z" creationid="yumas" creationdate="20240811T043231Z">
@@ -20850,6 +20898,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T040847Z" creationid="yumas" creationdate="20240809T040847Z">
         <seg>サララ将軍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>General Stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T050935Z" creationid="yumas" creationdate="20240811T050935Z">
+        <seg>普通の屋台</seg>
       </tuv>
     </tu>
     <tu>
@@ -32338,6 +32394,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T030745Z" creationid="yumas" creationdate="20240811T030745Z">
         <seg>魔法のポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic Stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T050946Z" creationid="yumas" creationdate="20240811T050946Z">
+        <seg>魔法用品の屋台</seg>
       </tuv>
     </tu>
     <tu>
@@ -45422,6 +45486,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Saradomin Standard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T051050Z" creationid="yumas" creationdate="20240811T051050Z">
+        <seg>普通のサラドミン信者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Saradomin priest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T140118Z" creationid="yumas" creationdate="20240805T140118Z">
@@ -45714,6 +45786,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T115705Z" creationid="yumas" creationdate="20240805T115705Z">
         <seg>女子生徒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Scimitar Stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T050956Z" creationid="yumas" creationdate="20240811T050956Z">
+        <seg>三日月刀の屋台</seg>
       </tuv>
     </tu>
     <tu>
@@ -48266,6 +48346,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T060108Z" creationid="yumas" creationdate="20240809T060108Z">
         <seg>スリーヴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Slight indentations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T051027Z" creationid="yumas" creationdate="20240811T051027Z">
+        <seg>わずかなくぼみ</seg>
       </tuv>
     </tu>
     <tu>
@@ -57456,6 +57544,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Water Valve</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T051106Z" creationid="yumas" creationdate="20240811T051106Z">
+        <seg>水の弁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Water battlestaff</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T070242Z" creationid="2008l" creationdate="20240731T070242Z">
@@ -59220,6 +59316,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T045007Z" creationid="yumas" creationdate="20240811T045007Z">
         <seg>ザモラックのポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak Standard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T051056Z" creationid="yumas" creationdate="20240811T051056Z">
+        <seg>普通のザモラック信者</seg>
       </tuv>
     </tu>
     <tu>
