@@ -14966,6 +14966,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead marigold</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115009Z" creationid="yumas" creationdate="20240811T115009Z">
+        <seg>死んだマリーゴールド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead nasturtium</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115220Z" creationid="yumas" creationdate="20240811T115220Z">
+        <seg>死んだナスタチウム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead orb</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T080344Z" creationid="2008l" creationdate="20240811T080344Z">
@@ -15842,6 +15858,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T114838Z" creationid="yumas" creationdate="20240811T114838Z">
         <seg>病気のマリーゴールド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased nasturtium</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115122Z" creationid="yumas" creationdate="20240811T115122Z">
+        <seg>病気のナスタチウム</seg>
       </tuv>
     </tu>
     <tu>
@@ -37218,6 +37242,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T135251Z" creationid="yumas" creationdate="20240807T135251Z">
         <seg>ナーフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nasturtium</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T115050Z" creationid="yumas" creationdate="20240811T115050Z">
+        <seg>ナスタチウム</seg>
       </tuv>
     </tu>
     <tu>
