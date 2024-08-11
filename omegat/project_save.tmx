@@ -11862,6 +11862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Closed bank booth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T094713Z" creationid="yumas" creationdate="20240811T094713Z">
+        <seg>閉められた銀行ブース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Closed chest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T051011Z" creationid="yumas" creationdate="20240810T051011Z">
@@ -50536,8 +50544,8 @@
       <tuv lang="en-GB">
         <seg>Spinning Machine</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T094501Z" creationid="yumas" creationdate="20240811T094501Z">
-        <seg>糸車の</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T094505Z" creationid="yumas" creationdate="20240811T094501Z">
+        <seg>糸車の機械</seg>
       </tuv>
     </tu>
     <tu>
