@@ -13632,8 +13632,8 @@
       <tuv lang="en-GB">
         <seg>Crumpled scroll</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240725T065104Z" creationid="2008l" creationdate="20240725T065104Z">
-        <seg>くしゃくしゃの巻き物</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T110455Z" creationid="2008l" creationdate="20240725T065104Z">
+        <seg>くしゃくしゃの巻物</seg>
       </tuv>
     </tu>
     <tu>
@@ -22534,6 +22534,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Globe of Gielinor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T110432Z" creationid="yumas" creationdate="20240811T110432Z">
+        <seg>ギレノーの地球儀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Glod</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T001625Z" creationid="yumas" creationdate="20240809T001625Z">
@@ -25272,8 +25280,8 @@
       <tuv lang="en-GB">
         <seg>Hazeel scroll</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240811T073512Z" creationid="2008l" creationdate="20240811T073512Z">
-        <seg>はジールの巻き物</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T110509Z" creationid="2008l" creationdate="20240811T073512Z">
+        <seg>はジールの巻物</seg>
       </tuv>
     </tu>
     <tu>
@@ -37438,6 +37446,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Notice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T110412Z" creationid="yumas" creationdate="20240811T110412Z">
+        <seg>掲示物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Noticeboard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T021643Z" creationid="yumas" creationdate="20240811T021643Z">
@@ -38178,6 +38194,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T073806Z" creationid="yumas" creationdate="20240809T073806Z">
         <seg>オルベータス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Old Bookshelf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T110422Z" creationid="yumas" creationdate="20240811T110422Z">
+        <seg>古い本棚</seg>
       </tuv>
     </tu>
     <tu>
@@ -47654,6 +47678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Scrolls</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T110448Z" creationid="yumas" creationdate="20240811T110448Z">
+        <seg>巻物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Scrubfoot</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T091315Z" creationid="yumas" creationdate="20240809T091315Z">
@@ -51008,8 +51040,8 @@
       <tuv lang="en-GB">
         <seg>Spell scroll</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240810T072551Z" creationid="2008l" creationdate="20240810T072551Z">
-        <seg>魔法の巻き物</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T110501Z" creationid="2008l" creationdate="20240810T072551Z">
+        <seg>魔法の巻物</seg>
       </tuv>
     </tu>
     <tu>
@@ -52866,6 +52898,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T215148Z" creationid="yumas" creationdate="20240730T215148Z">
         <seg>を調べる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Study Desk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T110433Z" creationid="yumas" creationdate="20240811T110433Z">
+        <seg>勉強机</seg>
       </tuv>
     </tu>
     <tu>
@@ -56376,6 +56416,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Track</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T110404Z" creationid="yumas" creationdate="20240811T110404Z">
+        <seg>線路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tracker gnome 1</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T235912Z" creationid="yumas" creationdate="20240808T235912Z">
@@ -56500,6 +56548,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T220445Z" creationid="yumas" creationdate="20240807T220445Z">
         <seg>商人スヴェン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Train cart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T110410Z" creationid="yumas" creationdate="20240811T110410Z">
+        <seg>電車の線路</seg>
       </tuv>
     </tu>
     <tu>
