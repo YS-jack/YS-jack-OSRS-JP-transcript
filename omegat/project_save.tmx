@@ -14878,10 +14878,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead cadavaberry bush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T113100Z" creationid="yumas" creationdate="20240811T113100Z">
+        <seg>死んだカダバベリーの低木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead dwellberry bush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T113144Z" creationid="yumas" creationdate="20240811T113144Z">
+        <seg>死んだドエルベリーの低木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead hardy goutweed</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T231430Z" creationid="yumas" creationdate="20240808T231430Z">
         <seg>死んだグート草</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead jangerberry bush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T113234Z" creationid="yumas" creationdate="20240811T113234Z">
+        <seg>死んだジャンガベリーの低木</seg>
       </tuv>
     </tu>
     <tu>
@@ -15680,8 +15704,16 @@
       <tuv lang="en-GB">
         <seg>Diseased cadavaberry bush</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T113023Z" creationid="yumas" creationdate="20240811T113023Z">
-        <seg>カダバベリー低木病気の</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T113054Z" creationid="yumas" creationdate="20240811T113023Z">
+        <seg>病気のカダバベリーの低木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased dwellberry bush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T113136Z" creationid="yumas" creationdate="20240811T113136Z">
+        <seg>病気のドエルベリーの低木</seg>
       </tuv>
     </tu>
     <tu>
@@ -15690,6 +15722,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T231423Z" creationid="yumas" creationdate="20240808T231423Z">
         <seg>病気のグート草</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased jangerberry bush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T113228Z" creationid="yumas" creationdate="20240811T113228Z">
+        <seg>病気のジャンガベリーの低木</seg>
       </tuv>
     </tu>
     <tu>
@@ -17066,6 +17106,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T063408Z" creationid="2008l" creationdate="20240810T063408Z">
         <seg>ドウェルベリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dwellberry bush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T113130Z" creationid="yumas" creationdate="20240811T113130Z">
+        <seg>ドエルベリーの低木</seg>
       </tuv>
     </tu>
     <tu>
@@ -28242,6 +28290,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T140151Z" creationid="2008l" creationdate="20240722T062124Z">
         <seg>ジャンガベリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jangerberry bush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T113214Z" creationid="yumas" creationdate="20240811T113214Z">
+        <seg>ジャンガベリーの低木</seg>
       </tuv>
     </tu>
     <tu>
@@ -41138,6 +41194,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062528Z" creationid="2008l" creationdate="20240722T062528Z">
         <seg>毒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Poison Ivy bush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T113420Z" creationid="yumas" creationdate="20240811T113420Z">
+        <seg>ツタウルシの低木</seg>
       </tuv>
     </tu>
     <tu>
