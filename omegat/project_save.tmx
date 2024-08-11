@@ -15214,6 +15214,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead onions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122339Z" creationid="yumas" creationdate="20240811T122339Z">
+        <seg>死んだ玉ねぎ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead orange tree</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T115826Z" creationid="yumas" creationdate="20240811T115826Z">
@@ -15278,10 +15286,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead strawberry plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122355Z" creationid="yumas" creationdate="20240811T122355Z">
+        <seg>死んだイチゴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead swamp snake</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T013106Z" creationid="yumas" creationdate="20240809T013106Z">
         <seg>死んだ沼ヘビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead sweetcorn plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122429Z" creationid="yumas" creationdate="20240811T122429Z">
+        <seg>死んだコーンの植物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead tomato plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122512Z" creationid="yumas" creationdate="20240811T122512Z">
+        <seg>死んだトマト</seg>
       </tuv>
     </tu>
     <tu>
@@ -16310,6 +16342,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Diseased onions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122336Z" creationid="yumas" creationdate="20240811T122336Z">
+        <seg>病気の玉ねぎ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Diseased orange tree</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T115822Z" creationid="yumas" creationdate="20240811T115822Z">
@@ -16362,6 +16402,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T115301Z" creationid="yumas" creationdate="20240811T115301Z">
         <seg>病気のローズマリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased strawberry plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122351Z" creationid="yumas" creationdate="20240811T122351Z">
+        <seg>病気のイチゴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased sweetcorn plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122422Z" creationid="yumas" creationdate="20240811T122422Z">
+        <seg>病気のコーンの植物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diseased tomato plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122508Z" creationid="yumas" creationdate="20240811T122508Z">
+        <seg>病気のトマト</seg>
       </tuv>
     </tu>
     <tu>
@@ -39366,6 +39430,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Onion plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122331Z" creationid="yumas" creationdate="20240811T122331Z">
+        <seg>玉ねぎ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Onion seeds</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122254Z" creationid="yumas" creationdate="20240811T122254Z">
+        <seg>玉ねぎの種</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Oobapohk</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T044216Z" creationid="yumas" creationdate="20240809T044216Z">
@@ -53950,6 +54030,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strawberry</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122348Z" creationid="yumas" creationdate="20240811T122348Z">
+        <seg>イチゴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strawberry plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122345Z" creationid="yumas" creationdate="20240811T122345Z">
+        <seg>イチゴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strawberry seed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122342Z" creationid="yumas" creationdate="20240811T122342Z">
+        <seg>イチゴの種</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stray dog</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T134618Z" creationid="yumas" creationdate="20240806T134618Z">
@@ -54714,6 +54818,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T020316Z" creationid="yumas" creationdate="20240809T020316Z">
         <seg>掃除人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sweetcorn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122414Z" creationid="yumas" creationdate="20240811T122414Z">
+        <seg>コーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sweetcorn plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122410Z" creationid="yumas" creationdate="20240811T122405Z">
+        <seg>コーンの植物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sweetcorn seed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122400Z" creationid="yumas" creationdate="20240811T122400Z">
+        <seg>コーンの種</seg>
       </tuv>
     </tu>
     <tu>
@@ -57228,6 +57356,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T065643Z" creationid="2008l" creationdate="20240809T065643Z">
         <seg>トマト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tomato plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T122504Z" creationid="yumas" creationdate="20240811T122504Z">
+        <seg>トマトの植物</seg>
       </tuv>
     </tu>
     <tu>
