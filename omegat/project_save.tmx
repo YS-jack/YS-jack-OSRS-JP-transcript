@@ -4718,6 +4718,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bathtub</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T111415Z" creationid="yumas" creationdate="20240811T111415Z">
+        <seg>バスタブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Batt Mellamy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T043628Z" creationid="yumas" creationdate="20240809T043628Z">
@@ -30734,6 +30742,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Larder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T111411Z" creationid="yumas" creationdate="20240811T111411Z">
+        <seg>食糧貯蔵庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Large Tendril</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T010946Z" creationid="yumas" creationdate="20240810T010937Z">
@@ -39010,6 +39026,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T130153Z" creationid="yumas" creationdate="20240803T130153Z">
         <seg>外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Oven</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T111154Z" creationid="yumas" creationdate="20240811T111154Z">
+        <seg>オーブン</seg>
       </tuv>
     </tu>
     <tu>
@@ -58835,6 +58859,14 @@
         <seg>Veg stall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T050015Z" creationid="yumas" creationdate="20240811T050015Z">
+        <seg>野菜の屋台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vegetable Stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T111152Z" creationid="yumas" creationdate="20240811T111152Z">
         <seg>野菜の屋台</seg>
       </tuv>
     </tu>
