@@ -30830,6 +30830,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Huge vat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T093501Z" creationid="yumas" creationdate="20240812T093501Z">
+        <seg>巨大な釜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hugor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T052446Z" creationid="yumas" creationdate="20240809T052446Z">
@@ -39038,6 +39046,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Magic table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T093531Z" creationid="yumas" creationdate="20240812T093531Z">
+        <seg>魔法のテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Magic tree</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T045739Z" creationid="yumas" creationdate="20240811T045739Z">
@@ -39066,6 +39082,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T050926Z" creationid="yumas" creationdate="20240812T050926Z">
         <seg>魔法のタンスのスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic well</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T093520Z" creationid="yumas" creationdate="20240812T093520Z">
+        <seg>魔法の井戸</seg>
       </tuv>
     </tu>
     <tu>
@@ -44622,6 +44646,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Operation chair</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T093527Z" creationid="yumas" creationdate="20240812T093527Z">
+        <seg>手術椅子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Operation table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T093522Z" creationid="yumas" creationdate="20240812T093522Z">
+        <seg>手術台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Operator</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T043837Z" creationid="yumas" creationdate="20240809T043837Z">
@@ -47142,6 +47182,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pipe machine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T093507Z" creationid="yumas" creationdate="20240812T093507Z">
+        <seg>パイプの機械</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pipes</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T131548Z" creationid="yumas" creationdate="20240811T131548Z">
@@ -48434,6 +48482,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062450Z" creationid="2008l" creationdate="20240722T062450Z">
         <seg>圧力計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pressure machine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T093358Z" creationid="yumas" creationdate="20240812T093358Z">
+        <seg>圧力機</seg>
       </tuv>
     </tu>
     <tu>
@@ -58838,6 +58894,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Specimen</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T093723Z" creationid="yumas" creationdate="20240812T093723Z">
+        <seg>標本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Specimen brush</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T070755Z" creationid="2008l" creationdate="20240725T070755Z">
@@ -59130,6 +59194,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T053714Z" creationid="yumas" creationdate="20240812T053714Z">
         <seg>回る照明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spinning pipe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T093537Z" creationid="yumas" creationdate="20240812T093537Z">
+        <seg>回転するパイプ</seg>
       </tuv>
     </tu>
     <tu>
@@ -62198,6 +62270,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Symbol of life</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T093514Z" creationid="yumas" creationdate="20240812T093514Z">
+        <seg>命のシンボル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Table</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T081736Z" creationid="yumas" creationdate="20240810T081736Z">
@@ -65216,6 +65296,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tower door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T093344Z" creationid="yumas" creationdate="20240812T093344Z">
+        <seg>塔のドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tower guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T124757Z" creationid="yumas" creationdate="20240808T124757Z">
@@ -66180,6 +66268,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T065418Z" creationid="yumas" creationdate="20240809T065418Z">
         <seg>津波</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tube</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T093517Z" creationid="yumas" creationdate="20240812T093517Z">
+        <seg>管</seg>
       </tuv>
     </tu>
     <tu>
@@ -69140,6 +69236,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064544Z" creationid="2008l" creationdate="20240725T063514Z">
         <seg>水のオーブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Water pipes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T093350Z" creationid="yumas" creationdate="20240812T093350Z">
+        <seg>水パイプ</seg>
       </tuv>
     </tu>
     <tu>
