@@ -2126,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>An anonymous looking door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053418Z" creationid="yumas" creationdate="20240812T053418Z">
+        <seg>特徴がない扉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>An experimental anvil</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T034037Z" creationid="yumas" creationdate="20240811T034037Z">
@@ -9650,6 +9658,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T022514Z" creationid="yumas" creationdate="20240809T022514Z">
         <seg>やぶヘビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bust</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053355Z" creationid="yumas" creationdate="20240812T053355Z">
+        <seg>バスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -24014,6 +24030,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Foot lockers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053617Z" creationid="yumas" creationdate="20240812T053617Z">
+        <seg>フットロッカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Footprints</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T231950Z" creationid="yumas" creationdate="20240808T231950Z">
@@ -25942,6 +25966,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gigantic penguin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053534Z" creationid="yumas" creationdate="20240812T053534Z">
+        <seg>凄く大きいペンギン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gilbert</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T030250Z" creationid="yumas" creationdate="20240810T030250Z">
@@ -27062,6 +27094,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Golf-cart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053432Z" creationid="yumas" creationdate="20240812T053432Z">
+        <seg>ゴルフカート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Golova</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T042158Z" creationid="yumas" creationdate="20240809T042158Z">
@@ -27266,6 +27306,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T224325Z" creationid="yumas" creationdate="20240811T224325Z">
         <seg>グランド・エクスチェンジのブース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grand Gold Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053340Z" creationid="yumas" creationdate="20240812T053340Z">
+        <seg>大きな金の宝箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -31642,6 +31690,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T004949Z" creationid="yumas" creationdate="20240812T004949Z">
         <seg>次元の裂け目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Interrogation chair</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053450Z" creationid="yumas" creationdate="20240812T053450Z">
+        <seg>取り調べ椅子</seg>
       </tuv>
     </tu>
     <tu>
@@ -37529,6 +37585,14 @@
         <seg>Locker</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T023931Z" creationid="yumas" creationdate="20240812T023931Z">
+        <seg>ロッカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lockers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053535Z" creationid="yumas" creationdate="20240812T053535Z">
         <seg>ロッカー</seg>
       </tuv>
     </tu>
@@ -44298,6 +44362,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T052526Z" creationid="yumas" creationdate="20240804T052526Z">
         <seg>全て開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Opened gold chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053346Z" creationid="yumas" creationdate="20240812T053346Z">
+        <seg>開いた金の宝箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -59678,6 +59750,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Steam generator</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053517Z" creationid="yumas" creationdate="20240812T053517Z">
+        <seg>蒸気発生器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Steam press</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T050316Z" creationid="yumas" creationdate="20240812T050316Z">
@@ -64468,6 +64548,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T041820Z" creationid="yumas" creationdate="20240811T041820Z">
         <seg>墓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tomb Door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053328Z" creationid="yumas" creationdate="20240812T053328Z">
+        <seg>墓のドア</seg>
       </tuv>
     </tu>
     <tu>
