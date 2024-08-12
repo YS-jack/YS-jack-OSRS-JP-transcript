@@ -3214,6 +3214,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Armour case</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050857Z" creationid="yumas" creationdate="20240812T050857Z">
+        <seg>鎧ケース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Armour repair stand</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T104805Z" creationid="yumas" creationdate="20240811T104805Z">
@@ -10218,6 +10226,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T065257Z" creationid="2008l" creationdate="20240729T065257Z">
         <seg>伝説のマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cape rack space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050920Z" creationid="yumas" creationdate="20240812T050920Z">
+        <seg>マントかけのスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -38478,6 +38494,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Magic wardrobe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050902Z" creationid="yumas" creationdate="20240812T050902Z">
+        <seg>魔法のタンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic wardrobe space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050926Z" creationid="yumas" creationdate="20240812T050926Z">
+        <seg>魔法のタンスのスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Magic whistle</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T074322Z" creationid="2008l" creationdate="20240716T074322Z">
@@ -64344,6 +64376,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Toy box</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050906Z" creationid="yumas" creationdate="20240812T050906Z">
+        <seg>おもちゃ箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Toy box space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051132Z" creationid="yumas" creationdate="20240812T051132Z">
+        <seg>おもちゃ箱のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Toy bricks</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T034550Z" creationid="yumas" creationdate="20240811T034550Z">
@@ -64748,6 +64796,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T102311Z" creationid="yumas" creationdate="20240811T102311Z">
         <seg>宝さがしの統計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Treasure chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050910Z" creationid="yumas" creationdate="20240812T050910Z">
+        <seg>宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Treasure chest space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051143Z" creationid="yumas" creationdate="20240812T051143Z">
+        <seg>宝箱のスペース</seg>
       </tuv>
     </tu>
     <tu>
