@@ -10630,6 +10630,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Castle wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T035012Z" creationid="yumas" creationdate="20240812T035012Z">
+        <seg>城壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cat</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045759Z" creationid="yumas" creationdate="20240805T045759Z">
@@ -11362,6 +11370,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T050414Z" creationid="yumas" creationdate="20240804T050414Z">
         <seg>見た目を変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Changing Curtain</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T040200Z" creationid="yumas" creationdate="20240812T040200Z">
+        <seg>着替え室のカーテン</seg>
       </tuv>
     </tu>
     <tu>
@@ -32534,6 +32550,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jutting wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T035057Z" creationid="yumas" creationdate="20240812T035057Z">
+        <seg>突き出た壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jyn</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T131759Z" creationid="yumas" creationdate="20240806T131759Z">
@@ -42286,6 +42310,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Obstacle net</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T034953Z" creationid="yumas" creationdate="20240812T034953Z">
+        <seg>障害物の網</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Obstacle pipe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T034958Z" creationid="yumas" creationdate="20240812T034958Z">
+        <seg>障害物のパイプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Occupied perch</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T234022Z" creationid="yumas" creationdate="20240808T234022Z">
@@ -43298,6 +43338,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T091130Z" creationid="yumas" creationdate="20240809T091130Z">
         <seg>華麗なクラスク戦闘バッグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ornate railing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T035116Z" creationid="yumas" creationdate="20240812T035116Z">
+        <seg>華麗な手摺</seg>
       </tuv>
     </tu>
     <tu>
@@ -57014,6 +57062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Spikey chain</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T035107Z" creationid="yumas" creationdate="20240812T035107Z">
+        <seg>トゲ付きの鎖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Spin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221128Z" creationid="yumas" creationdate="20240730T221128Z">
@@ -58810,6 +58866,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T235811Z" creationid="yumas" creationdate="20240809T235811Z">
         <seg>謎の低木（黄）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strange floor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T035008Z" creationid="yumas" creationdate="20240812T035008Z">
+        <seg>不思議な床</seg>
       </tuv>
     </tu>
     <tu>
@@ -64552,6 +64616,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Underwall tunnel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T035039Z" creationid="yumas" creationdate="20240812T035039Z">
+        <seg>壁の下のトンネル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Underwater Cavern Entrance</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T013105Z" creationid="yumas" creationdate="20240812T013105Z">
@@ -66892,6 +66964,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T131916Z" creationid="yumas" creationdate="20240810T131916Z">
         <seg>風見</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weathered wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T035027Z" creationid="yumas" creationdate="20240812T035027Z">
+        <seg>風化した壁</seg>
       </tuv>
     </tu>
     <tu>
