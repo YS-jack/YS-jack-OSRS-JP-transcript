@@ -5422,6 +5422,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bean Mound</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T113140Z" creationid="yumas" creationdate="20240812T113140Z">
+        <seg>豆の盛り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Beanstalk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T113154Z" creationid="yumas" creationdate="20240812T113154Z">
+        <seg>豆の茎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Beanstump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T113200Z" creationid="yumas" creationdate="20240812T113200Z">
+        <seg>豆の切り株</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bear Cub</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T114047Z" creationid="yumas" creationdate="20240808T114047Z">
@@ -5434,6 +5458,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T061825Z" creationid="2008l" creationdate="20240729T061825Z">
         <seg>熊の毛皮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Beard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T113213Z" creationid="yumas" creationdate="20240812T113213Z">
+        <seg>髭</seg>
       </tuv>
     </tu>
     <tu>
@@ -28086,6 +28118,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Grate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T113239Z" creationid="yumas" creationdate="20240812T113239Z">
+        <seg>格子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Grave</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T090233Z" creationid="yumas" creationdate="20240809T090233Z">
@@ -38432,8 +38472,8 @@
       <tuv lang="en-GB">
         <seg>Lock</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="yumas" creationdate="20240730T221419Z">
-        <seg>のカギを閉める</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T113248Z" creationid="yumas" creationdate="20240730T221419Z">
+        <seg>カギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -43382,6 +43422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Nails</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T113234Z" creationid="yumas" creationdate="20240812T113234Z">
+        <seg>爪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Nakasa Jovkai</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T085819Z" creationid="yumas" creationdate="20240809T085819Z">
@@ -46938,6 +46986,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120619Z" creationid="yumas" creationdate="20240808T120619Z">
         <seg>ペンダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pendant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T113232Z" creationid="yumas" creationdate="20240812T113232Z">
+        <seg>首飾り</seg>
       </tuv>
     </tu>
     <tu>
@@ -54970,6 +55026,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T120020Z" creationid="yumas" creationdate="20240806T120020Z">
         <seg>ランバストル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rupert</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T113222Z" creationid="yumas" creationdate="20240812T113222Z">
+        <seg>ルパート</seg>
       </tuv>
     </tu>
     <tu>
@@ -71472,6 +71536,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Witch's charm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T113356Z" creationid="yumas" creationdate="20240812T113356Z">
+        <seg>魔女のお守り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Witch's experiment</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T115648Z" creationid="yumas" creationdate="20240808T115648Z">
@@ -73561,6 +73633,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221019Z" creationid="yumas" creationdate="20240730T221019Z">
         <seg>を通り越す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41744</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Lock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T113257Z" creationid="yumas" creationdate="20240812T113257Z">
+        <seg>のカギを閉める</seg>
       </tuv>
     </tu>
     <tu>
