@@ -8318,6 +8318,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken lobster trap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T044745Z" creationid="yumas" creationdate="20240812T044745Z">
+        <seg>壊れたロブスターの罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken log raft</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T025601Z" creationid="yumas" creationdate="20240811T025601Z">
@@ -8354,6 +8362,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T061121Z" creationid="2008l" creationdate="20240724T065618Z">
         <seg>壊れたツルハシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken rune case</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T044511Z" creationid="yumas" creationdate="20240812T044511Z">
+        <seg>壊れたルーンのケース</seg>
       </tuv>
     </tu>
     <tu>
@@ -12922,6 +12938,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T064829Z" creationid="yumas" creationdate="20240805T064829Z">
         <seg>粘土のゴーレム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Clay oven</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T044708Z" creationid="yumas" creationdate="20240812T044708Z">
+        <seg>粘土のオーブン</seg>
       </tuv>
     </tu>
     <tu>
@@ -18102,6 +18126,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Display table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T044718Z" creationid="yumas" creationdate="20240812T044713Z">
+        <seg>展示台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dissolve</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T135941Z" creationid="yumas" creationdate="20240803T135941Z">
@@ -21878,6 +21910,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Falling door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T044705Z" creationid="yumas" creationdate="20240812T044705Z">
+        <seg>倒れかけているドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Falo the Bard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T045244Z" creationid="yumas" creationdate="20240809T045244Z">
@@ -23330,6 +23370,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T042740Z" creationid="yumas" creationdate="20240811T042740Z">
         <seg>床のトゲ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Floorboards</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T044643Z" creationid="yumas" creationdate="20240812T044643Z">
+        <seg>床板</seg>
       </tuv>
     </tu>
     <tu>
@@ -51854,6 +51902,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rocky surface</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T044527Z" creationid="yumas" creationdate="20240812T044527Z">
+        <seg>岩の面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rocnar</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043551Z" creationid="yumas" creationdate="20240805T043551Z">
@@ -58686,6 +58742,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Statue with key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T044503Z" creationid="yumas" creationdate="20240812T044503Z">
+        <seg>カギを持った像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Statuette Plinth</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T230745Z" creationid="yumas" creationdate="20240811T230745Z">
@@ -64152,6 +64216,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Trapdoor table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T044551Z" creationid="yumas" creationdate="20240812T044551Z">
+        <seg>落とし戸のテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trapdoor tunnel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T044558Z" creationid="yumas" creationdate="20240812T044558Z">
+        <seg>落とし戸のトンネル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Trapped Soul</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T071613Z" creationid="yumas" creationdate="20240809T071613Z">
@@ -66156,6 +66236,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T220149Z" creationid="yumas" creationdate="20240807T213913Z">
         <seg>ジュビネート吸血鬼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vampyre statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T044433Z" creationid="yumas" creationdate="20240812T044433Z">
+        <seg>吸血鬼の像</seg>
       </tuv>
     </tu>
     <tu>
@@ -68483,6 +68571,14 @@
         <seg>Windswept Tree</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T040435Z" creationid="yumas" creationdate="20240812T040435Z">
+        <seg>風にさらされた木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Windswept tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T044707Z" creationid="yumas" creationdate="20240812T044707Z">
         <seg>風にさらされた木</seg>
       </tuv>
     </tu>
