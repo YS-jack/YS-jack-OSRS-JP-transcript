@@ -2110,6 +2110,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ancient Pillar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T004916Z" creationid="yumas" creationdate="20240812T004916Z">
+        <seg>古の柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ancient Rock</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T054453Z" creationid="yumas" creationdate="20240811T054453Z">
@@ -12114,6 +12122,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T064829Z" creationid="yumas" creationdate="20240805T064829Z">
         <seg>粘土のゴーレム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Clay rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T005017Z" creationid="yumas" creationdate="20240812T005017Z">
+        <seg>粘土の岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -28894,6 +28910,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Interdimensional rift</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T004949Z" creationid="yumas" creationdate="20240812T004949Z">
+        <seg>次元の裂け目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Intimidate</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T081632Z" creationid="2008l" creationdate="20240715T081632Z">
@@ -29282,6 +29306,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T051951Z" creationid="yumas" creationdate="20240811T051940Z">
         <seg>鉄のフェンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iron rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T005030Z" creationid="yumas" creationdate="20240812T005030Z">
+        <seg>鉄の岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -43314,6 +43346,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T095225Z" creationid="yumas" creationdate="20240805T095225Z">
         <seg>ポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Portal Home</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T004955Z" creationid="yumas" creationdate="20240812T004955Z">
+        <seg>家ポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Portal machine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T005011Z" creationid="yumas" creationdate="20240812T005011Z">
+        <seg>ポータルの機械</seg>
       </tuv>
     </tu>
     <tu>
