@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>A flag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T114511Z" creationid="yumas" creationdate="20240812T114511Z">
+        <seg>旗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>A gap through the wall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T011833Z" creationid="yumas" creationdate="20240812T011833Z">
@@ -354,6 +362,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T073939Z" creationid="2008l" creationdate="20240805T073939Z">
         <seg>汚いメモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>A shabby tent</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T114510Z" creationid="yumas" creationdate="20240812T114510Z">
+        <seg>よれよれのテント</seg>
       </tuv>
     </tu>
     <tu>
@@ -1178,6 +1194,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093044Z" creationid="yumas" creationdate="20240730T093044Z">
         <seg>で年齢確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Aged log</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T114516Z" creationid="yumas" creationdate="20240812T114516Z">
+        <seg>古い丸太</seg>
       </tuv>
     </tu>
     <tu>
@@ -4942,10 +4966,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Barbarian bed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T114523Z" creationid="yumas" creationdate="20240812T114523Z">
+        <seg>蛮族のベッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Barbarian chair</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T114529Z" creationid="yumas" creationdate="20240812T114529Z">
+        <seg>蛮族の椅子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Barbarian guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070124Z" creationid="yumas" creationdate="20240805T070124Z">
         <seg>蛮族の衛兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Barbarian table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T114527Z" creationid="yumas" creationdate="20240812T114527Z">
+        <seg>蛮族のテーブル</seg>
       </tuv>
     </tu>
     <tu>
@@ -19530,6 +19578,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T080143Z" creationid="2008l" creationdate="20240811T080143Z">
         <seg>竜鉄の鎖甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragon corpse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T114308Z" creationid="yumas" creationdate="20240812T114308Z">
+        <seg>竜の死体</seg>
       </tuv>
     </tu>
     <tu>
@@ -41622,6 +41678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mighty torrent</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T114547Z" creationid="yumas" creationdate="20240812T114547Z">
+        <seg>壮大な激流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mihail</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T125303Z" creationid="yumas" creationdate="20240808T125303Z">
@@ -50250,6 +50314,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T025242Z" creationid="yumas" creationdate="20240810T025242Z">
         <seg>パイヤー・フォックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pyre site</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T114642Z" creationid="yumas" creationdate="20240812T114642Z">
+        <seg>火葬の場所</seg>
       </tuv>
     </tu>
     <tu>
@@ -73452,6 +73524,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T073934Z" creationid="yumas" creationdate="20240805T073934Z">
         <seg>ふわふわ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>funeral pyre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T114517Z" creationid="yumas" creationdate="20240812T114517Z">
+        <seg>火葬用の木材</seg>
       </tuv>
     </tu>
     <tu>
