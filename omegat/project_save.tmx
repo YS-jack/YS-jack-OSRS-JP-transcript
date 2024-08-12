@@ -22710,6 +22710,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Food Pile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T023421Z" creationid="yumas" creationdate="20240812T023421Z">
+        <seg>食べ物の山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Food Stall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T050929Z" creationid="yumas" creationdate="20240811T050929Z">
@@ -33506,6 +33514,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T121343Z" creationid="yumas" creationdate="20240730T121230Z">
         <seg>ランズ・エンドへ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lander boat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T023439Z" creationid="yumas" creationdate="20240812T023439Z">
+        <seg>ランダー・ボート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lander hatch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T023814Z" creationid="yumas" creationdate="20240812T023814Z">
+        <seg>ランダーのハッチ</seg>
       </tuv>
     </tu>
     <tu>
@@ -52802,6 +52826,14 @@
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240716T184333Z" creationid="b0sh" creationdate="20240716T184333Z">
         <seg>を縫う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sewage water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T023414Z" creationid="yumas" creationdate="20240812T023414Z">
+        <seg>下水</seg>
       </tuv>
     </tu>
     <tu>
