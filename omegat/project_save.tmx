@@ -5278,6 +5278,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bells</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T014800Z" creationid="yumas" creationdate="20240812T014800Z">
+        <seg>ベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Belona</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T060938Z" creationid="yumas" creationdate="20240809T060938Z">
@@ -28998,6 +29006,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Icon of Bob</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T014718Z" creationid="yumas" creationdate="20240812T014718Z">
+        <seg>ボブのアイコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Icon of Guthix</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T014714Z" creationid="yumas" creationdate="20240812T014714Z">
+        <seg>ガシックスのアイコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Icon of Saradomin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T014620Z" creationid="yumas" creationdate="20240812T014620Z">
+        <seg>サラドミンのアイコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Icon of Zamorak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T014644Z" creationid="yumas" creationdate="20240812T014644Z">
+        <seg>ザモラックのアイコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Icthlarin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T121209Z" creationid="yumas" creationdate="20240808T121209Z">
@@ -29234,6 +29274,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T050501Z" creationid="yumas" creationdate="20240809T050435Z">
         <seg>非力な炎魔術師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Incense burner</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T014740Z" creationid="yumas" creationdate="20240812T014740Z">
+        <seg>香炉</seg>
       </tuv>
     </tu>
     <tu>
@@ -41518,6 +41566,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Organ</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T014804Z" creationid="yumas" creationdate="20240812T014804Z">
+        <seg>オルガン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Oriana</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T025830Z" creationid="yumas" creationdate="20240810T025830Z">
@@ -52150,6 +52206,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shaving stand</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T014550Z" creationid="yumas" creationdate="20240812T014550Z">
+        <seg>髭剃りスタンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shayzien Infiltrator</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T072420Z" creationid="yumas" creationdate="20240809T072420Z">
@@ -52554,6 +52618,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T211842Z" creationid="yumas" creationdate="20240730T211842Z">
         <seg>を閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shuttered window</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T014827Z" creationid="yumas" creationdate="20240812T014827Z">
+        <seg>シャッターが閉じた窓</seg>
       </tuv>
     </tu>
     <tu>
@@ -57474,6 +57546,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T105829Z" creationid="yumas" creationdate="20240811T105829Z">
         <seg>シンボル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Symbol of Guthix</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T014615Z" creationid="yumas" creationdate="20240812T014615Z">
+        <seg>ガシックスの印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Symbol of Saradomin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T014600Z" creationid="yumas" creationdate="20240812T014600Z">
+        <seg>サラドミンの印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Symbol of Zamorak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T014610Z" creationid="yumas" creationdate="20240812T014610Z">
+        <seg>ザモラックの印</seg>
       </tuv>
     </tu>
     <tu>
@@ -64652,6 +64748,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T130908Z" creationid="yumas" creationdate="20240731T130908Z">
         <seg>を巻く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Windchimes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T014758Z" creationid="yumas" creationdate="20240812T014758Z">
+        <seg>風鈴</seg>
       </tuv>
     </tu>
     <tu>
