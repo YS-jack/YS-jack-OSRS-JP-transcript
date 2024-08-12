@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Air rift</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115032Z" creationid="yumas" creationdate="20240812T115032Z">
+        <seg>大気の裂け目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Air rune</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062727Z" creationid="2008l" creationdate="20240725T062727Z">
@@ -6894,6 +6902,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blockage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115103Z" creationid="yumas" creationdate="20240812T115103Z">
+        <seg>閉塞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blocked tunnel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T102401Z" creationid="yumas" creationdate="20240812T102401Z">
@@ -8826,6 +8842,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T061121Z" creationid="2008l" creationdate="20240724T065618Z">
         <seg>壊れたツルハシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken rock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115202Z" creationid="yumas" creationdate="20240812T115158Z">
+        <seg>割れた岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -13298,6 +13322,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T063623Z" creationid="2008l" creationdate="20240809T063623Z">
         <seg>みじん切りの玉ねぎ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chopped tendrils</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115219Z" creationid="yumas" creationdate="20240812T115219Z">
+        <seg>切られたツル</seg>
       </tuv>
     </tu>
     <tu>
@@ -31206,6 +31238,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Holding area</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115022Z" creationid="yumas" creationdate="20240812T115022Z">
+        <seg>拘束エリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hole</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T144808Z" creationid="yumas" creationdate="20240810T144808Z">
@@ -41846,6 +41886,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mind rift</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115037Z" creationid="yumas" creationdate="20240812T115037Z">
+        <seg>心の裂け目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mind rune</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062758Z" creationid="2008l" creationdate="20240725T062758Z">
@@ -45366,6 +45414,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Old bookshelf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115113Z" creationid="yumas" creationdate="20240812T115113Z">
+        <seg>古い本棚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Old boot</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T072108Z" creationid="2008l" creationdate="20240725T072108Z">
@@ -46138,6 +46194,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T080144Z" creationid="yumas" creationdate="20240809T080144Z">
         <seg>オロフィン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Orrery</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115112Z" creationid="yumas" creationdate="20240812T115112Z">
+        <seg>太陽系儀</seg>
       </tuv>
     </tu>
     <tu>
@@ -49978,6 +50042,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T124550Z" creationid="yumas" creationdate="20240806T124550Z">
         <seg>オングレウィプ先生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Professor's table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115127Z" creationid="yumas" creationdate="20240812T115127Z">
+        <seg>先生のテーブル</seg>
       </tuv>
     </tu>
     <tu>
@@ -60114,6 +60186,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T104327Z" creationid="yumas" creationdate="20240812T104327Z">
         <seg>魂のボート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Soul rift</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115030Z" creationid="yumas" creationdate="20240812T115030Z">
+        <seg>魂の裂け目</seg>
       </tuv>
     </tu>
     <tu>
@@ -70716,6 +70796,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T093350Z" creationid="yumas" creationdate="20240812T093350Z">
         <seg>水パイプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Water rift</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115026Z" creationid="yumas" creationdate="20240812T115026Z">
+        <seg>水の裂け目</seg>
       </tuv>
     </tu>
     <tu>
