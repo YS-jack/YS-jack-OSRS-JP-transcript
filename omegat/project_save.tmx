@@ -7246,6 +7246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Boat Chute</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043711Z" creationid="yumas" creationdate="20240812T043711Z">
+        <seg>ボートシュート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bob</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T130245Z" creationid="yumas" creationdate="20240806T130245Z">
@@ -7514,6 +7522,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T045245Z" creationid="yumas" creationdate="20240811T045245Z">
         <seg>本棚スペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bookshelf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043611Z" creationid="yumas" creationdate="20240812T043611Z">
+        <seg>本棚</seg>
       </tuv>
     </tu>
     <tu>
@@ -8330,6 +8346,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T072239Z" creationid="2008l" creationdate="20240725T072239Z">
         <seg>折れた杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken stairs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043756Z" creationid="yumas" creationdate="20240812T043756Z">
+        <seg>壊れた椅子</seg>
       </tuv>
     </tu>
     <tu>
@@ -15726,6 +15750,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Daeyalt rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043734Z" creationid="yumas" creationdate="20240812T043734Z">
+        <seg>ダエヤルトの岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Daffodils</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T051821Z" creationid="yumas" creationdate="20240811T051821Z">
@@ -16842,6 +16874,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T231805Z" creationid="yumas" creationdate="20240808T231805Z">
         <seg>デッキチェア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Decorated wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043809Z" creationid="yumas" creationdate="20240812T043809Z">
+        <seg>装飾した壁</seg>
       </tuv>
     </tu>
     <tu>
@@ -21454,6 +21494,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Experiment booth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043653Z" creationid="yumas" creationdate="20240812T043653Z">
+        <seg>実験ブース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Explosion</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T012900Z" creationid="yumas" creationdate="20240812T012900Z">
@@ -22082,6 +22130,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T030026Z" creationid="yumas" creationdate="20240811T030026Z">
         <seg>フェンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fence bits</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043604Z" creationid="yumas" creationdate="20240812T043604Z">
+        <seg>フェンスの一部</seg>
       </tuv>
     </tu>
     <tu>
@@ -34422,6 +34478,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lab table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043628Z" creationid="yumas" creationdate="20240812T043621Z">
+        <seg>実験台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lab tube</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043634Z" creationid="yumas" creationdate="20240812T043634Z">
+        <seg>実験チューブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lacey</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T055736Z" creationid="yumas" creationdate="20240809T055736Z">
@@ -37642,6 +37714,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T072338Z" creationid="2008l" creationdate="20240727T065157Z">
         <seg>水晶の一塊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lumpy rug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043909Z" creationid="yumas" creationdate="20240812T043909Z">
+        <seg>デコボコのカーペット</seg>
       </tuv>
     </tu>
     <tu>
@@ -51606,6 +51686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rock wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043609Z" creationid="yumas" creationdate="20240812T043609Z">
+        <seg>岩の壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rock-climbing boots</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T065249Z" creationid="2008l" creationdate="20240810T065249Z">
@@ -58194,6 +58282,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T050715Z" creationid="yumas" creationdate="20240810T050715Z">
         <seg>階段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stairs down</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043803Z" creationid="yumas" creationdate="20240812T043803Z">
+        <seg>下り階段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stairs up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043753Z" creationid="yumas" creationdate="20240812T043753Z">
+        <seg>登り階段</seg>
       </tuv>
     </tu>
     <tu>
