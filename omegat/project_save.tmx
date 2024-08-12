@@ -5206,6 +5206,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bed space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030358Z" creationid="yumas" creationdate="20240812T030358Z">
+        <seg>ベッドスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bedabin Nomad</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T133739Z" creationid="yumas" creationdate="20240808T133554Z">
@@ -7890,6 +7898,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T013442Z" creationid="yumas" creationdate="20240812T013442Z">
         <seg>壊れた屋根</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken Scaffold</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030230Z" creationid="yumas" creationdate="20240812T030230Z">
+        <seg>壊れた足場</seg>
       </tuv>
     </tu>
     <tu>
@@ -16446,6 +16462,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Decoration space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030354Z" creationid="yumas" creationdate="20240812T030354Z">
+        <seg>装飾スペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Decorative window</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T014831Z" creationid="yumas" creationdate="20240812T014831Z">
@@ -18342,6 +18366,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dresser space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030407Z" creationid="yumas" creationdate="20240812T030407Z">
+        <seg>ドレッサーの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dreven</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T132841Z" creationid="yumas" creationdate="20240806T132841Z">
@@ -20192,8 +20224,8 @@
       <tuv lang="en-GB">
         <seg>Engine Platform</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T030133Z" creationid="yumas" creationdate="20240812T030133Z">
-        <seg>エンジン・</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030332Z" creationid="yumas" creationdate="20240812T030133Z">
+        <seg>エンジンのプラットホームーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -35214,6 +35246,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lift Engine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030201Z" creationid="yumas" creationdate="20240812T030201Z">
+        <seg>エレベーターのエンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lift Platform</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030324Z" creationid="yumas" creationdate="20240812T030324Z">
+        <seg>エレベーターのプラットホーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Light</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221112Z" creationid="yumas" creationdate="20240730T221112Z">
@@ -39498,6 +39546,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T025610Z" creationid="yumas" creationdate="20240812T025610Z">
         <seg>うんてい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Monster space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030349Z" creationid="yumas" creationdate="20240812T030349Z">
+        <seg>モンスタースペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -62136,6 +62192,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Treasure space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030343Z" creationid="yumas" creationdate="20240812T030343Z">
+        <seg>宝スペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Treated patch</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T003956Z" creationid="yumas" creationdate="20240812T003956Z">
@@ -65067,6 +65131,14 @@
         <seg>Wardrobe</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T053749Z" creationid="yumas" creationdate="20240810T053749Z">
+        <seg>タンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wardrobe space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030400Z" creationid="yumas" creationdate="20240812T030400Z">
         <seg>タンス</seg>
       </tuv>
     </tu>
