@@ -7998,6 +7998,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Box of Health</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T111754Z" creationid="yumas" creationdate="20240812T111754Z">
+        <seg>健康の箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Box of bones</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T023239Z" creationid="yumas" creationdate="20240812T023239Z">
@@ -19730,6 +19738,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T110204Z" creationid="yumas" creationdate="20240812T110153Z">
         <seg>びちょびちょのツル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dripping vine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T110416Z" creationid="yumas" creationdate="20240812T110416Z">
+        <seg>濡れたツル</seg>
       </tuv>
     </tu>
     <tu>
@@ -58776,8 +58792,8 @@
       <tuv lang="en-GB">
         <seg>Slug goo</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T045742Z" creationid="yumas" creationdate="20240812T045742Z">
-        <seg>ナメクジのヌルヌル</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T110405Z" creationid="yumas" creationdate="20240812T045742Z">
+        <seg>ナメクジの粘液</seg>
       </tuv>
     </tu>
     <tu>
