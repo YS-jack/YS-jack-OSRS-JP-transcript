@@ -3310,6 +3310,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Asgarnian Ale</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010601Z" creationid="yumas" creationdate="20240812T010601Z">
+        <seg>アスガルニアン・エール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Asgarnian Hops</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T121104Z" creationid="yumas" creationdate="20240811T120315Z">
@@ -3786,6 +3794,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070041Z" creationid="2008l" creationdate="20240724T070041Z">
         <seg>斧の柄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Axeman's Folly</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010841Z" creationid="yumas" creationdate="20240812T010841Z">
+        <seg>斧使いのフォリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -17414,6 +17430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dragon Bitter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010625Z" creationid="yumas" creationdate="20240812T010625Z">
+        <seg>ドラゴン・ビター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dragon battleaxe</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T065814Z" creationid="2008l" creationdate="20240731T065814Z">
@@ -25425,6 +25449,14 @@
         <seg>Greenman's ale</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T064515Z" creationid="2008l" creationdate="20240809T064515Z">
+        <seg>グリーンマンズ・エール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Greenmans Ale</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010609Z" creationid="yumas" creationdate="20240812T010609Z">
         <seg>グリーンマンズ・エール</seg>
       </tuv>
     </tu>
@@ -36494,6 +36526,62 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mature Asgarnian Ale</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010607Z" creationid="yumas" creationdate="20240812T010607Z">
+        <seg>熟したアスガルニアン・エール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mature Axeman's Folly</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010846Z" creationid="yumas" creationdate="20240812T010846Z">
+        <seg>熟した斧使いのフォリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mature Dragon Bitter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010632Z" creationid="yumas" creationdate="20240812T010632Z">
+        <seg>熟したドラゴン・ビター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mature Dwarven Stout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010600Z" creationid="yumas" creationdate="20240812T010600Z">
+        <seg>熟したドワーフ・スタウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mature Greenmans Ale</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010617Z" creationid="yumas" creationdate="20240812T010617Z">
+        <seg>熟したアスガルニアン・エール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mature Moonlight Mead</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010757Z" creationid="yumas" creationdate="20240812T010757Z">
+        <seg>熟した月光ミード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mature Wizards Mind Bomb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010624Z" creationid="yumas" creationdate="20240812T010624Z">
+        <seg>熟した魔法使いの精神爆弾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mausoleum</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T224314Z" creationid="yumas" creationdate="20240811T224314Z">
@@ -38074,6 +38162,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T023848Z" creationid="yumas" creationdate="20240810T023848Z">
         <seg>月光コカトリス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Moonlight Mead</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010752Z" creationid="yumas" creationdate="20240812T010752Z">
+        <seg>月光ミード</seg>
       </tuv>
     </tu>
     <tu>
@@ -64091,6 +64187,14 @@
         <seg>Wizard's mind bomb</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T064423Z" creationid="2008l" creationdate="20240809T064423Z">
+        <seg>魔法使いの精神爆弾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wizards Mind Bomb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010619Z" creationid="yumas" creationdate="20240812T010619Z">
         <seg>魔法使いの精神爆弾</seg>
       </tuv>
     </tu>
