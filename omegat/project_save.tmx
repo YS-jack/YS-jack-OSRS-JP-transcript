@@ -13670,6 +13670,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050412Z" creationid="yumas" creationdate="20240812T050412Z">
+        <seg>歯車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cogs</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T131443Z" creationid="yumas" creationdate="20240811T131443Z">
@@ -14362,6 +14370,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T072002Z" creationid="yumas" creationdate="20240809T072002Z">
         <seg>コーカット・クォ・シハー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Corkscrew lever</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050332Z" creationid="yumas" creationdate="20240812T050332Z">
+        <seg>コルク抜きレバー</seg>
       </tuv>
     </tu>
     <tu>
@@ -21686,6 +21702,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Extractor gun</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050612Z" creationid="yumas" creationdate="20240812T050612Z">
+        <seg>抽出機発射部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Extractor hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050456Z" creationid="yumas" creationdate="20240812T050456Z">
+        <seg>抽出帽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Extractor hat-top</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050505Z" creationid="yumas" creationdate="20240812T050505Z">
+        <seg>抽出帽の上部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Eyatlalli</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T022326Z" creationid="yumas" creationdate="20240810T022326Z">
@@ -22002,6 +22042,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T054246Z" creationid="2008l" creationdate="20240728T054246Z">
         <seg>家紋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fan blade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050424Z" creationid="yumas" creationdate="20240812T050424Z">
+        <seg>ファンの羽</seg>
       </tuv>
     </tu>
     <tu>
@@ -46158,6 +46206,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050411Z" creationid="yumas" creationdate="20240812T050411Z">
+        <seg>ピン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pinball Post</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T124430Z" creationid="yumas" creationdate="20240811T124430Z">
@@ -46305,6 +46361,14 @@
         <seg>Pipes</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T131548Z" creationid="yumas" creationdate="20240811T131548Z">
+        <seg>パイプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Piping</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050334Z" creationid="yumas" creationdate="20240812T050334Z">
         <seg>パイプ</seg>
       </tuv>
     </tu>
@@ -59070,6 +59134,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Steam press</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050316Z" creationid="yumas" creationdate="20240812T050316Z">
+        <seg>蒸気プレス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Steam_Pump</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T033118Z" creationid="yumas" creationdate="20240812T033118Z">
@@ -67904,6 +67976,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Water Tank</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050355Z" creationid="yumas" creationdate="20240812T050355Z">
+        <seg>水槽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Water Trough</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T012232Z" creationid="yumas" creationdate="20240812T012232Z">
@@ -67972,6 +68052,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T065649Z" creationid="2008l" creationdate="20240805T065649Z">
         <seg>水のタリスマン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Water valve</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050317Z" creationid="yumas" creationdate="20240812T050317Z">
+        <seg>水の弁</seg>
       </tuv>
     </tu>
     <tu>
