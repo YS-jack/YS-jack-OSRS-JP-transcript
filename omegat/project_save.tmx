@@ -1806,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Altar space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030457Z" creationid="yumas" creationdate="20240812T030457Z">
+        <seg>祭壇のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Altarkiz</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T064825Z" creationid="yumas" creationdate="20240809T064825Z">
@@ -5362,6 +5370,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T144952Z" creationid="yumas" creationdate="20240810T144952Z">
         <seg>ベルの機構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bell pull space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030555Z" creationid="yumas" creationdate="20240812T030555Z">
+        <seg>ベル引きのスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -13414,6 +13430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Combat ring space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030521Z" creationid="yumas" creationdate="20240812T030521Z">
+        <seg>戦闘リングのスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Combat stone</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043723Z" creationid="yumas" creationdate="20240805T043723Z">
@@ -13898,6 +13922,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T132522Z" creationid="yumas" creationdate="20240808T132522Z">
         <seg>コーネリウス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Corner space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030452Z" creationid="yumas" creationdate="20240812T030440Z">
+        <seg>コーナのスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -17894,6 +17926,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Door hotspot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030625Z" creationid="yumas" creationdate="20240812T030604Z">
+        <seg>ドアのホットスポット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Door key</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T073844Z" creationid="2008l" creationdate="20240811T073844Z">
@@ -17906,6 +17946,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T005418Z" creationid="yumas" creationdate="20240809T005418Z">
         <seg>ドアマン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Door space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030618Z" creationid="yumas" creationdate="20240812T030618Z">
+        <seg>ドアのスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -18368,8 +18416,8 @@
       <tuv lang="en-GB">
         <seg>Dresser space</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T030407Z" creationid="yumas" creationdate="20240812T030407Z">
-        <seg>ドレッサーの</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030411Z" creationid="yumas" creationdate="20240812T030407Z">
+        <seg>ドレッサーのスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -19458,6 +19506,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T200206Z" creationid="yumas" creationdate="20240807T200125Z">
         <seg>均衡のエレメンタル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Elemental balance space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030706Z" creationid="yumas" creationdate="20240812T030706Z">
+        <seg>均衡のエレメンタルのスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -23726,6 +23782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Game space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030633Z" creationid="yumas" creationdate="20240812T030633Z">
+        <seg>ゲームのスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gamer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070038Z" creationid="yumas" creationdate="20240805T070038Z">
@@ -26918,6 +26982,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Guard space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030610Z" creationid="yumas" creationdate="20240812T030610Z">
+        <seg>警備員のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Guardian</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T053646Z" creationid="yumas" creationdate="20240809T053646Z">
@@ -29626,6 +29698,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T014644Z" creationid="yumas" creationdate="20240812T014644Z">
         <seg>ザモラックのアイコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Icon space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030449Z" creationid="yumas" creationdate="20240812T030449Z">
+        <seg>アイコンのスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -33630,6 +33710,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lamp space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030501Z" creationid="yumas" creationdate="20240812T030501Z">
+        <seg>ランプのスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lan the Butcher</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T052557Z" creationid="yumas" creationdate="20240809T052557Z">
@@ -35306,6 +35394,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T045916Z" creationid="yumas" creationdate="20240811T045916Z">
         <seg>照明の仕掛け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lighting space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030630Z" creationid="yumas" creationdate="20240812T030630Z">
+        <seg>照明のスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -40218,6 +40314,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T023909Z" creationid="yumas" creationdate="20240811T023909Z">
         <seg>キノコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Musical space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030516Z" creationid="yumas" creationdate="20240812T030516Z">
+        <seg>音楽のスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -46166,6 +46270,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Prize chest space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030647Z" creationid="yumas" creationdate="20240812T030647Z">
+        <seg>景品入れのスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Probita</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T015211Z" creationid="yumas" creationdate="20240809T015211Z">
@@ -47218,6 +47330,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T021810Z" creationid="yumas" creationdate="20240809T021810Z">
         <seg>弓ギルドの玄関係</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ranging game space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030712Z" creationid="yumas" creationdate="20240812T030712Z">
+        <seg>弓ゲームのスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -52638,6 +52758,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Seating space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030551Z" creationid="yumas" creationdate="20240812T030551Z">
+        <seg>席のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Seaweed</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064231Z" creationid="2008l" creationdate="20240723T064231Z">
@@ -56910,6 +57038,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Statue space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030505Z" creationid="yumas" creationdate="20240812T030505Z">
+        <seg>像のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Statue steps</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T081428Z" creationid="yumas" creationdate="20240810T081428Z">
@@ -57550,6 +57686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stone space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030650Z" creationid="yumas" creationdate="20240812T030650Z">
+        <seg>石のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stone stand</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T044314Z" creationid="yumas" creationdate="20240811T044314Z">
@@ -57610,6 +57754,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T095615Z" creationid="yumas" creationdate="20240811T095513Z">
         <seg>止まれ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Storage space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030530Z" creationid="yumas" creationdate="20240812T030530Z">
+        <seg>貯蔵庫のスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -58914,6 +59066,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T020509Z" creationid="yumas" creationdate="20240812T020447Z">
         <seg>テーブルの封鎖壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Table space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030538Z" creationid="yumas" creationdate="20240812T030538Z">
+        <seg>テーブルのスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -62060,6 +62220,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T041352Z" creationid="yumas" creationdate="20240731T125000Z">
         <seg>罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trap space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T030612Z" creationid="yumas" creationdate="20240812T030612Z">
+        <seg>罠のスペース</seg>
       </tuv>
     </tu>
     <tu>
