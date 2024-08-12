@@ -3006,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Arcane crystal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T133103Z" creationid="yumas" creationdate="20240812T133103Z">
+        <seg>魔法の水晶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Arcenia root</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064146Z" creationid="2008l" creationdate="20240726T064146Z">
@@ -7166,6 +7174,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blood Altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T133115Z" creationid="yumas" creationdate="20240812T133115Z">
+        <seg>血の祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blood Blamish Snail</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T130806Z" creationid="yumas" creationdate="20240806T130806Z">
@@ -7202,6 +7218,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T012434Z" creationid="yumas" creationdate="20240810T012434Z">
         <seg>血のトーテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blood crystal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T133112Z" creationid="yumas" creationdate="20240812T133112Z">
+        <seg>血の水晶</seg>
       </tuv>
     </tu>
     <tu>
@@ -9266,6 +9290,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T013357Z" creationid="yumas" creationdate="20240812T013357Z">
         <seg>壊れた壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken weapons</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T132930Z" creationid="yumas" creationdate="20240812T132930Z">
+        <seg>壊れた武器</seg>
       </tuv>
     </tu>
     <tu>
@@ -17502,6 +17534,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dark Altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T133120Z" creationid="yumas" creationdate="20240812T133120Z">
+        <seg>暗黒の祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dark Ankou</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T045144Z" creationid="yumas" creationdate="20240809T045144Z">
@@ -17546,6 +17586,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045129Z" creationid="yumas" creationdate="20240805T045129Z">
         <seg>暗黒の核</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dark crystal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T133107Z" creationid="yumas" creationdate="20240812T133107Z">
+        <seg>暗黒の水晶</seg>
       </tuv>
     </tu>
     <tu>
@@ -47686,6 +47734,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Parchment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T133148Z" creationid="yumas" creationdate="20240812T133148Z">
+        <seg>羊皮紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Parrot</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T112359Z" creationid="yumas" creationdate="20240805T112359Z">
@@ -57518,6 +57574,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Score board</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T133024Z" creationid="yumas" creationdate="20240812T133004Z">
+        <seg>スコアボード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Scoreboard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T210726Z" creationid="yumas" creationdate="20240730T210726Z">
@@ -61342,6 +61406,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Soul Altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T133123Z" creationid="yumas" creationdate="20240812T133123Z">
+        <seg>魂の祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Soul Devourer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T093339Z" creationid="yumas" creationdate="20240812T093339Z">
@@ -61898,6 +61970,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T091658Z" creationid="yumas" creationdate="20240809T091658Z">
         <seg>スピリット・プール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spirit pump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T133201Z" creationid="yumas" creationdate="20240812T133201Z">
+        <seg>スピリット・ポンプ</seg>
       </tuv>
     </tu>
     <tu>
@@ -71088,6 +71168,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Vials</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T133149Z" creationid="yumas" creationdate="20240812T133149Z">
+        <seg>試薬瓶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Victor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T125233Z" creationid="yumas" creationdate="20240808T125233Z">
@@ -71340,6 +71428,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T125022Z" creationid="yumas" creationdate="20240812T125022Z">
         <seg>火山の炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Volcanic sulphur</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T133220Z" creationid="yumas" creationdate="20240812T133220Z">
+        <seg>火山硫黄</seg>
       </tuv>
     </tu>
     <tu>
