@@ -3310,6 +3310,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Armadyl altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122813Z" creationid="yumas" creationdate="20240812T122813Z">
+        <seg>アーマディルの祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Armadyl pendant</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240719T122827Z" creationid="2008l" creationdate="20240719T064347Z">
@@ -4726,6 +4734,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bandos altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122821Z" creationid="yumas" creationdate="20240812T122815Z">
+        <seg>バンドスの祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bandosian guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T034744Z" creationid="yumas" creationdate="20240809T034744Z">
@@ -6130,6 +6146,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T051455Z" creationid="yumas" creationdate="20240805T051450Z">
         <seg>大きなカエル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Big hole</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122824Z" creationid="yumas" creationdate="20240812T122824Z">
+        <seg>大きな穴</seg>
       </tuv>
     </tu>
     <tu>
@@ -7694,6 +7718,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Boards</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122719Z" creationid="yumas" creationdate="20240812T122719Z">
+        <seg>ボード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Boat</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T220718Z" creationid="yumas" creationdate="20240807T220718Z">
@@ -8954,6 +8986,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T061121Z" creationid="2008l" creationdate="20240724T065618Z">
         <seg>壊れたツルハシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken pillar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122831Z" creationid="yumas" creationdate="20240812T122831Z">
+        <seg>壊れた柱</seg>
       </tuv>
     </tu>
     <tu>
@@ -25614,10 +25654,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Frozen demon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122740Z" creationid="yumas" creationdate="20240812T122740Z">
+        <seg>凍った悪魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Frozen orc</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122744Z" creationid="yumas" creationdate="20240812T122744Z">
+        <seg>凍ったオーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Frozen table</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T044709Z" creationid="yumas" creationdate="20240811T044709Z">
         <seg>凍ったテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Frozen warrior</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122725Z" creationid="yumas" creationdate="20240812T122725Z">
+        <seg>凍った戦士</seg>
       </tuv>
     </tu>
     <tu>
@@ -27998,6 +28062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gold Sink</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122850Z" creationid="yumas" creationdate="20240812T122850Z">
+        <seg>黄金のシンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gold amulet</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240807T195830Z" creationid="2008l" creationdate="20240807T195830Z">
@@ -30178,6 +30250,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T132554Z" creationid="yumas" creationdate="20240730T132554Z">
         <seg>に提出する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Handle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122721Z" creationid="yumas" creationdate="20240812T122721Z">
+        <seg>ハンドル</seg>
       </tuv>
     </tu>
     <tu>
@@ -38762,6 +38842,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T065649Z" creationid="yumas" creationdate="20240809T065649Z">
         <seg>小さな寄生虫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Little crack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122827Z" creationid="yumas" creationdate="20240812T122827Z">
+        <seg>小さな隙間</seg>
       </tuv>
     </tu>
     <tu>
@@ -56302,6 +56390,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Saradomin altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122756Z" creationid="yumas" creationdate="20240812T122756Z">
+        <seg>サラドミンの祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Saradomin cape</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T074054Z" creationid="2008l" creationdate="20240811T074054Z">
@@ -59410,6 +59506,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T120038Z" creationid="yumas" creationdate="20240729T120038Z">
         <seg>頭蓋骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Skullshield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122717Z" creationid="yumas" creationdate="20240812T122717Z">
+        <seg>スカルシールド</seg>
       </tuv>
     </tu>
     <tu>
@@ -73540,6 +73644,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T051056Z" creationid="yumas" creationdate="20240811T051056Z">
         <seg>普通のザモラック信者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122752Z" creationid="yumas" creationdate="20240812T122752Z">
+        <seg>ザモラックの祭壇</seg>
       </tuv>
     </tu>
     <tu>
