@@ -8046,6 +8046,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken Raft</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041118Z" creationid="yumas" creationdate="20240812T041118Z">
+        <seg>壊れたイカダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken Railing</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T023120Z" creationid="yumas" creationdate="20240811T023120Z">
@@ -25838,6 +25846,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gnome barrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041247Z" creationid="yumas" creationdate="20240812T041247Z">
+        <seg>ノームの樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome barrels</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041248Z" creationid="yumas" creationdate="20240812T041248Z">
+        <seg>ノームの樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome cabinet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041244Z" creationid="yumas" creationdate="20240812T041244Z">
+        <seg>ノームのキャビネット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome chair</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041133Z" creationid="yumas" creationdate="20240812T041133Z">
+        <seg>ノームの椅子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gnome child</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T022028Z" creationid="yumas" creationdate="20240809T022028Z">
@@ -25850,6 +25890,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T120559Z" creationid="yumas" creationdate="20240806T120559Z">
         <seg>ノームの仲間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome cooker</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041224Z" creationid="yumas" creationdate="20240812T041224Z">
+        <seg>ノームのコンロ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome crate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041255Z" creationid="yumas" creationdate="20240812T041255Z">
+        <seg>ノームの箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome crates</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041253Z" creationid="yumas" creationdate="20240812T041253Z">
+        <seg>ノームの箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -25930,6 +25994,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T081101Z" creationid="yumas" creationdate="20240810T081101Z">
         <seg>ノームの像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041137Z" creationid="yumas" creationdate="20240812T041137Z">
+        <seg>ノームのテーブル</seg>
       </tuv>
     </tu>
     <tu>
@@ -33802,6 +33874,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T043209Z" creationid="yumas" creationdate="20240811T043209Z">
         <seg>台所の</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kitchen cabinet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041231Z" creationid="yumas" creationdate="20240812T041231Z">
+        <seg>台所のキャビネット</seg>
       </tuv>
     </tu>
     <tu>
@@ -42374,10 +42454,18 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Oaknock statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041320Z" creationid="yumas" creationdate="20240812T041320Z">
+        <seg>オークノックの像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Oaknock the Engineer</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240808T134538Z" creationid="yumas" creationdate="20240808T134538Z">
-        <seg>技術者のオウクノック</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041316Z" creationid="yumas" creationdate="20240808T134538Z">
+        <seg>技術者のオークノック</seg>
       </tuv>
     </tu>
     <tu>
@@ -42658,6 +42746,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T111348Z" creationid="yumas" creationdate="20240803T111348Z">
         <seg>魚を捧げる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Office table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041158Z" creationid="yumas" creationdate="20240812T041158Z">
+        <seg>事務所のテーブル</seg>
       </tuv>
     </tu>
     <tu>
@@ -46218,6 +46314,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T064553Z" creationid="yumas" creationdate="20240809T064553Z">
         <seg>跳ね橋の管理者ポンツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pool of Slime</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041130Z" creationid="yumas" creationdate="20240812T041130Z">
+        <seg>溜まったスライム</seg>
       </tuv>
     </tu>
     <tu>
