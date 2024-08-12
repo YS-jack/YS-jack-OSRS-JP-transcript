@@ -1494,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Alchemists Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T105715Z" creationid="yumas" creationdate="20240812T105715Z">
+        <seg>錬金術へワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Alchemy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T044816Z" creationid="yumas" creationdate="20240804T044816Z">
@@ -21430,6 +21438,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Enchanters Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T105706Z" creationid="yumas" creationdate="20240812T105658Z">
+        <seg>魔法付与へワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Enchantment Guardian</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T020838Z" creationid="yumas" creationdate="20240809T020824Z">
@@ -22210,6 +22226,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T050912Z" creationid="yumas" creationdate="20240811T050912Z">
         <seg>出口標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Exit Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T105738Z" creationid="yumas" creationdate="20240812T105738Z">
+        <seg>出口のワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -27954,6 +27978,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T020830Z" creationid="yumas" creationdate="20240809T020830Z">
         <seg>墓地の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Graveyard Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T105718Z" creationid="yumas" creationdate="20240812T105718Z">
+        <seg>墓地へワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -61262,6 +61294,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stepping stones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T105628Z" creationid="yumas" creationdate="20240812T105628Z">
+        <seg>踏み石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Steps</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T122901Z" creationid="yumas" creationdate="20240811T122901Z">
@@ -64148,6 +64188,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T020847Z" creationid="yumas" creationdate="20240809T020809Z">
         <seg>念力の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Telekinetic Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T105708Z" creationid="yumas" creationdate="20240812T105637Z">
+        <seg>念力へワープ</seg>
       </tuv>
     </tu>
     <tu>
