@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>A bunk bed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051824Z" creationid="yumas" creationdate="20240812T051824Z">
+        <seg>二段ベッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>A chasm</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T042935Z" creationid="yumas" creationdate="20240812T042935Z">
@@ -4618,6 +4626,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T034133Z" creationid="yumas" creationdate="20240811T034124Z">
         <seg>銀行箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bank counter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051830Z" creationid="yumas" creationdate="20240812T051830Z">
+        <seg>銀行のカウンター</seg>
       </tuv>
     </tu>
     <tu>
@@ -27910,6 +27926,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Growing vine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051755Z" creationid="yumas" creationdate="20240812T051755Z">
+        <seg>成長してるツル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Growler</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T135736Z" creationid="yumas" creationdate="20240805T135736Z">
@@ -29330,6 +29354,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T005452Z" creationid="yumas" creationdate="20240803T005428Z">
         <seg>回復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Healer spring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052036Z" creationid="yumas" creationdate="20240812T052036Z">
+        <seg>ヒーラーのバネ</seg>
       </tuv>
     </tu>
     <tu>
@@ -37472,8 +37504,8 @@
       <tuv lang="en-GB">
         <seg>Lokar Searunner</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240807T221732Z" creationid="yumas" creationdate="20240807T221732Z">
-        <seg>ロカー・シーラナー</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051944Z" creationid="yumas" creationdate="20240807T221732Z">
+        <seg>ロカー・シーランナー</seg>
       </tuv>
     </tu>
     <tu>
@@ -38194,6 +38226,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110133Z" creationid="yumas" creationdate="20240730T084209Z">
         <seg>にルアーを落とす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lure cave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052117Z" creationid="yumas" creationdate="20240812T052117Z">
+        <seg>ルアー洞窟</seg>
       </tuv>
     </tu>
     <tu>
@@ -45528,8 +45568,8 @@
       <tuv lang="en-GB">
         <seg>Penance Runner</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T094312Z" creationid="yumas" creationdate="20240805T094312Z">
-        <seg>ペナンス・ラナー</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051935Z" creationid="yumas" creationdate="20240805T094312Z">
+        <seg>ペナンス・ランナー</seg>
       </tuv>
     </tu>
     <tu>
@@ -52574,6 +52614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rope bridge support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051820Z" creationid="yumas" creationdate="20240812T051820Z">
+        <seg>吊り橋の支え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rope swing</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T042629Z" creationid="yumas" creationdate="20240811T042629Z">
@@ -53402,6 +53450,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T035246Z" creationid="yumas" creationdate="20240809T035133Z">
         <seg>ルーナイトの岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Runner trap(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052010Z" creationid="yumas" creationdate="20240812T051957Z">
+        <seg>ランナーの罠（2）</seg>
       </tuv>
     </tu>
     <tu>
@@ -54506,6 +54562,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T104430Z" creationid="yumas" creationdate="20240811T104430Z">
         <seg>巻物のラック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Scroll table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052015Z" creationid="yumas" creationdate="20240812T052004Z">
+        <seg>巻物のテーブル</seg>
       </tuv>
     </tu>
     <tu>
@@ -61358,6 +61422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Switch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051823Z" creationid="yumas" creationdate="20240812T051823Z">
+        <seg>スイッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sword cabinet</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T020737Z" creationid="yumas" creationdate="20240811T020737Z">
@@ -62092,6 +62164,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T053657Z" creationid="yumas" creationdate="20240811T053657Z">
         <seg>高い木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tall vine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051758Z" creationid="yumas" creationdate="20240812T051758Z">
+        <seg>高いツル</seg>
       </tuv>
     </tu>
     <tu>
