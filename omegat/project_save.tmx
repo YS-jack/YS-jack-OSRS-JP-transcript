@@ -4264,8 +4264,8 @@
       <tuv lang="en-GB">
         <seg>Bank</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T084618Z" creationid="2008l" creationdate="20240715T083013Z">
-        <seg>銀行にアクセス</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231731Z" creationid="2008l" creationdate="20240715T083013Z">
+        <seg>銀行</seg>
       </tuv>
     </tu>
     <tu>
@@ -40838,6 +40838,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Overhanging rock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231902Z" creationid="yumas" creationdate="20240811T231902Z">
+        <seg>突き出た岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Owl</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T085134Z" creationid="yumas" creationdate="20240809T085134Z">
@@ -54854,6 +54862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231837Z" creationid="yumas" creationdate="20240811T231837Z">
+        <seg>石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stool</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T023549Z" creationid="yumas" creationdate="20240811T023549Z">
@@ -56130,6 +56146,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T010732Z" creationid="yumas" creationdate="20240810T010732Z">
         <seg>尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tailor's materials</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T003139Z" creationid="yumas" creationdate="20240812T003139Z">
+        <seg>仕立屋の素材</seg>
       </tuv>
     </tu>
     <tu>
@@ -64981,6 +65005,17 @@
     </tu>
     <tu>
       <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41296</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Bank</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231746Z" creationid="yumas" creationdate="20240811T231746Z">
+        <seg>銀行にアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
       <prop type="id">41329</prop>
       <prop type="path">//transcript.db</prop>
       <tuv lang="en-GB">
@@ -65186,6 +65221,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T051240Z" creationid="yumas" creationdate="20240811T051240Z">
         <seg>を持ち上げる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41714</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Bank</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231759Z" creationid="yumas" creationdate="20240811T231759Z">
+        <seg>銀行にアクセス</seg>
       </tuv>
     </tu>
     <tu>
@@ -65769,6 +65815,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T130357Z" creationid="yumas" creationdate="20240803T130357Z">
         <seg>の残量確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_inventoryActions.xliff</prop>
+      <prop type="id">41074</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Bank</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240811T231825Z" creationid="yumas" creationdate="20240811T231825Z">
+        <seg>銀行にアクセス</seg>
       </tuv>
     </tu>
     <tu>
