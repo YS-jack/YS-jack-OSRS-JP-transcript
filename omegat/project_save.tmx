@@ -13814,6 +13814,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Container</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T034944Z" creationid="yumas" creationdate="20240812T034944Z">
+        <seg>容器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Continue</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T100410Z" creationid="yumas" creationdate="20240803T100410Z">
@@ -52120,8 +52128,8 @@
       <tuv lang="en-GB">
         <seg>Rune temple sign</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T034706Z" creationid="yumas" creationdate="20240812T034706Z">
-        <seg>ルーン製の</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T034814Z" creationid="yumas" creationdate="20240812T034706Z">
+        <seg>ルーン製の寺院の標識</seg>
       </tuv>
     </tu>
     <tu>
@@ -61298,8 +61306,8 @@
       <tuv lang="en-GB">
         <seg>Temple Guardian</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T055700Z" creationid="yumas" creationdate="20240809T055700Z">
-        <seg>寺の守護者</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T034906Z" creationid="yumas" creationdate="20240809T055700Z">
+        <seg>寺院の守護者</seg>
       </tuv>
     </tu>
     <tu>
@@ -61314,16 +61322,16 @@
       <tuv lang="en-GB">
         <seg>Temple door</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T041710Z" creationid="yumas" creationdate="20240811T041706Z">
-        <seg>寺の扉</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T034857Z" creationid="yumas" creationdate="20240811T041706Z">
+        <seg>寺院の扉</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Temple wall</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T044326Z" creationid="yumas" creationdate="20240811T044326Z">
-        <seg>寺の壁</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T034900Z" creationid="yumas" creationdate="20240811T044326Z">
+        <seg>寺院の壁</seg>
       </tuv>
     </tu>
     <tu>
@@ -62140,6 +62148,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T131607Z" creationid="yumas" creationdate="20240731T131607Z">
         <seg>ロープを結ぶ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tight-gap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T034929Z" creationid="yumas" creationdate="20240812T034929Z">
+        <seg>狭い隙間</seg>
       </tuv>
     </tu>
     <tu>
