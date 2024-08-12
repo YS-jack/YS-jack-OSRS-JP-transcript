@@ -1942,6 +1942,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Amulet of Glory</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021111Z" creationid="yumas" creationdate="20240812T021111Z">
+        <seg>栄光のアミュレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Amulet of accuracy</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T073230Z" creationid="2008l" creationdate="20240805T070928Z">
@@ -2530,6 +2538,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T104859Z" creationid="yumas" creationdate="20240805T104859Z">
         <seg>イライラしてるミイラの守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Anti-Dragon Breath Shield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021108Z" creationid="yumas" creationdate="20240812T021108Z">
+        <seg>ドラゴン耐性の盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -9710,6 +9726,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cape of Legends</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021112Z" creationid="yumas" creationdate="20240812T021112Z">
+        <seg>伝説のマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cape of legends</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T065257Z" creationid="2008l" creationdate="20240729T065257Z">
@@ -15550,6 +15574,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Darklight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021054Z" creationid="yumas" creationdate="20240812T021054Z">
+        <seg>ダークライト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Darkmeyer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T052251Z" creationid="yumas" creationdate="20240804T052251Z">
@@ -16570,6 +16602,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T091023Z" creationid="yumas" creationdate="20240805T091023Z">
         <seg>砂漠ワシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Desert painting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T020952Z" creationid="yumas" creationdate="20240812T020952Z">
+        <seg>砂漠の絵画</seg>
       </tuv>
     </tu>
     <tu>
@@ -21706,6 +21746,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214954Z" creationid="yumas" creationdate="20240730T214954Z">
         <seg>に向かって放つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Firepit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021146Z" creationid="yumas" creationdate="20240812T021146Z">
+        <seg>火鉢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Firepit with hook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021154Z" creationid="yumas" creationdate="20240812T021154Z">
+        <seg>フック付き火鉢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Firepit with pot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021201Z" creationid="yumas" creationdate="20240812T021201Z">
+        <seg>鍋付き火鉢</seg>
       </tuv>
     </tu>
     <tu>
@@ -30142,6 +30206,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Isafdar painting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021036Z" creationid="yumas" creationdate="20240812T021036Z">
+        <seg>イサフダーの絵画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ish the Navigator</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T050736Z" creationid="yumas" creationdate="20240809T050736Z">
@@ -31790,6 +31862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Karamja painting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021039Z" creationid="yumas" creationdate="20240812T021039Z">
+        <seg>カラムジャの絵画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Karamjan rum</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T063654Z" creationid="2008l" creationdate="20240724T063654Z">
@@ -33314,6 +33394,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T053556Z" creationid="yumas" creationdate="20240810T053556Z">
         <seg>開いた大きな戸棚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Large oven</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021209Z" creationid="yumas" creationdate="20240812T021209Z">
+        <seg>大きなオーブン</seg>
       </tuv>
     </tu>
     <tu>
@@ -35966,6 +36054,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lumbridge painting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021043Z" creationid="yumas" creationdate="20240812T021043Z">
+        <seg>ランブリッジの絵画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lumdo</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T085744Z" creationid="yumas" creationdate="20240805T085744Z">
@@ -36834,6 +36930,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T021929Z" creationid="yumas" creationdate="20240810T021929Z">
         <seg>マンティコア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021114Z" creationid="yumas" creationdate="20240812T021114Z">
+        <seg>地図</seg>
       </tuv>
     </tu>
     <tu>
@@ -39098,6 +39202,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T200338Z" creationid="yumas" creationdate="20240807T200338Z">
         <seg>モーヴァン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Morytania painting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021050Z" creationid="yumas" creationdate="20240812T021050Z">
+        <seg>モリタニアの絵画</seg>
       </tuv>
     </tu>
     <tu>
@@ -50318,6 +50430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rune display case</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T020947Z" creationid="yumas" creationdate="20240812T020947Z">
+        <seg>ルーンの展示ケース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rune dragon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T065227Z" creationid="yumas" creationdate="20240809T065227Z">
@@ -54278,6 +54398,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Small Oven</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021206Z" creationid="yumas" creationdate="20240812T021206Z">
+        <seg>小さなオーブン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Small Table</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T010249Z" creationid="yumas" creationdate="20240812T010249Z">
@@ -54346,6 +54474,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T085923Z" creationid="yumas" creationdate="20240805T085923Z">
         <seg>小さな忍者ザル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Small oven</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021205Z" creationid="yumas" creationdate="20240812T021205Z">
+        <seg>小さなオーブン</seg>
       </tuv>
     </tu>
     <tu>
@@ -56370,6 +56506,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204004Z" creationid="2008l" creationdate="20240729T204004Z">
         <seg>鋼鉄の裙甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel range</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021242Z" creationid="yumas" creationdate="20240812T021242Z">
+        <seg>鋼鉄のレンジ</seg>
       </tuv>
     </tu>
     <tu>
