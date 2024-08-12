@@ -4862,6 +4862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Barren patch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T025847Z" creationid="yumas" creationdate="20240812T025847Z">
+        <seg>やせた小区画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Barricade</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T013150Z" creationid="yumas" creationdate="20240809T013150Z">
@@ -18542,6 +18550,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dry patch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T025742Z" creationid="yumas" creationdate="20240812T025742Z">
+        <seg>乾燥した小区画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dry sticks</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T070608Z" creationid="2008l" creationdate="20240805T070608Z">
@@ -18562,6 +18578,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T133601Z" creationid="yumas" creationdate="20240806T133601Z">
         <seg>ドライアド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Drying line</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T025627Z" creationid="yumas" creationdate="20240812T025627Z">
+        <seg>物干しライン</seg>
       </tuv>
     </tu>
     <tu>
@@ -26914,6 +26938,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070730Z" creationid="yumas" creationdate="20240805T070730Z">
         <seg>ギドー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guild Door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T025508Z" creationid="yumas" creationdate="20240812T025508Z">
+        <seg>ギルドのドア</seg>
       </tuv>
     </tu>
     <tu>
@@ -39446,6 +39478,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Monkeybars</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T025610Z" creationid="yumas" creationdate="20240812T025610Z">
+        <seg>うんてい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Monstrous Basilisk</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T083059Z" creationid="yumas" creationdate="20240809T083059Z">
@@ -44246,6 +44286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Picnic table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T025651Z" creationid="yumas" creationdate="20240812T025651Z">
+        <seg>ピクニックのテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Picture</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T073954Z" creationid="2008l" creationdate="20240805T073954Z">
@@ -44378,6 +44426,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T052018Z" creationid="yumas" creationdate="20240811T052018Z">
         <seg>杖の山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pile of fish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T025639Z" creationid="yumas" creationdate="20240812T025639Z">
+        <seg>魚の山</seg>
       </tuv>
     </tu>
     <tu>
@@ -51536,8 +51592,8 @@
       <tuv lang="en-GB">
         <seg>Sand</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T095930Z" creationid="yumas" creationdate="20240730T095930Z">
-        <seg>砂を請求</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T025521Z" creationid="yumas" creationdate="20240730T095930Z">
+        <seg>砂</seg>
       </tuv>
     </tu>
     <tu>
@@ -57666,6 +57722,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045208Z" creationid="yumas" creationdate="20240805T045208Z">
         <seg>不思議な植物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strange shrine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T025634Z" creationid="yumas" creationdate="20240812T025634Z">
+        <seg>不思議な聖堂</seg>
       </tuv>
     </tu>
     <tu>
@@ -65184,6 +65248,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Water Source</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T025643Z" creationid="yumas" creationdate="20240812T025643Z">
+        <seg>水源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Water Trough</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T012232Z" creationid="yumas" creationdate="20240812T012232Z">
@@ -65548,6 +65620,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T230022Z" creationid="yumas" creationdate="20240808T230022Z">
         <seg>雑草</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weedy patch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T025736Z" creationid="yumas" creationdate="20240812T025736Z">
+        <seg>雑草まみれの小区画</seg>
       </tuv>
     </tu>
     <tu>
@@ -68076,6 +68156,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T003248Z" creationid="yumas" creationdate="20240803T003248Z">
         <seg>前払い金を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41432</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Sand</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T025533Z" creationid="yumas" creationdate="20240812T025533Z">
+        <seg>砂を請求</seg>
       </tuv>
     </tu>
     <tu>
