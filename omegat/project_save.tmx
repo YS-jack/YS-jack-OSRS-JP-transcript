@@ -5830,6 +5830,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Beer barrels</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T132843Z" creationid="yumas" creationdate="20240812T132843Z">
+        <seg>ビールの樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Beer glass</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T064658Z" creationid="2008l" creationdate="20240809T064658Z">
@@ -9182,6 +9190,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken rowboat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T132907Z" creationid="yumas" creationdate="20240812T132907Z">
+        <seg>壊れた手こぎ船</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken rune case</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T044511Z" creationid="yumas" creationdate="20240812T044511Z">
@@ -9226,6 +9242,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T123356Z" creationid="yumas" creationdate="20240812T123356Z">
         <seg>壊れた筋交い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T132847Z" creationid="yumas" creationdate="20240812T132847Z">
+        <seg>壊れたテーブル</seg>
       </tuv>
     </tu>
     <tu>
@@ -18798,6 +18822,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Destroyed furniture</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T132857Z" creationid="yumas" creationdate="20240812T132857Z">
+        <seg>破壊された家具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Detach</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T092252Z" creationid="yumas" creationdate="20240730T092252Z">
@@ -22110,6 +22142,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Empty barrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T132629Z" creationid="yumas" creationdate="20240812T132629Z">
+        <seg>空の樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Empty basket</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T132452Z" creationid="yumas" creationdate="20240812T132415Z">
@@ -24634,6 +24674,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T023252Z" creationid="yumas" creationdate="20240812T023252Z">
         <seg>釣り大会のバナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fishing Crane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T132633Z" creationid="yumas" creationdate="20240812T132633Z">
+        <seg>魚のクレーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -50118,6 +50166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Post</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T132823Z" creationid="yumas" creationdate="20240812T132823Z">
+        <seg>ポスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Poster</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T031632Z" creationid="yumas" creationdate="20240811T031632Z">
@@ -56858,6 +56914,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T010141Z" creationid="yumas" creationdate="20240809T010141Z">
         <seg>サンドイッチ・レディー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sandworm castings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T132822Z" creationid="yumas" creationdate="20240812T132822Z">
+        <seg>ゴカイの排泄物</seg>
       </tuv>
     </tu>
     <tu>
@@ -64222,6 +64286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sunken rowboat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T132924Z" creationid="yumas" creationdate="20240812T132924Z">
+        <seg>沈んだ手こぎ船</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sunlight Moth</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T021236Z" creationid="yumas" creationdate="20240810T021236Z">
@@ -67296,6 +67368,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Till</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T132851Z" creationid="yumas" creationdate="20240812T132851Z">
+        <seg>レジ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tilt</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T005832Z" creationid="yumas" creationdate="20240809T005832Z">
@@ -67348,6 +67428,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T222000Z" creationid="yumas" creationdate="20240808T222000Z">
         <seg>チムフラク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tin bath</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T132842Z" creationid="yumas" creationdate="20240812T132842Z">
+        <seg>スズの湯舟</seg>
       </tuv>
     </tu>
     <tu>
