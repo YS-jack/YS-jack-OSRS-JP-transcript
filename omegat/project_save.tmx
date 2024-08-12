@@ -6046,6 +6046,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blacksmiths' tools</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011641Z" creationid="yumas" creationdate="20240812T011641Z">
+        <seg>鍛冶屋の道具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blade</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T042650Z" creationid="yumas" creationdate="20240811T042650Z">
@@ -9338,6 +9346,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T032014Z" creationid="yumas" creationdate="20240811T032014Z">
         <seg>キャンプのベッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Canary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011640Z" creationid="yumas" creationdate="20240812T011640Z">
+        <seg>カナリア</seg>
       </tuv>
     </tu>
     <tu>
@@ -14022,6 +14038,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Creature</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011724Z" creationid="yumas" creationdate="20240812T011724Z">
+        <seg>生物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Creeping Plant</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T050237Z" creationid="yumas" creationdate="20240811T050237Z">
@@ -18250,6 +18274,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T054625Z" creationid="yumas" creationdate="20240811T054625Z">
         <seg>ドワーフのマルチキャノン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dwarf bath</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011524Z" creationid="yumas" creationdate="20240812T011524Z">
+        <seg>ドワーフの風呂</seg>
       </tuv>
     </tu>
     <tu>
@@ -28158,6 +28190,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hot vent door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011508Z" creationid="yumas" creationdate="20240812T011508Z">
+        <seg>熱い換気用扉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>House</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T220738Z" creationid="yumas" creationdate="20240807T220738Z">
@@ -28394,6 +28434,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T120920Z" creationid="yumas" creationdate="20240809T120920Z">
         <seg>ラクダのイビル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ice Column</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011730Z" creationid="yumas" creationdate="20240812T011730Z">
+        <seg>氷の柱</seg>
       </tuv>
     </tu>
     <tu>
@@ -33418,6 +33466,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T063851Z" creationid="2008l" creationdate="20240810T063851Z">
         <seg>溶岩ウナギ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lava forge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011756Z" creationid="yumas" creationdate="20240812T011756Z">
+        <seg>溶岩の</seg>
       </tuv>
     </tu>
     <tu>
@@ -38706,6 +38762,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052954Z" creationid="yumas" creationdate="20240805T052954Z">
         <seg>強盗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Multicannon parts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011535Z" creationid="yumas" creationdate="20240812T011535Z">
+        <seg>マルチキャノンの部品</seg>
       </tuv>
     </tu>
     <tu>
@@ -52350,6 +52414,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sinister barrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011651Z" creationid="yumas" creationdate="20240812T011651Z">
+        <seg>不吉なバレル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sinister key</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240729T063802Z">
@@ -56182,6 +56254,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sulphur vent</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011520Z" creationid="yumas" creationdate="20240812T011520Z">
+        <seg>硫黄の排気口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sulphuric broline</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064835Z" creationid="2008l" creationdate="20240723T064835Z">
@@ -58640,6 +58720,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Thorns</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011722Z" creationid="yumas" creationdate="20240812T011722Z">
+        <seg>トゲ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Thorny bushes</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T053743Z" creationid="yumas" creationdate="20240811T053743Z">
@@ -60692,6 +60780,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T231441Z" creationid="yumas" creationdate="20240811T231441Z">
         <seg>ツザーの旗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>TzHaar statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011734Z" creationid="yumas" creationdate="20240812T011734Z">
+        <seg>ツザーの像</seg>
       </tuv>
     </tu>
     <tu>
