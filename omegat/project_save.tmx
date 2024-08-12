@@ -3302,6 +3302,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Arm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122425Z" creationid="yumas" creationdate="20240812T122425Z">
+        <seg>腕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Armadyl pendant</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240719T122827Z" creationid="2008l" creationdate="20240719T064347Z">
@@ -3482,6 +3490,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T024600Z" creationid="yumas" creationdate="20240809T024600Z">
         <seg>アーグ（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Arrow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122257Z" creationid="yumas" creationdate="20240812T122257Z">
+        <seg>矢</seg>
       </tuv>
     </tu>
     <tu>
@@ -8914,6 +8930,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T124313Z" creationid="yumas" creationdate="20240811T124313Z">
         <seg>壊れた槌矛の罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken mast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122317Z" creationid="yumas" creationdate="20240812T122304Z">
+        <seg>壊れたマスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -30104,8 +30128,8 @@
       <tuv lang="en-GB">
         <seg>Hammer</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T131756Z" creationid="yumas" creationdate="20240731T131756Z">
-        <seg>ハンマーで叩く</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122329Z" creationid="yumas" creationdate="20240731T131756Z">
+        <seg>ハンマー</seg>
       </tuv>
     </tu>
     <tu>
@@ -45614,6 +45638,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Old axe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122428Z" creationid="yumas" creationdate="20240812T122428Z">
+        <seg>古い斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Old bookshelf</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T115113Z" creationid="yumas" creationdate="20240812T115113Z">
@@ -49114,6 +49146,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T091056Z" creationid="yumas" creationdate="20240805T091056Z">
         <seg>極地ワシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pole</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122431Z" creationid="yumas" creationdate="20240812T122431Z">
+        <seg>ポール</seg>
       </tuv>
     </tu>
     <tu>
@@ -62702,6 +62742,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stormram</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122706Z" creationid="yumas" creationdate="20240812T122706Z">
+        <seg>破城槌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Story</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T133615Z" creationid="yumas" creationdate="20240731T133615Z">
@@ -74612,6 +74660,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T131023Z" creationid="yumas" creationdate="20240731T131023Z">
         <seg>を建てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">42046</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Hammer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T122341Z" creationid="yumas" creationdate="20240812T122341Z">
+        <seg>ハンマーで叩く</seg>
       </tuv>
     </tu>
     <tu>
