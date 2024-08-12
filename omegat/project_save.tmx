@@ -4798,6 +4798,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bank deposit box</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115748Z" creationid="yumas" creationdate="20240812T115748Z">
+        <seg>ポスト型金庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bank guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134907Z" creationid="yumas" creationdate="20240805T134907Z">
@@ -5170,6 +5178,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T043919Z" creationid="yumas" creationdate="20240812T043919Z">
         <seg>魚の骨の樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Barrel of flour</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115738Z" creationid="yumas" creationdate="20240812T115738Z">
+        <seg>小麦粉の樽</seg>
       </tuv>
     </tu>
     <tu>
@@ -8114,6 +8130,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T021912Z" creationid="yumas" creationdate="20240809T021912Z">
         <seg>弓矢の営業マン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bow and arrow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115643Z" creationid="yumas" creationdate="20240812T115643Z">
+        <seg>弓と矢</seg>
       </tuv>
     </tu>
     <tu>
@@ -32822,6 +32846,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Intermediate Flag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115631Z" creationid="yumas" creationdate="20240812T115631Z">
+        <seg>中級の旗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Interrogation chair</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T053450Z" creationid="yumas" creationdate="20240812T053450Z">
@@ -38806,6 +38838,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Locked gate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115803Z" creationid="yumas" creationdate="20240812T115803Z">
+        <seg>カギが閉まっているゲート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Locker</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T023931Z" creationid="yumas" creationdate="20240812T023931Z">
@@ -41658,6 +41698,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T051545Z" creationid="yumas" creationdate="20240812T051545Z">
         <seg>鉄の鳥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Metal door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115746Z" creationid="yumas" creationdate="20240812T115746Z">
+        <seg>鉄製のドア</seg>
       </tuv>
     </tu>
     <tu>
@@ -44522,6 +44570,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T041208Z" creationid="yumas" creationdate="20240811T041208Z">
         <seg>掲示物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Novice Flag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115615Z" creationid="yumas" creationdate="20240812T115610Z">
+        <seg>新米の旗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Novice flag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115642Z" creationid="yumas" creationdate="20240812T115642Z">
+        <seg>新米の旗</seg>
       </tuv>
     </tu>
     <tu>
@@ -59686,6 +59750,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Smashed window</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115818Z" creationid="yumas" creationdate="20240812T115818Z">
+        <seg>割れた窓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Smellytoes</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T005255Z" creationid="yumas" creationdate="20240809T005255Z">
@@ -60466,6 +60538,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T122426Z" creationid="yumas" creationdate="20240806T122426Z">
         <seg>クモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spiders' nest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115808Z" creationid="yumas" creationdate="20240812T115808Z">
+        <seg>クモの巣</seg>
       </tuv>
     </tu>
     <tu>
@@ -65664,6 +65744,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The jury</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115750Z" creationid="yumas" creationdate="20240812T115750Z">
+        <seg>陪審</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The middle of a fireplace</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T043405Z" creationid="yumas" creationdate="20240812T043405Z">
@@ -69756,6 +69844,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T035859Z" creationid="yumas" creationdate="20240809T011402Z">
         <seg>ヴェティオン・Jr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Veteran Flag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T115641Z" creationid="yumas" creationdate="20240812T115641Z">
+        <seg>ベテランの旗</seg>
       </tuv>
     </tu>
     <tu>
