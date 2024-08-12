@@ -11198,6 +11198,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Castle door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T112447Z" creationid="yumas" creationdate="20240812T112447Z">
+        <seg>城のドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Castle wall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T035012Z" creationid="yumas" creationdate="20240812T035012Z">
@@ -60026,6 +60034,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T093537Z" creationid="yumas" creationdate="20240812T093537Z">
         <seg>回転するパイプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spinning pole</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T112439Z" creationid="yumas" creationdate="20240812T112439Z">
+        <seg>回るポール</seg>
       </tuv>
     </tu>
     <tu>
