@@ -3158,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Arena</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T125728Z" creationid="yumas" creationdate="20240812T125728Z">
+        <seg>アリーナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Arena Entrance</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T043108Z" creationid="yumas" creationdate="20240811T043108Z">
@@ -3234,6 +3242,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T113308Z" creationid="yumas" creationdate="20240809T113308Z">
         <seg>アリーナの衛兵ヨン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Arena space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T125726Z" creationid="yumas" creationdate="20240812T125726Z">
+        <seg>アリーナのスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -40654,6 +40670,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mahogany scratching post</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T125717Z" creationid="yumas" creationdate="20240812T125717Z">
+        <seg>マホガニーの爪かきポスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mahogany table</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T014944Z" creationid="yumas" creationdate="20240812T014944Z">
@@ -45230,6 +45254,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Oak feeder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T125847Z" creationid="yumas" creationdate="20240812T125810Z">
+        <seg>樫のエサやり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Oak house</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T121546Z" creationid="yumas" creationdate="20240812T121546Z">
@@ -45266,6 +45298,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T020116Z" creationid="yumas" creationdate="20240812T020116Z">
         <seg>樫の景品入れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Oak scratching post</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T125712Z" creationid="yumas" creationdate="20240812T125712Z">
+        <seg>樫の爪かきポスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -48070,6 +48110,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pet feeder space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T125843Z" creationid="yumas" creationdate="20240812T125757Z">
+        <seg>ペットのエサ入れスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pet house space</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T121541Z" creationid="yumas" creationdate="20240812T121541Z">
@@ -48082,6 +48130,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240806T063639Z" creationid="2008l" creationdate="20240806T063639Z">
         <seg>飼い子猫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pet list</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T125748Z" creationid="yumas" creationdate="20240812T125748Z">
+        <seg>ペットの一覧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pet list space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T125739Z" creationid="yumas" creationdate="20240812T125739Z">
+        <seg>ペット一覧のスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -57112,8 +57176,8 @@
       <tuv lang="en-GB">
         <seg>Scratching post space</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T125500Z" creationid="yumas" creationdate="20240812T125500Z">
-        <seg>爪カキポストのスペース</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T125654Z" creationid="yumas" creationdate="20240812T125500Z">
+        <seg>爪かきポストのスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -65524,6 +65588,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T020121Z" creationid="yumas" creationdate="20240812T020121Z">
         <seg>チークの景品入れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teak scratching post</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T125714Z" creationid="yumas" creationdate="20240812T125714Z">
+        <seg>チークの爪かきポスト</seg>
       </tuv>
     </tu>
     <tu>
