@@ -3222,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Armour case space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051206Z" creationid="yumas" creationdate="20240812T051206Z">
+        <seg>鎧ケースのスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Armour repair stand</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T104805Z" creationid="yumas" creationdate="20240811T104805Z">
@@ -5910,10 +5918,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bird feeder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051439Z" creationid="yumas" creationdate="20240812T051439Z">
+        <seg>鳥のエサ入れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bird snare</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T223506Z" creationid="yumas" creationdate="20240811T223506Z">
         <seg>鳥の罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Birdseed holder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051425Z" creationid="yumas" creationdate="20240812T051425Z">
+        <seg>鳥餌の種ホルダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -7586,6 +7610,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T045245Z" creationid="yumas" creationdate="20240811T045245Z">
         <seg>本棚スペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Books</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051320Z" creationid="yumas" creationdate="20240812T051320Z">
+        <seg>本</seg>
       </tuv>
     </tu>
     <tu>
@@ -10018,6 +10050,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T083042Z" creationid="yumas" creationdate="20240805T083042Z">
         <seg>キャンプ居住者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Campfire</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051319Z" creationid="yumas" creationdate="20240812T051319Z">
+        <seg>キャンプファイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Camping equipment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051341Z" creationid="yumas" creationdate="20240812T051341Z">
+        <seg>キャンプ用具</seg>
       </tuv>
     </tu>
     <tu>
@@ -19798,6 +19846,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Eagle lever</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051256Z" creationid="yumas" creationdate="20240812T051256Z">
+        <seg>ワシのレバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Earth Warrior Champion</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T140551Z" creationid="yumas" creationdate="20240807T140551Z">
@@ -22088,8 +22144,16 @@
       <tuv lang="en-GB">
         <seg>Fancy dress box</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T050840Z" creationid="yumas" creationdate="20240812T050840Z">
-        <seg>火葬衣装ボックス</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051156Z" creationid="yumas" creationdate="20240812T050840Z">
+        <seg>仮装衣装ボックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fancy dress box space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051201Z" creationid="yumas" creationdate="20240812T051201Z">
+        <seg>仮装衣装ボックスのスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -25658,6 +25722,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T050734Z" creationid="yumas" creationdate="20240810T050734Z">
         <seg>巨大な水晶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Giant feathers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051443Z" creationid="yumas" creationdate="20240812T051443Z">
+        <seg>巨大な羽</seg>
       </tuv>
     </tu>
     <tu>
@@ -59774,6 +59846,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stone Gate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051233Z" creationid="yumas" creationdate="20240812T051233Z">
+        <seg>石のゲート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stone Guardian</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T065411Z" creationid="yumas" creationdate="20240809T065411Z">
@@ -59858,6 +59938,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T032037Z" creationid="yumas" creationdate="20240812T032037Z">
         <seg>石粉砕機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stone door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051345Z" creationid="yumas" creationdate="20240812T051345Z">
+        <seg>石の扉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stone pedestal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051344Z" creationid="yumas" creationdate="20240812T051344Z">
+        <seg>石の台座</seg>
       </tuv>
     </tu>
     <tu>
@@ -64872,6 +64968,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tree branch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051215Z" creationid="yumas" creationdate="20240812T051215Z">
+        <seg>木の枝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tree patch</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T121707Z" creationid="yumas" creationdate="20240811T121707Z">
@@ -65108,6 +65212,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120657Z" creationid="yumas" creationdate="20240808T120657Z">
         <seg>トロールの将軍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Troll ladder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T051211Z" creationid="yumas" creationdate="20240812T051211Z">
+        <seg>トロールのハシゴ</seg>
       </tuv>
     </tu>
     <tu>
