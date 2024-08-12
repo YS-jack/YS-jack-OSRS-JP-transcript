@@ -4038,6 +4038,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Axe case</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T092508Z" creationid="yumas" creationdate="20240812T092508Z">
+        <seg>斧ケース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Axe handle</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070041Z" creationid="2008l" creationdate="20240724T070041Z">
@@ -4642,6 +4650,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T231412Z" creationid="yumas" creationdate="20240811T231412Z">
         <seg>金庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bank Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T092456Z" creationid="yumas" creationdate="20240812T092456Z">
+        <seg>銀行のテーブル</seg>
       </tuv>
     </tu>
     <tu>
@@ -12858,6 +12874,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T063700Z" creationid="2008l" creationdate="20240809T063700Z">
         <seg>みじん切りのウグタンキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chopping table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T092523Z" creationid="yumas" creationdate="20240812T092523Z">
+        <seg>調理台</seg>
       </tuv>
     </tu>
     <tu>
@@ -35550,6 +35574,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Large Geyser</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T092450Z" creationid="yumas" creationdate="20240812T092450Z">
+        <seg>大きな間欠泉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Large Table</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T224042Z" creationid="yumas" creationdate="20240811T224042Z">
@@ -44730,6 +44762,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T091916Z" creationid="yumas" creationdate="20240805T091916Z">
         <seg>オーダン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ore crate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T092531Z" creationid="yumas" creationdate="20240812T092531Z">
+        <seg>鉱石の箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ore stones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T093144Z" creationid="yumas" creationdate="20240812T093144Z">
+        <seg>鉱石の石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ore table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T092546Z" creationid="yumas" creationdate="20240812T092546Z">
+        <seg>鉱石のテーブル</seg>
       </tuv>
     </tu>
     <tu>
@@ -57854,6 +57910,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Small Geyser</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T092455Z" creationid="yumas" creationdate="20240812T092455Z">
+        <seg>小さな間欠泉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Small Lizard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T050029Z" creationid="yumas" creationdate="20240805T050029Z">
@@ -62002,6 +62066,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T063827Z" creationid="2008l" creationdate="20240723T063827Z">
         <seg>カジキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Swords</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T092510Z" creationid="yumas" creationdate="20240812T092510Z">
+        <seg>剣</seg>
       </tuv>
     </tu>
     <tu>
@@ -70372,6 +70444,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T010249Z" creationid="yumas" creationdate="20240810T010249Z">
         <seg>木こりのレプラコーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Woodcutting stump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T092400Z" creationid="yumas" creationdate="20240812T092400Z">
+        <seg>木こりの切り株</seg>
       </tuv>
     </tu>
     <tu>
