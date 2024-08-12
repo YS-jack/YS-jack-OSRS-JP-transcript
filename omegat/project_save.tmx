@@ -7910,6 +7910,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Boils</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T130344Z" creationid="yumas" creationdate="20240812T130344Z">
+        <seg>吹き出物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bolkoy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T235641Z" creationid="yumas" creationdate="20240808T235641Z">
@@ -12646,6 +12654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Charcoal furnace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T130511Z" creationid="yumas" creationdate="20240812T130511Z">
+        <seg>炭炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Charge</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T124926Z" creationid="yumas" creationdate="20240730T124926Z">
@@ -13850,6 +13866,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T110553Z" creationid="yumas" creationdate="20240811T110544Z">
         <seg>クラン・カップのトロフィー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Clan Cup portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T130433Z" creationid="yumas" creationdate="20240812T130426Z">
+        <seg>クラン・カップのポータル</seg>
       </tuv>
     </tu>
     <tu>
@@ -25184,8 +25208,8 @@
       <tuv lang="en-GB">
         <seg>Font</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T021544Z" creationid="yumas" creationdate="20240811T021544Z">
-        <seg>フォント</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T130227Z" creationid="yumas" creationdate="20240811T021544Z">
+        <seg>源泉</seg>
       </tuv>
     </tu>
     <tu>
@@ -33186,6 +33210,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T095816Z" creationid="yumas" creationdate="20240730T095809Z">
         <seg>を侮辱する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Insurance stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T130421Z" creationid="yumas" creationdate="20240812T130421Z">
+        <seg>保険の屋台</seg>
       </tuv>
     </tu>
     <tu>
@@ -46030,6 +46062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Old log</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T130410Z" creationid="yumas" creationdate="20240812T130410Z">
+        <seg>古い丸太</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Old man</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T123705Z" creationid="yumas" creationdate="20240807T123705Z">
@@ -47026,6 +47066,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T121430Z" creationid="yumas" creationdate="20240812T121420Z">
         <seg>限界突破薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Overseer's book</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T130401Z" creationid="yumas" creationdate="20240812T130401Z">
+        <seg>監督者の本</seg>
       </tuv>
     </tu>
     <tu>
@@ -49698,6 +49746,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T004955Z" creationid="yumas" creationdate="20240812T004955Z">
         <seg>家ポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Portal Nexus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T130440Z" creationid="yumas" creationdate="20240812T130440Z">
+        <seg>ポータル・ネクサス</seg>
       </tuv>
     </tu>
     <tu>
@@ -60062,6 +60118,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Slimy residue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T130342Z" creationid="yumas" creationdate="20240812T130342Z">
+        <seg>ヌルヌルした残留物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Slimy water</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T015505Z" creationid="yumas" creationdate="20240812T015505Z">
@@ -60690,6 +60754,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T065432Z" creationid="2008l" creationdate="20240808T065432Z">
         <seg>ソーダ灰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sofa</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T130442Z" creationid="yumas" creationdate="20240812T130442Z">
+        <seg>ソファー</seg>
       </tuv>
     </tu>
     <tu>
@@ -66412,6 +66484,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045519Z" creationid="yumas" creationdate="20240805T045519Z">
         <seg>ザ・ナイトメア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Overseer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T130303Z" creationid="yumas" creationdate="20240812T130303Z">
+        <seg>監督者</seg>
       </tuv>
     </tu>
     <tu>
