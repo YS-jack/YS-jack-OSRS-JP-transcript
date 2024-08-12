@@ -29366,6 +29366,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hank (Well)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T094439Z" creationid="yumas" creationdate="20240812T094439Z">
+        <seg>ハンク（健康）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hank (ghastly!)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T094435Z" creationid="yumas" creationdate="20240812T094435Z">
+        <seg>ハク（化けそう！）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hank (sick)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T094422Z" creationid="yumas" creationdate="20240812T094416Z">
+        <seg>ハンク（病気）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hank (very sick)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T094430Z" creationid="yumas" creationdate="20240812T094430Z">
+        <seg>ハンク（重病）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hans</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T132410Z" creationid="yumas" creationdate="20240807T132410Z">
@@ -39966,10 +39998,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Marv (Well)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T094411Z" creationid="yumas" creationdate="20240812T094231Z">
+        <seg>マーヴ（健康）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Marv (ghastly!)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T094310Z" creationid="yumas" creationdate="20240812T094225Z">
+        <seg>マーヴ（化けそう！）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Marv (sick)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T094217Z" creationid="yumas" creationdate="20240812T094217Z">
         <seg>マーヴ（病気）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Marv (very sick)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T094407Z" creationid="yumas" creationdate="20240812T094222Z">
+        <seg>マーヴ（重病）</seg>
       </tuv>
     </tu>
     <tu>
@@ -70076,6 +70132,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T023832Z" creationid="yumas" creationdate="20240812T023832Z">
         <seg>ウィルダネスの標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wilf (sick)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T094458Z" creationid="yumas" creationdate="20240812T094458Z">
+        <seg>ウィルフ（病気）</seg>
       </tuv>
     </tu>
     <tu>
