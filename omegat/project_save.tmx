@@ -8518,6 +8518,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken trap(0)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052330Z" creationid="yumas" creationdate="20240812T052330Z">
+        <seg>壊れた罠（0）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken wall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T013357Z" creationid="yumas" creationdate="20240812T013357Z">
@@ -31342,6 +31350,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Information scroll</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052320Z" creationid="yumas" creationdate="20240812T052320Z">
+        <seg>情報の巻物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Inga</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T114910Z" creationid="yumas" creationdate="20240808T114910Z">
@@ -36034,6 +36050,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T062832Z" creationid="yumas" creationdate="20240809T062832Z">
         <seg>溶岩の獣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lava crater</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052355Z" creationid="yumas" creationdate="20240812T052355Z">
+        <seg>溶岩口</seg>
       </tuv>
     </tu>
     <tu>
@@ -45534,10 +45558,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Penance Fighter statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052131Z" creationid="yumas" creationdate="20240812T052131Z">
+        <seg>ペナンス・ファイターの像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Penance Healer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T094315Z" creationid="yumas" creationdate="20240805T094315Z">
         <seg>ペナンス・ヒーラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Penance Healer statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052135Z" creationid="yumas" creationdate="20240812T052135Z">
+        <seg>ペナンス・ヒーラーの像</seg>
       </tuv>
     </tu>
     <tu>
@@ -45558,6 +45598,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Penance Queen spawn statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052214Z" creationid="yumas" creationdate="20240812T052214Z">
+        <seg>女王ペナンスの腹子の像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Penance Ranger</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T094309Z" creationid="yumas" creationdate="20240805T094309Z">
@@ -45566,10 +45614,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Penance Ranger statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052147Z" creationid="yumas" creationdate="20240812T052147Z">
+        <seg>ペナンス・レンジャーの像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Penance Runner</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T051935Z" creationid="yumas" creationdate="20240805T094312Z">
         <seg>ペナンス・ランナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Penance Runner statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052140Z" creationid="yumas" creationdate="20240812T052140Z">
+        <seg>ペナンス・ランナーの像</seg>
       </tuv>
     </tu>
     <tu>
@@ -53450,6 +53514,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T035246Z" creationid="yumas" creationdate="20240809T035133Z">
         <seg>ルーナイトの岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Runner trap(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052322Z" creationid="yumas" creationdate="20240812T052322Z">
+        <seg>ランナーの罠（1）</seg>
       </tuv>
     </tu>
     <tu>
@@ -62964,6 +63036,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T023004Z" creationid="yumas" creationdate="20240809T023004Z">
         <seg>テンポロス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ten</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052314Z" creationid="yumas" creationdate="20240812T052314Z">
+        <seg>十</seg>
       </tuv>
     </tu>
     <tu>
