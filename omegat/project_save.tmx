@@ -5822,6 +5822,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bitternut Sign</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T033535Z" creationid="yumas" creationdate="20240812T033535Z">
+        <seg>ビターナッツの標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bitternut Tree</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T033418Z" creationid="yumas" creationdate="20240812T033418Z">
@@ -6898,6 +6906,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T115624Z" creationid="yumas" creationdate="20240808T115624Z">
         <seg>青い羊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blue Water Sign</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T033618Z" creationid="yumas" creationdate="20240812T033618Z">
+        <seg>青い水の標識</seg>
       </tuv>
     </tu>
     <tu>
@@ -16850,6 +16866,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T133217Z" creationid="yumas" creationdate="20240730T133217Z">
         <seg>に預ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Deposit Box</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T033528Z" creationid="yumas" creationdate="20240812T033528Z">
+        <seg>金庫</seg>
       </tuv>
     </tu>
     <tu>
@@ -30326,10 +30350,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Inconspicuous bush (medium)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T033707Z" creationid="yumas" creationdate="20240812T033707Z">
+        <seg>目立たない低木（中級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Inconspicuous crate (easy)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T033659Z" creationid="yumas" creationdate="20240812T033659Z">
+        <seg>目立たない箱（初級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Inconspicuous hole (easy)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T033303Z" creationid="yumas" creationdate="20240812T033303Z">
         <seg>目立たない穴（初級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Inconspicuous rocks (easy)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T033650Z" creationid="yumas" creationdate="20240812T033650Z">
+        <seg>目立たない岩（初級）</seg>
       </tuv>
     </tu>
     <tu>
@@ -33010,6 +33058,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T011828Z" creationid="yumas" creationdate="20240810T011828Z">
         <seg>不肖ケトラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kettle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T033440Z" creationid="yumas" creationdate="20240812T033440Z">
+        <seg>ヤカン</seg>
       </tuv>
     </tu>
     <tu>
@@ -45278,6 +45334,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pirate Flag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T033630Z" creationid="yumas" creationdate="20240812T033630Z">
+        <seg>海賊の旗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pirate Guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T235521Z" creationid="yumas" creationdate="20240808T235521Z">
@@ -48738,6 +48802,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T115612Z" creationid="yumas" creationdate="20240808T115612Z">
         <seg>赤い羊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Red Water Sign</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T033612Z" creationid="yumas" creationdate="20240812T033612Z">
+        <seg>赤い水の標識</seg>
       </tuv>
     </tu>
     <tu>
@@ -52978,6 +53050,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T045444Z" creationid="yumas" creationdate="20240804T045444Z">
         <seg>スクランブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Scrapey Bark Sign</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T033556Z" creationid="yumas" creationdate="20240812T033556Z">
+        <seg>スクレーピー・バークの標識</seg>
       </tuv>
     </tu>
     <tu>
@@ -57382,6 +57462,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T033625Z" creationid="yumas" creationdate="20240812T033625Z">
+        <seg>屋台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stamina Boost</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T130919Z" creationid="yumas" creationdate="20240803T130919Z">
@@ -58130,6 +58218,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T041154Z" creationid="yumas" creationdate="20240811T041154Z">
         <seg>脚立</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stepping Stone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T033641Z" creationid="yumas" creationdate="20240812T033641Z">
+        <seg>踏み石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stepping log</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T033638Z" creationid="yumas" creationdate="20240812T033638Z">
+        <seg>渡り丸太</seg>
       </tuv>
     </tu>
     <tu>
@@ -59522,6 +59626,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T033353Z" creationid="yumas" creationdate="20240812T033353Z">
         <seg>スイートグラブ・マウンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sweetgrub Sign</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T033542Z" creationid="yumas" creationdate="20240812T033542Z">
+        <seg>スイートグラブの標識</seg>
       </tuv>
     </tu>
     <tu>
@@ -65736,6 +65848,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Waiting Room Door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T033517Z" creationid="yumas" creationdate="20240812T033517Z">
+        <seg>待合室のドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Waitress</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T020125Z" creationid="yumas" creationdate="20240810T020125Z">
@@ -66236,6 +66356,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T033231Z" creationid="yumas" creationdate="20240812T033231Z">
         <seg>水入れポンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Water Sign</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T033623Z" creationid="yumas" creationdate="20240812T033623Z">
+        <seg>水の標識</seg>
       </tuv>
     </tu>
     <tu>
