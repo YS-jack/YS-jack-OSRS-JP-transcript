@@ -11566,6 +11566,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chef's Delight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011033Z" creationid="yumas" creationdate="20240812T010911Z">
+        <seg>シェフの歓喜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Chef's hat</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T065209Z" creationid="2008l" creationdate="20240809T065209Z">
@@ -11938,6 +11946,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120136Z" creationid="yumas" creationdate="20240731T120136Z">
         <seg>をカクハン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cider</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011121Z" creationid="yumas" creationdate="20240812T011121Z">
+        <seg>サイダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -14898,6 +14914,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T114216Z" creationid="yumas" creationdate="20240807T133851Z">
         <seg>子供のダガノス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dairy churn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011221Z" creationid="yumas" creationdate="20240812T011221Z">
+        <seg>乳製品の製造器</seg>
       </tuv>
     </tu>
     <tu>
@@ -36542,6 +36566,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mature Chef's Delight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011041Z" creationid="yumas" creationdate="20240812T010925Z">
+        <seg>熟したシェフの歓喜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mature Cider</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011130Z" creationid="yumas" creationdate="20240812T011130Z">
+        <seg>熟したサイダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mature Dragon Bitter</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T010632Z" creationid="yumas" creationdate="20240812T010632Z">
@@ -36570,6 +36610,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T010757Z" creationid="yumas" creationdate="20240812T010757Z">
         <seg>熟した月光ミード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mature Slayer's Respite</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011119Z" creationid="yumas" creationdate="20240812T011119Z">
+        <seg>熟した討伐者の小休止</seg>
       </tuv>
     </tu>
     <tu>
@@ -52954,6 +53002,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T101730Z" creationid="yumas" creationdate="20240803T101730Z">
         <seg>討伐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Slayer's Respite</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T011112Z" creationid="yumas" creationdate="20240812T010932Z">
+        <seg>討伐者の小休止</seg>
       </tuv>
     </tu>
     <tu>
