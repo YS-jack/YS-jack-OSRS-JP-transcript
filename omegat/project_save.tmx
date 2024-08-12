@@ -18294,6 +18294,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dwarven Stout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010540Z" creationid="yumas" creationdate="20240812T010540Z">
+        <seg>ドワーフ・スタウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dwarven machinery</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T124137Z" creationid="yumas" creationdate="20240811T124137Z">
@@ -24510,6 +24518,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Goal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010524Z" creationid="yumas" creationdate="20240812T010524Z">
+        <seg>ゴール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Goat</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T111618Z" creationid="yumas" creationdate="20240805T111618Z">
@@ -26042,6 +26058,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T024755Z" creationid="yumas" creationdate="20240810T024715Z">
         <seg>ギルドの書記・ヴェリティー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guild door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010538Z" creationid="yumas" creationdate="20240812T010538Z">
+        <seg>ギルドのドア</seg>
       </tuv>
     </tu>
     <tu>
@@ -48558,6 +48582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Roof top beams</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010313Z" creationid="yumas" creationdate="20240812T010313Z">
+        <seg>屋根上のハリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rooster</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T071421Z" creationid="yumas" creationdate="20240805T071421Z">
@@ -52994,6 +53026,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085647Z" creationid="yumas" creationdate="20240730T085626Z">
         <seg>で小さい漁網で釣る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Small Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010249Z" creationid="yumas" creationdate="20240812T010249Z">
+        <seg>小さなテーブル</seg>
       </tuv>
     </tu>
     <tu>
@@ -59336,6 +59376,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tower ladder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010531Z" creationid="yumas" creationdate="20240812T010531Z">
+        <seg>塔のハシゴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Town Crier</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T044431Z" creationid="yumas" creationdate="20240805T044431Z">
@@ -65160,6 +65208,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Zip line</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010521Z" creationid="yumas" creationdate="20240812T010521Z">
+        <seg>ジップライン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Zogre</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T064058Z" creationid="yumas" creationdate="20240805T064058Z">
@@ -66866,6 +66922,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T003825Z" creationid="yumas" creationdate="20240812T003825Z">
         <seg>灯り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_object.xliff</prop>
+      <prop type="id">15815</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Hurdle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T010327Z" creationid="yumas" creationdate="20240812T010327Z">
+        <seg>ハードル</seg>
       </tuv>
     </tu>
   </body>
