@@ -5246,6 +5246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bell-pull</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T015436Z" creationid="yumas" creationdate="20240812T015436Z">
+        <seg>ベル引き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Belladonna</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T112901Z" creationid="yumas" creationdate="20240811T112901Z">
@@ -6250,6 +6258,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T125400Z" creationid="yumas" creationdate="20240731T125400Z">
         <seg>をブロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blood</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T015459Z" creationid="yumas" creationdate="20240812T015459Z">
+        <seg>血</seg>
       </tuv>
     </tu>
     <tu>
@@ -36590,6 +36606,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Man trap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T015540Z" creationid="yumas" creationdate="20240812T015540Z">
+        <seg>対人の罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mandrith</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T035050Z" creationid="yumas" creationdate="20240809T035050Z">
@@ -36754,6 +36778,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T051903Z" creationid="yumas" creationdate="20240809T051903Z">
         <seg>大理石ガーゴイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Marble trap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T015605Z" creationid="yumas" creationdate="20240812T015605Z">
+        <seg>大理石の罠</seg>
       </tuv>
     </tu>
     <tu>
@@ -44450,6 +44482,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T070535Z" creationid="2008l" creationdate="20240725T070535Z">
         <seg>肖像画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Posh bell-pull</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T015456Z" creationid="yumas" creationdate="20240812T015456Z">
+        <seg>高級ベル引き</seg>
       </tuv>
     </tu>
     <tu>
@@ -53966,6 +54006,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Slimy water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T015505Z" creationid="yumas" creationdate="20240812T015505Z">
+        <seg>スライム水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Slippers</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T082743Z" creationid="yumas" creationdate="20240809T082743Z">
@@ -54926,6 +54974,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Spike trap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T015512Z" creationid="yumas" creationdate="20240812T015512Z">
+        <seg>トゲの罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Spiked Turoth</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T090608Z" creationid="yumas" creationdate="20240809T090608Z">
@@ -54938,6 +54994,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T234138Z" creationid="yumas" creationdate="20240808T234138Z">
         <seg>トゲの落とし穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spikes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T015506Z" creationid="yumas" creationdate="20240812T015506Z">
+        <seg>スパイク</seg>
       </tuv>
     </tu>
     <tu>
@@ -58320,6 +58384,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tangle vine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T015601Z" creationid="yumas" creationdate="20240812T015601Z">
+        <seg>絡んだツル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tangled toad's legs</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T065625Z" creationid="2008l" creationdate="20240810T065036Z">
@@ -58788,6 +58860,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T004230Z" creationid="yumas" creationdate="20240803T004230Z">
         <seg>目的地へワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teleport trap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T015738Z" creationid="yumas" creationdate="20240812T015738Z">
+        <seg>ワープの罠</seg>
       </tuv>
     </tu>
     <tu>
