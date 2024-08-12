@@ -19366,6 +19366,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dominic's coffer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T121208Z" creationid="yumas" creationdate="20240812T121208Z">
+        <seg>ドミニックの前払い金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dommik</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T134445Z" creationid="yumas" creationdate="20240806T134445Z">
@@ -46574,6 +46582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Overload potion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T121420Z" creationid="yumas" creationdate="20240812T121420Z">
+        <seg>限界突破</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Owl</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T085134Z" creationid="yumas" creationdate="20240809T085134Z">
@@ -53298,6 +53314,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T020958Z" creationid="yumas" creationdate="20240809T020958Z">
         <seg>報酬の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rewards chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T121215Z" creationid="yumas" creationdate="20240812T121215Z">
+        <seg>報酬の宝箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -63370,6 +63394,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T075202Z" creationid="2008l" creationdate="20240811T075202Z">
         <seg>超守備力薬（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super magic potion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T121322Z" creationid="yumas" creationdate="20240812T121322Z">
+        <seg>超魔法薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super ranging potion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T121306Z" creationid="yumas" creationdate="20240812T121246Z">
+        <seg>超弓薬</seg>
       </tuv>
     </tu>
     <tu>
