@@ -2918,6 +2918,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ardougne Portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021618Z" creationid="yumas" creationdate="20240812T021618Z">
+        <seg>アルドインのポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ardougne Wall Door</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T123323Z" creationid="yumas" creationdate="20240811T123323Z">
@@ -20958,6 +20966,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Falador Portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021613Z" creationid="yumas" creationdate="20240812T021613Z">
+        <seg>ファラドーのポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Falador shield</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T073024Z" creationid="2008l" creationdate="20240727T070253Z">
@@ -28104,8 +28120,8 @@
       <tuv lang="en-GB">
         <seg>Herman's desk</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T021542Z" creationid="yumas" creationdate="20240812T021542Z">
-        <seg>へーマン</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021557Z" creationid="yumas" creationdate="20240812T021542Z">
+        <seg>へーマンの机</seg>
       </tuv>
     </tu>
     <tu>
@@ -36122,6 +36138,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T044934Z" creationid="yumas" creationdate="20240805T044934Z">
         <seg>ランブリッジの案内人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lumbridge Portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021606Z" creationid="yumas" creationdate="20240812T021606Z">
+        <seg>ランブリッジのポータル</seg>
       </tuv>
     </tu>
     <tu>
@@ -44822,6 +44846,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Portal frame</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021623Z" creationid="yumas" creationdate="20240812T021623Z">
+        <seg>ポータルの枠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Portal machine</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T005011Z" creationid="yumas" creationdate="20240812T005011Z">
@@ -51866,6 +51898,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T115214Z" creationid="yumas" creationdate="20240730T115210Z">
         <seg>透視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Scrying pool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021646Z" creationid="yumas" creationdate="20240812T021646Z">
+        <seg>透視の水たまり</seg>
       </tuv>
     </tu>
     <tu>
@@ -59404,6 +59444,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T050417Z" creationid="yumas" creationdate="20240811T050417Z">
         <seg>ワープ機材</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teleportation focus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T021835Z" creationid="yumas" creationdate="20240812T021835Z">
+        <seg>ワープ・フォーカス</seg>
       </tuv>
     </tu>
     <tu>
