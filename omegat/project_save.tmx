@@ -12286,6 +12286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chess</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043219Z" creationid="yumas" creationdate="20240812T043219Z">
+        <seg>チェス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Chest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T050802Z" creationid="yumas" creationdate="20240810T050802Z">
@@ -18544,8 +18552,8 @@
       <tuv lang="en-GB">
         <seg>Dragon head</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T065624Z" creationid="yumas" creationdate="20240809T065624Z">
-        <seg>竜の頭</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043216Z" creationid="yumas" creationdate="20240809T065624Z">
+        <seg>竜の頭部</seg>
       </tuv>
     </tu>
     <tu>
@@ -22078,6 +22086,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fence corner</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043441Z" creationid="yumas" creationdate="20240812T043441Z">
+        <seg>フェンスの角</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fence end</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043425Z" creationid="yumas" creationdate="20240812T043425Z">
+        <seg>フェンスの端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fence mid</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043433Z" creationid="yumas" creationdate="20240812T043433Z">
+        <seg>フェンスの内側</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fence t-piece</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043501Z" creationid="yumas" creationdate="20240812T043501Z">
+        <seg>T型フェンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fencing</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T030953Z" creationid="yumas" creationdate="20240812T030932Z">
@@ -23130,6 +23170,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T110611Z" creationid="yumas" creationdate="20240811T110611Z">
         <seg>床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Floor below</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043310Z" creationid="yumas" creationdate="20240812T043300Z">
+        <seg>下のフロア</seg>
       </tuv>
     </tu>
     <tu>
@@ -35910,6 +35958,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Left side of a fireplace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043409Z" creationid="yumas" creationdate="20240812T043409Z">
+        <seg>暖炉の左側</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Legends Guild door</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T035429Z" creationid="yumas" creationdate="20240811T035429Z">
@@ -43758,6 +43814,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ornate vase</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043420Z" creationid="yumas" creationdate="20240812T043420Z">
+        <seg>華麗な壺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ornate wilderness combat dummy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T091117Z" creationid="yumas" creationdate="20240809T091053Z">
@@ -50614,6 +50678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Right side of a fireplace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043414Z" creationid="yumas" creationdate="20240812T043414Z">
+        <seg>暖炉の右側</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Riki the sculptor's model</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T115348Z" creationid="yumas" creationdate="20240806T115348Z">
@@ -53430,6 +53502,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Scaffolding</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043303Z" creationid="yumas" creationdate="20240812T043303Z">
+        <seg>足場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Scale</seg>
       </tuv>
       <tuv lang="ja" changeid="b0sh" changedate="20240716T185425Z" creationid="b0sh" creationdate="20240716T185353Z">
@@ -55206,6 +55286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sickle logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043356Z" creationid="yumas" creationdate="20240812T043356Z">
+        <seg>鎌のロゴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sid</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T055731Z" creationid="yumas" creationdate="20240809T055731Z">
@@ -55594,6 +55682,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T042822Z" creationid="yumas" creationdate="20240812T042822Z">
         <seg>反響のボール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Single pillar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043523Z" creationid="yumas" creationdate="20240812T043523Z">
+        <seg>１つの柱</seg>
       </tuv>
     </tu>
     <tu>
@@ -62376,6 +62472,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The middle of a fireplace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043405Z" creationid="yumas" creationdate="20240812T043405Z">
+        <seg>暖炉の中央</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Thermonuclear smoke devil</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052727Z" creationid="yumas" creationdate="20240805T052727Z">
@@ -67116,6 +67220,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T003312Z" creationid="yumas" creationdate="20240812T003312Z">
         <seg>紙ゴミ箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Waste pipes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T043255Z" creationid="yumas" creationdate="20240812T043232Z">
+        <seg>排水管</seg>
       </tuv>
     </tu>
     <tu>
