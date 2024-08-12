@@ -13526,6 +13526,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cloth covered table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052933Z" creationid="yumas" creationdate="20240812T052933Z">
+        <seg>布が掛けられたテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Clothears</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T005308Z" creationid="yumas" creationdate="20240809T005308Z">
@@ -14898,6 +14906,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T213636Z" creationid="yumas" creationdate="20240730T213636Z">
         <seg>作る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Craft stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052914Z" creationid="yumas" creationdate="20240812T052914Z">
+        <seg>工作道具の屋台</seg>
       </tuv>
     </tu>
     <tu>
@@ -20170,6 +20186,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T011415Z" creationid="yumas" creationdate="20240809T011415Z">
         <seg>卵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Egg hopper</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052833Z" creationid="yumas" creationdate="20240812T052833Z">
+        <seg>卵ホッパー</seg>
       </tuv>
     </tu>
     <tu>
@@ -29382,6 +29406,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Healer item machine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052731Z" creationid="yumas" creationdate="20240812T052731Z">
+        <seg>回復者アイテム装置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Healer spring</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T052036Z" creationid="yumas" creationdate="20240812T052036Z">
@@ -30354,6 +30386,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T020832Z" creationid="yumas" creationdate="20240810T020832Z">
         <seg>ホーダル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Horn of glory</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052808Z" creationid="yumas" creationdate="20240812T052808Z">
+        <seg>栄光の角笛</seg>
       </tuv>
     </tu>
     <tu>
@@ -45894,6 +45934,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Petrified mushroom</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052829Z" creationid="yumas" creationdate="20240812T052829Z">
+        <seg>化石化したキノコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pew</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T023704Z" creationid="yumas" creationdate="20240811T023704Z">
@@ -47590,6 +47638,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Potter's wheel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052919Z" creationid="yumas" creationdate="20240812T052919Z">
+        <seg>ろくろ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pottery Oven</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T044855Z" creationid="yumas" creationdate="20240811T044855Z">
@@ -48202,6 +48258,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T093849Z" creationid="yumas" creationdate="20240805T093849Z">
         <seg>ピエレブ二等兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Private bank booth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052912Z" creationid="yumas" creationdate="20240812T052912Z">
+        <seg>専用の銀行ブース</seg>
       </tuv>
     </tu>
     <tu>
@@ -63992,6 +64056,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tin ore vein</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052955Z" creationid="yumas" creationdate="20240812T052955Z">
+        <seg>スズの鉱脈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tin rocks</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T224754Z" creationid="yumas" creationdate="20240811T224754Z">
@@ -67266,8 +67338,8 @@
       <tuv lang="en-GB">
         <seg>Vault</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T122859Z" creationid="yumas" creationdate="20240731T122859Z">
-        <seg>飛び越える</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052847Z" creationid="yumas" creationdate="20240731T122859Z">
+        <seg>金庫</seg>
       </tuv>
     </tu>
     <tu>
@@ -71788,6 +71860,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120211Z" creationid="yumas" creationdate="20240731T120211Z">
         <seg>でザナリスへ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41925</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Vault</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052857Z" creationid="yumas" creationdate="20240812T052857Z">
+        <seg>飛び越える</seg>
       </tuv>
     </tu>
     <tu>
