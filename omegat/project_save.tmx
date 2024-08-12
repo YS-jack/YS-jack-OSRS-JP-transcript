@@ -3182,6 +3182,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Armour space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031047Z" creationid="yumas" creationdate="20240812T031047Z">
+        <seg>鎧のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Armour stand</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T003333Z" creationid="yumas" creationdate="20240812T003333Z">
@@ -4842,6 +4850,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T072210Z" creationid="2008l" creationdate="20240808T072210Z">
         <seg>樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Barrel space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031136Z" creationid="yumas" creationdate="20240812T031136Z">
+        <seg>樽のスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -10554,6 +10570,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T034608Z" creationid="yumas" creationdate="20240811T034603Z">
         <seg>ネコのバスケット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cat basket space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031141Z" creationid="yumas" creationdate="20240812T031141Z">
+        <seg>ネコのバスケットのスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -22398,6 +22422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fishing trophy space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031044Z" creationid="yumas" creationdate="20240812T031044Z">
+        <seg>釣りトロフィーのスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fishing tutor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134806Z" creationid="yumas" creationdate="20240807T134806Z">
@@ -27230,6 +27262,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Guild trophy space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031122Z" creationid="yumas" creationdate="20240812T031122Z">
+        <seg>ギルドトロフィーのスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Guildmaster</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T063318Z" creationid="yumas" creationdate="20240805T063318Z">
@@ -28250,6 +28290,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T131311Z" creationid="yumas" creationdate="20240806T131311Z">
         <seg>料理長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Head trophy space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031036Z" creationid="yumas" creationdate="20240812T031036Z">
+        <seg>首のトロフィーのスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -33862,6 +33910,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Landscape space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031111Z" creationid="yumas" creationdate="20240812T031111Z">
+        <seg>風景画のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lantadyme</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T075801Z" creationid="2008l" creationdate="20240811T075801Z">
@@ -33914,6 +33970,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T111411Z" creationid="yumas" creationdate="20240811T111411Z">
         <seg>食糧貯蔵庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Larder space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031159Z" creationid="yumas" creationdate="20240812T031159Z">
+        <seg>食糧貯蔵庫のスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -35082,6 +35146,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T052650Z" creationid="yumas" creationdate="20240811T052650Z">
         <seg>読み上げ台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lectern space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031545Z" creationid="yumas" creationdate="20240812T031545Z">
+        <seg>詠唱台</seg>
       </tuv>
     </tu>
     <tu>
@@ -37642,6 +37714,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T075002Z" creationid="2008l" creationdate="20240805T075002Z">
         <seg>地図の一部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Map space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031127Z" creationid="yumas" creationdate="20240812T031127Z">
+        <seg>地図のスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -45566,6 +45646,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Portal space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031210Z" creationid="yumas" creationdate="20240812T031210Z">
+        <seg>ポータルのスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Portcullis</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T041556Z" creationid="yumas" creationdate="20240811T041556Z">
@@ -45586,6 +45674,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T070535Z" creationid="2008l" creationdate="20240725T070535Z">
         <seg>肖像画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Portrait space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031102Z" creationid="yumas" creationdate="20240812T031102Z">
+        <seg>絵画のスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -51302,6 +51398,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rune case space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031057Z" creationid="yumas" creationdate="20240812T031057Z">
+        <seg>ルーン展示のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rune chainbody</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204146Z" creationid="2008l" creationdate="20240729T204146Z">
@@ -53710,6 +53814,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shelf space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031134Z" creationid="yumas" creationdate="20240812T031134Z">
+        <seg>棚のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shelves</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T023122Z" creationid="yumas" creationdate="20240811T023122Z">
@@ -54466,6 +54578,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240729T063802Z">
         <seg>不吉なカギ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sink space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031207Z" creationid="yumas" creationdate="20240812T031207Z">
+        <seg>シンクのスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -57982,6 +58102,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stove space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031131Z" creationid="yumas" creationdate="20240812T031131Z">
+        <seg>ストーブのスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strange Creature</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T121141Z" creationid="yumas" creationdate="20240809T121141Z">
@@ -59138,6 +59266,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T065747Z" creationid="2008l" creationdate="20240725T065747Z">
         <seg>剣の柄頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sword space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031125Z" creationid="yumas" creationdate="20240812T031125Z">
+        <seg>剣のスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -60500,6 +60636,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T133014Z" creationid="yumas" creationdate="20240803T133014Z">
         <seg>虫と言う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Temp Stone 4 Zip</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T031231Z" creationid="yumas" creationdate="20240812T031231Z">
+        <seg>Temp Stone 4 Zip</seg>
       </tuv>
     </tu>
     <tu>
