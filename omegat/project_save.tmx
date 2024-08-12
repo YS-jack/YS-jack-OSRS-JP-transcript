@@ -14958,6 +14958,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crossbow Tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041056Z" creationid="yumas" creationdate="20240812T041056Z">
+        <seg>洋弓銃の木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crossbow stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041032Z" creationid="yumas" creationdate="20240812T041032Z">
+        <seg>洋弓銃の屋台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crow</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134552Z" creationid="yumas" creationdate="20240805T134552Z">
@@ -17330,6 +17346,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T073838Z" creationid="2008l" creationdate="20240811T073838Z">
         <seg>日記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T040826Z" creationid="yumas" creationdate="20240812T040826Z">
+        <seg>さいころ</seg>
       </tuv>
     </tu>
     <tu>
@@ -21382,6 +21406,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Extra anchor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T040924Z" creationid="yumas" creationdate="20240812T040924Z">
+        <seg>予備のいかり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Extract</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T140117Z" creationid="yumas" creationdate="20240803T140117Z">
@@ -22570,6 +22602,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T225605Z" creationid="2008l" creationdate="20240715T081842Z">
         <seg>魚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fish bits</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T040910Z" creationid="yumas" creationdate="20240812T040910Z">
+        <seg>魚の破片</seg>
       </tuv>
     </tu>
     <tu>
@@ -28274,6 +28314,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T042046Z" creationid="yumas" creationdate="20240811T042046Z">
         <seg>吊るされた肉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hanging pirate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T040839Z" creationid="yumas" creationdate="20240812T040839Z">
+        <seg>吊るされた家族</seg>
       </tuv>
     </tu>
     <tu>
@@ -45902,6 +45950,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Platform edge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T040834Z" creationid="yumas" creationdate="20240812T040834Z">
+        <seg>プラットホームの端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Play</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T212426Z" creationid="yumas" creationdate="20240730T212426Z">
@@ -50302,6 +50358,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rickety door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041022Z" creationid="yumas" creationdate="20240812T041022Z">
+        <seg>ガタガタのドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ride</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T105157Z" creationid="yumas" creationdate="20240731T105157Z">
@@ -52521,6 +52585,14 @@
         <seg>Sack Pile</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T012841Z" creationid="yumas" creationdate="20240812T012841Z">
+        <seg>袋の山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sack pile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T040844Z" creationid="yumas" creationdate="20240812T040844Z">
         <seg>袋の山</seg>
       </tuv>
     </tu>
@@ -59262,6 +59334,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strong Tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041036Z" creationid="yumas" creationdate="20240812T041036Z">
+        <seg>強い木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strong Yew</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T041039Z" creationid="yumas" creationdate="20240812T041039Z">
+        <seg>強いイチイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strong catalytic guardian</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T111619Z" creationid="yumas" creationdate="20240809T111514Z">
@@ -59730,6 +59818,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085918Z" creationid="yumas" creationdate="20240730T085918Z">
         <seg>に物資を渡す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T040941Z" creationid="yumas" creationdate="20240812T040941Z">
+        <seg>サポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -60988,6 +61084,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T062636Z" creationid="yumas" creationdate="20240809T062636Z">
         <seg>タールの化け物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tar barrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T040842Z" creationid="yumas" creationdate="20240812T040842Z">
+        <seg>タールの樽</seg>
       </tuv>
     </tu>
     <tu>
@@ -63452,6 +63556,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240715T082459Z" creationid="2008l" creationdate="20240715T081759Z">
         <seg>で移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Transport platform</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T040823Z" creationid="yumas" creationdate="20240812T040823Z">
+        <seg>変身プラットホーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -66480,6 +66592,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wall chart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T040952Z" creationid="yumas" creationdate="20240812T040952Z">
+        <seg>壁のチャート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Wall chart space</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T031638Z" creationid="yumas" creationdate="20240812T031638Z">
@@ -66540,6 +66660,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T015700Z" creationid="yumas" creationdate="20240809T015700Z">
         <seg>ワラサルキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wallchart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T040959Z" creationid="yumas" creationdate="20240812T040959Z">
+        <seg>壁のチャート</seg>
       </tuv>
     </tu>
     <tu>
@@ -67348,6 +67476,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T053348Z" creationid="yumas" creationdate="20240810T053348Z">
         <seg>麦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wheel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T040934Z" creationid="yumas" creationdate="20240812T040934Z">
+        <seg>車輪</seg>
       </tuv>
     </tu>
     <tu>
@@ -68292,6 +68428,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T233528Z" creationid="yumas" creationdate="20240808T233528Z">
         <seg>木製のカート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wooden chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T040916Z" creationid="yumas" creationdate="20240812T040916Z">
+        <seg>木製の宝箱</seg>
       </tuv>
     </tu>
     <tu>
