@@ -3790,6 +3790,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Attacker item machine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052615Z" creationid="yumas" creationdate="20240812T052615Z">
+        <seg>攻撃者アイテム装置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Attala</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T022317Z" creationid="yumas" creationdate="20240810T022317Z">
@@ -17194,6 +17202,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T075151Z" creationid="2008l" creationdate="20240811T075151Z">
         <seg>守備力増強薬（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Defender item machine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052654Z" creationid="yumas" creationdate="20240812T052654Z">
+        <seg>守護者アイテム装置</seg>
       </tuv>
     </tu>
     <tu>
@@ -45638,6 +45654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Penance cave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052442Z" creationid="yumas" creationdate="20240812T052442Z">
+        <seg>ペナンスの洞窟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Penda</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120619Z" creationid="yumas" creationdate="20240808T120619Z">
@@ -47074,6 +47098,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T065530Z" creationid="2008l" creationdate="20240721T065530Z">
         <seg>毒杯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Poison crater</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T052413Z" creationid="yumas" creationdate="20240812T052413Z">
+        <seg>毒噴出口</seg>
       </tuv>
     </tu>
     <tu>
