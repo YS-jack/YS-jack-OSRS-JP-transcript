@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adamant ore vein</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053016Z" creationid="yumas" creationdate="20240812T053016Z">
+        <seg>アダマントの鉱脈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant pick head</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T061420Z" creationid="2008l" creationdate="20240724T070009Z">
@@ -13102,6 +13110,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Clay ore vein</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053010Z" creationid="yumas" creationdate="20240812T053010Z">
+        <seg>粘土の鉱脈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Clay oven</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T044708Z" creationid="yumas" creationdate="20240812T044708Z">
@@ -13658,6 +13674,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T070656Z" creationid="2008l" creationdate="20240727T070656Z">
         <seg>石炭の袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Coal ore vein</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053013Z" creationid="yumas" creationdate="20240812T053013Z">
+        <seg>石炭の鉱脈</seg>
       </tuv>
     </tu>
     <tu>
@@ -14238,6 +14262,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Control panel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053301Z" creationid="yumas" creationdate="20240812T053301Z">
+        <seg>コントロール・パネル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Convert</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T130402Z" creationid="yumas" creationdate="20240731T130110Z">
@@ -14434,6 +14466,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T064316Z" creationid="2008l" creationdate="20240724T064257Z">
         <seg>銅鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Copper ore vein</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053004Z" creationid="yumas" creationdate="20240812T053004Z">
+        <seg>銅の鉱脈</seg>
       </tuv>
     </tu>
     <tu>
@@ -16634,6 +16674,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T114252Z" creationid="yumas" creationdate="20240811T114252Z">
         <seg>死んだカルカン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead Explorer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053244Z" creationid="yumas" creationdate="20240812T053244Z">
+        <seg>死んだ探検家</seg>
       </tuv>
     </tu>
     <tu>
@@ -21646,6 +21694,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Evil claw</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053251Z" creationid="yumas" creationdate="20240812T053251Z">
+        <seg>邪悪なかぎ爪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Evil spirit</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053822Z" creationid="yumas" creationdate="20240805T053822Z">
@@ -25878,6 +25934,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gift of Peace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053221Z" creationid="yumas" creationdate="20240812T053221Z">
+        <seg>平和のギフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gilbert</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T030250Z" creationid="yumas" creationdate="20240810T030250Z">
@@ -26530,6 +26594,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T115638Z" creationid="yumas" creationdate="20240805T073703Z">
         <seg>ノームの店主</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gnome skeleton</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053155Z" creationid="yumas" creationdate="20240812T053155Z">
+        <seg>ノームのスケレトン</seg>
       </tuv>
     </tu>
     <tu>
@@ -31914,6 +31986,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T064559Z" creationid="2008l" creationdate="20240724T064559Z">
         <seg>鉄鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iron ore vein</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053021Z" creationid="yumas" creationdate="20240812T053021Z">
+        <seg>鉄の鉱脈</seg>
       </tuv>
     </tu>
     <tu>
@@ -40906,6 +40986,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T064852Z" creationid="2008l" creationdate="20240724T064852Z">
         <seg>ミスリル鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mithril ore vein</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053019Z" creationid="yumas" creationdate="20240812T053019Z">
+        <seg>ミスリルの鉱脈</seg>
       </tuv>
     </tu>
     <tu>
@@ -65044,6 +65132,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T041352Z" creationid="yumas" creationdate="20240731T125000Z">
         <seg>罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trap bypass</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T053149Z" creationid="yumas" creationdate="20240812T053149Z">
+        <seg>罠バイパス</seg>
       </tuv>
     </tu>
     <tu>
