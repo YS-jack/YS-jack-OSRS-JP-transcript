@@ -14062,6 +14062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Connection pipe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050630Z" creationid="yumas" creationdate="20240812T050630Z">
+        <seg>接続パイプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Conrad King</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T063349Z" creationid="yumas" creationdate="20240809T063349Z">
@@ -22062,6 +22070,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fancy dress box</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050840Z" creationid="yumas" creationdate="20240812T050840Z">
+        <seg>火葬衣装ボックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fancy range</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T021247Z" creationid="yumas" creationdate="20240812T021247Z">
@@ -25722,6 +25738,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T015105Z" creationid="yumas" creationdate="20240812T015105Z">
         <seg>黄金のベンチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gilded cape rack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050738Z" creationid="yumas" creationdate="20240812T050738Z">
+        <seg>黄金のマントかけ</seg>
       </tuv>
     </tu>
     <tu>
@@ -38318,6 +38342,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Magic cape rack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050758Z" creationid="yumas" creationdate="20240812T050758Z">
+        <seg>魔法のマントかけ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Magic chest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T014934Z" creationid="yumas" creationdate="20240812T014934Z">
@@ -38514,6 +38546,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T015101Z" creationid="yumas" creationdate="20240812T015101Z">
         <seg>マホガニーのベンチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mahogany cape rack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050735Z" creationid="yumas" creationdate="20240812T050735Z">
+        <seg>マホガニーのマントかけ</seg>
       </tuv>
     </tu>
     <tu>
@@ -38954,6 +38994,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T045732Z" creationid="yumas" creationdate="20240811T045732Z">
         <seg>楓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Marble cape rack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050741Z" creationid="yumas" creationdate="20240812T050741Z">
+        <seg>大理石のマントかけ</seg>
       </tuv>
     </tu>
     <tu>
@@ -40118,6 +40166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mind Door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050625Z" creationid="yumas" creationdate="20240812T050625Z">
+        <seg>心のドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mind Golem</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T093613Z" creationid="yumas" creationdate="20240809T093613Z">
@@ -40170,6 +40226,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T135006Z" creationid="yumas" creationdate="20240808T135006Z">
         <seg>トロッコ操縦士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mine cart sign</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050657Z" creationid="yumas" creationdate="20240812T050657Z">
+        <seg>トロッコ標識</seg>
       </tuv>
     </tu>
     <tu>
@@ -42850,6 +42914,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T015015Z" creationid="yumas" creationdate="20240812T015015Z">
         <seg>樫のベンチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Oak cape rack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050728Z" creationid="yumas" creationdate="20240812T050728Z">
+        <seg>樫のマントかけ</seg>
       </tuv>
     </tu>
     <tu>
@@ -54126,6 +54198,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Schematic crate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050649Z" creationid="yumas" creationdate="20240812T050649Z">
+        <seg>図式の箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Schoolboy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T115707Z" creationid="yumas" creationdate="20240805T115707Z">
@@ -62208,6 +62288,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Teak cape rack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050731Z" creationid="yumas" creationdate="20240812T050731Z">
+        <seg>チークのマントかけ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Teak chest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T014918Z" creationid="yumas" creationdate="20240812T014918Z">
@@ -65148,6 +65236,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T043258Z" creationid="yumas" creationdate="20240811T043258Z">
         <seg>トンネルの入口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tunnel roof</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050702Z" creationid="yumas" creationdate="20240812T050702Z">
+        <seg>トンネルの屋根</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tunnel wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T050707Z" creationid="yumas" creationdate="20240812T050707Z">
+        <seg>トンネルの壁</seg>
       </tuv>
     </tu>
     <tu>
