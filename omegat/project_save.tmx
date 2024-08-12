@@ -1496,8 +1496,8 @@
       <tuv lang="en-GB">
         <seg>Alchemists Teleport</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T105715Z" creationid="yumas" creationdate="20240812T105715Z">
-        <seg>錬金術へワープ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T105743Z" creationid="yumas" creationdate="20240812T105715Z">
+        <seg>錬金術ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16078,6 +16078,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cube Pile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T105759Z" creationid="yumas" creationdate="20240812T105759Z">
+        <seg>キューブの山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cuffs</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T135249Z" creationid="yumas" creationdate="20240807T135249Z">
@@ -16370,6 +16378,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134648Z" creationid="yumas" creationdate="20240805T134648Z">
         <seg>サイクロプス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cylinder Pile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T105806Z" creationid="yumas" creationdate="20240812T105806Z">
+        <seg>円柱の山</seg>
       </tuv>
     </tu>
     <tu>
@@ -21440,8 +21456,8 @@
       <tuv lang="en-GB">
         <seg>Enchanters Teleport</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T105706Z" creationid="yumas" creationdate="20240812T105658Z">
-        <seg>魔法付与へワープ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T105745Z" creationid="yumas" creationdate="20240812T105658Z">
+        <seg>魔法付与ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -24466,6 +24482,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T021544Z" creationid="yumas" creationdate="20240811T021544Z">
         <seg>フォント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Food Barrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T105754Z" creationid="yumas" creationdate="20240812T105754Z">
+        <seg>食べ物の樽</seg>
       </tuv>
     </tu>
     <tu>
@@ -27984,8 +28008,8 @@
       <tuv lang="en-GB">
         <seg>Graveyard Teleport</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T105718Z" creationid="yumas" creationdate="20240812T105718Z">
-        <seg>墓地へワープ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T105741Z" creationid="yumas" creationdate="20240812T105718Z">
+        <seg>墓地ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -31714,6 +31738,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T030449Z" creationid="yumas" creationdate="20240812T030449Z">
         <seg>アイコンのスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Icosahedron Pile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T105828Z" creationid="yumas" creationdate="20240812T105828Z">
+        <seg>二十面体の山</seg>
       </tuv>
     </tu>
     <tu>
@@ -46770,6 +46802,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T082255Z" creationid="yumas" creationdate="20240809T082255Z">
         <seg>ペナント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pentamid Pile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T110052Z" creationid="yumas" creationdate="20240812T110052Z">
+        <seg>五角錐の山</seg>
       </tuv>
     </tu>
     <tu>
@@ -64194,8 +64234,8 @@
       <tuv lang="en-GB">
         <seg>Telekinetic Teleport</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T105708Z" creationid="yumas" creationdate="20240812T105637Z">
-        <seg>念力へワープ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T105747Z" creationid="yumas" creationdate="20240812T105637Z">
+        <seg>念力ワープ</seg>
       </tuv>
     </tu>
     <tu>
