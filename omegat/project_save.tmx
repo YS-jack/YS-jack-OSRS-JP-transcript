@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adamantite rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T005050Z" creationid="yumas" creationdate="20240812T005050Z">
+        <seg>アダマンタイトの岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Add finds</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T130849Z" creationid="yumas" creationdate="20240731T130849Z">
@@ -6762,6 +6770,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T070633Z" creationid="2008l" creationdate="20240725T070633Z">
         <seg>ブルタイト鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blurite rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T005106Z" creationid="yumas" creationdate="20240812T005106Z">
+        <seg>ブルライトの岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -23150,6 +23166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gem rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T005108Z" creationid="yumas" creationdate="20240812T005108Z">
+        <seg>宝石の原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gem stall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T082310Z" creationid="yumas" creationdate="20240810T082242Z">
@@ -24630,6 +24654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gold rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T005038Z" creationid="yumas" creationdate="20240812T005038Z">
+        <seg>金の岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gold vein</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T054658Z" creationid="yumas" creationdate="20240811T054658Z">
@@ -24962,6 +24994,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120530Z" creationid="yumas" creationdate="20240808T120530Z">
         <seg>ジャックおじいちゃん</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Granite rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T005618Z" creationid="yumas" creationdate="20240812T005618Z">
+        <seg>花崗岩の岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -34070,6 +34110,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Limestone rock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T005138Z" creationid="yumas" creationdate="20240812T005138Z">
+        <seg>石灰岩の岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Limpwurt plant</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T114758Z" creationid="yumas" creationdate="20240811T114758Z">
@@ -37514,6 +37562,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204008Z" creationid="2008l" creationdate="20240729T204008Z">
         <seg>ミスリルの裙甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mithril rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T005042Z" creationid="yumas" creationdate="20240812T005042Z">
+        <seg>ミスリルの岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -42554,6 +42610,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T052018Z" creationid="yumas" creationdate="20240811T052018Z">
         <seg>杖の山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pile of rock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T005139Z" creationid="yumas" creationdate="20240812T005139Z">
+        <seg>岩の山</seg>
       </tuv>
     </tu>
     <tu>
@@ -49550,6 +49614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sandstone rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T005215Z" creationid="yumas" creationdate="20240812T005215Z">
+        <seg>砂岩の岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sandwich lady</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T010141Z" creationid="yumas" creationdate="20240809T010141Z">
@@ -51794,6 +51866,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T070511Z" creationid="2008l" creationdate="20240808T070511Z">
         <seg>銀の鍋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Silver rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240812T005035Z" creationid="yumas" creationdate="20240812T005035Z">
+        <seg>銀の岩</seg>
       </tuv>
     </tu>
     <tu>
