@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Achievement diary display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T112205Z" creationid="yumas" creationdate="20240813T112205Z">
+        <seg>達成記録の展示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Acid pool</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T084843Z" creationid="yumas" creationdate="20240813T084843Z">
@@ -16198,6 +16206,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Corporeal Beast display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T112328Z" creationid="yumas" creationdate="20240813T112328Z">
+        <seg>コーポリアル獣の展示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Corporeal Critter</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T065045Z" creationid="yumas" creationdate="20240809T065045Z">
@@ -18946,6 +18962,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T131019Z" creationid="yumas" creationdate="20240812T131019Z">
         <seg>デッドマンの宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Deadman display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T112353Z" creationid="yumas" creationdate="20240813T112353Z">
+        <seg>デッドマンの展示</seg>
       </tuv>
     </tu>
     <tu>
@@ -22658,6 +22682,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T010436Z" creationid="yumas" creationdate="20240809T010436Z">
         <seg>エリート・ヴォイド・ナイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Elite clue scroll display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T112232Z" creationid="yumas" creationdate="20240813T112232Z">
+        <seg>超級宝さがしの巻物の展示</seg>
       </tuv>
     </tu>
     <tu>
@@ -26552,8 +26584,16 @@
       <tuv lang="en-GB">
         <seg>Fossil Island</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T012846Z" creationid="yumas" creationdate="20240803T012846Z">
-        <seg>化石の島</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T112453Z" creationid="yumas" creationdate="20240803T012846Z">
+        <seg>化石島</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fossil Island display case</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T112441Z" creationid="yumas" creationdate="20240813T112441Z">
+        <seg>化石島の展示ケース</seg>
       </tuv>
     </tu>
     <tu>
@@ -27874,6 +27914,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T035930Z" creationid="yumas" creationdate="20240809T035930Z">
         <seg>グラドー将軍・Jr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>General Graardor display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T112320Z" creationid="yumas" creationdate="20240813T112320Z">
+        <seg>グラドー将軍の展示</seg>
       </tuv>
     </tu>
     <tu>
@@ -30218,6 +30266,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T053311Z" creationid="yumas" creationdate="20240809T053311Z">
         <seg>偉大なるオルㇺ（右足）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Great Olm display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T112255Z" creationid="yumas" creationdate="20240813T112255Z">
+        <seg>偉大なるオルㇺの展示</seg>
       </tuv>
     </tu>
     <tu>
@@ -43534,6 +43590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Master clue scroll display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T112246Z" creationid="yumas" creationdate="20240813T112246Z">
+        <seg>達人宝さがしの巻物の展示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Master fisher</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T135220Z" creationid="yumas" creationdate="20240806T135220Z">
@@ -49442,6 +49506,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T021907Z" creationid="yumas" creationdate="20240812T021907Z">
         <seg>装飾されたグローブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ornate Jewellery Box</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T112336Z" creationid="yumas" creationdate="20240813T112336Z">
+        <seg>華麗な宝石箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -73064,6 +73136,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tzkal-Zuk display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T112313Z" creationid="yumas" creationdate="20240813T112313Z">
+        <seg>ツズカル・ザックの展示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ueman, Teoki of Ralos</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T030206Z" creationid="yumas" creationdate="20240810T030109Z">
@@ -74932,6 +75012,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T065206Z" creationid="yumas" creationdate="20240809T065206Z">
         <seg>ヴォーカス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vorkath display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T112159Z" creationid="yumas" creationdate="20240813T112159Z">
+        <seg>ヴォーカスの展示</seg>
       </tuv>
     </tu>
     <tu>
@@ -77484,6 +77572,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T124648Z" creationid="yumas" creationdate="20240805T115712Z">
         <seg>作業員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>World map display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T112405Z" creationid="yumas" creationdate="20240813T112405Z">
+        <seg>世界地図の展示</seg>
       </tuv>
     </tu>
     <tu>
