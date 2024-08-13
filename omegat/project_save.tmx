@@ -358,10 +358,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>A peculiar foot print</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T104139Z" creationid="yumas" creationdate="20240813T104139Z">
+        <seg>独特な足跡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>A pile of broken glass</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T125808Z" creationid="yumas" creationdate="20240806T125808Z">
         <seg>ガラスの破片の山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>A primitive joke</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T104159Z" creationid="yumas" creationdate="20240813T104159Z">
+        <seg>原始的なジョーク</seg>
       </tuv>
     </tu>
     <tu>
@@ -2482,6 +2498,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T094457Z" creationid="yumas" creationdate="20240813T094457Z">
         <seg>古の低木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ancient cave painting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T104306Z" creationid="yumas" creationdate="20240813T104306Z">
+        <seg>古代の洞窟壁画</seg>
       </tuv>
     </tu>
     <tu>
@@ -18928,8 +18952,8 @@
       <tuv lang="en-GB">
         <seg>Deathly ranger</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T053537Z" creationid="yumas" creationdate="20240809T053529Z">
-        <seg>死のレンジャー</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T104057Z" creationid="yumas" creationdate="20240809T053529Z">
+        <seg>死の射手</seg>
       </tuv>
     </tu>
     <tu>
@@ -54392,8 +54416,8 @@
       <tuv lang="en-GB">
         <seg>Ranger (medium)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T092648Z" creationid="yumas" creationdate="20240805T092648Z">
-        <seg>レンジャー（中級）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T104033Z" creationid="yumas" creationdate="20240805T092648Z">
+        <seg>射手（中級）</seg>
       </tuv>
     </tu>
     <tu>
@@ -64632,8 +64656,8 @@
       <tuv lang="en-GB">
         <seg>Spiritual Ranger</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T110221Z" creationid="yumas" creationdate="20240809T110221Z">
-        <seg>レンジャーの霊</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T104110Z" creationid="yumas" creationdate="20240809T110221Z">
+        <seg>射手の霊</seg>
       </tuv>
     </tu>
     <tu>
@@ -64656,8 +64680,8 @@
       <tuv lang="en-GB">
         <seg>Spiritual ranger</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240806T111830Z" creationid="yumas" creationdate="20240806T111830Z">
-        <seg>レンジャーの霊</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T104043Z" creationid="yumas" creationdate="20240806T111830Z">
+        <seg>射手の霊</seg>
       </tuv>
     </tu>
     <tu>
@@ -69898,8 +69922,8 @@
       <tuv lang="en-GB">
         <seg>Third Age Ranger</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T072949Z" creationid="yumas" creationdate="20240809T072949Z">
-        <seg>第３紀のレンジャー</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T104105Z" creationid="yumas" creationdate="20240809T072949Z">
+        <seg>第３紀の射手</seg>
       </tuv>
     </tu>
     <tu>
@@ -77754,8 +77778,8 @@
       <tuv lang="en-GB">
         <seg>Zamorak ranger</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T052135Z" creationid="yumas" creationdate="20240809T052135Z">
-        <seg>ザモラックのレンジャー</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T104051Z" creationid="yumas" creationdate="20240809T052135Z">
+        <seg>ザモラックの射手</seg>
       </tuv>
     </tu>
     <tu>
