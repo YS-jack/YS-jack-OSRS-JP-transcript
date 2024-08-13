@@ -5278,6 +5278,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Barge controls</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T091145Z" creationid="yumas" creationdate="20240813T091145Z">
+        <seg>荷船の管制塔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Barge foreman</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T124950Z" creationid="yumas" creationdate="20240805T124950Z">
@@ -6514,6 +6522,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T223506Z" creationid="yumas" creationdate="20240811T223506Z">
         <seg>鳥の罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Birdhouse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T091016Z" creationid="yumas" creationdate="20240813T091016Z">
+        <seg>鳥小屋</seg>
       </tuv>
     </tu>
     <tu>
@@ -47174,6 +47190,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Oak birdhouse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T091029Z" creationid="yumas" creationdate="20240813T091029Z">
+        <seg>樫の鳥小屋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Oak birdhouse (empty)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T091025Z" creationid="yumas" creationdate="20240813T091025Z">
+        <seg>樫の鳥小屋（空）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Oak cape rack</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T050728Z" creationid="yumas" creationdate="20240812T050728Z">
@@ -68136,6 +68168,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Teak birdhouse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T091058Z" creationid="yumas" creationdate="20240813T091058Z">
+        <seg>チークの鳥小屋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teak birdhouse (empty)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T091053Z" creationid="yumas" creationdate="20240813T091053Z">
+        <seg>チークの鳥小屋（空）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Teak cape rack</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T050731Z" creationid="yumas" creationdate="20240812T050731Z">
@@ -75308,6 +75356,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T135706Z" creationid="yumas" creationdate="20240805T135706Z">
         <seg>ウィリアム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Willow birdhouse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T091046Z" creationid="yumas" creationdate="20240813T091046Z">
+        <seg>柳の鳥小屋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Willow birdhouse (empty)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T091037Z" creationid="yumas" creationdate="20240813T091037Z">
+        <seg>柳の鳥小屋（空）</seg>
       </tuv>
     </tu>
     <tu>
