@@ -4854,6 +4854,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bank Deposit Pot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070617Z" creationid="yumas" creationdate="20240813T070617Z">
+        <seg>鍋型金庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bank Table</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T092456Z" creationid="yumas" creationdate="20240812T092456Z">
@@ -14874,6 +14882,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T112421Z" creationid="yumas" creationdate="20240809T112421Z">
         <seg>コエナス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Coffer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070305Z" creationid="yumas" creationdate="20240813T070305Z">
+        <seg>前払い金</seg>
       </tuv>
     </tu>
     <tu>
@@ -32486,6 +32502,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>House Advertisement</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070313Z" creationid="yumas" creationdate="20240813T070313Z">
+        <seg>家の告知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hring Hring</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T125030Z" creationid="yumas" creationdate="20240805T125030Z">
@@ -33390,6 +33414,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Inconspicuous bush (master)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070232Z" creationid="yumas" creationdate="20240813T070139Z">
+        <seg>目立たない低木（達人）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Inconspicuous bush (medium)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T033707Z" creationid="yumas" creationdate="20240812T033707Z">
@@ -33406,10 +33438,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Inconspicuous crate (elite)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070151Z" creationid="yumas" creationdate="20240813T070135Z">
+        <seg>目立たない箱（超級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Inconspicuous crate (hard)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T070055Z" creationid="yumas" creationdate="20240813T070055Z">
         <seg>目立たない箱（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Inconspicuous crate (master)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070300Z" creationid="yumas" creationdate="20240813T070300Z">
+        <seg>目立たない箱（達人）</seg>
       </tuv>
     </tu>
     <tu>
@@ -33430,10 +33478,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Inconspicuous hole (elite)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070119Z" creationid="yumas" creationdate="20240813T070119Z">
+        <seg>目立たない穴（超級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Inconspicuous hole (hard)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T070038Z" creationid="yumas" creationdate="20240813T070038Z">
         <seg>目立たない穴（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Inconspicuous hole (master)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070244Z" creationid="yumas" creationdate="20240813T070244Z">
+        <seg>目立たない穴（達人）</seg>
       </tuv>
     </tu>
     <tu>
@@ -33454,10 +33518,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Inconspicuous rocks (elite)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070125Z" creationid="yumas" creationdate="20240813T070125Z">
+        <seg>目立たない岩（超級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Inconspicuous rocks (hard)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T070044Z" creationid="yumas" creationdate="20240813T070044Z">
         <seg>目立たない岩（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Inconspicuous rocks (master)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070250Z" creationid="yumas" creationdate="20240813T070250Z">
+        <seg>目立たない岩（達人）</seg>
       </tuv>
     </tu>
     <tu>
@@ -54510,6 +54590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Reward chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070301Z" creationid="yumas" creationdate="20240813T070301Z">
+        <seg>報酬の宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rewards</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T101238Z" creationid="yumas" creationdate="20240713T101238Z">
@@ -56878,10 +56966,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>STASH (elite)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070112Z" creationid="yumas" creationdate="20240813T070112Z">
+        <seg>隠し場所（超級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>STASH (hard)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T070028Z" creationid="yumas" creationdate="20240813T070028Z">
         <seg>隠し場所（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>STASH (master)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070239Z" creationid="yumas" creationdate="20240813T070239Z">
+        <seg>隠し場所（達人）</seg>
       </tuv>
     </tu>
     <tu>
@@ -59514,6 +59618,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T062344Z" creationid="2008l" creationdate="20240723T062156Z">
         <seg>エビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shrine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070308Z" creationid="yumas" creationdate="20240813T070308Z">
+        <seg>聖堂</seg>
       </tuv>
     </tu>
     <tu>
