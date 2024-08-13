@@ -2438,6 +2438,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ancient Shroom</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102116Z" creationid="yumas" creationdate="20240813T102116Z">
+        <seg>古代のキノコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ancient Wizard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T045249Z" creationid="yumas" creationdate="20240809T045249Z">
@@ -21130,6 +21138,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T084942Z" creationid="yumas" creationdate="20240809T084942Z">
         <seg>ドレーゼル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Drift net (full)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T101905Z" creationid="yumas" creationdate="20240813T101905Z">
+        <seg>流し網（満）</seg>
       </tuv>
     </tu>
     <tu>
@@ -51070,6 +51086,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pile of Fishbowls</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T101937Z" creationid="yumas" creationdate="20240813T101937Z">
+        <seg>金魚鉢の山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pile of Rock</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T013303Z" creationid="yumas" creationdate="20240812T013303Z">
@@ -51602,6 +51626,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T122709Z" creationid="yumas" creationdate="20240803T122709Z">
         <seg>植える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Plant door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T101911Z" creationid="yumas" creationdate="20240813T101911Z">
+        <seg>植物のドア</seg>
       </tuv>
     </tu>
     <tu>
@@ -57146,6 +57178,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T140744Z" creationid="yumas" creationdate="20240731T140744Z">
         <seg>輪で前の目的地へ（DLS）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rinsing pool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102046Z" creationid="yumas" creationdate="20240813T102046Z">
+        <seg>洗浄用プール</seg>
       </tuv>
     </tu>
     <tu>
@@ -62906,6 +62946,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T110405Z" creationid="yumas" creationdate="20240812T045742Z">
         <seg>ナメクジの粘液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sluice Gate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102026Z" creationid="yumas" creationdate="20240813T102026Z">
+        <seg>水門</seg>
       </tuv>
     </tu>
     <tu>
