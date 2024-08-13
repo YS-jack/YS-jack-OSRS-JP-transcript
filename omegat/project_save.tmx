@@ -8376,8 +8376,8 @@
       <tuv lang="en-GB">
         <seg>Boss lair space</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240813T071056Z" creationid="yumas" creationdate="20240813T071056Z">
-        <seg>ボス部屋のスペース</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T071901Z" creationid="yumas" creationdate="20240813T071056Z">
+        <seg>ボス生息地のスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -37202,6 +37202,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052454Z" creationid="yumas" creationdate="20240805T052454Z">
         <seg>クラーケン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kraken display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T071915Z" creationid="yumas" creationdate="20240813T071915Z">
+        <seg>クラーケンの展示</seg>
       </tuv>
     </tu>
     <tu>
