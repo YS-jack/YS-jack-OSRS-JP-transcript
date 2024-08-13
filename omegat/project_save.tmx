@@ -9126,6 +9126,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken ground</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065457Z" creationid="yumas" creationdate="20240813T065457Z">
+        <seg>壊れた地盤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken kiln</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T100015Z" creationid="yumas" creationdate="20240811T100015Z">
@@ -9330,6 +9338,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T044518Z" creationid="yumas" creationdate="20240811T044518Z">
         <seg>銅の宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze Door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065514Z" creationid="yumas" creationdate="20240813T065514Z">
+        <seg>銅のドア</seg>
       </tuv>
     </tu>
     <tu>
@@ -10186,6 +10202,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T043352Z" creationid="yumas" creationdate="20240811T043352Z">
         <seg>燃えている骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burning brazier</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065519Z" creationid="yumas" creationdate="20240813T065519Z">
+        <seg>燃えている火鉢</seg>
       </tuv>
     </tu>
     <tu>
@@ -17746,6 +17770,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T135709Z" creationid="yumas" creationdate="20240805T135709Z">
         <seg>ダレン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dart trap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065500Z" creationid="yumas" creationdate="20240813T065500Z">
+        <seg>ダーツの罠</seg>
       </tuv>
     </tu>
     <tu>
@@ -33286,6 +33318,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Inanimate Altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070001Z" creationid="yumas" creationdate="20240813T070001Z">
+        <seg>生気のない祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Incapacitated Pyromancer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T050501Z" creationid="yumas" creationdate="20240809T050435Z">
@@ -39670,6 +39710,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Locked chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065507Z" creationid="yumas" creationdate="20240813T065507Z">
+        <seg>閉じている宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Locked door</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T111434Z" creationid="yumas" creationdate="20240811T111434Z">
@@ -42982,6 +43030,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Minecart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065536Z" creationid="yumas" creationdate="20240813T065536Z">
+        <seg>トロッコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Miner</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T133451Z" creationid="yumas" creationdate="20240805T133451Z">
@@ -43810,6 +43866,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T092612Z" creationid="yumas" creationdate="20240809T092612Z">
         <seg>ユニコーンにまたがるサル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Monkey trap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065523Z" creationid="yumas" creationdate="20240813T065523Z">
+        <seg>サルの罠</seg>
       </tuv>
     </tu>
     <tu>
@@ -44682,6 +44746,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T202943Z" creationid="yumas" creationdate="20240807T202943Z">
         <seg>不可思議な幽霊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mysterious ruins</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065749Z" creationid="yumas" creationdate="20240813T065749Z">
+        <seg>不可思議な廃墟</seg>
       </tuv>
     </tu>
     <tu>
@@ -55838,6 +55910,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rope ladder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065540Z" creationid="yumas" creationdate="20240813T065540Z">
+        <seg>ロープのハシゴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rope swing</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T042629Z" creationid="yumas" creationdate="20240811T042629Z">
@@ -58426,6 +58506,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045723Z" creationid="yumas" creationdate="20240805T045723Z">
         <seg>召使</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Servant's money bag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065731Z" creationid="yumas" creationdate="20240813T065731Z">
+        <seg>召使の給与袋</seg>
       </tuv>
     </tu>
     <tu>
@@ -63386,6 +63474,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T065210Z" creationid="2008l" creationdate="20240731T065210Z">
         <seg>鋼鉄の戦鎚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steep roof</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065739Z" creationid="yumas" creationdate="20240813T065739Z">
+        <seg>急な屋根</seg>
       </tuv>
     </tu>
     <tu>
@@ -71492,6 +71588,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T050719Z" creationid="yumas" creationdate="20240810T050719Z">
         <seg>ツル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vine ladder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065735Z" creationid="yumas" creationdate="20240813T065735Z">
+        <seg>ツルのハシゴ</seg>
       </tuv>
     </tu>
     <tu>
