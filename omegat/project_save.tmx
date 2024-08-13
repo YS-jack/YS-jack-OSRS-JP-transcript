@@ -12190,6 +12190,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cavern entrance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065402Z" creationid="yumas" creationdate="20240813T065402Z">
+        <seg>大洞窟の入口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cavern exit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065407Z" creationid="yumas" creationdate="20240813T065407Z">
+        <seg>大洞窟の出口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cavey Davey</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070249Z" creationid="yumas" creationdate="20240805T070249Z">
@@ -12266,6 +12282,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T072046Z" creationid="2008l" creationdate="20240808T072046Z">
         <seg>監房のドアの鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cell wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065355Z" creationid="yumas" creationdate="20240813T065355Z">
+        <seg>監房の壁</seg>
       </tuv>
     </tu>
     <tu>
@@ -15178,6 +15202,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T051649Z" creationid="yumas" creationdate="20240810T051649Z">
         <seg>堆肥の山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Compromised floorboards</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065344Z" creationid="yumas" creationdate="20240813T065344Z">
+        <seg>危険な床板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Compromised support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065334Z" creationid="yumas" creationdate="20240813T065334Z">
+        <seg>危険な支え</seg>
       </tuv>
     </tu>
     <tu>
@@ -19770,6 +19810,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134428Z" creationid="yumas" creationdate="20240805T134428Z">
         <seg>ドジな従者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dodgy ground</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065453Z" creationid="yumas" creationdate="20240813T065453Z">
+        <seg>危険な地盤</seg>
       </tuv>
     </tu>
     <tu>
@@ -26706,6 +26754,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T023824Z" creationid="yumas" creationdate="20240812T023824Z">
         <seg>ガスの泡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gas cylinder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065349Z" creationid="yumas" creationdate="20240813T065349Z">
+        <seg>ガスシリンダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -55526,6 +55582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rocky ledge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065436Z" creationid="yumas" creationdate="20240813T065436Z">
+        <seg>岩棚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rocky outcrop</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T051500Z" creationid="yumas" creationdate="20240812T051500Z">
@@ -56650,6 +56714,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T001603Z" creationid="yumas" creationdate="20240809T001603Z">
         <seg>髭のルパート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ruptured cavern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065435Z" creationid="yumas" creationdate="20240813T065435Z">
+        <seg>崩壊した洞窟</seg>
       </tuv>
     </tu>
     <tu>
