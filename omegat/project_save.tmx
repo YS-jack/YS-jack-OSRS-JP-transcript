@@ -40296,8 +40296,16 @@
       <tuv lang="en-GB">
         <seg>Lovakite furnace</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T133720Z" creationid="yumas" creationdate="20240812T133720Z">
-        <seg>ロヴァケインの炉</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T065022Z" creationid="yumas" creationdate="20240812T133720Z">
+        <seg>ロヴァカイトの炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lovakite rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T064759Z" creationid="yumas" creationdate="20240813T064759Z">
+        <seg>ロヴァケインの岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -47074,6 +47082,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T092531Z" creationid="yumas" creationdate="20240812T092531Z">
         <seg>鉱石の箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ore sack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T064715Z" creationid="yumas" creationdate="20240813T064715Z">
+        <seg>鉱石の袋</seg>
       </tuv>
     </tu>
     <tu>
