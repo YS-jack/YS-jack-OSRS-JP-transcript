@@ -2454,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ancient bush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T094457Z" creationid="yumas" creationdate="20240813T094457Z">
+        <seg>古の低木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ancient chest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T084733Z" creationid="yumas" creationdate="20240813T084733Z">
@@ -4930,6 +4938,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T120130Z" creationid="yumas" creationdate="20240809T120130Z">
         <seg>銀行ラクダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bank Chest-wreck</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T094351Z" creationid="yumas" creationdate="20240813T094351Z">
+        <seg>沈没した銀行箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -14366,6 +14382,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Clam</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T094300Z" creationid="yumas" creationdate="20240813T094300Z">
+        <seg>二枚貝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Clamber</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T005934Z" creationid="yumas" creationdate="20240803T005934Z">
@@ -17330,6 +17354,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T084930Z" creationid="yumas" creationdate="20240809T084930Z">
         <seg>カーパイル・フォイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Current</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T094322Z" creationid="yumas" creationdate="20240813T094322Z">
+        <seg>水流</seg>
       </tuv>
     </tu>
     <tu>
@@ -28122,6 +28154,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T122424Z" creationid="yumas" creationdate="20240806T122424Z">
         <seg>巨大なクモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Giant vial</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T094226Z" creationid="yumas" creationdate="20240813T094226Z">
+        <seg>巨大な試薬便</seg>
       </tuv>
     </tu>
     <tu>
@@ -45950,6 +45990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mushtree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T094405Z" creationid="yumas" creationdate="20240813T094405Z">
+        <seg>キノコの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mushy Bed</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T091519Z" creationid="yumas" creationdate="20240813T091519Z">
@@ -47578,6 +47626,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T074630Z" creationid="yumas" creationdate="20240813T074618Z">
         <seg>黒曜石のフェンスの柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Obstacle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T094305Z" creationid="yumas" creationdate="20240813T094305Z">
+        <seg>障害物</seg>
       </tuv>
     </tu>
     <tu>
@@ -59918,6 +59974,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Seaweed Pile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T094356Z" creationid="yumas" creationdate="20240813T094356Z">
+        <seg>海藻の山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Seaweed patch</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T090724Z" creationid="yumas" creationdate="20240813T090724Z">
@@ -65606,10 +65670,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stone chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T094231Z" creationid="yumas" creationdate="20240813T094231Z">
+        <seg>石の宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stone circle wall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T043211Z" creationid="yumas" creationdate="20240812T043211Z">
         <seg>ストーンサークルの壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stone crate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T094233Z" creationid="yumas" creationdate="20240813T094233Z">
+        <seg>石の箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -65910,6 +65990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strange blocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T094243Z" creationid="yumas" creationdate="20240813T094243Z">
+        <seg>おかしなブロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strange bush (Blue)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T005915Z" creationid="yumas" creationdate="20240810T005915Z">
@@ -66018,6 +66106,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T025634Z" creationid="yumas" creationdate="20240812T025634Z">
         <seg>不思議な聖堂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strange stone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T094238Z" creationid="yumas" creationdate="20240813T094238Z">
+        <seg>不可思議な石</seg>
       </tuv>
     </tu>
     <tu>
