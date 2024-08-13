@@ -33374,6 +33374,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Inconspicuous bush (elite)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070104Z" creationid="yumas" creationdate="20240813T070104Z">
+        <seg>目立たない低木（超級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Inconspicuous bush (hard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070018Z" creationid="yumas" creationdate="20240813T070018Z">
+        <seg>目立たない低木（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Inconspicuous bush (medium)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T033707Z" creationid="yumas" creationdate="20240812T033707Z">
@@ -33386,6 +33402,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T033659Z" creationid="yumas" creationdate="20240812T033659Z">
         <seg>目立たない箱（初級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Inconspicuous crate (hard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070055Z" creationid="yumas" creationdate="20240813T070055Z">
+        <seg>目立たない箱（上級）</seg>
       </tuv>
     </tu>
     <tu>
@@ -33406,6 +33430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Inconspicuous hole (hard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070038Z" creationid="yumas" creationdate="20240813T070038Z">
+        <seg>目立たない穴（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Inconspicuous hole (medium)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T033847Z" creationid="yumas" creationdate="20240812T033847Z">
@@ -33418,6 +33450,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T033650Z" creationid="yumas" creationdate="20240812T033650Z">
         <seg>目立たない岩（初級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Inconspicuous rocks (hard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070044Z" creationid="yumas" creationdate="20240813T070044Z">
+        <seg>目立たない岩（上級）</seg>
       </tuv>
     </tu>
     <tu>
@@ -56834,6 +56874,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T033830Z" creationid="yumas" creationdate="20240812T033256Z">
         <seg>隠し場所（初級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>STASH (hard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T070028Z" creationid="yumas" creationdate="20240813T070028Z">
+        <seg>隠し場所（上級）</seg>
       </tuv>
     </tu>
     <tu>
