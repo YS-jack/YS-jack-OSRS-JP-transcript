@@ -8862,6 +8862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bowsprit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114813Z" creationid="yumas" creationdate="20240813T114813Z">
+        <seg>バウスプリット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Box</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T124138Z" creationid="yumas" creationdate="20240811T124138Z">
@@ -17286,6 +17294,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crypt Entrance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114824Z" creationid="yumas" creationdate="20240813T114824Z">
+        <seg>地下への入口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crypt rat</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T095121Z" creationid="yumas" creationdate="20240805T095121Z">
@@ -25522,6 +25538,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T065622Z" creationid="2008l" creationdate="20240805T065622Z">
         <seg>火のタリスマン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fire trap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114817Z" creationid="yumas" creationdate="20240813T114817Z">
+        <seg>火の罠</seg>
       </tuv>
     </tu>
     <tu>
@@ -34582,6 +34606,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Incomplete map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114910Z" creationid="yumas" creationdate="20240813T114910Z">
+        <seg>未完成な地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Incomplete pizza</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T070003Z" creationid="2008l" creationdate="20240810T070003Z">
@@ -35610,6 +35642,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T103811Z" creationid="yumas" creationdate="20240809T103811Z">
         <seg>イストリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Item Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114830Z" creationid="yumas" creationdate="20240813T114830Z">
+        <seg>アイテムの宝箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -39041,6 +39081,14 @@
         <seg>Large door</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T050758Z" creationid="yumas" creationdate="20240810T050758Z">
+        <seg>大きなドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Large doors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114825Z" creationid="yumas" creationdate="20240813T114825Z">
         <seg>大きなドア</seg>
       </tuv>
     </tu>
@@ -67310,6 +67358,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strange grid</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114903Z" creationid="yumas" creationdate="20240813T114903Z">
+        <seg>不思議なグリッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strange looking stone</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T031231Z" creationid="yumas" creationdate="20240811T031231Z">
@@ -77980,6 +78036,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T045807Z" creationid="yumas" creationdate="20240812T045807Z">
         <seg>残骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wreckage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114743Z" creationid="yumas" creationdate="20240813T114743Z">
+        <seg>破片</seg>
       </tuv>
     </tu>
     <tu>
