@@ -5235,7 +5235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41912">
         <xliff:source>Remove-Pot</xliff:source>
-        <xliff:target state="translated">から鍋を取る</xliff:target>
+        <xliff:target state="translated">から土鍋を取る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Pot-boiler
@@ -5491,7 +5491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41944">
         <xliff:source>Vent</xliff:source>
-        <xliff:target state="translated">通気口</xliff:target>
+        <xliff:target state="translated">排気口</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Steam Pump
@@ -8283,7 +8283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42293">
         <xliff:source>Fossil Island</xliff:source>
-        <xliff:target state="translated">化石の島</xliff:target>
+        <xliff:target state="translated">化石島</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Digsite Pendant

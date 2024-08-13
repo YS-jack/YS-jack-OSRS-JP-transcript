@@ -7859,7 +7859,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="983">
         <xliff:source>Unfired pot</xliff:source>
-        <xliff:target state="translated">未焼成の鍋</xliff:target>
+        <xliff:target state="translated">未焼成の土鍋</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Unfired pot
@@ -8539,7 +8539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1068">
         <xliff:source>Pot</xliff:source>
-        <xliff:target state="translated">鍋</xliff:target>
+        <xliff:target state="translated">土鍋</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Pot
@@ -8547,7 +8547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1069">
         <xliff:source>Pot of flour</xliff:source>
-        <xliff:target state="translated">小麦粉の鍋</xliff:target>
+        <xliff:target state="translated">小麦粉の土鍋</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Pot of flour
@@ -9171,7 +9171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1147">
         <xliff:source>Pot of cream</xliff:source>
-        <xliff:target state="translated">クリームの鍋</xliff:target>
+        <xliff:target state="translated">クリームの土鍋</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Pot of cream
@@ -15803,7 +15803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1976">
         <xliff:source>Letter</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">手紙</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Letter
@@ -17083,7 +17083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2136">
         <xliff:source>Bearhead</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ベアヘッド</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bearhead
@@ -25443,7 +25443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3181">
         <xliff:source>Yellow crystal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">黄色い水晶</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Yellow crystal
@@ -25459,7 +25459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3183">
         <xliff:source>Cyan crystal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">シアンの水晶</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Cyan crystal
@@ -25475,7 +25475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3185">
         <xliff:source>Magenta crystal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マゼンタの水晶</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Magenta crystal
@@ -26331,7 +26331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3292">
         <xliff:source>Orb</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">オーブ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Orb
@@ -33275,7 +33275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4160">
         <xliff:source>Treasure room</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">宝物庫</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Treasure room
@@ -53355,7 +53355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6670">
         <xliff:source>Shayzien banner</xliff:source>
-        <xliff:target state="translated">シャイゼンのバナー</xliff:target>
+        <xliff:target state="translated">シャイジエンのバナー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Shayzien banner
@@ -54091,7 +54091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6762">
         <xliff:source>Marble adventure log</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">大理石の冒険家ログ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Marble adventure log
@@ -54123,7 +54123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6766">
         <xliff:source>Boss lair display</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ボス生息地の展示</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Boss lair display
@@ -54147,7 +54147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6769">
         <xliff:source>Cape hanger</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マントかけ場</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Cape hanger
@@ -54163,7 +54163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6771">
         <xliff:source>Tip jar</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チップの瓶</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Tip jar
@@ -54187,7 +54187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6774">
         <xliff:source>Topiary bush</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">トピアリーの低木</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Topiary bush
@@ -54235,7 +54235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6780">
         <xliff:source>Zen theme</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">禅のテーマ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Zen theme
@@ -54243,7 +54243,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6781">
         <xliff:source>Otherworldly theme</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">超自然的なテーマ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Otherworldly theme
@@ -54251,7 +54251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6782">
         <xliff:source>Volcanic theme</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">火山のテーマ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Volcanic theme
@@ -54259,7 +54259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6783">
         <xliff:source>Redwood fence</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">セコイアのフェンス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Redwood fence
@@ -54267,7 +54267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6784">
         <xliff:source>Obsidian fence</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">黒曜石のフェンス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Obsidian fence
@@ -54283,7 +54283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6786">
         <xliff:source>Gnome bench</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ノームのベンチ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Gnome bench
@@ -54587,7 +54587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6824">
         <xliff:source>Undead combat dummy</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アンデッドの戦闘サンドバッグ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Undead combat dummy
@@ -55147,7 +55147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6894">
         <xliff:source>Keystone crystal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">要石の水晶</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Keystone crystal
@@ -55171,7 +55171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6897">
         <xliff:source>Nistirio's manifesto</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ニスチリオの声明書</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Nistirio's manifesto
@@ -55179,7 +55179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6898">
         <xliff:source>Tekton's journal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">テクトンの日誌</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Tekton's journal
@@ -55195,7 +55195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6900">
         <xliff:source>Transdimensional notes</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">次元を超越したノート</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Transdimensional notes
@@ -56091,7 +56091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7012">
         <xliff:source>Small storage unit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">小さな収納ユニット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Small storage unit
@@ -56099,7 +56099,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7013">
         <xliff:source>Medium storage unit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">普通の収納ユニット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Medium storage unit
@@ -56107,7 +56107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7014">
         <xliff:source>Large storage unit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">大きな収納ユニット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Large storage unit
@@ -56499,7 +56499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7063">
         <xliff:source>Servant's money bag</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">召使の給与袋</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Servant's money bag
@@ -57331,7 +57331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7167">
         <xliff:source>Mahogany sapling</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーの若木</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mahogany sapling
@@ -58819,7 +58819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7353">
         <xliff:source>Mythical cape</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神秘のマント</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mythical cape
@@ -63203,7 +63203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7901">
         <xliff:source>Black crystal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">黒い水晶</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Black crystal
@@ -63851,7 +63851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7982">
         <xliff:source>Teleport crystal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ワープの水晶</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Teleport crystal
