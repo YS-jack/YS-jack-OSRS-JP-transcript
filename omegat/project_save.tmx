@@ -5566,6 +5566,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Barrel of Water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T130010Z" creationid="yumas" creationdate="20240813T130010Z">
+        <seg>水の樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Barrel of fish</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T132626Z" creationid="yumas" creationdate="20240812T132626Z">
@@ -5713,6 +5721,14 @@
         <seg>Basalt rock</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T045807Z" creationid="yumas" creationdate="20240811T045807Z">
+        <seg>玄武岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Basalt rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T125902Z" creationid="yumas" creationdate="20240813T125902Z">
         <seg>玄武岩</seg>
       </tuv>
     </tu>
@@ -15534,6 +15550,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Coffin hotspot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T125958Z" creationid="yumas" creationdate="20240813T125958Z">
+        <seg>棺のホットスポット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cog</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T050412Z" creationid="yumas" creationdate="20240812T050412Z">
@@ -22606,6 +22630,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Efh salt rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T125856Z" creationid="yumas" creationdate="20240813T125856Z">
+        <seg>エフフ塩の岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Egg</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T011415Z" creationid="yumas" creationdate="20240809T011415Z">
@@ -25618,6 +25650,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134608Z" creationid="yumas" creationdate="20240805T134608Z">
         <seg>火の巨人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fire of Domination</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T130112Z" creationid="yumas" creationdate="20240813T130112Z">
+        <seg>支配の火</seg>
       </tuv>
     </tu>
     <tu>
@@ -41342,6 +41382,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Little boulder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T130022Z" creationid="yumas" creationdate="20240813T130022Z">
+        <seg>小さな岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Little crack</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T122827Z" creationid="yumas" creationdate="20240812T122827Z">
@@ -45098,6 +45146,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T034441Z" creationid="yumas" creationdate="20240811T034441Z">
         <seg>鉱山の洞窟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mine door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T125911Z" creationid="yumas" creationdate="20240813T125911Z">
+        <seg>鉱山のドア</seg>
       </tuv>
     </tu>
     <tu>
@@ -49342,6 +49398,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Old Shrine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T130006Z" creationid="yumas" creationdate="20240813T130006Z">
+        <seg>古い聖堂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Old Stall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T110435Z" creationid="yumas" creationdate="20240813T110435Z">
@@ -49398,6 +49462,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Old fire pit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T130050Z" creationid="yumas" creationdate="20240813T130050Z">
+        <seg>古い焚火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Old journal</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T071823Z" creationid="2008l" creationdate="20240805T071823Z">
@@ -49418,6 +49490,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T123705Z" creationid="yumas" creationdate="20240807T123705Z">
         <seg>おじいさん</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Old man's coffin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T130003Z" creationid="yumas" creationdate="20240813T130003Z">
+        <seg>おじいさんの棺</seg>
       </tuv>
     </tu>
     <tu>
@@ -52282,6 +52362,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T094146Z" creationid="yumas" creationdate="20240813T094146Z">
         <seg>古い本の山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pile of Buckets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T130014Z" creationid="yumas" creationdate="20240813T130014Z">
+        <seg>バケツの山</seg>
       </tuv>
     </tu>
     <tu>
@@ -64646,6 +64734,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Smelly hole</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T125915Z" creationid="yumas" creationdate="20240813T125915Z">
+        <seg>臭い穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Smelly mushroom</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T090816Z" creationid="yumas" creationdate="20240813T090816Z">
@@ -70044,6 +70140,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T125608Z" creationid="yumas" creationdate="20240813T125608Z">
         <seg>テ塩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Te salt rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T125900Z" creationid="yumas" creationdate="20240813T125900Z">
+        <seg>テ塩の岩</seg>
       </tuv>
     </tu>
     <tu>
