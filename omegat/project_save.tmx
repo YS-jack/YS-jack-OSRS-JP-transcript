@@ -44536,16 +44536,40 @@
       <tuv lang="en-GB">
         <seg>Mounted Achievement Diary Cape</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240813T072420Z" creationid="yumas" creationdate="20240813T072420Z">
-        <seg>装着された達成記録のマント</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T072704Z" creationid="yumas" creationdate="20240813T072420Z">
+        <seg>装着された達成記録マント</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Mounted Agility Cape</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240813T072702Z" creationid="yumas" creationdate="20240813T072702Z">
-        <seg>装着された運動神経</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T072710Z" creationid="yumas" creationdate="20240813T072702Z">
+        <seg>装着された運動神経マント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Agility Cape (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T072723Z" creationid="yumas" creationdate="20240813T072723Z">
+        <seg>装着された運動神経マント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Attack Cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T072730Z" creationid="yumas" creationdate="20240813T072730Z">
+        <seg>装着された攻撃力マント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Attack Cape (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T072743Z" creationid="yumas" creationdate="20240813T072743Z">
+        <seg>装着された攻撃力マント（縁）</seg>
       </tuv>
     </tu>
     <tu>
@@ -44554,6 +44578,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T072144Z" creationid="yumas" creationdate="20240813T072144Z">
         <seg>装着されたコイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Construction Cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T072832Z" creationid="yumas" creationdate="20240813T072832Z">
+        <seg>装着された建築マント（縁）</seg>
       </tuv>
     </tu>
     <tu>
