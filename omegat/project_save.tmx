@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Acid pool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T084843Z" creationid="yumas" creationdate="20240813T084843Z">
+        <seg>酸性液のたまり場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Acidic Bloodveld</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T084726Z" creationid="yumas" creationdate="20240809T084726Z">
@@ -2418,6 +2426,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T061707Z" creationid="yumas" creationdate="20240809T061655Z">
         <seg>古代のジゴマイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ancient chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T084733Z" creationid="yumas" creationdate="20240813T084733Z">
+        <seg>古の宝箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -10530,6 +10546,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T211852Z" creationid="yumas" creationdate="20240730T211852Z">
         <seg>を割る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burst boil</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T085027Z" creationid="yumas" creationdate="20240813T085027Z">
+        <seg>破裂した吹き出物</seg>
       </tuv>
     </tu>
     <tu>
@@ -22854,6 +22878,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Energy well</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T084935Z" creationid="yumas" creationdate="20240813T084935Z">
+        <seg>力の源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Engine Platform</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T030332Z" creationid="yumas" creationdate="20240812T030133Z">
@@ -32830,6 +32862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Houndmaster's Diary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T084753Z" creationid="yumas" creationdate="20240813T084753Z">
+        <seg>ハウンドマスターの日記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>House</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T220738Z" creationid="yumas" creationdate="20240807T220738Z">
@@ -38094,6 +38134,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Large crystals</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T084920Z" creationid="yumas" creationdate="20240813T084920Z">
+        <seg>大きな水晶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Large cupboard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T053546Z" creationid="yumas" creationdate="20240810T053546Z">
@@ -43074,6 +43122,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T082940Z" creationid="yumas" creationdate="20240813T082940Z">
         <seg>普通の収納ユニット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Medivaemia root</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T084946Z" creationid="yumas" creationdate="20240813T084946Z">
+        <seg>メジバエミアの根</seg>
       </tuv>
     </tu>
     <tu>
@@ -62358,6 +62414,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Small crystals</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T084918Z" creationid="yumas" creationdate="20240813T084918Z">
+        <seg>小さな水晶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Small fern</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T023938Z" creationid="yumas" creationdate="20240811T023938Z">
@@ -67986,8 +68050,8 @@
       <tuv lang="en-GB">
         <seg>Tekton's journal</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240813T084309Z" creationid="yumas" creationdate="20240813T084309Z">
-        <seg>テクトンの日記</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T084818Z" creationid="yumas" creationdate="20240813T084309Z">
+        <seg>テクトンの日誌</seg>
       </tuv>
     </tu>
     <tu>
