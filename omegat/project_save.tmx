@@ -18134,6 +18134,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Damaged Mast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114453Z" creationid="yumas" creationdate="20240813T114422Z">
+        <seg>損傷したマスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Damaged armour</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T041330Z" creationid="2008l" creationdate="20240726T062743Z">
@@ -19130,6 +19138,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T090147Z" creationid="yumas" creationdate="20240809T090144Z">
         <seg>デブラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Debris</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114656Z" creationid="yumas" creationdate="20240813T114501Z">
+        <seg>残骸</seg>
       </tuv>
     </tu>
     <tu>
@@ -26934,6 +26950,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fremennik drummer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114410Z" creationid="yumas" creationdate="20240813T114410Z">
+        <seg>フレメニックのドラマー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fremennik warband archer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T021552Z" creationid="yumas" creationdate="20240810T021552Z">
@@ -26954,6 +26978,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T021614Z" creationid="yumas" creationdate="20240810T021614Z">
         <seg>フレメニック兵団の予見者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik warrior</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114357Z" creationid="yumas" creationdate="20240813T114357Z">
+        <seg>フレメニックの戦士</seg>
       </tuv>
     </tu>
     <tu>
@@ -31929,6 +31961,14 @@
         <seg>Hammer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T122329Z" creationid="yumas" creationdate="20240731T131756Z">
+        <seg>ハンマー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hammers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114338Z" creationid="yumas" creationdate="20240813T114338Z">
         <seg>ハンマー</seg>
       </tuv>
     </tu>
@@ -40050,6 +40090,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045110Z" creationid="yumas" creationdate="20240805T045110Z">
         <seg>リーグの指導者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Leak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114355Z" creationid="yumas" creationdate="20240813T114355Z">
+        <seg>液漏れ</seg>
       </tuv>
     </tu>
     <tu>
@@ -49542,6 +49590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Orb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114313Z" creationid="yumas" creationdate="20240813T114313Z">
+        <seg>オーブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Orb of Darkness</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T114232Z" creationid="yumas" creationdate="20240809T114219Z">
@@ -58894,6 +58950,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rough hewn steps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114337Z" creationid="yumas" creationdate="20240813T114337Z">
+        <seg>粗削りの階段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rough wall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T005934Z" creationid="yumas" creationdate="20240812T005934Z">
@@ -62130,6 +62194,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240718T071336Z">
         <seg>光沢のあるカギ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ship</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114456Z" creationid="yumas" creationdate="20240813T114456Z">
+        <seg>船</seg>
       </tuv>
     </tu>
     <tu>
@@ -75996,6 +76068,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T070242Z" creationid="2008l" creationdate="20240731T070242Z">
         <seg>水の戦杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Water containers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114344Z" creationid="yumas" creationdate="20240813T114344Z">
+        <seg>水の容器</seg>
       </tuv>
     </tu>
     <tu>
