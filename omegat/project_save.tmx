@@ -9286,6 +9286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken Fountain</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T120244Z" creationid="yumas" creationdate="20240813T120244Z">
+        <seg>壊れた噴水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken Handz</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134108Z" creationid="yumas" creationdate="20240805T134108Z">
@@ -18184,8 +18192,8 @@
       <tuv lang="en-GB">
         <seg>Damaged Vent</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240813T120137Z" creationid="yumas" creationdate="20240813T120137Z">
-        <seg>損傷した</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T120240Z" creationid="yumas" creationdate="20240813T120137Z">
+        <seg>損傷した排気口</seg>
       </tuv>
     </tu>
     <tu>
@@ -70792,6 +70800,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Theatre of Blood</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T121648Z" creationid="yumas" creationdate="20240813T121648Z">
+        <seg>血の劇場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Theme space</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T071008Z" creationid="yumas" creationdate="20240813T071008Z">
@@ -74962,8 +74978,8 @@
       <tuv lang="en-GB">
         <seg>Vent</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T123754Z" creationid="yumas" creationdate="20240731T123754Z">
-        <seg>通気口</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T120219Z" creationid="yumas" creationdate="20240731T123754Z">
+        <seg>排気口</seg>
       </tuv>
     </tu>
     <tu>
