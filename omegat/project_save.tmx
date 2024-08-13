@@ -44584,8 +44584,64 @@
       <tuv lang="en-GB">
         <seg>Mounted Construction Cape</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240813T072832Z" creationid="yumas" creationdate="20240813T072832Z">
+      <tuv lang="ja" changeid="yumas" changedate="20240813T072837Z" creationid="yumas" creationdate="20240813T072832Z">
+        <seg>装着された建築マント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Construction Cape (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T072847Z" creationid="yumas" creationdate="20240813T072847Z">
         <seg>装着された建築マント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Cooking Cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T072853Z" creationid="yumas" creationdate="20240813T072853Z">
+        <seg>装着された料理マント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Cooking Cape (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T072857Z" creationid="yumas" creationdate="20240813T072857Z">
+        <seg>装着された料理マント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Crafting Cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T072925Z" creationid="yumas" creationdate="20240813T072907Z">
+        <seg>装着された工作マント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Crafting Cape (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T072922Z" creationid="yumas" creationdate="20240813T072922Z">
+        <seg>装着された工作マント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Defence Cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073040Z" creationid="yumas" creationdate="20240813T072932Z">
+        <seg>装着された守備力マント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Defence Cape (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073037Z" creationid="yumas" creationdate="20240813T072943Z">
+        <seg>装着された守備力マント（縁）</seg>
       </tuv>
     </tu>
     <tu>
@@ -44598,10 +44654,74 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mounted Farming Cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073035Z" creationid="yumas" creationdate="20240813T072954Z">
+        <seg>装着された農業マント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Farming Cape (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073033Z" creationid="yumas" creationdate="20240813T072957Z">
+        <seg>装着された農業マント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mounted Fire Cape</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T072433Z" creationid="yumas" creationdate="20240813T072433Z">
         <seg>装着されたファイアーケープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Firemaking Cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073030Z" creationid="yumas" creationdate="20240813T073030Z">
+        <seg>装着された火起こしマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Firemaking Cape (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073053Z" creationid="yumas" creationdate="20240813T073053Z">
+        <seg>装着された火起こしマント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Fishing Cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073100Z" creationid="yumas" creationdate="20240813T073100Z">
+        <seg>装着された釣りマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Fishing Cape (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073109Z" creationid="yumas" creationdate="20240813T073109Z">
+        <seg>装着された釣りマント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Fletching Cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073117Z" creationid="yumas" creationdate="20240813T073117Z">
+        <seg>装着された木材加工マント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Fletching Cape (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073128Z" creationid="yumas" creationdate="20240813T073128Z">
+        <seg>装着された木材加工マント（縁）</seg>
       </tuv>
     </tu>
     <tu>
