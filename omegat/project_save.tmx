@@ -18182,6 +18182,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Damaged Vent</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T120137Z" creationid="yumas" creationdate="20240813T120137Z">
+        <seg>損傷した</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Damaged armour</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T041330Z" creationid="2008l" creationdate="20240726T062743Z">
@@ -46618,6 +46626,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T073730Z" creationid="yumas" creationdate="20240813T073730Z">
         <seg>装着された木こりマント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Xeric's Champion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T115851Z" creationid="yumas" creationdate="20240813T115851Z">
+        <seg>装着されたゼリックのチャンピオン</seg>
       </tuv>
     </tu>
     <tu>
