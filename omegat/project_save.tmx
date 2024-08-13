@@ -1110,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adventure log space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T071034Z" creationid="yumas" creationdate="20240813T071034Z">
+        <seg>冒険家ログのスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adventurer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T055034Z" creationid="yumas" creationdate="20240805T055034Z">
@@ -2314,6 +2322,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T004801Z" creationid="yumas" creationdate="20240803T004801Z">
         <seg>古代</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ancient Altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T071127Z" creationid="yumas" creationdate="20240813T071127Z">
+        <seg>古代の祭壇</seg>
       </tuv>
     </tu>
     <tu>
@@ -8346,6 +8362,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T114856Z" creationid="yumas" creationdate="20240808T114856Z">
         <seg>ボロカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Boss lair space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T071056Z" creationid="yumas" creationdate="20240813T071056Z">
+        <seg>ボス部屋のスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -19734,6 +19758,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Display space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T071100Z" creationid="yumas" creationdate="20240813T071100Z">
+        <seg>展示スペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Display table</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T044718Z" creationid="yumas" creationdate="20240812T044713Z">
@@ -24138,6 +24170,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T043433Z" creationid="yumas" creationdate="20240812T043433Z">
         <seg>フェンスの内側</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fence space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T071013Z" creationid="yumas" creationdate="20240813T071013Z">
+        <seg>フェンスのスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -35022,6 +35062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jewellery box space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T071040Z" creationid="yumas" creationdate="20240813T071040Z">
+        <seg>宝石箱のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jewellery stall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T052611Z" creationid="yumas" creationdate="20240811T052611Z">
@@ -40734,6 +40782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lunar Altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T071132Z" creationid="yumas" creationdate="20240813T071132Z">
+        <seg>ルーナの祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lunar Isle</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T010700Z" creationid="yumas" creationdate="20240803T010700Z">
@@ -41290,6 +41346,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T093637Z" creationid="yumas" creationdate="20240805T093637Z">
         <seg>カササギの子悪魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mahogany Adventure Log</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T071324Z" creationid="yumas" creationdate="20240813T071324Z">
+        <seg>マホガニーの冒険家ログ</seg>
       </tuv>
     </tu>
     <tu>
@@ -52002,6 +52066,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T140011Z" creationid="yumas" creationdate="20240807T140011Z">
         <seg>クエストの案内人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Quest list space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T071106Z" creationid="yumas" creationdate="20240813T071106Z">
+        <seg>クエスト一覧のスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -68084,6 +68156,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T091341Z" creationid="yumas" creationdate="20240809T091341Z">
         <seg>ちっこいテンポー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tip jar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T071115Z" creationid="yumas" creationdate="20240813T071115Z">
+        <seg>チップの瓶</seg>
       </tuv>
     </tu>
     <tu>
