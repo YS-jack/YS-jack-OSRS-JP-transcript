@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Abyssal Sire Topiary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073906Z" creationid="yumas" creationdate="20240813T073906Z">
+        <seg>深淵の雄親のトピアリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Abyssal Sire display</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T072115Z" creationid="yumas" creationdate="20240813T072115Z">
@@ -12466,6 +12474,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T014707Z" creationid="yumas" creationdate="20240809T014707Z">
         <seg>ケルベロス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cerberus Topiary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073842Z" creationid="yumas" creationdate="20240813T073842Z">
+        <seg>ケルベロスのトピアリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -35982,6 +35998,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Kalphite Queen Topiary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073837Z" creationid="yumas" creationdate="20240813T073837Z">
+        <seg>女王カルファイトのトピアリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Kalphite Queen display</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T071951Z" creationid="yumas" creationdate="20240813T071951Z">
@@ -37234,6 +37258,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052454Z" creationid="yumas" creationdate="20240805T052454Z">
         <seg>クラーケン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kraken Topiary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073749Z" creationid="yumas" creationdate="20240813T073749Z">
+        <seg>クラーケンのトピアリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -50942,6 +50974,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pool of Rejuvenation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T074039Z" creationid="yumas" creationdate="20240813T074039Z">
+        <seg>再生の飲み場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pool of Restoration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073949Z" creationid="yumas" creationdate="20240813T073949Z">
+        <seg>回復の飲み場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pool of Revitalisation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T074022Z" creationid="yumas" creationdate="20240813T074022Z">
+        <seg>活性化の飲み場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pool of Slime</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T041130Z" creationid="yumas" creationdate="20240812T041130Z">
@@ -50952,8 +51008,8 @@
       <tuv lang="en-GB">
         <seg>Pool space</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240813T070901Z" creationid="yumas" creationdate="20240813T070901Z">
-        <seg>プールのスペース</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073956Z" creationid="yumas" creationdate="20240813T070901Z">
+        <seg>飲み場のスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -52546,6 +52602,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T140011Z" creationid="yumas" creationdate="20240807T140011Z">
         <seg>クエストの案内人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Quest List</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073735Z" creationid="yumas" creationdate="20240813T073735Z">
+        <seg>クエスト一覧</seg>
       </tuv>
     </tu>
     <tu>
@@ -61222,6 +61286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Skotizo Topiary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073922Z" creationid="yumas" creationdate="20240813T073922Z">
+        <seg>スコティーゾのトピアリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Skotizo display</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T072132Z" creationid="yumas" creationdate="20240813T072132Z">
@@ -69032,6 +69104,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Topiary bush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073741Z" creationid="yumas" creationdate="20240813T073741Z">
+        <seg>トピアリーの低木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Topiary space</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T070853Z" creationid="yumas" creationdate="20240813T070853Z">
@@ -76188,6 +76268,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134129Z" creationid="yumas" creationdate="20240805T134129Z">
         <seg>ズルラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zulrah Topiary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T073826Z" creationid="yumas" creationdate="20240813T073826Z">
+        <seg>ズルラのトピアリー</seg>
       </tuv>
     </tu>
     <tu>
