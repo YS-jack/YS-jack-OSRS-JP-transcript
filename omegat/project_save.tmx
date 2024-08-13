@@ -18382,6 +18382,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dawn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T105400Z" creationid="yumas" creationdate="20240813T105400Z">
+        <seg>ドーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Deactivate</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T124953Z" creationid="yumas" creationdate="20240731T124953Z">
@@ -18890,6 +18898,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T131826Z" creationid="yumas" creationdate="20240807T131826Z">
         <seg>死の赤グモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Deadman Supply Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T105209Z" creationid="yumas" creationdate="20240813T105209Z">
+        <seg>デッドマンの補給宝箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -21694,6 +21710,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dusk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T105357Z" creationid="yumas" creationdate="20240813T105357Z">
+        <seg>ダスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dust devil</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045920Z" creationid="yumas" creationdate="20240805T045920Z">
@@ -23186,6 +23210,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T115904Z" creationid="yumas" creationdate="20240809T115904Z">
         <seg>エネルギーの吸収源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Energy Sphere</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T105415Z" creationid="yumas" creationdate="20240813T105415Z">
+        <seg>エネルギーの球体</seg>
       </tuv>
     </tu>
     <tu>
@@ -26506,6 +26538,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T022634Z" creationid="yumas" creationdate="20240810T022634Z">
         <seg>噴水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fountain of Uhld</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T105241Z" creationid="yumas" creationdate="20240813T105241Z">
+        <seg>ウールドの噴水</seg>
       </tuv>
     </tu>
     <tu>
@@ -41006,6 +41046,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Log storage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T105148Z" creationid="yumas" creationdate="20240813T105148Z">
+        <seg>丸太の保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Log-storage</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T105651Z" creationid="yumas" creationdate="20240730T105651Z">
@@ -42314,6 +42362,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T111925Z" creationid="yumas" creationdate="20240812T111920Z">
         <seg>魔法の蘇生機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magical Barrier</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T105210Z" creationid="yumas" creationdate="20240813T105210Z">
+        <seg>魔法のバリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magical Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T105353Z" creationid="yumas" creationdate="20240813T105348Z">
+        <seg>魔法の宝箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -46642,6 +46706,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T100106Z" creationid="yumas" creationdate="20240811T100106Z">
         <seg>秘伝の鏡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mythic Statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T105313Z" creationid="yumas" creationdate="20240813T105313Z">
+        <seg>神秘的な像</seg>
       </tuv>
     </tu>
     <tu>
@@ -52422,10 +52494,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Portal of Champions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T105216Z" creationid="yumas" creationdate="20240813T105216Z">
+        <seg>チャンピオンのポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Portal of Death</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T122817Z" creationid="yumas" creationdate="20240806T122817Z">
         <seg>死のポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Portal of Heroes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T105225Z" creationid="yumas" creationdate="20240813T105225Z">
+        <seg>ヒーローのポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Portal of Legends</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T105232Z" creationid="yumas" creationdate="20240813T105232Z">
+        <seg>伝説のポータル</seg>
       </tuv>
     </tu>
     <tu>
@@ -58002,6 +58098,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T090513Z" creationid="yumas" creationdate="20240813T090513Z">
         <seg>屋根</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Roof Entrance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T105342Z" creationid="yumas" creationdate="20240813T105342Z">
+        <seg>屋上の入口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Roof Exit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T105346Z" creationid="yumas" creationdate="20240813T105346Z">
+        <seg>屋上の出口</seg>
       </tuv>
     </tu>
     <tu>
@@ -66174,6 +66286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stone Plinth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T105322Z" creationid="yumas" creationdate="20240813T105322Z">
+        <seg>石の台座</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stone Staircase</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T043135Z" creationid="yumas" creationdate="20240811T043135Z">
@@ -69644,6 +69764,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T132822Z" creationid="yumas" creationdate="20240808T132822Z">
         <seg>獣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Cloister Bell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T105855Z" creationid="yumas" creationdate="20240813T105855Z">
+        <seg>修道院のベル</seg>
       </tuv>
     </tu>
     <tu>
