@@ -2422,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ancient Equipment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T113950Z" creationid="yumas" creationdate="20240813T113950Z">
+        <seg>古の装備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ancient Fungi</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T073257Z" creationid="yumas" creationdate="20240809T073257Z">
@@ -2450,6 +2458,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T093310Z" creationid="yumas" creationdate="20240809T093310Z">
         <seg>古代の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ancient Incubator</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114028Z" creationid="yumas" creationdate="20240813T114028Z">
+        <seg>古の孵化器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ancient Machinery</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T113939Z" creationid="yumas" creationdate="20240813T113939Z">
+        <seg>古の機材</seg>
       </tuv>
     </tu>
     <tu>
@@ -5978,6 +6002,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T085951Z" creationid="yumas" creationdate="20240805T085951Z">
         <seg>ヒゲゴリラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bearhead</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T113805Z" creationid="yumas" creationdate="20240813T113805Z">
+        <seg>ベアヘッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -12718,6 +12750,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cell Gate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T113814Z" creationid="yumas" creationdate="20240813T113814Z">
+        <seg>独房のゲート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cell door</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T042035Z" creationid="yumas" creationdate="20240811T042035Z">
@@ -17746,6 +17786,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T044020Z" creationid="yumas" creationdate="20240812T044020Z">
         <seg>まな板台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cyan Crystal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T113816Z" creationid="yumas" creationdate="20240813T113816Z">
+        <seg>シアンの水晶</seg>
       </tuv>
     </tu>
     <tu>
@@ -33926,6 +33974,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ice blockage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T113936Z" creationid="yumas" creationdate="20240813T113929Z">
+        <seg>氷の閉塞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ice bridge</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T122952Z" creationid="yumas" creationdate="20240812T122952Z">
@@ -42262,6 +42318,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Magenta Crystal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T113817Z" creationid="yumas" creationdate="20240813T113817Z">
+        <seg>マゼンタの水晶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Magenta crystal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T082231Z" creationid="yumas" creationdate="20240813T082231Z">
@@ -46206,6 +46270,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mounted Mythical Cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T113856Z" creationid="yumas" creationdate="20240813T113856Z">
+        <seg>装着された神秘のマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mounted Prayer Cape</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T073351Z" creationid="yumas" creationdate="20240813T073351Z">
@@ -46962,6 +47034,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T105313Z" creationid="yumas" creationdate="20240813T105313Z">
         <seg>神秘的な像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mythical cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T113919Z" creationid="yumas" creationdate="20240813T113919Z">
+        <seg>神秘のマント</seg>
       </tuv>
     </tu>
     <tu>
@@ -75088,10 +75168,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Vorkath Topiary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T113912Z" creationid="yumas" creationdate="20240813T113912Z">
+        <seg>ヴォーカスのトピアリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Vorkath display</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T112159Z" creationid="yumas" creationdate="20240813T112159Z">
         <seg>ヴォーカスの展示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vorkath head</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T113819Z" creationid="yumas" creationdate="20240813T113819Z">
+        <seg>ヴォーカスの頭</seg>
       </tuv>
     </tu>
     <tu>
@@ -76444,6 +76540,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T021216Z" creationid="yumas" creationdate="20240809T021216Z">
         <seg>シロ・チーゼルの秘書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>White Crystal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T113818Z" creationid="yumas" creationdate="20240813T113818Z">
+        <seg>白い水晶</seg>
       </tuv>
     </tu>
     <tu>
@@ -77908,6 +78012,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T060937Z" creationid="yumas" creationdate="20240809T060937Z">
         <seg>ヤースル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yellow Crystal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T113817Z" creationid="yumas" creationdate="20240813T113817Z">
+        <seg>黄色い水晶</seg>
       </tuv>
     </tu>
     <tu>
