@@ -45726,6 +45726,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mud pit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T091323Z" creationid="yumas" creationdate="20240813T091323Z">
+        <seg>泥の落とし穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Muddy key</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240729T063738Z">
@@ -45906,6 +45914,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T023909Z" creationid="yumas" creationdate="20240811T023909Z">
         <seg>キノコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mushy Bed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T091519Z" creationid="yumas" creationdate="20240813T091519Z">
+        <seg>キノコのクッション</seg>
       </tuv>
     </tu>
     <tu>
@@ -66330,6 +66346,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T001215Z" creationid="yumas" creationdate="20240809T001215Z">
         <seg>鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sulliuscep</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T091239Z" creationid="yumas" creationdate="20240813T091239Z">
+        <seg>スリセップダケ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sulliuscep sprout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T091306Z" creationid="yumas" creationdate="20240813T091306Z">
+        <seg>スリセップダケの新芽</seg>
       </tuv>
     </tu>
     <tu>
