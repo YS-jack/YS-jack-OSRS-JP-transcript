@@ -2342,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Anchor rope</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T101745Z" creationid="yumas" creationdate="20240813T101745Z">
+        <seg>いかりのロープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Anchovies</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T062356Z" creationid="2008l" creationdate="20240723T062356Z">
@@ -9130,6 +9138,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T030230Z" creationid="yumas" creationdate="20240812T030230Z">
         <seg>壊れた足場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken Spinning Wheel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T101712Z" creationid="yumas" creationdate="20240813T101712Z">
+        <seg>壊れた糸車</seg>
       </tuv>
     </tu>
     <tu>
@@ -21118,6 +21134,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Drift net anchors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T101823Z" creationid="yumas" creationdate="20240813T101823Z">
+        <seg>流し網のいかり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Driftwood</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T071136Z" creationid="yumas" creationdate="20240809T071136Z">
@@ -25122,6 +25146,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064540Z" creationid="2008l" creationdate="20240725T063509Z">
         <seg>火のオーブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fire pit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T101706Z" creationid="yumas" creationdate="20240813T101706Z">
+        <seg>焚火</seg>
       </tuv>
     </tu>
     <tu>
@@ -31378,6 +31410,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T012530Z" creationid="yumas" creationdate="20240809T012530Z">
         <seg>ゾンビの半分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Half-built Loom</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T101727Z" creationid="yumas" creationdate="20240813T101727Z">
+        <seg>作りかけの織機</seg>
       </tuv>
     </tu>
     <tu>
@@ -52182,6 +52222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pot of Gold</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T101738Z" creationid="yumas" creationdate="20240813T101738Z">
+        <seg>黄金の鍋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pot of cream</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T063841Z" creationid="2008l" creationdate="20240810T063434Z">
@@ -56458,6 +56506,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240806T065210Z" creationid="2008l" creationdate="20240806T065210Z">
         <seg>指輪の鋳型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ring of Stones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T101533Z" creationid="yumas" creationdate="20240813T101533Z">
+        <seg>石の指輪</seg>
       </tuv>
     </tu>
     <tu>
@@ -64142,6 +64198,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Spinning Wheel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T101708Z" creationid="yumas" creationdate="20240813T101708Z">
+        <seg>糸車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Spinning blades</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T042658Z" creationid="yumas" creationdate="20240811T042658Z">
@@ -66078,6 +66142,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strange Machine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T101727Z" creationid="yumas" creationdate="20240813T101727Z">
+        <seg>不思議な機械</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strange Old Man</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T094337Z" creationid="yumas" creationdate="20240805T094333Z">
@@ -67498,6 +67570,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T020509Z" creationid="yumas" creationdate="20240812T020447Z">
         <seg>テーブルの封鎖壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Table parts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T101526Z" creationid="yumas" creationdate="20240813T101526Z">
+        <seg>テーブルの破片</seg>
       </tuv>
     </tu>
     <tu>
