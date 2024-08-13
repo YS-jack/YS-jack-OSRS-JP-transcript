@@ -33224,8 +33224,8 @@
       <tuv lang="en-GB">
         <seg>History</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T091213Z" creationid="yumas" creationdate="20240730T091213Z">
-        <seg>と履歴を確認</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114936Z" creationid="yumas" creationdate="20240730T091213Z">
+        <seg>歴史</seg>
       </tuv>
     </tu>
     <tu>
@@ -59038,6 +59038,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rowboat space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114930Z" creationid="yumas" creationdate="20240813T114930Z">
+        <seg>手こぎ船のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rowdy Guard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T135708Z" creationid="yumas" creationdate="20240808T135708Z">
@@ -61594,14 +61602,6 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T082005Z" creationid="yumas" creationdate="20240805T082005Z">
         <seg>セス・グローツ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
-        <seg>Sets</seg>
-      </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T091223Z" creationid="yumas" creationdate="20240730T091223Z">
-        <seg>とセットを確認</seg>
       </tuv>
     </tu>
     <tu>
@@ -79418,6 +79418,28 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T210529Z" creationid="yumas" creationdate="20240807T210529Z">
         <seg>カゴで釣る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41354</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T114947Z" creationid="yumas" creationdate="20240813T114947Z">
+        <seg>と履歴を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41355</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Sets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T115015Z" creationid="yumas" creationdate="20240813T115015Z">
+        <seg>とセットを確認</seg>
       </tuv>
     </tu>
     <tu>
