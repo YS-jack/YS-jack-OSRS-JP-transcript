@@ -6470,6 +6470,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Big, foot print</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103753Z" creationid="yumas" creationdate="20240813T103753Z">
+        <seg>大きな足跡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Big-push</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T085339Z" creationid="b0sh" creationdate="20240714T212911Z">
@@ -16478,6 +16486,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crab Shell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103254Z" creationid="yumas" creationdate="20240813T103254Z">
+        <seg>カニの殻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crack</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T053132Z" creationid="yumas" creationdate="20240731T105218Z">
@@ -26430,6 +26446,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fossil fuel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103259Z" creationid="yumas" creationdate="20240813T103259Z">
+        <seg>化石燃料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fountain</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T022634Z" creationid="yumas" creationdate="20240810T022634Z">
@@ -28304,8 +28328,8 @@
       <tuv lang="en-GB">
         <seg>Giant skeleton</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T054126Z" creationid="yumas" creationdate="20240805T054126Z">
-        <seg>巨大なスケレトン</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103144Z" creationid="yumas" creationdate="20240805T054126Z">
+        <seg>巨大なスケルトン</seg>
       </tuv>
     </tu>
     <tu>
@@ -29056,8 +29080,8 @@
       <tuv lang="en-GB">
         <seg>Gnome skeleton</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T053155Z" creationid="yumas" creationdate="20240812T053155Z">
-        <seg>ノームのスケレトン</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103144Z" creationid="yumas" creationdate="20240812T053155Z">
+        <seg>ノームのスケルトン</seg>
       </tuv>
     </tu>
     <tu>
@@ -30064,8 +30088,8 @@
       <tuv lang="en-GB">
         <seg>Greater Skeleton Hellhound</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T035334Z" creationid="yumas" creationdate="20240809T035334Z">
-        <seg>上位のスケレトン・ヘルハウンド</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103144Z" creationid="yumas" creationdate="20240809T035334Z">
+        <seg>上位のスケルトン・ヘルハウンド</seg>
       </tuv>
     </tu>
     <tu>
@@ -43822,6 +43846,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Merfolk Skeleton</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103213Z" creationid="yumas" creationdate="20240813T103133Z">
+        <seg>人魚のスケルトン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Merlin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T204614Z" creationid="yumas" creationdate="20240807T204614Z">
@@ -50666,6 +50698,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T102936Z" creationid="yumas" creationdate="20240813T102911Z">
         <seg>石化した袋葉植物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Petrified Pufferfish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103219Z" creationid="yumas" creationdate="20240813T103219Z">
+        <seg>石化したフグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -62512,24 +62552,24 @@
       <tuv lang="en-GB">
         <seg>Skeleton Champion</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240807T195312Z" creationid="yumas" creationdate="20240807T195312Z">
-        <seg>スケレトンのチャンピオン</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103144Z" creationid="yumas" creationdate="20240807T195312Z">
+        <seg>スケルトンのチャンピオン</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Skeleton Hellhound</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T001348Z" creationid="yumas" creationdate="20240809T001348Z">
-        <seg>スケレトン・ヘルハウンド</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103144Z" creationid="yumas" creationdate="20240809T001348Z">
+        <seg>スケルトン・ヘルハウンド</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Skeleton Hellhound (hard)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T024208Z" creationid="yumas" creationdate="20240809T024208Z">
-        <seg>スケレトン・ヘルハウンド（上級）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103144Z" creationid="yumas" creationdate="20240809T024208Z">
+        <seg>スケルトン・ヘルハウンド（上級）</seg>
       </tuv>
     </tu>
     <tu>
@@ -62544,16 +62584,16 @@
       <tuv lang="en-GB">
         <seg>Skeleton brute</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T091645Z" creationid="yumas" creationdate="20240805T091645Z">
-        <seg>粗暴なスケレトン</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103144Z" creationid="yumas" creationdate="20240805T091645Z">
+        <seg>粗暴なスケルトン</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Skeleton fremennik</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240808T132610Z" creationid="yumas" creationdate="20240808T132610Z">
-        <seg>スケレトンのフレメニック</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103144Z" creationid="yumas" creationdate="20240808T132610Z">
+        <seg>スケルトンのフレメニック</seg>
       </tuv>
     </tu>
     <tu>
@@ -62568,8 +62608,8 @@
       <tuv lang="en-GB">
         <seg>Skeleton hero</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T091601Z" creationid="yumas" creationdate="20240805T091601Z">
-        <seg>スケレトンのヒーロー</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103144Z" creationid="yumas" creationdate="20240805T091601Z">
+        <seg>スケルトンのヒーロー</seg>
       </tuv>
     </tu>
     <tu>
@@ -62592,8 +62632,8 @@
       <tuv lang="en-GB">
         <seg>Skeleton warlord</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T091727Z" creationid="yumas" creationdate="20240805T091727Z">
-        <seg>スケレトン将軍</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103144Z" creationid="yumas" creationdate="20240805T091727Z">
+        <seg>スケルトン将軍</seg>
       </tuv>
     </tu>
     <tu>
@@ -63106,6 +63146,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T102156Z" creationid="yumas" creationdate="20240813T102156Z">
         <seg>小さな岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Small Fossil Display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103032Z" creationid="yumas" creationdate="20240813T103032Z">
+        <seg>小さな化石の展示</seg>
       </tuv>
     </tu>
     <tu>
@@ -77068,6 +77116,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T005505Z" creationid="yumas" creationdate="20240809T005505Z">
         <seg>庭師のウィンソン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wyvern Egg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T103249Z" creationid="yumas" creationdate="20240813T103249Z">
+        <seg>ワイバーンの卵</seg>
       </tuv>
     </tu>
     <tu>
