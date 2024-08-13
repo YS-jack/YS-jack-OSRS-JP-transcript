@@ -11838,6 +11838,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Carved head</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T083208Z" creationid="yumas" creationdate="20240813T083208Z">
+        <seg>刻まれた頭部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Carved log</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T114721Z" creationid="yumas" creationdate="20240812T114721Z">
@@ -28304,8 +28312,8 @@
       <tuv lang="en-GB">
         <seg>Glowing carving</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240813T082116Z" creationid="yumas" creationdate="20240813T082116Z">
-        <seg>光る彫刻</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T083150Z" creationid="yumas" creationdate="20240813T082116Z">
+        <seg>光る刻印</seg>
       </tuv>
     </tu>
     <tu>
@@ -37942,6 +37950,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Large Crystal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T083120Z" creationid="yumas" creationdate="20240813T083120Z">
+        <seg>大きな水晶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Large Display</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T230155Z" creationid="yumas" creationdate="20240811T230155Z">
@@ -38098,6 +38114,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T094938Z" creationid="yumas" creationdate="20240812T094900Z">
         <seg>大きな石じゅん</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Large storage unit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T083117Z" creationid="yumas" creationdate="20240813T083117Z">
+        <seg>大きな収納ユニット</seg>
       </tuv>
     </tu>
     <tu>
@@ -42922,6 +42946,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T085942Z" creationid="yumas" creationdate="20240805T085942Z">
         <seg>普通の忍者ザル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Medium storage unit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T082940Z" creationid="yumas" creationdate="20240813T082940Z">
+        <seg>普通の収納ユニット</seg>
       </tuv>
     </tu>
     <tu>
@@ -62264,8 +62296,8 @@
       <tuv lang="en-GB">
         <seg>Small storage unit</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240813T082715Z" creationid="yumas" creationdate="20240813T082715Z">
-        <seg>小さな貯蔵ユニット</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T083105Z" creationid="yumas" creationdate="20240813T082715Z">
+        <seg>小さな収納ユニット</seg>
       </tuv>
     </tu>
     <tu>
@@ -69138,8 +69170,8 @@
       <tuv lang="en-GB">
         <seg>Tiny storage unit</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240813T082709Z" creationid="yumas" creationdate="20240813T082652Z">
-        <seg>極小な貯蔵ユニット</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T082947Z" creationid="yumas" creationdate="20240813T082652Z">
+        <seg>極小な収納ユニット</seg>
       </tuv>
     </tu>
     <tu>
