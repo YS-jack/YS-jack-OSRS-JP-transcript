@@ -3862,6 +3862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ash pile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102122Z" creationid="yumas" creationdate="20240813T102122Z">
+        <seg>灰の山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ashes</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T063755Z" creationid="2008l" creationdate="20240725T063755Z">
@@ -7370,6 +7378,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T102401Z" creationid="yumas" creationdate="20240812T102401Z">
         <seg>ふさがったトンネル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blocked volcanic chamber</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102255Z" creationid="yumas" creationdate="20240813T102255Z">
+        <seg>ふさがれたマグマ溜まり</seg>
       </tuv>
     </tu>
     <tu>
@@ -19134,6 +19150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Depleted Rock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102310Z" creationid="yumas" creationdate="20240813T102310Z">
+        <seg>枯渇した岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Depleted runestone</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T124354Z" creationid="yumas" creationdate="20240811T124354Z">
@@ -22838,6 +22862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Empty ash pile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102143Z" creationid="yumas" creationdate="20240813T102143Z">
+        <seg>空の灰の山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Empty barrel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T132629Z" creationid="yumas" creationdate="20240812T132629Z">
@@ -26382,6 +26414,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fossil Storage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102148Z" creationid="yumas" creationdate="20240813T102148Z">
+        <seg>化石貯蔵庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fossil cleaning bench</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T101510Z" creationid="yumas" creationdate="20240813T101510Z">
@@ -28058,6 +28098,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T083227Z" creationid="yumas" creationdate="20240813T083227Z">
         <seg>巨大な金床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Giant Boulder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102154Z" creationid="yumas" creationdate="20240813T102154Z">
+        <seg>巨大な岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -32202,6 +32250,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T031622Z" creationid="yumas" creationdate="20240811T031622Z">
         <seg>囲炉裏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Heat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102224Z" creationid="yumas" creationdate="20240813T102224Z">
+        <seg>熱</seg>
       </tuv>
     </tu>
     <tu>
@@ -38414,6 +38470,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Large Boulder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102154Z" creationid="yumas" creationdate="20240813T102154Z">
+        <seg>大きな岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Large Crystal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T083120Z" creationid="yumas" creationdate="20240813T083120Z">
@@ -38430,10 +38494,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Large Fossil Support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102805Z" creationid="yumas" creationdate="20240813T102805Z">
+        <seg>大きな化石の支え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Large Geyser</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T092450Z" creationid="yumas" creationdate="20240812T092450Z">
         <seg>大きな間欠泉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Large Rock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102256Z" creationid="yumas" creationdate="20240813T102256Z">
+        <seg>大きな岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -40018,6 +40098,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T102349Z" creationid="yumas" creationdate="20240812T102349Z">
         <seg>レバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Leviathan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102314Z" creationid="yumas" creationdate="20240813T102314Z">
+        <seg>リヴァイアサン</seg>
       </tuv>
     </tu>
     <tu>
@@ -43442,6 +43530,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T034423Z" creationid="yumas" creationdate="20240812T034423Z">
         <seg>医療用テーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Medium Boulder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102156Z" creationid="yumas" creationdate="20240813T102156Z">
+        <seg>普通の岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -62958,6 +63054,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Small Boulder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102156Z" creationid="yumas" creationdate="20240813T102156Z">
+        <seg>小さな岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Small Geyser</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T092455Z" creationid="yumas" creationdate="20240812T092455Z">
@@ -74152,6 +74256,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Volcanic chamber</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102247Z" creationid="yumas" creationdate="20240813T102247Z">
+        <seg>マグマ溜まり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Volcanic garden</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T074321Z" creationid="yumas" creationdate="20240813T074321Z">
@@ -74172,6 +74284,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T074325Z" creationid="yumas" creationdate="20240813T074325Z">
         <seg>火山のテーマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Volcanic vent</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102222Z" creationid="yumas" creationdate="20240813T102222Z">
+        <seg>火口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Volcano Entrance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T102152Z" creationid="yumas" creationdate="20240813T102152Z">
+        <seg>火山の入口</seg>
       </tuv>
     </tu>
     <tu>
