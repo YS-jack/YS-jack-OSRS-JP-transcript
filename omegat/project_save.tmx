@@ -9230,6 +9230,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken Bed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T115558Z" creationid="yumas" creationdate="20240813T115558Z">
+        <seg>壊れたベッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken Brazier</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T115602Z" creationid="yumas" creationdate="20240813T115602Z">
+        <seg>壊れた火鉢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken Cannon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T004004Z" creationid="yumas" creationdate="20240812T004004Z">
@@ -9282,6 +9298,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T105532Z" creationid="yumas" creationdate="20240811T105532Z">
         <seg>壊れ詠唱台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken Plantpot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T115621Z" creationid="yumas" creationdate="20240813T115621Z">
+        <seg>壊れた植木鉢</seg>
       </tuv>
     </tu>
     <tu>
@@ -29142,10 +29166,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Glowing Carving</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T115623Z" creationid="yumas" creationdate="20240813T115623Z">
+        <seg>光る刻印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Glowing Fungus</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T050301Z" creationid="yumas" creationdate="20240811T050301Z">
         <seg>光るキノコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Glowing Orb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T115540Z" creationid="yumas" creationdate="20240813T115540Z">
+        <seg>光るオーブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -40046,6 +40086,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Leaflet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T115624Z" creationid="yumas" creationdate="20240813T115624Z">
+        <seg>ビラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Leaflets</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T025032Z" creationid="yumas" creationdate="20240811T025032Z">
@@ -42490,6 +42538,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T033309Z" creationid="yumas" creationdate="20240811T033254Z">
         <seg>赤紫色のドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic Gate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T115544Z" creationid="yumas" creationdate="20240813T115544Z">
+        <seg>魔法のゲート</seg>
       </tuv>
     </tu>
     <tu>
@@ -46562,6 +46618,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T073730Z" creationid="yumas" creationdate="20240813T073730Z">
         <seg>装着された木こりマント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Xeric's General</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T115825Z" creationid="yumas" creationdate="20240813T115825Z">
+        <seg>装着されたゼリックの将軍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Xeric's Guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T115723Z" creationid="yumas" creationdate="20240813T115723Z">
+        <seg>装着されたゼリックの衛兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Xeric's Sentinel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T115809Z" creationid="yumas" creationdate="20240813T115809Z">
+        <seg>装着されたゼリックの歩哨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Xeric's Warrior</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T115741Z" creationid="yumas" creationdate="20240813T115741Z">
+        <seg>装着されたゼリックの戦士</seg>
       </tuv>
     </tu>
     <tu>
@@ -58322,6 +58410,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T135603Z" creationid="yumas" creationdate="20240805T135603Z">
         <seg>岩ゴーレム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rock Pile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T115625Z" creationid="yumas" creationdate="20240813T115625Z">
+        <seg>岩の山</seg>
       </tuv>
     </tu>
     <tu>
@@ -74132,6 +74228,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T234812Z" creationid="2008l" creationdate="20240808T063530Z">
         <seg>無効力のシンボル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Unstable Altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240813T115549Z" creationid="yumas" creationdate="20240813T115549Z">
+        <seg>不安定な祭壇</seg>
       </tuv>
     </tu>
     <tu>
