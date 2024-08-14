@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Abandoned Equipment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T090130Z" creationid="yumas" creationdate="20240814T090130Z">
+        <seg>放棄された装備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Abbot Langley</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T125102Z" creationid="yumas" creationdate="20240806T125102Z">
@@ -7646,6 +7654,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blocked Crevice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T090111Z" creationid="yumas" creationdate="20240814T090111Z">
+        <seg>ふさがれた隙間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blocked Tunnel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T090115Z" creationid="yumas" creationdate="20240814T090115Z">
+        <seg>ふさがったトンネル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blocked tunnel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T102401Z" creationid="yumas" creationdate="20240812T102401Z">
@@ -9486,6 +9510,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken Grate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T090047Z" creationid="yumas" creationdate="20240814T090047Z">
+        <seg>壊れた格子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken Handz</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134108Z" creationid="yumas" creationdate="20240805T134108Z">
@@ -9562,6 +9594,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T044323Z" creationid="yumas" creationdate="20240811T044323Z">
         <seg>壊れた壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken Well</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T090113Z" creationid="yumas" creationdate="20240814T090113Z">
+        <seg>壊れた井戸</seg>
       </tuv>
     </tu>
     <tu>
@@ -19030,6 +19070,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead Elf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T090119Z" creationid="yumas" creationdate="20240814T090119Z">
+        <seg>死んだエルフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead Explorer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T053244Z" creationid="yumas" creationdate="20240812T053244Z">
@@ -25506,6 +25554,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T032252Z" creationid="yumas" creationdate="20240803T032252Z">
         <seg>農業ギルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Farming patch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T090057Z" creationid="yumas" creationdate="20240814T090057Z">
+        <seg>農業用の小区画</seg>
       </tuv>
     </tu>
     <tu>
@@ -33786,6 +33842,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T031959Z" creationid="yumas" creationdate="20240812T031959Z">
         <seg>紋章のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Herb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T090058Z" creationid="yumas" creationdate="20240814T090058Z">
+        <seg>薬草</seg>
       </tuv>
     </tu>
     <tu>
@@ -62454,10 +62518,74 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Seal of Amlodd</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T085928Z" creationid="yumas" creationdate="20240814T085928Z">
+        <seg>アームロッドの証印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Seal of Cadarn</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T085915Z" creationid="yumas" creationdate="20240814T085915Z">
         <seg>カダーンの証印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Seal of Crwys</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T085921Z" creationid="yumas" creationdate="20240814T085921Z">
+        <seg>クルウィスの証印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Seal of Hefin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T085932Z" creationid="yumas" creationdate="20240814T085932Z">
+        <seg>ヘフィンの証印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Seal of Iorwerth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T085936Z" creationid="yumas" creationdate="20240814T085936Z">
+        <seg>イオワースの証印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Seal of Ithell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T085940Z" creationid="yumas" creationdate="20240814T085940Z">
+        <seg>イセルの証印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Seal of Meilyr</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T085944Z" creationid="yumas" creationdate="20240814T085944Z">
+        <seg>メイリーの証印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Seal of Trahaearn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T090002Z" creationid="yumas" creationdate="20240814T090002Z">
+        <seg>トラハアーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Seal of the Forgotten</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T090009Z" creationid="yumas" creationdate="20240814T090009Z">
+        <seg>忘却の証印</seg>
       </tuv>
     </tu>
     <tu>
@@ -67546,6 +67674,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T084912Z" creationid="yumas" creationdate="20240814T084912Z">
         <seg>像の台座</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Statue Space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T090114Z" creationid="yumas" creationdate="20240814T090114Z">
+        <seg>像のスペース</seg>
       </tuv>
     </tu>
     <tu>
