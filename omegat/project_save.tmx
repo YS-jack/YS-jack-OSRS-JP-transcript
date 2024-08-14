@@ -28782,10 +28782,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Frozen Pool of Rejuvenation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T123405Z" creationid="yumas" creationdate="20240814T123405Z">
+        <seg>凍った再生の飲み場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Frozen Pool of Restoration</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T123331Z" creationid="yumas" creationdate="20240814T123331Z">
         <seg>凍った回復の飲み場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Frozen Pool of Revitalisation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T123351Z" creationid="yumas" creationdate="20240814T123336Z">
+        <seg>凍った活性化の飲み場</seg>
       </tuv>
     </tu>
     <tu>
@@ -28798,10 +28814,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Frozen fancy pool of Rejuvenation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T123439Z" creationid="yumas" creationdate="20240814T123439Z">
+        <seg>凍ったおしゃれな再生の飲み場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Frozen orc</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T122744Z" creationid="yumas" creationdate="20240812T122744Z">
         <seg>凍ったオーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Frozen ornate pool of Rejuvenation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T123447Z" creationid="yumas" creationdate="20240814T123447Z">
+        <seg>凍った華麗な再生の飲み場</seg>
       </tuv>
     </tu>
     <tu>
@@ -36114,6 +36146,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T014718Z" creationid="yumas" creationdate="20240812T014718Z">
         <seg>ボブのアイコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Icon of Gnome Child</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T123458Z" creationid="yumas" creationdate="20240814T123458Z">
+        <seg>ノームの子供のアイコン</seg>
       </tuv>
     </tu>
     <tu>
@@ -66610,6 +66650,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T011112Z" creationid="yumas" creationdate="20240812T010932Z">
         <seg>討伐者の小休止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sled</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T123706Z" creationid="yumas" creationdate="20240814T123706Z">
+        <seg>そり</seg>
       </tuv>
     </tu>
     <tu>
