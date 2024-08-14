@@ -5294,6 +5294,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bank Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T131927Z" creationid="yumas" creationdate="20240814T131927Z">
+        <seg>銀行箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bank Chest-wreck</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T094351Z" creationid="yumas" creationdate="20240813T094351Z">
@@ -33558,10 +33566,122 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Guardian of Air</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T131936Z" creationid="yumas" creationdate="20240814T131936Z">
+        <seg>大気の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Guardian of Armadyl</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T202806Z" creationid="yumas" creationdate="20240807T202806Z">
         <seg>アーマディルの守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guardian of Blood</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132022Z" creationid="yumas" creationdate="20240814T132022Z">
+        <seg>血の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guardian of Body</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132026Z" creationid="yumas" creationdate="20240814T132026Z">
+        <seg>体の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guardian of Chaos</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132015Z" creationid="yumas" creationdate="20240814T132015Z">
+        <seg>混沌の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guardian of Cosmic</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132030Z" creationid="yumas" creationdate="20240814T132030Z">
+        <seg>宇宙の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guardian of Death</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132020Z" creationid="yumas" creationdate="20240814T132020Z">
+        <seg>死の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guardian of Earth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T131942Z" creationid="yumas" creationdate="20240814T131942Z">
+        <seg>土の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guardian of Fire</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T131946Z" creationid="yumas" creationdate="20240814T131946Z">
+        <seg>火の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guardian of Law</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132037Z" creationid="yumas" creationdate="20240814T132037Z">
+        <seg>法の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guardian of Mind</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T131951Z" creationid="yumas" creationdate="20240814T131951Z">
+        <seg>心の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guardian of Nature</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132034Z" creationid="yumas" creationdate="20240814T132034Z">
+        <seg>自然の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guardian of Water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T131939Z" creationid="yumas" creationdate="20240814T131939Z">
+        <seg>水の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guardian parts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132043Z" creationid="yumas" creationdate="20240814T132043Z">
+        <seg>守護者のパーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guardian remains</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132052Z" creationid="yumas" creationdate="20240814T132052Z">
+        <seg>守護者の遺体</seg>
       </tuv>
     </tu>
     <tu>
@@ -41658,6 +41778,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T054026Z" creationid="yumas" creationdate="20240810T054026Z">
         <seg>大きな墓石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Large guardian remains</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132450Z" creationid="yumas" creationdate="20240814T132450Z">
+        <seg>大きなｓ</seg>
       </tuv>
     </tu>
     <tu>
