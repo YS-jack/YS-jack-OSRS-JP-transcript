@@ -13222,6 +13222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cenotaph</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T103601Z" creationid="yumas" creationdate="20240814T103601Z">
+        <seg>慰霊碑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Centaur</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T112857Z" creationid="yumas" creationdate="20240805T112857Z">
@@ -16745,6 +16753,14 @@
         <seg>Corpse</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T211938Z" creationid="yumas" creationdate="20240807T211938Z">
+        <seg>死体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Corpses</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T103559Z" creationid="yumas" creationdate="20240814T103559Z">
         <seg>死体</seg>
       </tuv>
     </tu>
@@ -23818,6 +23834,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T022537Z" creationid="yumas" creationdate="20240809T022537Z">
         <seg>エルバーグ（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Elven Crystal Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T103535Z" creationid="yumas" creationdate="20240814T103535Z">
+        <seg>エルフの水晶の宝箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -41390,6 +41414,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>League Firsts Board</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T103923Z" creationid="yumas" creationdate="20240814T103923Z">
+        <seg>リーグ初達成者の掲示板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>League Setup</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T052943Z" creationid="yumas" creationdate="20240804T052943Z">
@@ -45648,8 +45680,8 @@
       <tuv lang="en-GB">
         <seg>Meilyr Banner</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240814T103513Z" creationid="yumas" creationdate="20240814T103513Z">
-        <seg>メイリー</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T103519Z" creationid="yumas" creationdate="20240814T103513Z">
+        <seg>メイリーのバナー</seg>
       </tuv>
     </tu>
     <tu>
@@ -58566,6 +58598,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Repaired leak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T103617Z" creationid="yumas" creationdate="20240814T103613Z">
+        <seg>修理された液漏れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Repaired wall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T013455Z" creationid="yumas" creationdate="20240812T013455Z">
@@ -69518,6 +69558,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Streak info</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T103811Z" creationid="yumas" creationdate="20240814T103811Z">
+        <seg>ストリーク情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Street urchin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T205047Z" creationid="yumas" creationdate="20240807T205047Z">
@@ -70158,6 +70206,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Supply chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T103625Z" creationid="yumas" creationdate="20240814T103625Z">
+        <seg>支援の宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Support</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T040941Z" creationid="yumas" creationdate="20240812T040941Z">
@@ -70386,6 +70442,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T070052Z" creationid="yumas" creationdate="20240809T070052Z">
         <seg>沼の丸太</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Swampy sink</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T103816Z" creationid="yumas" creationdate="20240814T103816Z">
+        <seg>沼のシンク</seg>
       </tuv>
     </tu>
     <tu>
@@ -73264,6 +73328,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tight Gap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T103603Z" creationid="yumas" creationdate="20240814T103603Z">
+        <seg>狭い隙間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tight-gap</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T034929Z" creationid="yumas" creationdate="20240812T034929Z">
@@ -74372,6 +74444,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T220445Z" creationid="yumas" creationdate="20240807T220445Z">
         <seg>商人スヴェン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trahaearn Banner</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T103524Z" creationid="yumas" creationdate="20240814T103524Z">
+        <seg>トラハアーンのバナー</seg>
       </tuv>
     </tu>
     <tu>
