@@ -11632,8 +11632,8 @@
       <tuv lang="en-GB">
         <seg>Caged Prisoner</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240814T114312Z" creationid="yumas" creationdate="20240814T113749Z">
-        <seg>檻に入れられた</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T114330Z" creationid="yumas" creationdate="20240814T113749Z">
+        <seg>檻に入れられた囚人</seg>
       </tuv>
     </tu>
     <tu>
@@ -12746,6 +12746,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T122853Z" creationid="yumas" creationdate="20240803T122853Z">
         <seg>魔法をかける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Castle Gates</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T114409Z" creationid="yumas" creationdate="20240814T114409Z">
+        <seg>城の門</seg>
       </tuv>
     </tu>
     <tu>
@@ -17366,6 +17374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cracked wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T114406Z" creationid="yumas" creationdate="20240814T114406Z">
+        <seg>ひびが入った壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cradle of Life</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T111815Z" creationid="yumas" creationdate="20240812T111815Z">
@@ -20002,6 +20018,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052910Z" creationid="yumas" creationdate="20240805T052910Z">
         <seg>デス・ウイング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Death's Coffer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T114507Z" creationid="yumas" creationdate="20240814T114507Z">
+        <seg>死の前払い金</seg>
       </tuv>
     </tu>
     <tu>
@@ -54534,6 +54558,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Planter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T114420Z" creationid="yumas" creationdate="20240814T114420Z">
+        <seg>プランター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Plantpot</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T132533Z" creationid="yumas" creationdate="20240811T132533Z">
@@ -55968,8 +56000,8 @@
       <tuv lang="en-GB">
         <seg>Prisoner</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T084826Z" creationid="yumas" creationdate="20240809T084826Z">
-        <seg>受刑者</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T114318Z" creationid="yumas" creationdate="20240809T084826Z">
+        <seg>囚人</seg>
       </tuv>
     </tu>
     <tu>
