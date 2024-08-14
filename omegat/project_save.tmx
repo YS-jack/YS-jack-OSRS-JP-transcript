@@ -2486,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ancient Fire</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T083556Z" creationid="yumas" creationdate="20240814T083556Z">
+        <seg>古代の火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ancient Fungi</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T073257Z" creationid="yumas" creationdate="20240809T073257Z">
@@ -18030,6 +18038,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cursed Altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T083600Z" creationid="yumas" creationdate="20240814T083600Z">
+        <seg>呪われた祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cursed Baboon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T114449Z" creationid="yumas" creationdate="20240809T114449Z">
@@ -31822,6 +31838,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Grubby Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T083628Z" creationid="yumas" creationdate="20240814T083628Z">
+        <seg>汚い宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grubby Door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T083636Z" creationid="yumas" creationdate="20240814T083636Z">
+        <seg>汚いドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Grubfoot</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T054054Z" creationid="yumas" creationdate="20240805T054054Z">
@@ -32778,6 +32810,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T122721Z" creationid="yumas" creationdate="20240812T122721Z">
         <seg>ハンドル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Handy portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T083522Z" creationid="yumas" creationdate="20240814T083522Z">
+        <seg>便利なポータル</seg>
       </tuv>
     </tu>
     <tu>
@@ -40058,6 +40098,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T073320Z" creationid="yumas" creationdate="20240809T073320Z">
         <seg>ララン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Larran's big chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T083529Z" creationid="yumas" creationdate="20240814T083529Z">
+        <seg>ラランの大きな宝箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -47910,6 +47958,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Musty bookshelf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T083718Z" creationid="yumas" creationdate="20240814T083718Z">
+        <seg>カビ臭い本棚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mutant tarn</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T025218Z" creationid="yumas" creationdate="20240809T025218Z">
@@ -48034,6 +48090,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T202943Z" creationid="yumas" creationdate="20240807T202943Z">
         <seg>不可思議な幽霊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mysterious glow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T083420Z" creationid="yumas" creationdate="20240814T083420Z">
+        <seg>不可思議な光</seg>
       </tuv>
     </tu>
     <tu>
@@ -60390,6 +60454,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ruined Pillar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T083506Z" creationid="yumas" creationdate="20240814T083506Z">
+        <seg>崩れた柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ruins</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T042950Z" creationid="yumas" creationdate="20240811T042950Z">
@@ -61514,6 +61586,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T073822Z" creationid="yumas" creationdate="20240809T073822Z">
         <seg>サラチニス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sarachnis display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T083551Z" creationid="yumas" creationdate="20240814T083551Z">
+        <seg>サラチニスの展示</seg>
       </tuv>
     </tu>
     <tu>
@@ -71460,6 +71540,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T130844Z" creationid="yumas" creationdate="20240811T130844Z">
         <seg>温度計測器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Temple Door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T083637Z" creationid="yumas" creationdate="20240814T083637Z">
+        <seg>寺院の扉</seg>
       </tuv>
     </tu>
     <tu>
