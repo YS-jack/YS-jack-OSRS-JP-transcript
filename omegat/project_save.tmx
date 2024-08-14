@@ -3646,6 +3646,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Arena recruitment board</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T134701Z" creationid="yumas" creationdate="20240814T134701Z">
+        <seg>アリーナの求人掲示板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Arena space</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T125726Z" creationid="yumas" creationdate="20240812T125726Z">
@@ -4906,6 +4914,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T045316Z" creationid="yumas" creationdate="20240812T045316Z">
         <seg>修理が不完全な壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bags</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T134904Z" creationid="yumas" creationdate="20240814T134904Z">
+        <seg>袋</seg>
       </tuv>
     </tu>
     <tu>
@@ -9930,6 +9946,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T115621Z" creationid="yumas" creationdate="20240813T115621Z">
         <seg>壊れた植木鉢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken Pot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T134926Z" creationid="yumas" creationdate="20240814T134926Z">
+        <seg>壊れた鍋</seg>
       </tuv>
     </tu>
     <tu>
@@ -28742,6 +28766,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T134913Z" creationid="yumas" creationdate="20240814T134913Z">
+        <seg>霧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fog marker</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T084649Z" creationid="yumas" creationdate="20240814T084649Z">
@@ -30186,6 +30218,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T230252Z" creationid="yumas" creationdate="20240811T230252Z">
         <seg>ゲート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gateway</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T134845Z" creationid="yumas" creationdate="20240814T134845Z">
+        <seg>出入口</seg>
       </tuv>
     </tu>
     <tu>
@@ -44862,6 +44902,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Loot!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T134901Z" creationid="yumas" creationdate="20240814T134901Z">
+        <seg>報酬！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lord Alexei Jovkai</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T084740Z" creationid="yumas" creationdate="20240809T084740Z">
@@ -53018,6 +53066,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T053346Z" creationid="yumas" creationdate="20240812T053346Z">
         <seg>開いた金の宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Opened sarcophagus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T134854Z" creationid="yumas" creationdate="20240814T134854Z">
+        <seg>開いたサルコファガス</seg>
       </tuv>
     </tu>
     <tu>
@@ -70350,6 +70406,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Staging area steps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T134801Z" creationid="yumas" creationdate="20240814T134801Z">
+        <seg>ステージ・アリーナの階段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Staging area supplies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T134817Z" creationid="yumas" creationdate="20240814T134817Z">
+        <seg>ステージ・アリーナの物資</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stagnant Lake</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T225102Z" creationid="yumas" creationdate="20240811T225102Z">
@@ -72018,6 +72090,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T051714Z" creationid="yumas" creationdate="20240810T051714Z">
         <seg>不思議な機械</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strange panels</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T134911Z" creationid="yumas" creationdate="20240814T134911Z">
+        <seg>不可思議なパネル</seg>
       </tuv>
     </tu>
     <tu>
@@ -77412,6 +77492,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T112430Z" creationid="yumas" creationdate="20240812T112430Z">
         <seg>ランニングマシン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Treasure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T134907Z" creationid="yumas" creationdate="20240814T134907Z">
+        <seg>宝</seg>
       </tuv>
     </tu>
     <tu>
