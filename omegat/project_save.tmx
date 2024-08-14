@@ -8038,6 +8038,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blood rift</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T133048Z" creationid="yumas" creationdate="20240814T133048Z">
+        <seg>血の裂け目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blood rune</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062940Z" creationid="2008l" creationdate="20240725T062940Z">
@@ -10490,6 +10498,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T052330Z" creationid="yumas" creationdate="20240812T052330Z">
         <seg>壊れた罠（0）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken trip hammer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T133110Z" creationid="yumas" creationdate="20240814T133110Z">
+        <seg>壊れたトリップハンマー</seg>
       </tuv>
     </tu>
     <tu>
@@ -13290,6 +13306,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T013656Z" creationid="yumas" creationdate="20240810T013656Z">
         <seg>触媒の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Catalytic guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132958Z" creationid="yumas" creationdate="20240814T132958Z">
+        <seg>触媒のガイド</seg>
       </tuv>
     </tu>
     <tu>
@@ -17750,6 +17774,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cosmic Energy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T133032Z" creationid="yumas" creationdate="20240814T133032Z">
+        <seg>宇宙のエネルギー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cosmic rift</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T113447Z" creationid="yumas" creationdate="20240812T113447Z">
@@ -20666,6 +20698,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T012456Z" creationid="yumas" creationdate="20240809T012456Z">
         <seg>死</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Death Energy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T133034Z" creationid="yumas" creationdate="20240814T133034Z">
+        <seg>死のエネルギー</seg>
       </tuv>
     </tu>
     <tu>
@@ -23974,6 +24014,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Earth Energy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T133024Z" creationid="yumas" creationdate="20240814T133024Z">
+        <seg>土のエネルギー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Earth Mound</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T113119Z" creationid="yumas" creationdate="20240812T113119Z">
@@ -24450,6 +24498,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T030706Z" creationid="yumas" creationdate="20240812T030706Z">
         <seg>均衡のエレメンタルのスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Elemental guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132951Z" creationid="yumas" creationdate="20240814T132951Z">
+        <seg>エレメンタルのガイド</seg>
       </tuv>
     </tu>
     <tu>
@@ -27442,6 +27498,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T053358Z" creationid="yumas" creationdate="20240730T211522Z">
         <seg>火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fire Energy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T133042Z" creationid="yumas" creationdate="20240814T133042Z">
+        <seg>火のエネルギー</seg>
       </tuv>
     </tu>
     <tu>
@@ -37198,6 +37262,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Inactive cell tile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132816Z" creationid="yumas" creationdate="20240814T132816Z">
+        <seg>無効なセルのタイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Inactive spirit pool</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T091652Z" creationid="yumas" creationdate="20240809T091652Z">
@@ -42686,6 +42758,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Law Energy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T133039Z" creationid="yumas" creationdate="20240814T133039Z">
+        <seg>法のエネルギー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Law rift</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T113719Z" creationid="yumas" creationdate="20240812T113719Z">
@@ -47094,6 +47174,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Medium Barrier</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132916Z" creationid="yumas" creationdate="20240814T132916Z">
+        <seg>普通のバリアー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Medium Boulder</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T102156Z" creationid="yumas" creationdate="20240813T102156Z">
@@ -47130,6 +47218,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T111617Z" creationid="yumas" creationdate="20240809T111432Z">
         <seg>普通の触媒の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Medium cell tile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132832Z" creationid="yumas" creationdate="20240814T132832Z">
+        <seg>普通のセルのタイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -50142,6 +50238,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mysterious Stone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T133043Z" creationid="yumas" creationdate="20240814T133043Z">
+        <seg>不可思議な石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mysterious Stranger</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T065758Z" creationid="yumas" creationdate="20240809T065758Z">
@@ -50450,6 +50554,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T021345Z" creationid="yumas" creationdate="20240809T021345Z">
         <seg>自然史家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nature Energy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T133036Z" creationid="yumas" creationdate="20240814T133036Z">
+        <seg>自然のエネルギー</seg>
       </tuv>
     </tu>
     <tu>
@@ -53462,6 +53574,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Overcharged Barrier</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132924Z" creationid="yumas" creationdate="20240814T132924Z">
+        <seg>限界突破したバリアー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Overcharged catalytic guardian</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T111530Z" creationid="yumas" creationdate="20240809T111530Z">
@@ -53506,6 +53626,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T121430Z" creationid="yumas" creationdate="20240812T121420Z">
         <seg>限界突破薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Overpowered cell tile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132904Z" creationid="yumas" creationdate="20240814T132904Z">
+        <seg>限界突破したセルのタイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -71486,6 +71614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strange Wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132959Z" creationid="yumas" creationdate="20240814T132959Z">
+        <seg>不思議な壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strange altar</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T044619Z" creationid="yumas" creationdate="20240811T044619Z">
@@ -71854,6 +71990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strong Barrier</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132919Z" creationid="yumas" creationdate="20240814T132919Z">
+        <seg>強いバリアー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strong Ronny</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T083706Z" creationid="yumas" creationdate="20240809T083706Z">
@@ -71882,6 +72026,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T111619Z" creationid="yumas" creationdate="20240809T111514Z">
         <seg>強い触媒の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strong cell tile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132838Z" creationid="yumas" creationdate="20240814T132838Z">
+        <seg>強いセルのタイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -81112,10 +81264,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Weak Barrier</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132909Z" creationid="yumas" creationdate="20240814T132909Z">
+        <seg>弱いバリアー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Weak catalytic guardian</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T111614Z" creationid="yumas" creationdate="20240809T111422Z">
         <seg>弱い触媒の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weak cell tile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132819Z" creationid="yumas" creationdate="20240814T132819Z">
+        <seg>弱いセルのタイル</seg>
       </tuv>
     </tu>
     <tu>
