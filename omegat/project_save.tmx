@@ -13734,6 +13734,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cell tile (broken)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132807Z" creationid="yumas" creationdate="20240814T132807Z">
+        <seg>セルのタイル（損傷）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cell wall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T065355Z" creationid="yumas" creationdate="20240813T065355Z">
@@ -19360,8 +19368,8 @@
       <tuv lang="en-GB">
         <seg>Daeyalt Essence</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240814T113643Z" creationid="yumas" creationdate="20240814T113643Z">
-        <seg>ダエヤルトの元</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132644Z" creationid="yumas" creationdate="20240814T113643Z">
+        <seg>ダエヤルトの素</seg>
       </tuv>
     </tu>
     <tu>
@@ -25766,6 +25774,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Essence pile (catalytic)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132624Z" creationid="yumas" creationdate="20240814T132536Z">
+        <seg>素の山（触媒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Essence pile (elemental)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132605Z" creationid="yumas" creationdate="20240814T132529Z">
+        <seg>素の山（エレメンタル）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Essyllt</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T200335Z" creationid="yumas" creationdate="20240807T200335Z">
@@ -26562,6 +26586,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T013404Z" creationid="yumas" creationdate="20240812T013404Z">
         <seg>倒れた壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fallen guardian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132513Z" creationid="yumas" creationdate="20240814T132513Z">
+        <seg>倒された守護者</seg>
       </tuv>
     </tu>
     <tu>
@@ -78176,6 +78208,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Uncharged cells</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132746Z" creationid="yumas" creationdate="20240814T132746Z">
+        <seg>無チャージなセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Uncooked apple pie</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T070334Z" creationid="2008l" creationdate="20240810T070334Z">
@@ -81076,6 +81116,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T111614Z" creationid="yumas" creationdate="20240809T111422Z">
         <seg>弱い触媒の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weak cells</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T132751Z" creationid="yumas" creationdate="20240814T132751Z">
+        <seg>弱いセル</seg>
       </tuv>
     </tu>
     <tu>
