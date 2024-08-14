@@ -10262,6 +10262,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken grindstone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T133213Z" creationid="yumas" creationdate="20240814T133213Z">
+        <seg>壊れた砥石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken ground</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T065457Z" creationid="yumas" creationdate="20240813T065457Z">
@@ -10362,6 +10370,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T122831Z" creationid="yumas" creationdate="20240812T122831Z">
         <seg>壊れた柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken polishing wheel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T133243Z" creationid="yumas" creationdate="20240814T133243Z">
+        <seg>壊れた研磨車</seg>
       </tuv>
     </tu>
     <tu>
@@ -18522,6 +18538,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T104807Z" creationid="yumas" creationdate="20240812T104807Z">
         <seg>ドワーフの集団</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crucible</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T133445Z" creationid="yumas" creationdate="20240814T133445Z">
+        <seg>るつぼ</seg>
       </tuv>
     </tu>
     <tu>
@@ -60638,10 +60662,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Repaired grindstone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T133217Z" creationid="yumas" creationdate="20240814T133217Z">
+        <seg>修理された砥石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Repaired leak</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T103617Z" creationid="yumas" creationdate="20240814T103613Z">
         <seg>修理された液漏れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Repaired polishing wheel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T133249Z" creationid="yumas" creationdate="20240814T133249Z">
+        <seg>修理された研磨車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Repaired trip hammer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T133118Z" creationid="yumas" creationdate="20240814T133118Z">
+        <seg>修理されたトリップハンマー</seg>
       </tuv>
     </tu>
     <tu>
