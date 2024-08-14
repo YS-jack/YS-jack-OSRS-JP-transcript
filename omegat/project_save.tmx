@@ -5598,6 +5598,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Barrel of Mud</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080909Z" creationid="yumas" creationdate="20240814T080909Z">
+        <seg>泥の樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Barrel of Spears</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080913Z" creationid="yumas" creationdate="20240814T080913Z">
+        <seg>槍の樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Barrel of Water</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T130010Z" creationid="yumas" creationdate="20240813T130010Z">
@@ -18942,6 +18958,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead Redwood tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080841Z" creationid="yumas" creationdate="20240814T080841Z">
+        <seg>死んだセコイアの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead Snape grass</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T074647Z" creationid="yumas" creationdate="20240814T074647Z">
@@ -20446,6 +20470,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Diseased Redwood tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080846Z" creationid="yumas" creationdate="20240814T080846Z">
+        <seg>病気のセコイアの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Diseased Snape grass</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T074643Z" creationid="yumas" creationdate="20240814T074643Z">
@@ -21570,6 +21602,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T080630Z" creationid="yumas" creationdate="20240814T080630Z">
         <seg>ドラゴンフルーツの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragonfruit tree stump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080825Z" creationid="yumas" creationdate="20240814T080825Z">
+        <seg>ドラゴンフルーツの木の切り株</seg>
       </tuv>
     </tu>
     <tu>
@@ -23062,6 +23102,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Elevator</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080940Z" creationid="yumas" creationdate="20240814T080940Z">
+        <seg>エレベーター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Elevator controls</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080936Z" creationid="yumas" creationdate="20240814T080936Z">
+        <seg>エレベーターのコントローラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Elf Archer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T004135Z" creationid="yumas" creationdate="20240809T004135Z">
@@ -23570,6 +23626,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T132452Z" creationid="yumas" creationdate="20240812T132415Z">
         <seg>空のカゴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Empty chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080906Z" creationid="yumas" creationdate="20240814T080906Z">
+        <seg>空の宝箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -49966,6 +50030,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Olmic pillar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081000Z" creationid="yumas" creationdate="20240814T081000Z">
+        <seg>オルㇺの柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Olmlet</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T052933Z" creationid="yumas" creationdate="20240809T052933Z">
@@ -57250,6 +57322,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T081641Z" creationid="yumas" creationdate="20240813T081641Z">
         <seg>セコイアの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Redwood tree patch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080834Z" creationid="yumas" creationdate="20240814T080834Z">
+        <seg>セコイアの木の小区画</seg>
       </tuv>
     </tu>
     <tu>
@@ -68782,6 +68862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sulphur Vent</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080855Z" creationid="yumas" creationdate="20240814T080855Z">
+        <seg>硫黄の排気口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sulphur vent</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T011520Z" creationid="yumas" creationdate="20240812T011520Z">
@@ -76324,6 +76412,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T125022Z" creationid="yumas" creationdate="20240812T125022Z">
         <seg>火山の炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Volcanic Furnace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080902Z" creationid="yumas" creationdate="20240814T080902Z">
+        <seg>火山炉</seg>
       </tuv>
     </tu>
     <tu>
