@@ -59894,6 +59894,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rock Formation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T101659Z" creationid="yumas" creationdate="20240814T101659Z">
+        <seg>岩相</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rock Formation (Depleted)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T101716Z" creationid="yumas" creationdate="20240814T101716Z">
+        <seg>岩相（枯渇）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rock Formation (Glowing)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T101657Z" creationid="yumas" creationdate="20240814T101657Z">
+        <seg>岩相（発光）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rock Golem</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T135603Z" creationid="yumas" creationdate="20240805T135603Z">
