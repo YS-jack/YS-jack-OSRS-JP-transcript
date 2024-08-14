@@ -1646,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Alchemical door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081314Z" creationid="yumas" creationdate="20240814T081314Z">
+        <seg>錬金術の扉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Alchemists Teleport</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T105743Z" creationid="yumas" creationdate="20240812T105715Z">
@@ -14246,6 +14254,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chemical pool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081240Z" creationid="yumas" creationdate="20240814T081240Z">
+        <seg>化学物質の貯留</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Chemical powder</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T070706Z" creationid="2008l" creationdate="20240726T063112Z">
@@ -14338,6 +14354,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T012105Z" creationid="yumas" creationdate="20240812T012105Z">
         <seg>ニワトリの聖堂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chicken coop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081214Z" creationid="yumas" creationdate="20240814T081214Z">
+        <seg>ニワトリ小屋</seg>
       </tuv>
     </tu>
     <tu>
@@ -40630,6 +40654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lava gap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081245Z" creationid="yumas" creationdate="20240814T081245Z">
+        <seg>溶岩の隙間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lava trough</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T050037Z" creationid="yumas" creationdate="20240812T050037Z">
@@ -41838,6 +41870,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lizard dwelling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081117Z" creationid="yumas" creationdate="20240814T081117Z">
+        <seg>トカゲの生息地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lizardman</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T042012Z" creationid="yumas" creationdate="20240809T042012Z">
@@ -41858,6 +41898,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T084114Z" creationid="yumas" creationdate="20240813T084114Z">
         <seg>リザードマンの遺体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lizardman eggs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081123Z" creationid="yumas" creationdate="20240814T081123Z">
+        <seg>リザードマンの卵</seg>
       </tuv>
     </tu>
     <tu>
@@ -47938,6 +47986,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T083314Z" creationid="yumas" creationdate="20240813T083314Z">
         <seg>秘伝のバリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mystical barrier (orange)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081144Z" creationid="yumas" creationdate="20240814T081144Z">
+        <seg>秘伝のバリア（オレンジ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mystical barrier (red)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081148Z" creationid="yumas" creationdate="20240814T081148Z">
+        <seg>秘伝のバリア（赤）</seg>
       </tuv>
     </tu>
     <tu>
@@ -68366,6 +68430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strange hole</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081129Z" creationid="yumas" creationdate="20240814T081129Z">
+        <seg>不可思議な穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strange looking stone</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T031231Z" creationid="yumas" creationdate="20240811T031231Z">
@@ -77356,6 +77428,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T065649Z" creationid="2008l" creationdate="20240805T065649Z">
         <seg>水のタリスマン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Water tap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081202Z" creationid="yumas" creationdate="20240814T081202Z">
+        <seg>蛇口</seg>
       </tuv>
     </tu>
     <tu>
