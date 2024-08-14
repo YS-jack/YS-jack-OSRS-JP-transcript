@@ -17838,10 +17838,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crystal Deposit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T101140Z" creationid="yumas" creationdate="20240814T101140Z">
+        <seg>水晶の堆積物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crystal Deposit (Depleted)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T101156Z" creationid="yumas" creationdate="20240814T101156Z">
+        <seg>水晶の堆積物（枯渇）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crystal Dispenser</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T084913Z" creationid="yumas" creationdate="20240814T084913Z">
         <seg>水晶のディスペンサー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crystal Sceptre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T101134Z" creationid="yumas" creationdate="20240814T101134Z">
+        <seg>水晶の笏</seg>
       </tuv>
     </tu>
     <tu>
@@ -26686,6 +26710,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fishing Spot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T101210Z" creationid="yumas" creationdate="20240814T101210Z">
+        <seg>釣り場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fishing Spot (Depleted)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T101236Z" creationid="yumas" creationdate="20240814T101236Z">
+        <seg>釣り場（枯渇）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fishing bait</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T065702Z" creationid="2008l" creationdate="20240722T065702Z">
@@ -28786,6 +28826,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T230252Z" creationid="yumas" creationdate="20240811T230252Z">
         <seg>ゲート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gauntlet Portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T101323Z" creationid="yumas" creationdate="20240814T101323Z">
+        <seg>ゴーントレットのポータル</seg>
       </tuv>
     </tu>
     <tu>
@@ -32178,6 +32226,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T133502Z" creationid="yumas" creationdate="20240805T133502Z">
         <seg>グルバ・パトルル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grym Root</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T101244Z" creationid="yumas" creationdate="20240814T101244Z">
+        <seg>グリムの根</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grym Root (Depleted)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T101247Z" creationid="yumas" creationdate="20240814T101247Z">
+        <seg>グリムの根（枯渇）</seg>
       </tuv>
     </tu>
     <tu>
@@ -42162,6 +42226,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T080131Z" creationid="yumas" creationdate="20240809T080131Z">
         <seg>リンジー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Linum Tirinum</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T101254Z" creationid="yumas" creationdate="20240814T101254Z">
+        <seg>リニアム・チリナム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Linum Tirinum (Depleted)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T101309Z" creationid="yumas" creationdate="20240814T101309Z">
+        <seg>リニアム・チリナム（枯渇）</seg>
       </tuv>
     </tu>
     <tu>
@@ -52978,6 +53058,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045506Z" creationid="yumas" creationdate="20240805T045506Z">
         <seg>フォサニの悪夢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Phren Roots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T101201Z" creationid="yumas" creationdate="20240814T101201Z">
+        <seg>フレンの根</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Phren Roots (Depleted)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T101209Z" creationid="yumas" creationdate="20240814T101209Z">
+        <seg>フレンの根（枯渇）</seg>
       </tuv>
     </tu>
     <tu>
@@ -72322,8 +72418,8 @@
       <tuv lang="en-GB">
         <seg>The Gauntlet</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240814T094105Z" creationid="yumas" creationdate="20240814T094105Z">
-        <seg>ザ・ゴーンレット</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T101440Z" creationid="yumas" creationdate="20240814T094105Z">
+        <seg>ザ・ゴーントレット</seg>
       </tuv>
     </tu>
     <tu>
