@@ -4286,6 +4286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Attas plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080514Z" creationid="yumas" creationdate="20240814T080514Z">
+        <seg>アタスの株</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Attune</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T053322Z" creationid="yumas" creationdate="20240804T053322Z">
@@ -18782,6 +18790,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead Attas plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080553Z" creationid="yumas" creationdate="20240814T080553Z">
+        <seg>死んだアタスの株</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead Barley</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T120442Z" creationid="yumas" creationdate="20240811T120442Z">
@@ -18858,6 +18874,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T120546Z" creationid="yumas" creationdate="20240811T120546Z">
         <seg>死んだクランドリアン・ホップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead Kronos plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080611Z" creationid="yumas" creationdate="20240814T080611Z">
+        <seg>死んだクロノスの株</seg>
       </tuv>
     </tu>
     <tu>
@@ -19086,6 +19110,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead dragonfruit plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080649Z" creationid="yumas" creationdate="20240814T080649Z">
+        <seg>死んだドラゴンフルーツの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead dwellberry bush</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T113144Z" creationid="yumas" creationdate="20240811T113144Z">
@@ -19192,8 +19224,8 @@
       <tuv lang="en-GB">
         <seg>Dead pineapple plant</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T115601Z" creationid="yumas" creationdate="20240811T115601Z">
-        <seg>死んだパイナップルの植物</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080432Z" creationid="yumas" creationdate="20240811T115601Z">
+        <seg>死んだパイナップルの株</seg>
       </tuv>
     </tu>
     <tu>
@@ -20542,6 +20574,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Diseased dragonfruit plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080641Z" creationid="yumas" creationdate="20240814T080641Z">
+        <seg>病気のドラゴンフルーツの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Diseased dwellberry bush</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T113136Z" creationid="yumas" creationdate="20240811T113136Z">
@@ -20640,8 +20680,8 @@
       <tuv lang="en-GB">
         <seg>Diseased pineapple plant</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T115552Z" creationid="yumas" creationdate="20240811T115552Z">
-        <seg>病気のパイナップルの植物</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080430Z" creationid="yumas" creationdate="20240811T115552Z">
+        <seg>病気のパイナップルの株</seg>
       </tuv>
     </tu>
     <tu>
@@ -21522,6 +21562,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T105107Z" creationid="yumas" creationdate="20240813T105107Z">
         <seg>トンボ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragonfruit tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080630Z" creationid="yumas" creationdate="20240814T080630Z">
+        <seg>ドラゴンフルーツの木</seg>
       </tuv>
     </tu>
     <tu>
@@ -39058,6 +39106,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T035924Z" creationid="yumas" creationdate="20240809T035917Z">
         <seg>クリーアーラ・Jr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kronos plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080556Z" creationid="yumas" creationdate="20240814T080556Z">
+        <seg>クロノスの株</seg>
       </tuv>
     </tu>
     <tu>
@@ -75578,8 +75634,8 @@
       <tuv lang="en-GB">
         <seg>Vanilla plant</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T012644Z" creationid="yumas" creationdate="20240812T012644Z">
-        <seg>バニラの植物</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080448Z" creationid="yumas" creationdate="20240812T012644Z">
+        <seg>バニラの株</seg>
       </tuv>
     </tu>
     <tu>
@@ -78552,10 +78608,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Withering Attas plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080548Z" creationid="yumas" creationdate="20240814T080535Z">
+        <seg>しおれていくアタスの株</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Withering Iasor plant</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240814T075800Z" creationid="yumas" creationdate="20240814T075603Z">
-        <seg>しおれたイアソーの株</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080543Z" creationid="yumas" creationdate="20240814T075603Z">
+        <seg>しおれていくイアソーの株</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Withering Kronos plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T080603Z" creationid="yumas" creationdate="20240814T080603Z">
+        <seg>しおれていくクロノスの株</seg>
       </tuv>
     </tu>
     <tu>
