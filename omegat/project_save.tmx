@@ -8110,6 +8110,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blue chemical</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081339Z" creationid="yumas" creationdate="20240814T081339Z">
+        <seg>青い化学物質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blue cog</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T074504Z" creationid="2008l" creationdate="20240716T074504Z">
@@ -14266,6 +14274,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T070706Z" creationid="2008l" creationdate="20240726T063112Z">
         <seg>化学粉末</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chemical vent (blue)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081626Z" creationid="yumas" creationdate="20240814T081626Z">
+        <seg>化学物質用排気口（青）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chemical vent (green)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081423Z" creationid="yumas" creationdate="20240814T081423Z">
+        <seg>化学物質用排気口（緑）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chemical vent (red)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081419Z" creationid="yumas" creationdate="20240814T081419Z">
+        <seg>化学物質用排気口（赤）</seg>
       </tuv>
     </tu>
     <tu>
@@ -31170,6 +31202,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T082456Z" creationid="2008l" creationdate="20240729T064637Z">
         <seg>緑のマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Green chemical</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081345Z" creationid="yumas" creationdate="20240814T081345Z">
+        <seg>緑の化学物質</seg>
       </tuv>
     </tu>
     <tu>
@@ -57114,6 +57154,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T064003Z" creationid="2008l" creationdate="20240729T064003Z">
         <seg>赤いマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Red chemical</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081348Z" creationid="yumas" creationdate="20240814T081348Z">
+        <seg>赤い化学物質</seg>
       </tuv>
     </tu>
     <tu>
