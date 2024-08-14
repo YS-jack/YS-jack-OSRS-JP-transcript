@@ -8782,6 +8782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Book Cart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T085102Z" creationid="yumas" creationdate="20240814T085102Z">
+        <seg>本のカート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Book on baxtorian</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T064318Z" creationid="2008l" creationdate="20240722T064301Z">
@@ -26858,6 +26866,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120432Z" creationid="yumas" creationdate="20240731T120432Z">
         <seg>丸太を浮かせる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Floating Book</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T084945Z" creationid="yumas" creationdate="20240814T084945Z">
+        <seg>飛ぶ本</seg>
       </tuv>
     </tu>
     <tu>
@@ -62434,6 +62450,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T081537Z" creationid="yumas" creationdate="20240805T081537Z">
         <seg>カモメ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Seal of Cadarn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T085915Z" creationid="yumas" creationdate="20240814T085915Z">
+        <seg>カダーンの証印</seg>
       </tuv>
     </tu>
     <tu>
