@@ -1515,7 +1515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="190">
         <xliff:source>Harpoon</xliff:source>
-        <xliff:target state="translated">でもりで釣る</xliff:target>
+        <xliff:target state="translated">もり</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Harpoon
@@ -9307,7 +9307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1164">
         <xliff:source>King worm</xliff:source>
-        <xliff:target state="translated">王虫</xliff:target>
+        <xliff:target state="translated">王様ミミズ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: King worm
@@ -12315,7 +12315,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1540">
         <xliff:source>Strange box</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">不可思議な箱</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Strange box
@@ -12515,7 +12515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1565">
         <xliff:source>Potato cactus</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ジャガイモサボテン</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Potato cactus
@@ -15211,7 +15211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1902">
         <xliff:source>Sled</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">そり</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Sled
@@ -26019,7 +26019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3253">
         <xliff:source>Scroll</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">巻物</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Scroll
@@ -30075,7 +30075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3760">
         <xliff:source>Beam</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ハリ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Beam
@@ -32563,7 +32563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4071">
         <xliff:source>Opulent rug</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">豪華なカーペット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Opulent rug
@@ -41771,7 +41771,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5222">
         <xliff:source>Pottery</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">陶芸品</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Pottery
@@ -53515,7 +53515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6690">
         <xliff:source>Spear</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">槍</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Spear
@@ -53979,7 +53979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6748">
         <xliff:source>Carpet</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">カーペット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Carpet
@@ -56123,7 +56123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7016">
         <xliff:source>Ancient tablet</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">古代のタブレット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ancient tablet
@@ -61507,7 +61507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7689">
         <xliff:source>White lily</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">白百合</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: White lily
@@ -66043,7 +66043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8256">
         <xliff:source>Carrot</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">人参</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Carrot
@@ -66355,7 +66355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8295">
         <xliff:source>Massive storage unit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">巨大な収納ユニット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Massive storage unit
@@ -67315,7 +67315,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8415">
         <xliff:source>Magical pumpkin</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魔法のカボチャ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Magical pumpkin
@@ -67643,7 +67643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8456">
         <xliff:source>Trailblazer globe</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">トレールブレイザー儀</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer globe
@@ -67651,7 +67651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8457">
         <xliff:source>Trailblazer rug</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">トレールブレイザーのカーペット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer rug
@@ -68155,7 +68155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8520">
         <xliff:source>Trophy pedestal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">トロフィーの台座</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trophy pedestal
@@ -68163,7 +68163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8521">
         <xliff:source>Ornate trophy pedestal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">華麗なトロフィーの台座</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ornate trophy pedestal
@@ -68171,7 +68171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8522">
         <xliff:source>Oak trophy case</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫のトロフィーケース</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak trophy case
@@ -68179,7 +68179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8523">
         <xliff:source>Mahogany trophy case</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーのトロフィーケース</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mahogany trophy case
@@ -68187,7 +68187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8524">
         <xliff:source>Banner stand</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">バナー立て</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Banner stand
@@ -68195,7 +68195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8525">
         <xliff:source>Ornate banner stand</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">華麗なバナー盾</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ornate banner stand
@@ -68203,7 +68203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8526">
         <xliff:source>Oak outfit stand</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫の衣装スタンド</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak outfit stand
@@ -68211,7 +68211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8527">
         <xliff:source>Mahogany outfit stand</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーの衣装スタンド</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mahogany outfit stand
@@ -68219,7 +68219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8528">
         <xliff:source>League statue</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">リーグの像</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: League statue
@@ -68227,7 +68227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8529">
         <xliff:source>Ornate league statue</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">華麗なリーグの像</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ornate league statue
@@ -68875,7 +68875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8610">
         <xliff:source>Mounted harpoonfish</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">銛魚の標本</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mounted harpoonfish
@@ -69195,7 +69195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8650">
         <xliff:source>Simple lockbox</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">単純な貸し金庫</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Simple lockbox
@@ -69203,7 +69203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8651">
         <xliff:source>Elaborate lockbox</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">精巧な貸し金庫</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elaborate lockbox
@@ -69211,7 +69211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8652">
         <xliff:source>Ornate lockbox</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">華麗な貸し金庫</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ornate lockbox
@@ -69707,7 +69707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8714">
         <xliff:source>Rose</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">バラ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rose
@@ -75227,7 +75227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9404">
         <xliff:source>Golden snowball</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">黄金の雪玉</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Golden snowball
