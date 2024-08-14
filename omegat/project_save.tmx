@@ -1632,8 +1632,24 @@
       <tuv lang="en-GB">
         <seg>Alchemical Hydra</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T072856Z" creationid="yumas" creationdate="20240809T072856Z">
-        <seg>錬金術のヒドラ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081823Z" creationid="yumas" creationdate="20240809T072856Z">
+        <seg>錬金術ヒドラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Alchemical Hydra display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081840Z" creationid="yumas" creationdate="20240814T081812Z">
+        <seg>錬金術ヒドラの展示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Alchemical Topiary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081852Z" creationid="yumas" creationdate="20240814T081852Z">
+        <seg>錬金術のトピアリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -9770,6 +9786,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T124313Z" creationid="yumas" creationdate="20240811T124313Z">
         <seg>壊れた槌矛の罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken machinery</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081630Z" creationid="yumas" creationdate="20240814T081630Z">
+        <seg>壊れた機械</seg>
       </tuv>
     </tu>
     <tu>
@@ -38832,8 +38856,8 @@
       <tuv lang="en-GB">
         <seg>King worm</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240810T064311Z" creationid="2008l" creationdate="20240810T064311Z">
-        <seg>王虫</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081658Z" creationid="2008l" creationdate="20240810T064311Z">
+        <seg>王様ミミズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -47938,6 +47962,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T202943Z" creationid="yumas" creationdate="20240807T202943Z">
         <seg>不可思議な幽霊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mysterious pipe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T081904Z" creationid="yumas" creationdate="20240814T081904Z">
+        <seg>不可思議なパイプ</seg>
       </tuv>
     </tu>
     <tu>
