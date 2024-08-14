@@ -6222,6 +6222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bed hotspot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T115905Z" creationid="yumas" creationdate="20240814T115905Z">
+        <seg>ベッドのホットスポット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bed space</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T030358Z" creationid="yumas" creationdate="20240812T030358Z">
@@ -9910,6 +9918,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken chair</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T115813Z" creationid="yumas" creationdate="20240814T115813Z">
+        <seg>壊れた椅子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken clay golem</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T001637Z" creationid="yumas" creationdate="20240809T001637Z">
@@ -9938,6 +9954,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T131111Z" creationid="yumas" creationdate="20240812T131111Z">
         <seg>壊れた洋弓銃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken dead tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T115945Z" creationid="yumas" creationdate="20240814T115945Z">
+        <seg>壊れた死んだ木</seg>
       </tuv>
     </tu>
     <tu>
@@ -10178,6 +10202,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T043756Z" creationid="yumas" creationdate="20240812T043756Z">
         <seg>壊れた椅子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken stool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T115806Z" creationid="yumas" creationdate="20240814T115754Z">
+        <seg>壊れたスツール</seg>
       </tuv>
     </tu>
     <tu>
@@ -11934,6 +11966,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Campbed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T115858Z" creationid="yumas" creationdate="20240814T115858Z">
+        <seg>キャンプベッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Campfire</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T051319Z" creationid="yumas" creationdate="20240812T051319Z">
@@ -12662,10 +12702,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Carpet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T115922Z" creationid="yumas" creationdate="20240814T115922Z">
+        <seg>カーペット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Carpet Exhibit</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T111100Z" creationid="yumas" creationdate="20240811T111100Z">
         <seg>カーペットの展示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Carpet hotspot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T115920Z" creationid="yumas" creationdate="20240814T115920Z">
+        <seg>カーペットのホットスポット</seg>
       </tuv>
     </tu>
     <tu>
@@ -12682,6 +12738,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T130933Z" creationid="yumas" creationdate="20240813T130933Z">
         <seg>カラランガーのポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Carrot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T115938Z" creationid="yumas" creationdate="20240814T115938Z">
+        <seg>人参</seg>
       </tuv>
     </tu>
     <tu>
@@ -13642,6 +13706,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T133623Z" creationid="yumas" creationdate="20240806T133623Z">
         <seg>椅子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chair hotspot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T115819Z" creationid="yumas" creationdate="20240814T115819Z">
+        <seg>椅子のホットスポット</seg>
       </tuv>
     </tu>
     <tu>
@@ -19110,6 +19182,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Damaged cart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T115957Z" creationid="yumas" creationdate="20240814T115957Z">
+        <seg>損傷したカート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Damaged clay golem</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T001648Z" creationid="yumas" creationdate="20240809T001648Z">
@@ -19986,6 +20066,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T090746Z" creationid="yumas" creationdate="20240813T090746Z">
         <seg>死んだ海藻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead sourhog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T120014Z" creationid="yumas" creationdate="20240814T120003Z">
+        <seg>死んだソーホッグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -61318,6 +61406,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rotten carpet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T115913Z" creationid="yumas" creationdate="20240814T115913Z">
+        <seg>腐ったカーペット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rotten food</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T110558Z" creationid="yumas" creationdate="20240811T110558Z">
@@ -69790,6 +69886,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stool hotspot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T115812Z" creationid="yumas" creationdate="20240814T115812Z">
+        <seg>スツールのホットスポット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stop!</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T095615Z" creationid="yumas" creationdate="20240811T095513Z">
@@ -71482,6 +71586,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T020509Z" creationid="yumas" creationdate="20240812T020447Z">
         <seg>テーブルの封鎖壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Table hotspot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T115835Z" creationid="yumas" creationdate="20240814T115830Z">
+        <seg>テーブルのホットスポット</seg>
       </tuv>
     </tu>
     <tu>
