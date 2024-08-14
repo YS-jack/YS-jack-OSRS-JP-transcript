@@ -16294,6 +16294,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Coolant Dispenser</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T073158Z" creationid="yumas" creationdate="20240814T073158Z">
+        <seg>クーラント供給装置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Coop</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T052943Z" creationid="yumas" creationdate="20240811T052943Z">
@@ -27714,6 +27722,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T025926Z" creationid="yumas" creationdate="20240811T025926Z">
         <seg>炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Furnace Coolant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T073204Z" creationid="yumas" creationdate="20240814T073204Z">
+        <seg>炉のクーラント</seg>
       </tuv>
     </tu>
     <tu>
@@ -57030,6 +57046,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Refinery</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T073256Z" creationid="yumas" creationdate="20240814T073256Z">
+        <seg>精製台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Refuel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112252Z" creationid="yumas" creationdate="20240731T112252Z">
@@ -60194,6 +60218,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T065306Z" creationid="2008l" creationdate="20240731T065306Z">
         <seg>ルーンの戦鎚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Runic Altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T073626Z" creationid="yumas" creationdate="20240814T073626Z">
+        <seg>ルーン文字の祭壇</seg>
       </tuv>
     </tu>
     <tu>
