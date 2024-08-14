@@ -8974,6 +8974,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Book table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124702Z" creationid="yumas" creationdate="20240814T124702Z">
+        <seg>本がおかれたテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bookcase</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T051656Z" creationid="yumas" creationdate="20240810T051656Z">
@@ -24062,6 +24070,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Electrified harpoonfish cannon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124621Z" creationid="yumas" creationdate="20240814T124621Z">
+        <seg>帯電した銛魚の大砲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Elemental balance</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T200206Z" creationid="yumas" creationdate="20240807T200125Z">
@@ -24706,6 +24722,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T053812Z" creationid="2008l" creationdate="20240723T064615Z">
         <seg>空のカキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Empty pool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124641Z" creationid="yumas" creationdate="20240814T124641Z">
+        <seg>空の水場</seg>
       </tuv>
     </tu>
     <tu>
@@ -31478,6 +31502,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gold Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124540Z" creationid="yumas" creationdate="20240814T124540Z">
+        <seg>黄金の宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gold Screen</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T131815Z" creationid="yumas" creationdate="20240811T131815Z">
@@ -34170,6 +34202,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T123928Z" creationid="2008l" creationdate="20240722T065659Z">
         <seg>もり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Harpoonfish cannon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124557Z" creationid="yumas" creationdate="20240814T124557Z">
+        <seg>銛魚の大砲</seg>
       </tuv>
     </tu>
     <tu>
@@ -60094,6 +60134,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Reward pool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124647Z" creationid="yumas" creationdate="20240814T124647Z">
+        <seg>報酬の水場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rewards</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240713T101238Z" creationid="yumas" creationdate="20240713T101238Z">
@@ -65414,6 +65462,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shooting Star Noticeboard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124548Z" creationid="yumas" creationdate="20240814T124548Z">
+        <seg>流れ星の掲示板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shop</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T094222Z" creationid="yumas" creationdate="20240730T094222Z">
@@ -68528,8 +68584,16 @@
       <tuv lang="en-GB">
         <seg>Spirit Angler</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T092718Z" creationid="yumas" creationdate="20240809T092718Z">
-        <seg>精霊のアングラー</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124813Z" creationid="yumas" creationdate="20240809T092718Z">
+        <seg>精霊アングラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spirit Angler dock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124851Z" creationid="yumas" creationdate="20240814T124851Z">
+        <seg>精霊アングラーの波止場</seg>
       </tuv>
     </tu>
     <tu>
@@ -83076,6 +83140,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T131805Z" creationid="yumas" creationdate="20240806T131805Z">
         <seg>mad melvin96</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>mast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124549Z" creationid="yumas" creationdate="20240814T124549Z">
+        <seg>マスト</seg>
       </tuv>
     </tu>
     <tu>
