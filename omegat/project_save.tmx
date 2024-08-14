@@ -3358,6 +3358,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Arceuus Library Portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124941Z" creationid="yumas" creationdate="20240814T124941Z">
+        <seg>アルセウス図書館のポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Arceuus spellbook</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T111836Z" creationid="yumas" creationdate="20240731T110859Z">
@@ -4614,6 +4622,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Axes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124922Z" creationid="yumas" creationdate="20240814T124922Z">
+        <seg>斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ayesha</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045010Z" creationid="yumas" creationdate="20240805T045010Z">
@@ -4865,6 +4881,14 @@
         <seg>Bailing bucket</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T063502Z" creationid="2008l" creationdate="20240725T063502Z">
+        <seg>排水バケツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bailing buckets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124905Z" creationid="yumas" creationdate="20240814T124905Z">
         <seg>排水バケツ</seg>
       </tuv>
     </tu>
@@ -7782,6 +7806,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blocked entry</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T125035Z" creationid="yumas" creationdate="20240814T125035Z">
+        <seg>ふさがれた入口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blocked opening</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T120942Z" creationid="yumas" creationdate="20240814T120942Z">
@@ -10202,6 +10234,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T122831Z" creationid="yumas" creationdate="20240812T122831Z">
         <seg>壊れた柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken rail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124901Z" creationid="yumas" creationdate="20240814T124901Z">
+        <seg>壊れたレール</seg>
       </tuv>
     </tu>
     <tu>
@@ -57750,6 +57790,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124919Z" creationid="yumas" creationdate="20240814T124903Z">
+        <seg>レール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Railing</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T125343Z" creationid="2008l" creationdate="20240716T073148Z">
@@ -60150,6 +60198,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rewards Chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T125012Z" creationid="yumas" creationdate="20240814T125012Z">
+        <seg>報酬の宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rewards Guardian</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T020958Z" creationid="yumas" creationdate="20240809T020958Z">
@@ -61230,6 +61286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rock debris</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T125152Z" creationid="yumas" creationdate="20240814T125152Z">
+        <seg>がれきの岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rock lobster</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T015708Z" creationid="yumas" creationdate="20240809T015708Z">
@@ -62182,6 +62246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ruins Entrance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T125021Z" creationid="yumas" creationdate="20240814T125021Z">
+        <seg>廃墟の入口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rum Crate</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T033004Z" creationid="yumas" creationdate="20240812T033004Z">
@@ -62710,6 +62782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>S.T.A.S.H chart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T125007Z" creationid="yumas" creationdate="20240814T124945Z">
+        <seg>S.T.A.S.H チャート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>STASH (beginner)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T083406Z" creationid="yumas" creationdate="20240814T083406Z">
@@ -62858,6 +62938,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T084423Z" creationid="yumas" creationdate="20240814T084423Z">
         <seg>神聖な骨焼却炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sacred Forge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124932Z" creationid="yumas" creationdate="20240814T124932Z">
+        <seg>神聖な炉</seg>
       </tuv>
     </tu>
     <tu>
@@ -68594,6 +68682,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T124851Z" creationid="yumas" creationdate="20240814T124851Z">
         <seg>精霊アングラーの波止場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spirit Angler stats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T124857Z" creationid="yumas" creationdate="20240814T124857Z">
+        <seg>精霊アングラーのステータス</seg>
       </tuv>
     </tu>
     <tu>
