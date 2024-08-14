@@ -9934,6 +9934,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T130504Z" creationid="yumas" creationdate="20240814T130504Z">
+        <seg>壊れた祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken armour</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T062841Z" creationid="2008l" creationdate="20240726T062841Z">
@@ -13142,6 +13150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cat Shrine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T130551Z" creationid="yumas" creationdate="20240814T130551Z">
+        <seg>ネコの聖堂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cat basket</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T034608Z" creationid="yumas" creationdate="20240811T034603Z">
@@ -13786,6 +13802,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T040812Z" creationid="yumas" creationdate="20240812T040812Z">
         <seg>儀式の火鉢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ceremonial Pillow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T130654Z" creationid="yumas" creationdate="20240814T130634Z">
+        <seg>儀式用の座布団</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ceremonial Pillow Stack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T130644Z" creationid="yumas" creationdate="20240814T130644Z">
+        <seg>積まれた儀式の座布団</seg>
       </tuv>
     </tu>
     <tu>
@@ -16218,6 +16250,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T032600Z" creationid="yumas" creationdate="20240811T032600Z">
         <seg>服</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Clothes Stand</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T130547Z" creationid="yumas" creationdate="20240814T130547Z">
+        <seg>服スタンド</seg>
       </tuv>
     </tu>
     <tu>
@@ -26126,6 +26166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fabric rack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T130533Z" creationid="yumas" creationdate="20240814T130533Z">
+        <seg>生地のラック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Factory Manager</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T115549Z" creationid="yumas" creationdate="20240806T115549Z">
@@ -34170,6 +34218,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T130656Z" creationid="yumas" creationdate="20240811T130656Z">
         <seg>吊るされた染物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hanging flag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T130540Z" creationid="yumas" creationdate="20240814T130540Z">
+        <seg>ぶら下がる旗</seg>
       </tuv>
     </tu>
     <tu>
@@ -57150,6 +57206,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Protest Poster</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T130456Z" creationid="yumas" creationdate="20240814T130456Z">
+        <seg>抗議ポスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Protester</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T094532Z" creationid="yumas" creationdate="20240809T094532Z">
@@ -65586,6 +65650,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T023129Z" creationid="yumas" creationdate="20240811T023129Z">
         <seg>棚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shelf of thread</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T130529Z" creationid="yumas" creationdate="20240814T130529Z">
+        <seg>糸の棚</seg>
       </tuv>
     </tu>
     <tu>
@@ -82004,6 +82076,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T044756Z" creationid="yumas" creationdate="20240811T044756Z">
         <seg>木製のテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wooden barricade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T130501Z" creationid="yumas" creationdate="20240814T130501Z">
+        <seg>木製のバリケード</seg>
       </tuv>
     </tu>
     <tu>
