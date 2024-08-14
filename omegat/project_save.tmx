@@ -17702,6 +17702,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crystal Dispenser</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T084913Z" creationid="yumas" creationdate="20240814T084913Z">
+        <seg>水晶のディスペンサー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crystal Whirlwind</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T075202Z" creationid="yumas" creationdate="20240809T075202Z">
@@ -17802,6 +17810,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T083709Z" creationid="yumas" creationdate="20240813T083436Z">
         <seg>水晶の構造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crystal tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T084712Z" creationid="yumas" creationdate="20240814T084712Z">
+        <seg>水晶樹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crystal tree patch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T084707Z" creationid="yumas" creationdate="20240814T084707Z">
+        <seg>水晶樹の小区画</seg>
       </tuv>
     </tu>
     <tu>
@@ -27202,6 +27226,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T070921Z" creationid="2008l" creationdate="20240808T070921Z">
         <seg>ハエ取り紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fog marker</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T084649Z" creationid="yumas" creationdate="20240814T084649Z">
+        <seg>霧マーカー</seg>
       </tuv>
     </tu>
     <tu>
@@ -65982,6 +66014,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Soft clay rocks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T084905Z" creationid="yumas" creationdate="20240814T084905Z">
+        <seg>軟らかい粘土の岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Soil</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T032008Z" creationid="yumas" creationdate="20240811T032008Z">
@@ -67474,6 +67514,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T081105Z" creationid="yumas" creationdate="20240810T081105Z">
         <seg>像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Statue Plinth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T084912Z" creationid="yumas" creationdate="20240814T084912Z">
+        <seg>像の台座</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Statue of Baxtorian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T084910Z" creationid="yumas" creationdate="20240814T084910Z">
+        <seg>バクストリアン像</seg>
       </tuv>
     </tu>
     <tu>
@@ -82543,6 +82599,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T010327Z" creationid="yumas" creationdate="20240812T010327Z">
         <seg>ハードル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_object.xliff</prop>
+      <prop type="id">17958</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Pack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T084935Z" creationid="yumas" creationdate="20240814T084935Z">
+        <seg>パック</seg>
       </tuv>
     </tu>
   </body>
