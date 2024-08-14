@@ -9840,8 +9840,8 @@
       <tuv lang="en-GB">
         <seg>Broken equipment table</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240814T112150Z" creationid="yumas" creationdate="20240814T112150Z">
-        <seg>壊れた道具台</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T112200Z" creationid="yumas" creationdate="20240814T112150Z">
+        <seg>壊れた作業台</seg>
       </tuv>
     </tu>
     <tu>
@@ -9986,6 +9986,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T122831Z" creationid="yumas" creationdate="20240812T122831Z">
         <seg>壊れた柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken range</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T112248Z" creationid="yumas" creationdate="20240814T112248Z">
+        <seg>壊れたコンロ</seg>
       </tuv>
     </tu>
     <tu>
@@ -24784,8 +24792,8 @@
       <tuv lang="en-GB">
         <seg>Equipment table</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240814T111531Z" creationid="yumas" creationdate="20240814T111531Z">
-        <seg>道具台</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T112155Z" creationid="yumas" creationdate="20240814T111531Z">
+        <seg>作業台</seg>
       </tuv>
     </tu>
     <tu>
@@ -45558,6 +45566,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mausoleum door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T112507Z" creationid="yumas" creationdate="20240814T112507Z">
+        <seg>霊廟の扉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mawnis Burowgar</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T114806Z" creationid="yumas" creationdate="20240805T114806Z">
@@ -56850,6 +56866,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T125343Z" creationid="2008l" creationdate="20240716T073148Z">
         <seg>手すり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raised coffin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T112334Z" creationid="yumas" creationdate="20240814T112334Z">
+        <seg>棺台</seg>
       </tuv>
     </tu>
     <tu>
