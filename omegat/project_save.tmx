@@ -10926,6 +10926,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Buckets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T123903Z" creationid="yumas" creationdate="20240814T123903Z">
+        <seg>バケツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Budding branch</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T042201Z" creationid="yumas" creationdate="20240811T042201Z">
@@ -19250,6 +19258,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T072208Z" creationid="2008l" creationdate="20240810T072208Z">
         <seg>傷ついた短剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Damaged mast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T123905Z" creationid="yumas" creationdate="20240814T123905Z">
+        <seg>損傷したマスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -34096,8 +34112,16 @@
       <tuv lang="en-GB">
         <seg>Harpoon</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T085827Z" creationid="2008l" creationdate="20240722T065659Z">
-        <seg>でもりで釣る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T123928Z" creationid="2008l" creationdate="20240722T065659Z">
+        <seg>もり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Harpoons</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T123917Z" creationid="yumas" creationdate="20240814T123904Z">
+        <seg>もり</seg>
       </tuv>
     </tu>
     <tu>
@@ -48798,6 +48822,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mounted harpoonfish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T123901Z" creationid="yumas" creationdate="20240814T123901Z">
+        <seg>銛魚の標本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mounted sea bass</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T045227Z" creationid="yumas" creationdate="20240811T045227Z">
@@ -53329,6 +53361,14 @@
         <seg>Pebble</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T071140Z" creationid="yumas" creationdate="20240809T071140Z">
+        <seg>小石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pebbles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T123714Z" creationid="yumas" creationdate="20240814T123714Z">
         <seg>小石</seg>
       </tuv>
     </tu>
@@ -61462,6 +61502,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ropes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T123902Z" creationid="yumas" creationdate="20240814T123902Z">
+        <seg>縄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ropeswing</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T030019Z" creationid="yumas" creationdate="20240812T030019Z">
@@ -66834,6 +66882,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T051423Z" creationid="yumas" creationdate="20240811T051423Z">
         <seg>スロープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Slope end</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240814T123713Z" creationid="yumas" creationdate="20240814T123713Z">
+        <seg>スロープの端</seg>
       </tuv>
     </tu>
     <tu>
