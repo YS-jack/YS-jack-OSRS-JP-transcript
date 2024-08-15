@@ -11694,6 +11694,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Building Supplies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T035115Z" creationid="yumas" creationdate="20240815T035115Z">
+        <seg>建築資材</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Buinn</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T120812Z" creationid="yumas" creationdate="20240806T120812Z">
@@ -12690,6 +12698,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T104322Z" creationid="yumas" creationdate="20240812T104322Z">
         <seg>キャンプファイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Camp spot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T035147Z" creationid="yumas" creationdate="20240815T035147Z">
+        <seg>キャンプのスポット</seg>
       </tuv>
     </tu>
     <tu>
@@ -16214,6 +16230,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Civitas illa Fortis Portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T034936Z" creationid="yumas" creationdate="20240815T034936Z">
+        <seg>シビリタス・イラ・フォーチスのポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Claim</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T133632Z" creationid="yumas" creationdate="20240730T093100Z">
@@ -17330,6 +17354,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T090641Z" creationid="yumas" creationdate="20240809T090641Z">
         <seg>巨大ヒドラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Colosseum entrance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T035040Z" creationid="yumas" creationdate="20240815T035040Z">
+        <seg>闘技場の入口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Colosseum scoreboard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T035012Z" creationid="yumas" creationdate="20240815T035012Z">
+        <seg>闘技場の得点板</seg>
       </tuv>
     </tu>
     <tu>
@@ -42966,6 +43006,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Landing Site</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T035159Z" creationid="yumas" creationdate="20240815T035159Z">
+        <seg>着陸地点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Landscape</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T021050Z" creationid="yumas" creationdate="20240811T021050Z">
@@ -50066,6 +50114,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T023406Z" creationid="yumas" creationdate="20240810T023406Z">
         <seg>アカオヒキコウモリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Molten Sand</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T034955Z" creationid="yumas" creationdate="20240815T034945Z">
+        <seg>融解した砂</seg>
       </tuv>
     </tu>
     <tu>
@@ -66888,8 +66944,8 @@
       <tuv lang="en-GB">
         <seg>Scoreboard</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T210726Z" creationid="yumas" creationdate="20240730T210726Z">
-        <seg>得点版</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T035021Z" creationid="yumas" creationdate="20240730T210726Z">
+        <seg>得点板</seg>
       </tuv>
     </tu>
     <tu>
