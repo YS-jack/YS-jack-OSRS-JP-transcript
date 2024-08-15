@@ -20486,6 +20486,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dead Bear</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T022101Z" creationid="yumas" creationdate="20240815T022101Z">
+        <seg>死んだクマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dead Belladonna</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T112933Z" creationid="yumas" creationdate="20240811T112933Z">
@@ -20498,6 +20506,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T121545Z" creationid="yumas" creationdate="20240811T121342Z">
         <seg>死んだビタキャップダケ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead Boar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T022109Z" creationid="yumas" creationdate="20240815T022109Z">
+        <seg>死んだイノシシ</seg>
       </tuv>
     </tu>
     <tu>
@@ -20530,6 +20546,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T053244Z" creationid="yumas" creationdate="20240812T053244Z">
         <seg>死んだ探検家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead Goat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T022136Z" creationid="yumas" creationdate="20240815T022136Z">
+        <seg>死んだヤギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -20570,6 +20594,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T080611Z" creationid="yumas" creationdate="20240814T080611Z">
         <seg>死んだクロノスの株</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dead Lynx</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T022157Z" creationid="yumas" creationdate="20240815T022145Z">
+        <seg>死んだオオヤマネコ</seg>
       </tuv>
     </tu>
     <tu>
@@ -64326,6 +64358,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ruined Monument</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T022245Z" creationid="yumas" creationdate="20240815T022245Z">
+        <seg>荒廃した記念碑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ruined Pillar</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T083506Z" creationid="yumas" creationdate="20240814T083506Z">
@@ -71766,6 +71806,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stangled Plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T022527Z" creationid="yumas" creationdate="20240815T022527Z">
+        <seg>絡まった植物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stankers</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T195505Z" creationid="yumas" creationdate="20240807T195505Z">
@@ -73350,10 +73398,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strangled Fern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T022254Z" creationid="yumas" creationdate="20240815T022254Z">
+        <seg>絡まったシダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strangled Lynx</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T011212Z" creationid="yumas" creationdate="20240810T011212Z">
         <seg>絞殺されたオオヤマネコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strangled Plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T022251Z" creationid="yumas" creationdate="20240815T022251Z">
+        <seg>絡まった植物</seg>
       </tuv>
     </tu>
     <tu>
