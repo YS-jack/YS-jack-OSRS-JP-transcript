@@ -1440,8 +1440,8 @@
       <tuv lang="en-GB">
         <seg>Agility Trainer</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T015644Z" creationid="yumas" creationdate="20240809T015644Z">
-        <seg>アジリティのトレーナー</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T044017Z" creationid="yumas" creationdate="20240809T015644Z">
+        <seg>運動神経のトレーナー</seg>
       </tuv>
     </tu>
     <tu>
@@ -23238,6 +23238,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Display Eggs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T043901Z" creationid="yumas" creationdate="20240815T043901Z">
+        <seg>展示用卵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Display board</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T032021Z" creationid="yumas" creationdate="20240812T032021Z">
@@ -25184,8 +25192,32 @@
       <tuv lang="en-GB">
         <seg>Easter egg</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240809T065424Z" creationid="2008l" creationdate="20240809T065424Z">
-        <seg>イースターの卵</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T043809Z" creationid="2008l" creationdate="20240809T065424Z">
+        <seg>イースターエッグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Easter egg rock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T043816Z" creationid="yumas" creationdate="20240815T043756Z">
+        <seg>イースターエッグの岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Easter mine cart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T043821Z" creationid="yumas" creationdate="20240815T043821Z">
+        <seg>イースターのトロッコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Easter tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T043908Z" creationid="yumas" creationdate="20240815T043908Z">
+        <seg>イースターの木</seg>
       </tuv>
     </tu>
     <tu>
@@ -25386,6 +25418,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T011415Z" creationid="yumas" creationdate="20240809T011415Z">
         <seg>卵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Egg Plinth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T043912Z" creationid="yumas" creationdate="20240815T043912Z">
+        <seg>卵の台座</seg>
       </tuv>
     </tu>
     <tu>
@@ -32242,6 +32282,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T050734Z" creationid="yumas" creationdate="20240810T050734Z">
         <seg>巨大な水晶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Giant display egg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T043854Z" creationid="yumas" creationdate="20240815T043854Z">
+        <seg>巨大な卵の展示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Giant egg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T043834Z" creationid="yumas" creationdate="20240815T043834Z">
+        <seg>巨大な卵</seg>
       </tuv>
     </tu>
     <tu>
@@ -57798,6 +57854,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pile of chocolate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T043741Z" creationid="yumas" creationdate="20240815T043741Z">
+        <seg>チョコレートの山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pile of coal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T143049Z" creationid="yumas" creationdate="20240814T143049Z">
@@ -57806,10 +57870,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pile of eggs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T043829Z" creationid="yumas" creationdate="20240815T043829Z">
+        <seg>卵の山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pile of equipment</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T035205Z" creationid="yumas" creationdate="20240815T035205Z">
         <seg>装備品の山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pile of fake eggs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T043846Z" creationid="yumas" creationdate="20240815T043846Z">
+        <seg>偽の卵の山</seg>
       </tuv>
     </tu>
     <tu>
@@ -74254,6 +74334,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stolen Eggs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T043838Z" creationid="yumas" creationdate="20240815T043838Z">
+        <seg>盗まれた卵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stolen cabbage</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T040721Z" creationid="yumas" creationdate="20240815T040721Z">
@@ -87716,6 +87804,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T012527Z" creationid="yumas" creationdate="20240809T012527Z">
         <seg>ゾンビの頭部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zombie Pirate's Locker</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T043931Z" creationid="yumas" creationdate="20240815T043931Z">
+        <seg>海賊ゾンビのロッカー</seg>
       </tuv>
     </tu>
     <tu>
