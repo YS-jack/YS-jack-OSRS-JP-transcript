@@ -2696,8 +2696,8 @@
       <tuv lang="en-GB">
         <seg>Ancient Icon</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240815T022902Z" creationid="yumas" creationdate="20240815T022902Z">
-        <seg>古代の紋章</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T042331Z" creationid="yumas" creationdate="20240815T022902Z">
+        <seg>古代の肖像</seg>
       </tuv>
     </tu>
     <tu>
@@ -4034,6 +4034,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T093151Z" creationid="yumas" creationdate="20240812T093151Z">
         <seg>鎧の展示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Armour of the Cloud Titan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T042450Z" creationid="yumas" creationdate="20240815T042450Z">
+        <seg>クラウド・タイタンの鎧</seg>
       </tuv>
     </tu>
     <tu>
@@ -17506,6 +17514,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T052341Z" creationid="yumas" creationdate="20240811T052341Z">
         <seg>柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Column of Imafore's Betrayal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T042421Z" creationid="yumas" creationdate="20240815T042421Z">
+        <seg>イマフォーの裏切りの柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Column of Kourend</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T042355Z" creationid="yumas" creationdate="20240815T042355Z">
+        <seg>クーレンドの柱</seg>
       </tuv>
     </tu>
     <tu>
@@ -38488,8 +38512,8 @@
       <tuv lang="en-GB">
         <seg>Icon of Guthix</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T014714Z" creationid="yumas" creationdate="20240812T014714Z">
-        <seg>ガシックスのアイコン</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T042311Z" creationid="yumas" creationdate="20240812T014714Z">
+        <seg>ガシックスの肖像</seg>
       </tuv>
     </tu>
     <tu>
@@ -38504,24 +38528,24 @@
       <tuv lang="en-GB">
         <seg>Icon of Saradomin</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T014620Z" creationid="yumas" creationdate="20240812T014620Z">
-        <seg>サラドミンのアイコン</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T042257Z" creationid="yumas" creationdate="20240812T014620Z">
+        <seg>サラドミンの肖像</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Icon of Zamorak</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T014644Z" creationid="yumas" creationdate="20240812T014644Z">
-        <seg>ザモラックのアイコン</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T042302Z" creationid="yumas" creationdate="20240812T014644Z">
+        <seg>ザモラックの肖像</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Icon space</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T030449Z" creationid="yumas" creationdate="20240812T030449Z">
-        <seg>アイコンのスペース</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T042249Z" creationid="yumas" creationdate="20240812T030449Z">
+        <seg>肖像のスペース</seg>
       </tuv>
     </tu>
     <tu>
@@ -54418,6 +54442,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T110352Z" creationid="yumas" creationdate="20240813T110352Z">
         <seg>古い記念碑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Old One Statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T042622Z" creationid="yumas" creationdate="20240815T042622Z">
+        <seg>古いモノの像</seg>
       </tuv>
     </tu>
     <tu>
