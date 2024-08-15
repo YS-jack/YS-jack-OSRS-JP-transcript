@@ -14136,8 +14136,8 @@
       <tuv lang="en-GB">
         <seg>Cell tile (broken)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240814T132807Z" creationid="yumas" creationdate="20240814T132807Z">
-        <seg>セルのタイル（損傷）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T030140Z" creationid="yumas" creationdate="20240814T132807Z">
+        <seg>セルのタイル（壊）</seg>
       </tuv>
     </tu>
     <tu>
@@ -18178,6 +18178,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T064454Z" creationid="yumas" creationdate="20240809T064454Z">
         <seg>私掠船の裏切者（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cosmic Axon Terminal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T030032Z" creationid="yumas" creationdate="20240815T030032Z">
+        <seg>宇宙のの軸索終末</seg>
       </tuv>
     </tu>
     <tu>
@@ -24314,6 +24322,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T105357Z" creationid="yumas" creationdate="20240813T105357Z">
         <seg>ダスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dust Nerve Ending (Broken)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T030331Z" creationid="yumas" creationdate="20240815T030246Z">
+        <seg>塵の神経の終端（壊）</seg>
       </tuv>
     </tu>
     <tu>
@@ -51750,6 +51766,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Nature Axon Terminal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T030028Z" creationid="yumas" creationdate="20240815T030028Z">
+        <seg>自然のの軸索終末</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Nature Energy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T133036Z" creationid="yumas" creationdate="20240814T133036Z">
@@ -70286,6 +70310,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Smoke Nerve Ending (Broken)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T030132Z" creationid="yumas" creationdate="20240815T030132Z">
+        <seg>煙の神経の終端（壊）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Smoke Totem</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T012416Z" creationid="yumas" creationdate="20240810T012416Z">
@@ -72458,6 +72490,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T072848Z" creationid="yumas" creationdate="20240814T072848Z">
         <seg>蒸気発生器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steam Nerve Ending (Broken)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T030236Z" creationid="yumas" creationdate="20240815T030236Z">
+        <seg>蒸気の神経の終端（壊）</seg>
       </tuv>
     </tu>
     <tu>
@@ -79468,6 +79508,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T132951Z" creationid="yumas" creationdate="20240730T132951Z">
         <seg>トリック・オア・トリート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Triggered Axon Terminal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T030040Z" creationid="yumas" creationdate="20240815T030040Z">
+        <seg>発動した軸索終末</seg>
       </tuv>
     </tu>
     <tu>
