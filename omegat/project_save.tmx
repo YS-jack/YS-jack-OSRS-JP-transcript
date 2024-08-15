@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Abyssal Portal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T023354Z" creationid="yumas" creationdate="20240815T023354Z">
+        <seg>深淵のポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Abyssal Rift</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T120027Z" creationid="yumas" creationdate="20240812T120027Z">
@@ -9646,6 +9654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Brain matter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T023452Z" creationid="yumas" creationdate="20240815T023452Z">
+        <seg>脳実質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Brambickle</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T123955Z" creationid="yumas" creationdate="20240806T123955Z">
@@ -9958,6 +9974,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken Boat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T023355Z" creationid="yumas" creationdate="20240815T023355Z">
+        <seg>壊れたボート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken Boaty</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T022537Z" creationid="yumas" creationdate="20240815T022537Z">
@@ -10114,6 +10138,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T115444Z" creationid="yumas" creationdate="20240814T115444Z">
         <seg>壊れた鏡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken Nerve Ending</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T023342Z" creationid="yumas" creationdate="20240815T023342Z">
+        <seg>壊れた神経の終端</seg>
       </tuv>
     </tu>
     <tu>
@@ -16658,6 +16690,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T123959Z" creationid="yumas" creationdate="20240811T123959Z">
         <seg>閉じた宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Closed Passage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T023353Z" creationid="yumas" creationdate="20240815T023353Z">
+        <seg>閉められた通路</seg>
       </tuv>
     </tu>
     <tu>
@@ -25570,6 +25610,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T123217Z" creationid="yumas" creationdate="20240803T123217Z">
         <seg>皿をキレイにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Empty Nerve Ending</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T023344Z" creationid="yumas" creationdate="20240815T023344Z">
+        <seg>空の神経の終端</seg>
       </tuv>
     </tu>
     <tu>
@@ -51838,10 +51886,66 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Nerve</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T023455Z" creationid="yumas" creationdate="20240815T023455Z">
+        <seg>神経</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nerve Ending (Air)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T023323Z" creationid="yumas" creationdate="20240815T023323Z">
+        <seg>神経の終端（大気）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Nerve Ending (Earth)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T023309Z" creationid="yumas" creationdate="20240815T023309Z">
         <seg>神経の終端（土）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nerve Ending (Fire)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T023331Z" creationid="yumas" creationdate="20240815T023331Z">
+        <seg>神経の終端（火）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nerve Ending (Mind)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T023336Z" creationid="yumas" creationdate="20240815T023336Z">
+        <seg>神経の終端（心）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nerve Ending (Water)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T023327Z" creationid="yumas" creationdate="20240815T023327Z">
+        <seg>神経の終端（水）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nerve formation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T023728Z" creationid="yumas" creationdate="20240815T023728Z">
+        <seg>神経の形成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nerves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T023455Z" creationid="yumas" creationdate="20240815T023455Z">
+        <seg>神経</seg>
       </tuv>
     </tu>
     <tu>
