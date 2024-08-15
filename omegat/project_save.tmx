@@ -6078,6 +6078,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Barrel stack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T034604Z" creationid="yumas" creationdate="20240815T034604Z">
+        <seg>積まれた樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Barrelchest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053530Z" creationid="yumas" creationdate="20240805T053530Z">
@@ -7930,6 +7938,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T011641Z" creationid="yumas" creationdate="20240812T011641Z">
         <seg>鍛冶屋の道具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blackstone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T034624Z" creationid="yumas" creationdate="20240815T034624Z">
+        <seg>ブラックストーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -12470,10 +12486,18 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Caged Killerwatt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T034703Z" creationid="yumas" creationdate="20240815T034703Z">
+        <seg>檻に捕らわれたキラーワット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Caged Prisoner</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240814T114330Z" creationid="yumas" creationdate="20240814T113749Z">
-        <seg>檻に入れられた囚人</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T034709Z" creationid="yumas" creationdate="20240814T113749Z">
+        <seg>檻に捕らわれた囚人</seg>
       </tuv>
     </tu>
     <tu>
@@ -37638,6 +37662,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Human detection spell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T034643Z" creationid="yumas" creationdate="20240815T034643Z">
+        <seg>人間検知の魔法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Human food</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T030826Z" creationid="yumas" creationdate="20240815T030826Z">
@@ -50794,6 +50826,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T073037Z" creationid="yumas" creationdate="20240813T072943Z">
         <seg>装着された守備力マント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mounted Dizana's Max Cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T034929Z" creationid="yumas" creationdate="20240815T034929Z">
+        <seg>装着されたディザナのマックス・マント</seg>
       </tuv>
     </tu>
     <tu>
@@ -84084,6 +84124,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240727T065748Z">
         <seg>武器庫のカギ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weapon table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T034632Z" creationid="yumas" creationdate="20240815T034632Z">
+        <seg>武器のテーブル</seg>
       </tuv>
     </tu>
     <tu>
