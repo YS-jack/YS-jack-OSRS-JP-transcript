@@ -7342,6 +7342,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bird bath</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T041000Z" creationid="yumas" creationdate="20240815T041000Z">
+        <seg>バードバス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bird cage stand</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T094738Z" creationid="yumas" creationdate="20240811T094738Z">
@@ -32430,6 +32438,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Glass case</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040937Z" creationid="yumas" creationdate="20240815T040937Z">
+        <seg>ガラスケース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Glass door</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T025027Z" creationid="yumas" creationdate="20240811T025027Z">
@@ -40506,6 +40522,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T071040Z" creationid="yumas" creationdate="20240813T071040Z">
         <seg>宝石箱のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jewellery case</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040941Z" creationid="yumas" creationdate="20240815T040941Z">
+        <seg>宝石ケース</seg>
       </tuv>
     </tu>
     <tu>
@@ -61334,6 +61358,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ravine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040817Z" creationid="yumas" creationdate="20240815T040817Z">
+        <seg>渓谷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Raw anchovies</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T052905Z" creationid="2008l" creationdate="20240723T062400Z">
@@ -69158,6 +69190,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shrine of Ralos</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T041005Z" creationid="yumas" creationdate="20240815T041005Z">
+        <seg>ラロスの聖堂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shrivelled plant</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T083157Z" creationid="yumas" creationdate="20240814T083157Z">
@@ -72078,6 +72118,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Spikey bush</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040714Z" creationid="yumas" creationdate="20240815T040714Z">
+        <seg>トゲの低木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Spikey chain</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T035107Z" creationid="yumas" creationdate="20240812T035107Z">
@@ -73118,10 +73166,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Statue of Atlazora</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040859Z" creationid="yumas" creationdate="20240815T040859Z">
+        <seg>アトラゾラ像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Statue of Baxtorian</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T084910Z" creationid="yumas" creationdate="20240814T084910Z">
         <seg>バクストリアン像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Statue of Dizana</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040913Z" creationid="yumas" creationdate="20240815T040913Z">
+        <seg>ディザナ像</seg>
       </tuv>
     </tu>
     <tu>
@@ -73142,10 +73206,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Statue of Marhuitz</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040904Z" creationid="yumas" creationdate="20240815T040904Z">
+        <seg>マーフイッツ像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Statue of Quoatlos</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040850Z" creationid="yumas" creationdate="20240815T040850Z">
+        <seg>コアトロス像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Statue of Saradomin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T081112Z" creationid="yumas" creationdate="20240810T081112Z">
         <seg>サラドミンの像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Statue of Taur</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040933Z" creationid="yumas" creationdate="20240815T040933Z">
+        <seg>トー像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Statue of Xerna</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040854Z" creationid="yumas" creationdate="20240815T040854Z">
+        <seg>ゼーナ像</seg>
       </tuv>
     </tu>
     <tu>
@@ -73858,6 +73954,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T082715Z" creationid="yumas" creationdate="20240810T082715Z">
         <seg>ストック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stolen cabbage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040721Z" creationid="yumas" creationdate="20240815T040721Z">
+        <seg>盗まれたキャベツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -85828,6 +85932,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T042715Z" creationid="yumas" creationdate="20240805T042715Z">
         <seg>オオカミ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wolf Den</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040832Z" creationid="yumas" creationdate="20240815T040832Z">
+        <seg>オオカミの巣</seg>
       </tuv>
     </tu>
     <tu>
