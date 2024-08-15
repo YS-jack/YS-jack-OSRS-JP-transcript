@@ -2678,6 +2678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ancient Tablet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T020525Z" creationid="yumas" creationdate="20240815T020525Z">
+        <seg>古代のタブレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ancient Wizard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T045249Z" creationid="yumas" creationdate="20240809T045249Z">
@@ -10066,6 +10074,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T115624Z" creationid="yumas" creationdate="20240814T115624Z">
         <seg>壊れた古い本棚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broken Pillar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T020525Z" creationid="yumas" creationdate="20240815T020525Z">
+        <seg>壊れた柱</seg>
       </tuv>
     </tu>
     <tu>
@@ -18018,6 +18034,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T055615Z" creationid="yumas" creationdate="20240809T055615Z">
         <seg>変異したスカベンジャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Corrupted seed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T020523Z" creationid="yumas" creationdate="20240815T020523Z">
+        <seg>変異した種</seg>
       </tuv>
     </tu>
     <tu>
@@ -27586,6 +27610,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070618Z" creationid="yumas" creationdate="20240805T070618Z">
         <seg>フェード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fermentation Vat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T020413Z" creationid="yumas" creationdate="20240815T020413Z">
+        <seg>発酵槽</seg>
       </tuv>
     </tu>
     <tu>
@@ -54696,8 +54728,8 @@
       <tuv lang="en-GB">
         <seg>Pan</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240730T214048Z" creationid="yumas" creationdate="20240730T214026Z">
-        <seg>でフルイにかける</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T020539Z" creationid="yumas" creationdate="20240730T214026Z">
+        <seg>フライパン</seg>
       </tuv>
     </tu>
     <tu>
@@ -61770,6 +61802,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T074457Z" creationid="yumas" creationdate="20240809T074457Z">
         <seg>レジスタンスの戦士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Resper mushrooms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T020411Z" creationid="yumas" creationdate="20240815T020411Z">
+        <seg>レスパーダケ</seg>
       </tuv>
     </tu>
     <tu>
@@ -76088,6 +76128,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tendril</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T020526Z" creationid="yumas" creationdate="20240815T020526Z">
+        <seg>ツル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tendrils</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T110207Z" creationid="yumas" creationdate="20240812T110207Z">
@@ -86242,6 +86290,17 @@
     </tu>
     <tu>
       <prop type="file">transcript_jp_actions.xliff</prop>
+      <prop type="id">41674</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Pan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T020549Z" creationid="yumas" creationdate="20240815T020549Z">
+        <seg>でフルイにかける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_actions.xliff</prop>
       <prop type="id">41710</prop>
       <prop type="path">//transcript.db</prop>
       <tuv lang="en-GB">
@@ -87437,6 +87496,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T084935Z" creationid="yumas" creationdate="20240814T084935Z">
         <seg>パック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_jp_name_object.xliff</prop>
+      <prop type="id">18609</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Extremity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T020519Z" creationid="yumas" creationdate="20240815T020519Z">
+        <seg>エクストレミティー</seg>
       </tuv>
     </tu>
   </body>
