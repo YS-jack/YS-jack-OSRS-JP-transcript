@@ -1710,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Alarm button</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T030834Z" creationid="yumas" creationdate="20240815T030834Z">
+        <seg>アラームのボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Albino bat</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070150Z" creationid="yumas" creationdate="20240805T070150Z">
@@ -9426,6 +9434,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T114856Z" creationid="yumas" creationdate="20240808T114856Z">
         <seg>ボロカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Boss Spawn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T030738Z" creationid="yumas" creationdate="20240815T030738Z">
+        <seg>ボスのスポーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -21714,6 +21730,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T110211Z" creationid="yumas" creationdate="20240730T110211Z">
         <seg>にバケツを預ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Deposit pot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T030820Z" creationid="yumas" creationdate="20240815T030820Z">
+        <seg>壺型の金庫</seg>
       </tuv>
     </tu>
     <tu>
@@ -37410,6 +37434,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T231417Z" creationid="yumas" creationdate="20240811T231417Z">
         <seg>人類の旗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Human food</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T030826Z" creationid="yumas" creationdate="20240815T030826Z">
+        <seg>人間の食べ物</seg>
       </tuv>
     </tu>
     <tu>
@@ -85804,6 +85836,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T013836Z" creationid="yumas" creationdate="20240810T013836Z">
         <seg>技術者のユーノック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yewnock's exchanger</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T031048Z" creationid="yumas" creationdate="20240815T031048Z">
+        <seg>ユーノックの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yewnock's machine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T030856Z" creationid="yumas" creationdate="20240815T030856Z">
+        <seg>ユーノックの機械</seg>
       </tuv>
     </tu>
     <tu>
