@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Acacia tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040646Z" creationid="yumas" creationdate="20240815T040646Z">
+        <seg>アカシアの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Academic</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T025704Z" creationid="yumas" creationdate="20240810T025704Z">
@@ -25998,10 +26006,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Empty Food Barrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040603Z" creationid="yumas" creationdate="20240815T040603Z">
+        <seg>空の食糧樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Empty Food Pot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040556Z" creationid="yumas" creationdate="20240815T040556Z">
+        <seg>空の食糧鍋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Empty Food basket</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240815T040405Z" creationid="yumas" creationdate="20240815T040405Z">
-        <seg>空の食べ物かご</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040412Z" creationid="yumas" creationdate="20240815T040405Z">
+        <seg>空の食べ物カゴ</seg>
       </tuv>
     </tu>
     <tu>
@@ -43162,6 +43186,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T035159Z" creationid="yumas" creationdate="20240815T035159Z">
         <seg>着陸地点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Landing Spot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040621Z" creationid="yumas" creationdate="20240815T040621Z">
+        <seg>着地地点</seg>
       </tuv>
     </tu>
     <tu>
@@ -60382,6 +60414,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Quetzal Nest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040611Z" creationid="yumas" creationdate="20240815T040611Z">
+        <seg>クエッツァルの巣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Quetzin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T021214Z" creationid="yumas" creationdate="20240810T021214Z">
@@ -74090,6 +74130,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T132204Z" creationid="yumas" creationdate="20240807T132204Z">
         <seg>石工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stonepine tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040710Z" creationid="yumas" creationdate="20240815T040710Z">
+        <seg>カラカサマツの木</seg>
       </tuv>
     </tu>
     <tu>
