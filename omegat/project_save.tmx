@@ -30846,6 +30846,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gas</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T031057Z" creationid="yumas" creationdate="20240815T031057Z">
+        <seg>ガス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gas bubble</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T023824Z" creationid="yumas" creationdate="20240812T023824Z">
@@ -30866,6 +30874,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T054602Z" creationid="yumas" creationdate="20240811T054602Z">
         <seg>ガス噴出口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gas jet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T031111Z" creationid="yumas" creationdate="20240815T031111Z">
+        <seg>ガスジェット</seg>
       </tuv>
     </tu>
     <tu>
@@ -55398,6 +55414,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Parted tree roots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T031242Z" creationid="yumas" creationdate="20240815T031242Z">
+        <seg>裂けた木の根</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Partial fence</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T124614Z" creationid="yumas" creationdate="20240811T124614Z">
@@ -67078,6 +67102,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Secure door</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T031209Z" creationid="yumas" creationdate="20240815T031209Z">
+        <seg>固定されたドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Security Barrier</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T125626Z" creationid="yumas" creationdate="20240814T125626Z">
@@ -67506,6 +67538,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T023414Z" creationid="yumas" creationdate="20240812T023414Z">
         <seg>下水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sewer entrance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T031114Z" creationid="yumas" creationdate="20240815T031114Z">
+        <seg>下水の入口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sewer exit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T031055Z" creationid="yumas" creationdate="20240815T031055Z">
+        <seg>下水の出口</seg>
       </tuv>
     </tu>
     <tu>
@@ -83040,6 +83088,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Warped tree roots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T031213Z" creationid="yumas" creationdate="20240815T031213Z">
+        <seg>歪んだ木の根</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Warrant</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T072559Z" creationid="2008l" creationdate="20240805T072559Z">
@@ -85842,8 +85898,8 @@
       <tuv lang="en-GB">
         <seg>Yewnock's exchanger</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240815T031048Z" creationid="yumas" creationdate="20240815T031048Z">
-        <seg>ユーノックの</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T031156Z" creationid="yumas" creationdate="20240815T031048Z">
+        <seg>ユーノックの交換器</seg>
       </tuv>
     </tu>
     <tu>
