@@ -6054,6 +6054,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Barrel of ale</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040233Z" creationid="yumas" creationdate="20240815T040233Z">
+        <seg>エールの樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Barrel of fish</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T132626Z" creationid="yumas" creationdate="20240812T132626Z">
@@ -6738,6 +6746,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T064658Z" creationid="2008l" creationdate="20240809T064658Z">
         <seg>ビールグラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Beer taps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040352Z" creationid="yumas" creationdate="20240815T040352Z">
+        <seg>ハチトラップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -25982,6 +25998,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Empty Food basket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040405Z" creationid="yumas" creationdate="20240815T040405Z">
+        <seg>空の食べ物かご</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Empty Nerve Ending</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T023344Z" creationid="yumas" creationdate="20240815T023344Z">
@@ -29810,6 +29834,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T043231Z" creationid="yumas" creationdate="20240811T043231Z">
         <seg>エサ入れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Food basket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040356Z" creationid="yumas" creationdate="20240815T040356Z">
+        <seg>食べ物カゴ</seg>
       </tuv>
     </tu>
     <tu>
@@ -35214,6 +35246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Guildmaster's chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040347Z" creationid="yumas" creationdate="20240815T040347Z">
+        <seg>ギルドマスターの宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Guilin</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T080155Z" creationid="yumas" creationdate="20240809T080155Z">
@@ -36818,6 +36858,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T120136Z" creationid="yumas" creationdate="20240811T120136Z">
         <seg>薬草の小区画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Herbalist stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040211Z" creationid="yumas" creationdate="20240815T040211Z">
+        <seg>漢方医の屋台</seg>
       </tuv>
     </tu>
     <tu>
@@ -50502,6 +50550,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Moonlight Antelope Trophy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040341Z" creationid="yumas" creationdate="20240815T040341Z">
+        <seg>月光アンテロープのトロフィー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Moonlight Cockatrice</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T023848Z" creationid="yumas" creationdate="20240810T023848Z">
@@ -57254,6 +57310,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pickaxe of the Lost</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040332Z" creationid="yumas" creationdate="20240815T040332Z">
+        <seg>失われし者のツルハシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pickaxe stall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040216Z" creationid="yumas" creationdate="20240815T040216Z">
+        <seg>ツルハシの屋台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Picket fence</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T053107Z" creationid="yumas" creationdate="20240811T053107Z">
@@ -58730,6 +58802,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T031632Z" creationid="yumas" creationdate="20240811T031632Z">
         <seg>ポスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Posters &amp; notices</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040256Z" creationid="yumas" creationdate="20240815T040256Z">
+        <seg>ポスターと通知</seg>
       </tuv>
     </tu>
     <tu>
@@ -77900,6 +77980,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T010838Z" creationid="yumas" creationdate="20240810T010838Z">
         <seg>ザ・リヴァイアサン？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Lost Pickaxe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T040251Z" creationid="yumas" creationdate="20240815T040251Z">
+        <seg>失われたツルハシ</seg>
       </tuv>
     </tu>
     <tu>
