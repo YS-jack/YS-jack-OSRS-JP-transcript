@@ -2614,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ancient Icon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T022902Z" creationid="yumas" creationdate="20240815T022902Z">
+        <seg>古代の紋章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ancient Incubator</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T114028Z" creationid="yumas" creationdate="20240813T114028Z">
@@ -24942,6 +24950,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Elder Horn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T022840Z" creationid="yumas" creationdate="20240815T022840Z">
+        <seg>長老の角笛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Elderly Elf</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T074709Z" creationid="yumas" creationdate="20240809T074709Z">
@@ -35502,6 +35518,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Harness</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T023037Z" creationid="yumas" creationdate="20240815T023037Z">
+        <seg>ハーネス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Harold</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120557Z" creationid="yumas" creationdate="20240808T120557Z">
@@ -36946,6 +36970,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T020832Z" creationid="yumas" creationdate="20240810T020832Z">
         <seg>ホーダル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Horn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T022831Z" creationid="yumas" creationdate="20240815T022831Z">
+        <seg>角笛</seg>
       </tuv>
     </tu>
     <tu>
@@ -72822,6 +72854,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stone chest (empty)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T022813Z" creationid="yumas" creationdate="20240815T022813Z">
+        <seg>石の宝箱（空）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stone chest (locked)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T022738Z" creationid="yumas" creationdate="20240815T022738Z">
+        <seg>石の宝箱（閉）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stone circle wall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T043211Z" creationid="yumas" creationdate="20240812T043211Z">
@@ -83460,6 +83508,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T052530Z" creationid="yumas" creationdate="20240811T052530Z">
         <seg>手押し車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wheelchair</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240815T022906Z" creationid="yumas" creationdate="20240815T022906Z">
+        <seg>車いす</seg>
       </tuv>
     </tu>
     <tu>
