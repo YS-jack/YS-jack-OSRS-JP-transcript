@@ -7870,6 +7870,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black platebody (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180048Z" creationid="2008l" creationdate="20240818T180048Z">
+        <seg>黒鉄の胸甲（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black platelegs</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071236Z" creationid="2008l" creationdate="20240729T203943Z">
@@ -66726,6 +66734,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T175106Z" creationid="2008l" creationdate="20240818T175106Z">
+        <seg>帆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sailfish</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T044956Z" creationid="yumas" creationdate="20240812T044956Z">
@@ -76425,6 +76441,14 @@
         <seg>Swing-on</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T220538Z" creationid="yumas" creationdate="20240730T220538Z">
+        <seg>振り渡る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Swings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T175140Z" creationid="2008l" creationdate="20240818T175140Z">
         <seg>振り渡る</seg>
       </tuv>
     </tu>
@@ -88207,6 +88231,17 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">transcript_ja_name_item.xliff</prop>
+      <prop type="id">957</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Shears</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T175350Z" creationid="2008l" creationdate="20240818T175350Z">
+        <seg>鋏</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">transcript_jp_actions.xliff</prop>
       <prop type="id">109748</prop>
