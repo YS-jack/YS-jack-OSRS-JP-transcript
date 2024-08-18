@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Achey tree logs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182503Z" creationid="2008l" creationdate="20240818T182503Z">
+        <seg>アチーの丸太</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Achietties</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T235450Z" creationid="yumas" creationdate="20240808T235450Z">
@@ -13982,6 +13990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Casket (medium)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182237Z" creationid="2008l" creationdate="20240818T182237Z">
+        <seg>木箱（中級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cassie</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134542Z" creationid="yumas" creationdate="20240807T134542Z">
@@ -14954,6 +14970,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T123015Z" creationid="yumas" creationdate="20240812T123015Z">
         <seg>挑戦のポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Challenge scroll (medium)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182400Z" creationid="2008l" creationdate="20240818T182400Z">
+        <seg>チャレンジの巻物（中級）</seg>
       </tuv>
     </tu>
     <tu>
@@ -17378,6 +17402,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240818T182043Z" creationid="2008l" creationdate="20240818T182043Z">
         <seg>宝探しの巻物（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Clue scroll (medium)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182229Z" creationid="2008l" creationdate="20240818T182229Z">
+        <seg>宝探しの巻物（中級）</seg>
       </tuv>
     </tu>
     <tu>
@@ -42410,6 +42442,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240722T062701Z">
         <seg>カギ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Key (medium)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182244Z" creationid="2008l" creationdate="20240818T182244Z">
+        <seg>鍵（中級）</seg>
       </tuv>
     </tu>
     <tu>
@@ -86816,10 +86856,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wolf bones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182409Z" creationid="2008l" creationdate="20240818T182409Z">
+        <seg>オオカミの骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Wolfbone</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T070935Z" creationid="yumas" creationdate="20240809T070909Z">
         <seg>オオカミの骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wolfbone arrowtips</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182432Z" creationid="2008l" creationdate="20240818T182432Z">
+        <seg>オオカミ骨の矢じり</seg>
       </tuv>
     </tu>
     <tu>
