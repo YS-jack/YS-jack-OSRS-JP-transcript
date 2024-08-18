@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adamant full helm (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180559Z" creationid="2008l" creationdate="20240818T180559Z">
+        <seg>アダマントの全頭甲（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant javelin</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T150138Z" creationid="2008l" creationdate="20240728T060831Z">
@@ -1010,6 +1018,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071528Z" creationid="2008l" creationdate="20240730T071528Z">
         <seg>アダマントのタコ盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant kiteshield (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180539Z" creationid="2008l" creationdate="20240818T180539Z">
+        <seg>アダマントのタコ盾（縁）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,10 +1102,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adamant platebody (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180619Z" creationid="2008l" creationdate="20240818T180619Z">
+        <seg>アダマントの胸甲（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant platebody (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180509Z" creationid="2008l" creationdate="20240818T180509Z">
+        <seg>アダマントの胸甲（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant platelegs</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T203936Z" creationid="2008l" creationdate="20240729T203936Z">
         <seg>アダマントの脚甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant platelegs (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180523Z" creationid="2008l" creationdate="20240818T180523Z">
+        <seg>アダマントの脚甲（縁）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7774,6 +7814,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black full helm (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180421Z" creationid="2008l" creationdate="20240818T180421Z">
+        <seg>黒鉄の全頭甲（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black full helm (t)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240818T180204Z" creationid="2008l" creationdate="20240818T180204Z">
@@ -7810,6 +7858,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071516Z" creationid="2008l" creationdate="20240730T071516Z">
         <seg>黒鉄のタコ盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black kiteshield (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180438Z" creationid="2008l" creationdate="20240818T180438Z">
+        <seg>黒鉄のタコ盾（金）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7906,6 +7962,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071236Z" creationid="2008l" creationdate="20240729T203943Z">
         <seg>黒鉄の脚甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black platelegs (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180403Z" creationid="2008l" creationdate="20240818T180403Z">
+        <seg>黒鉄の脚甲（金）</seg>
       </tuv>
     </tu>
     <tu>
