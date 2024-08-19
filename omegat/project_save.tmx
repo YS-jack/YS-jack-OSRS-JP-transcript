@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>A used spell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T064743Z" creationid="2008l" creationdate="20240819T064743Z">
+        <seg>使い古しの魔法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>A wall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T011841Z" creationid="yumas" creationdate="20240812T011841Z">
@@ -24798,6 +24806,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Druidic spell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T064637Z" creationid="2008l" creationdate="20240819T064637Z">
+        <seg>ドルイドの魔法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Drummer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T125453Z" creationid="yumas" creationdate="20240813T125453Z">
@@ -41502,6 +41518,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Journal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T064613Z" creationid="2008l" creationdate="20240819T064613Z">
+        <seg>日記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jubbly bird</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T235035Z" creationid="yumas" creationdate="20240808T235028Z">
@@ -50544,7 +50568,7 @@
       <tuv lang="en-GB">
         <seg>Mirror</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T055906Z" creationid="yumas" creationdate="20240809T055906Z">
+      <tuv lang="ja" changeid="2008l" changedate="20240819T064609Z" creationid="2008l" creationdate="20240819T064609Z">
         <seg>鏡</seg>
       </tuv>
     </tu>
@@ -51498,6 +51522,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T085232Z" creationid="yumas" creationdate="20240809T085232Z">
         <seg>モート・ナイトシェード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mort myre fungus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T064906Z" creationid="2008l" creationdate="20240819T064906Z">
+        <seg>モート・マイヤーのキノコ</seg>
       </tuv>
     </tu>
     <tu>
@@ -85330,8 +85362,8 @@
       <tuv lang="en-GB">
         <seg>Washing bowl</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240819T064556Z" creationid="2008l" creationdate="20240819T064556Z">
-        <seg>り</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T064607Z" creationid="2008l" creationdate="20240819T064556Z">
+        <seg>洗濯のボール</seg>
       </tuv>
     </tu>
     <tu>
