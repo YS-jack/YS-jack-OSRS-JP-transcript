@@ -1550,6 +1550,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Agility potion(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065922Z" creationid="2008l" creationdate="20240819T065922Z">
+        <seg>運動神経の増強薬（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Agility potion(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065920Z" creationid="2008l" creationdate="20240819T065920Z">
+        <seg>運動神経の増強薬（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Agility potion(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065919Z" creationid="2008l" creationdate="20240819T065919Z">
+        <seg>運動神経の増強薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Agility potion(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065917Z" creationid="2008l" creationdate="20240819T065917Z">
+        <seg>運動神経の増強薬（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Agitated bees</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T083925Z" creationid="yumas" creationdate="20240809T083925Z">
@@ -35246,10 +35278,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Grimy snapdragon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070005Z" creationid="2008l" creationdate="20240819T070005Z">
+        <seg>汚れたスナップドラゴン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Grimy tarromin</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T070424Z" creationid="2008l" creationdate="20240721T070424Z">
         <seg>汚れたタロミン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grimy toadflax</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065955Z" creationid="2008l" creationdate="20240819T065955Z">
+        <seg>汚れたトードフラックス</seg>
       </tuv>
     </tu>
     <tu>
@@ -45118,6 +45166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lava battlestaff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070040Z" creationid="2008l" creationdate="20240819T070040Z">
+        <seg>溶岩の戦杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lava beast</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T062832Z" creationid="yumas" creationdate="20240809T062832Z">
@@ -48122,6 +48178,38 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T072446Z" creationid="2008l" creationdate="20240810T072446Z">
         <seg>魔法のオーガ薬液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic potion(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065946Z" creationid="2008l" creationdate="20240819T065946Z">
+        <seg>魔法の増強薬（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic potion(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065944Z" creationid="2008l" creationdate="20240819T065944Z">
+        <seg>魔法の増強薬（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic potion(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065941Z" creationid="2008l" creationdate="20240819T065941Z">
+        <seg>魔法の増強薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic potion(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065937Z" creationid="2008l" creationdate="20240819T065937Z">
+        <seg>魔法の増強薬（４）</seg>
       </tuv>
     </tu>
     <tu>
@@ -76794,6 +76882,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T121306Z" creationid="yumas" creationdate="20240812T121246Z">
         <seg>超弓薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super restore(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065847Z" creationid="2008l" creationdate="20240819T065847Z">
+        <seg>超回復薬（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super restore(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065840Z" creationid="2008l" creationdate="20240819T065840Z">
+        <seg>超回復薬（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super restore(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065833Z" creationid="2008l" creationdate="20240819T065833Z">
+        <seg>超回復薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super restore(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065823Z" creationid="2008l" creationdate="20240819T065823Z">
+        <seg>超回復薬（４）</seg>
       </tuv>
     </tu>
     <tu>
