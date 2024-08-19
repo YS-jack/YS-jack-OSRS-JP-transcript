@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adamant claws</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070408Z" creationid="2008l" creationdate="20240819T070408Z">
+        <seg>アダマントのクローズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant dagger</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071924Z" creationid="2008l" creationdate="20240730T071924Z">
@@ -7822,6 +7830,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black claws</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070403Z" creationid="2008l" creationdate="20240819T070403Z">
+        <seg>黒鉄のクローズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black cog</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240716T074458Z" creationid="2008l" creationdate="20240716T074458Z">
@@ -11466,6 +11482,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204131Z" creationid="2008l" creationdate="20240729T204131Z">
         <seg>銅の鎖甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze claws</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070348Z" creationid="2008l" creationdate="20240819T070348Z">
+        <seg>銅のクローズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -17226,6 +17250,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T042911Z" creationid="yumas" creationdate="20240811T042911Z">
         <seg>登る用のロープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Climbing boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070639Z" creationid="2008l" creationdate="20240819T070639Z">
+        <seg>クライミング用靴</seg>
       </tuv>
     </tu>
     <tu>
@@ -40166,6 +40198,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Iou</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070535Z" creationid="2008l" creationdate="20240819T070535Z">
+        <seg>借用書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Irena</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T133748Z" creationid="yumas" creationdate="20240808T133748Z">
@@ -40290,6 +40330,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204128Z" creationid="2008l" creationdate="20240729T204128Z">
         <seg>鉄の鎖甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iron claws</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070350Z" creationid="2008l" creationdate="20240819T070350Z">
+        <seg>鉄のクローズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -50906,6 +50954,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204141Z" creationid="2008l" creationdate="20240729T204141Z">
         <seg>ミスリルの鎖甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mithril claws</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070406Z" creationid="2008l" creationdate="20240819T070406Z">
+        <seg>ミスリルのクローズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -66958,6 +67014,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rune claws</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070415Z" creationid="2008l" creationdate="20240819T070415Z">
+        <seg>ルーンのクローズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rune dagger</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071927Z" creationid="2008l" creationdate="20240730T071927Z">
@@ -69170,6 +69234,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T003814Z" creationid="yumas" creationdate="20240812T003814Z">
         <seg>秘密の入口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Secret way map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070619Z" creationid="2008l" creationdate="20240819T070619Z">
+        <seg>秘密の道の地図</seg>
       </tuv>
     </tu>
     <tu>
@@ -75010,6 +75082,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204134Z" creationid="2008l" creationdate="20240729T204134Z">
         <seg>鋼鉄の鎖甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel claws</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070400Z" creationid="2008l" creationdate="20240819T070400Z">
+        <seg>鋼鉄のクローズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -89479,6 +89559,17 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">transcript_ja_name_item.xliff</prop>
+      <prop type="id">1550</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Combination</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070452Z" creationid="2008l" creationdate="20240819T070452Z">
+        <seg>組み合わせ</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">transcript_ja_name_item.xliff</prop>
       <prop type="id">957</prop>
