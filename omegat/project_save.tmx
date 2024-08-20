@@ -1958,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Alco-chunks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070842Z" creationid="2008l" creationdate="20240820T070842Z">
+        <seg>アルコ・チャンクス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Alcove</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T095903Z" creationid="yumas" creationdate="20240811T095903Z">
@@ -23238,6 +23246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dirty robe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070753Z" creationid="2008l" creationdate="20240820T070753Z">
+        <seg>汚れたローブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Disable</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T125952Z" creationid="yumas" creationdate="20240731T125952Z">
@@ -24870,6 +24886,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dried thistle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070710Z" creationid="2008l" creationdate="20240820T070710Z">
+        <seg>乾燥したアザミ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Drift net (full)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T101905Z" creationid="yumas" creationdate="20240813T101905Z">
@@ -25098,6 +25122,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T063109Z" creationid="2008l" creationdate="20240810T063109Z">
         <seg>ドランクドラゴン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Drunk parrot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070738Z" creationid="2008l" creationdate="20240820T070738Z">
+        <seg>酔ったオウム</seg>
       </tuv>
     </tu>
     <tu>
@@ -28457,6 +28489,14 @@
         <seg>Fake Man</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T223603Z" creationid="yumas" creationdate="20240808T223603Z">
+        <seg>偽の人間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fake man</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070757Z" creationid="2008l" creationdate="20240820T070757Z">
         <seg>偽の人間</seg>
       </tuv>
     </tu>
@@ -35706,6 +35746,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240820T070042Z" creationid="2008l" creationdate="20240820T070042Z">
         <seg>ひかれた硫黄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ground thistle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070720Z" creationid="2008l" creationdate="20240820T070720Z">
+        <seg>ひかれたアザミ</seg>
       </tuv>
     </tu>
     <tu>
@@ -76462,6 +76510,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Storeroom key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070816Z" creationid="2008l" creationdate="20240820T070816Z">
+        <seg>倉庫の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Storm Cloud</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052339Z" creationid="yumas" creationdate="20240805T052339Z">
@@ -82888,10 +82944,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Troll potion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070728Z" creationid="2008l" creationdate="20240820T070728Z">
+        <seg>トロールの薬液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Troll spectator</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120705Z" creationid="yumas" creationdate="20240808T120705Z">
         <seg>トロールの観戦者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Troll thistle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070648Z" creationid="2008l" creationdate="20240820T070648Z">
+        <seg>トロールのアザミ</seg>
       </tuv>
     </tu>
     <tu>
