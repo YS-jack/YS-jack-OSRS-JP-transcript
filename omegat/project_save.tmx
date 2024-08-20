@@ -19310,6 +19310,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crafting manual</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063646Z" creationid="2008l" creationdate="20240820T063646Z">
+        <seg>製作のマニュアル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crafting stall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T094753Z" creationid="yumas" creationdate="20240811T094753Z">
@@ -27090,6 +27098,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T055042Z" creationid="yumas" creationdate="20240809T055042Z">
         <seg>集中したエネルギー（白）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Energy potion(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063540Z" creationid="2008l" creationdate="20240820T063540Z">
+        <seg>エネルギーの薬液（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Energy potion(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063538Z" creationid="2008l" creationdate="20240820T063538Z">
+        <seg>エネルギーの薬液（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Energy potion(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063537Z" creationid="2008l" creationdate="20240820T063537Z">
+        <seg>エネルギーの薬液（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Energy potion(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063535Z" creationid="2008l" creationdate="20240820T063535Z">
+        <seg>エネルギーの薬液（４）</seg>
       </tuv>
     </tu>
     <tu>
@@ -51606,6 +51646,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Monkey corpse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063741Z" creationid="2008l" creationdate="20240820T063741Z">
+        <seg>サルの遺体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Monkey display</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T021427Z" creationid="yumas" creationdate="20240809T021427Z">
@@ -51634,6 +51682,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T092612Z" creationid="yumas" creationdate="20240809T092612Z">
         <seg>ユニコーンにまたがるサル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Monkey skin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063803Z" creationid="2008l" creationdate="20240820T063803Z">
+        <seg>サルの皮</seg>
       </tuv>
     </tu>
     <tu>
@@ -72214,6 +72270,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sliced banana</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063730Z" creationid="2008l" creationdate="20240820T063730Z">
+        <seg>スライスしたバナナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sliced web</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T025127Z" creationid="yumas" creationdate="20240811T025127Z">
@@ -77170,6 +77234,38 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T075202Z" creationid="2008l" creationdate="20240811T075202Z">
         <seg>超守備力薬（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super energy(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063609Z" creationid="2008l" creationdate="20240820T063609Z">
+        <seg>超エネルギーの薬液（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super energy(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063606Z" creationid="2008l" creationdate="20240820T063606Z">
+        <seg>超エネルギーの薬液（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super energy(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063605Z" creationid="2008l" creationdate="20240820T063605Z">
+        <seg>超エネルギーの薬液（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super energy(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063603Z" creationid="2008l" creationdate="20240820T063603Z">
+        <seg>超エネルギーの薬液（４）</seg>
       </tuv>
     </tu>
     <tu>
