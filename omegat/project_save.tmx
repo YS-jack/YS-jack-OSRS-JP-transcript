@@ -7094,6 +7094,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Beer tankard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072926Z" creationid="2008l" creationdate="20240821T072926Z">
+        <seg>ビアタンカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Beer taps</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T040352Z" creationid="yumas" creationdate="20240815T040352Z">
@@ -31654,6 +31662,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fremennik beige shirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072654Z" creationid="2008l" creationdate="20240821T072654Z">
+        <seg>ベージュのフレメニックのシャツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik black cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072821Z" creationid="2008l" creationdate="20240821T072821Z">
+        <seg>黒色のフレメニックのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fremennik blade</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240821T072458Z" creationid="2008l" creationdate="20240821T072458Z">
@@ -31670,10 +31694,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fremennik blue shirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072700Z" creationid="2008l" creationdate="20240821T072700Z">
+        <seg>青色のフレメニックのシャツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fremennik boat</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T093226Z" creationid="yumas" creationdate="20240812T093226Z">
         <seg>フレメニックのボート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072829Z" creationid="2008l" creationdate="20240821T072829Z">
+        <seg>フレメニックの靴</seg>
       </tuv>
     </tu>
     <tu>
@@ -31710,10 +31750,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fremennik gloves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072842Z" creationid="2008l" creationdate="20240821T072842Z">
+        <seg>フレメニックの手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fremennik green cloak</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240821T072554Z" creationid="2008l" creationdate="20240821T072554Z">
         <seg>緑色のフレメニックのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik grey cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072731Z" creationid="2008l" creationdate="20240821T072731Z">
+        <seg>灰色のフレメニックのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik grey shirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072629Z" creationid="2008l" creationdate="20240821T072629Z">
+        <seg>灰色のフレメニックのシャツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072839Z" creationid="2008l" creationdate="20240821T072839Z">
+        <seg>フレメニックの帽子</seg>
       </tuv>
     </tu>
     <tu>
@@ -31726,10 +31798,66 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fremennik pink cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072814Z" creationid="2008l" creationdate="20240821T072814Z">
+        <seg>ピンク色のフレメニックのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik purple cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072804Z" creationid="2008l" creationdate="20240821T072804Z">
+        <seg>紫色のフレメニックのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik red cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072727Z" creationid="2008l" creationdate="20240821T072727Z">
+        <seg>赤色のフレメニックのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik red shirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072657Z" creationid="2008l" creationdate="20240821T072657Z">
+        <seg>赤色のフレメニックのシャツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik robe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072833Z" creationid="2008l" creationdate="20240821T072833Z">
+        <seg>フレメニックのローブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fremennik shield</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240821T072505Z" creationid="2008l" creationdate="20240821T072505Z">
         <seg>フレメニックの盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik skirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072836Z" creationid="2008l" creationdate="20240821T072836Z">
+        <seg>フレメニックのシャツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik teal cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072800Z" creationid="2008l" creationdate="20240821T072800Z">
+        <seg>青緑色のフレメニックのマント</seg>
       </tuv>
     </tu>
     <tu>
@@ -31762,6 +31890,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T114357Z" creationid="yumas" creationdate="20240813T114357Z">
         <seg>フレメニックの戦士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik yellow cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072735Z" creationid="2008l" creationdate="20240821T072735Z">
+        <seg>黄色のフレメニックのマント</seg>
       </tuv>
     </tu>
     <tu>
