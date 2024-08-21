@@ -190,6 +190,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>1/3rds full jug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071237Z" creationid="2008l" creationdate="20240821T071237Z">
+        <seg>水差しの3分の1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>1/5ths full bucket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071119Z" creationid="2008l" creationdate="20240821T071114Z">
+        <seg>バケツ5分の1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>1337sp34kr</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T131442Z" creationid="yumas" creationdate="20240806T131442Z">
@@ -218,6 +234,30 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T064156Z" creationid="2008l" creationdate="20240809T064156Z">
         <seg>2/3チョコレートケーキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>2/3rds full jug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071235Z" creationid="2008l" creationdate="20240821T071235Z">
+        <seg>水差しの3分の2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>2/5ths full bucket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071114Z" creationid="2008l" creationdate="20240821T071114Z">
+        <seg>バケツ5分の2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>3/5ths full bucket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071112Z" creationid="2008l" creationdate="20240821T071112Z">
+        <seg>バケツ5分の3</seg>
       </tuv>
     </tu>
     <tu>
@@ -27174,6 +27214,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Empty bucket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071127Z" creationid="2008l" creationdate="20240821T071127Z">
+        <seg>空のバケツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Empty chest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T080906Z" creationid="yumas" creationdate="20240814T080906Z">
@@ -27210,6 +27258,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T041310Z" creationid="yumas" creationdate="20240815T041310Z">
         <seg>空の展示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Empty jug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071247Z" creationid="2008l" creationdate="20240821T071247Z">
+        <seg>空の水差し</seg>
       </tuv>
     </tu>
     <tu>
@@ -31846,6 +31902,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Frozen bucket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071140Z" creationid="2008l" creationdate="20240821T071140Z">
+        <seg>凍ったバケツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Frozen demon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T122740Z" creationid="yumas" creationdate="20240812T122740Z">
@@ -31858,6 +31922,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T123439Z" creationid="yumas" creationdate="20240814T123439Z">
         <seg>凍ったおしゃれな再生の飲み場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Frozen jug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071256Z" creationid="2008l" creationdate="20240821T071256Z">
+        <seg>凍った水差し</seg>
       </tuv>
     </tu>
     <tu>
@@ -31882,6 +31954,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T044709Z" creationid="yumas" creationdate="20240811T044709Z">
         <seg>凍ったテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Frozen vase</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071338Z" creationid="2008l" creationdate="20240821T071338Z">
+        <seg>凍った花瓶</seg>
       </tuv>
     </tu>
     <tu>
@@ -31970,6 +32050,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T053822Z" creationid="yumas" creationdate="20240810T053822Z">
         <seg>いっぱいの漁網</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Full jug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071152Z" creationid="2008l" creationdate="20240821T071152Z">
+        <seg>いっぱいの水差し</seg>
       </tuv>
     </tu>
     <tu>
@@ -85956,6 +86044,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064220Z" creationid="2008l" creationdate="20240726T064220Z">
         <seg>花瓶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vase lid</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071348Z" creationid="2008l" creationdate="20240821T071348Z">
+        <seg>花瓶のフタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vase of water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071334Z" creationid="2008l" creationdate="20240821T071334Z">
+        <seg>水の花瓶</seg>
       </tuv>
     </tu>
     <tu>
