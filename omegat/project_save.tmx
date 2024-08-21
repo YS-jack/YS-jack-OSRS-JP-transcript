@@ -190,6 +190,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>1/3rds full jug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071237Z" creationid="2008l" creationdate="20240821T071237Z">
+        <seg>水差しの3分の1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>1/5ths full bucket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071119Z" creationid="2008l" creationdate="20240821T071114Z">
+        <seg>バケツ5分の1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>1337sp34kr</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T131442Z" creationid="yumas" creationdate="20240806T131442Z">
@@ -218,6 +234,38 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T064156Z" creationid="2008l" creationdate="20240809T064156Z">
         <seg>2/3チョコレートケーキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>2/3rds full jug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071235Z" creationid="2008l" creationdate="20240821T071235Z">
+        <seg>水差しの3分の2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>2/5ths full bucket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071114Z" creationid="2008l" creationdate="20240821T071114Z">
+        <seg>バケツ5分の2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>3/5ths full bucket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071112Z" creationid="2008l" creationdate="20240821T071112Z">
+        <seg>バケツ5分の3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>4/5ths full bucket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071109Z" creationid="2008l" creationdate="20240821T071109Z">
+        <seg>バケツ5分の4</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,10 +486,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>A stone bowl</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183245Z" creationid="2008l" creationdate="20240818T183245Z">
+        <seg>石のボール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>A tropical tree</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T113804Z" creationid="yumas" creationdate="20240812T113804Z">
         <seg>熱帯の木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>A used spell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T064743Z" creationid="2008l" creationdate="20240819T064743Z">
+        <seg>使い古しの魔法</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Achey tree logs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182503Z" creationid="2008l" creationdate="20240818T182503Z">
+        <seg>アチーの丸太</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Achietties</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T235450Z" creationid="yumas" creationdate="20240808T235450Z">
@@ -918,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adamant claws</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070408Z" creationid="2008l" creationdate="20240819T070408Z">
+        <seg>アダマントのクローズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant dagger</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071924Z" creationid="2008l" creationdate="20240730T071924Z">
@@ -990,6 +1070,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adamant full helm (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180701Z" creationid="2008l" creationdate="20240818T180701Z">
+        <seg>アダマントの全頭甲（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant full helm (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180559Z" creationid="2008l" creationdate="20240818T180559Z">
+        <seg>アダマントの全頭甲（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant halberd</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065345Z" creationid="2008l" creationdate="20240820T065345Z">
+        <seg>アダマントの矛槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant javelin</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T150138Z" creationid="2008l" creationdate="20240728T060831Z">
@@ -1010,6 +1114,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071528Z" creationid="2008l" creationdate="20240730T071528Z">
         <seg>アダマントのタコ盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant kiteshield (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180645Z" creationid="2008l" creationdate="20240818T180645Z">
+        <seg>アダマントのタコ盾（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant kiteshield (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180539Z" creationid="2008l" creationdate="20240818T180539Z">
+        <seg>アダマントのタコ盾（縁）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,6 +1206,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adamant platebody (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180619Z" creationid="2008l" creationdate="20240818T180619Z">
+        <seg>アダマントの胸甲（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant platebody (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180509Z" creationid="2008l" creationdate="20240818T180509Z">
+        <seg>アダマントの胸甲（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant platelegs</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T203936Z" creationid="2008l" creationdate="20240729T203936Z">
@@ -1094,10 +1230,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adamant platelegs (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180632Z" creationid="2008l" creationdate="20240818T180632Z">
+        <seg>アダマントの脚甲（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant platelegs (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180523Z" creationid="2008l" creationdate="20240818T180523Z">
+        <seg>アダマントの脚甲（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant plateskirt</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204016Z" creationid="2008l" creationdate="20240729T204016Z">
         <seg>アダマントの裙甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant plateskirt (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064349Z" creationid="2008l" creationdate="20240821T064122Z">
+        <seg>アダマントの裙甲（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant plateskirt (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064332Z" creationid="2008l" creationdate="20240821T064130Z">
+        <seg>アダマントの裙甲（縁）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1114,6 +1282,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T063945Z" creationid="2008l" creationdate="20240731T063945Z">
         <seg>アダマントのの槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant spear(kp)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T064546Z" creationid="2008l" creationdate="20240820T064546Z">
+        <seg>アダマントの槍（カラムジャ毒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1446,10 +1622,50 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Agility arena ticket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065246Z" creationid="2008l" creationdate="20240819T065246Z">
+        <seg>運動神経アリーナのチケット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Agility dispenser</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T044046Z" creationid="yumas" creationdate="20240815T044046Z">
         <seg>トレーニング・ディスペンサー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Agility potion(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065922Z" creationid="2008l" creationdate="20240819T065922Z">
+        <seg>運動神経の増強薬（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Agility potion(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065920Z" creationid="2008l" creationdate="20240819T065920Z">
+        <seg>運動神経の増強薬（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Agility potion(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065919Z" creationid="2008l" creationdate="20240819T065919Z">
+        <seg>運動神経の増強薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Agility potion(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065917Z" creationid="2008l" creationdate="20240819T065917Z">
+        <seg>運動神経の増強薬（４）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1802,6 +2018,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T020843Z" creationid="yumas" creationdate="20240809T020815Z">
         <seg>錬金術の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Alco-chunks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070842Z" creationid="2008l" creationdate="20240820T070842Z">
+        <seg>アルコ・チャンクス</seg>
       </tuv>
     </tu>
     <tu>
@@ -3646,6 +3870,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Archer helm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072325Z" creationid="2008l" creationdate="20240821T072325Z">
+        <seg>アーチャーの兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Archery target</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T020232Z" creationid="yumas" creationdate="20240812T020232Z">
@@ -4570,6 +4802,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T075057Z" creationid="yumas" creationdate="20240805T075057Z">
         <seg>アシンの影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Asyn remains</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072304Z" creationid="2008l" creationdate="20240820T072304Z">
+        <seg>アシンの遺体</seg>
       </tuv>
     </tu>
     <tu>
@@ -5990,6 +6230,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bark</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070423Z" creationid="2008l" creationdate="20240820T070423Z">
+        <seg>樹皮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bark Blamish Snail</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T131032Z" creationid="yumas" creationdate="20240806T131032Z">
@@ -6070,6 +6318,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Barrel bomb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070051Z" creationid="2008l" creationdate="20240820T070051Z">
+        <seg>樽の爆弾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Barrel of Mud</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T080909Z" creationid="yumas" creationdate="20240814T080909Z">
@@ -6102,6 +6358,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Barrel of coal tar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070109Z" creationid="2008l" creationdate="20240820T070109Z">
+        <seg>コールタールの樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Barrel of fish</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T132626Z" creationid="yumas" creationdate="20240812T132626Z">
@@ -6122,6 +6386,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T115738Z" creationid="yumas" creationdate="20240812T115738Z">
         <seg>小麦粉の樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Barrel of naphtha</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070220Z" creationid="2008l" creationdate="20240820T070220Z">
+        <seg>ナフサの樽</seg>
       </tuv>
     </tu>
     <tu>
@@ -6454,6 +6726,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Battered book</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183229Z" creationid="2008l" creationdate="20240818T183229Z">
+        <seg>傷んだ本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Battered key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183232Z" creationid="2008l" creationdate="20240818T183232Z">
+        <seg>傷んだ鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Battering ram</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T122256Z" creationid="yumas" creationdate="20240812T122256Z">
@@ -6646,6 +6934,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bearded gorilla bones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T064943Z" creationid="2008l" creationdate="20240820T064943Z">
+        <seg>ヒゲゴリラの骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bearhead</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T113805Z" creationid="yumas" creationdate="20240813T113805Z">
@@ -6794,6 +7090,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T064658Z" creationid="2008l" creationdate="20240809T064658Z">
         <seg>ビールグラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Beer tankard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072926Z" creationid="2008l" creationdate="20240821T072926Z">
+        <seg>ビアタンカード</seg>
       </tuv>
     </tu>
     <tu>
@@ -7038,6 +7342,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Berserker helm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072417Z" creationid="2008l" creationdate="20240821T072417Z">
+        <seg>バーサーカーの兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bert</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T014216Z" creationid="yumas" creationdate="20240809T014216Z">
@@ -7194,6 +7506,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070836Z" creationid="2008l" creationdate="20240724T070836Z">
         <seg>大きい骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Big book of bangs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070414Z" creationid="2008l" creationdate="20240820T070414Z">
+        <seg>爆発の大著</seg>
       </tuv>
     </tu>
     <tu>
@@ -7630,6 +7950,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black beret</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181122Z" creationid="2008l" creationdate="20240818T181122Z">
+        <seg>黒いベレー帽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black candle</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T131333Z" creationid="2008l" creationdate="20240716T075554Z">
@@ -7646,6 +7974,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black cavalier</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181538Z" creationid="2008l" creationdate="20240818T181538Z">
+        <seg>黒いカバリエ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black chainbody</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071248Z" creationid="2008l" creationdate="20240729T204138Z">
@@ -7658,6 +7994,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T135213Z" creationid="yumas" creationdate="20240806T135213Z">
         <seg>黒チンチョンパ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black claws</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070403Z" creationid="2008l" creationdate="20240819T070403Z">
+        <seg>黒鉄のクローズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7718,6 +8062,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black dart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070314Z" creationid="2008l" creationdate="20240819T070314Z">
+        <seg>黒鉄のダーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black dart(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070319Z" creationid="2008l" creationdate="20240819T070319Z">
+        <seg>黒鉄のダーツ（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black demon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T044032Z" creationid="yumas" creationdate="20240805T044032Z">
@@ -7774,10 +8134,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black full helm (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180421Z" creationid="2008l" creationdate="20240818T180421Z">
+        <seg>黒鉄の全頭甲（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black full helm (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180204Z" creationid="2008l" creationdate="20240818T180204Z">
+        <seg>黒鉄の全頭甲（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black golem</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T222202Z" creationid="yumas" creationdate="20240808T222202Z">
         <seg>黒いゴーレム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black halberd</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065337Z" creationid="2008l" creationdate="20240820T065337Z">
+        <seg>黒鉄の矛槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black headband</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181650Z" creationid="2008l" creationdate="20240818T181650Z">
+        <seg>黒い鉢巻</seg>
       </tuv>
     </tu>
     <tu>
@@ -7798,10 +8190,66 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black key black</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063816Z" creationid="2008l" creationdate="20240821T063816Z">
+        <seg>黒色の黒鉄の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black key brown</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063804Z" creationid="2008l" creationdate="20240821T063804Z">
+        <seg>茶色の黒鉄の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black key crimson</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063810Z" creationid="2008l" creationdate="20240821T063810Z">
+        <seg>深紅色の黒鉄の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black key purple</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063830Z" creationid="2008l" creationdate="20240821T063830Z">
+        <seg>紫色の黒鉄の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black key red</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063759Z" creationid="2008l" creationdate="20240821T063759Z">
+        <seg>赤色の黒鉄の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black kiteshield</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071516Z" creationid="2008l" creationdate="20240730T071516Z">
         <seg>黒鉄のタコ盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black kiteshield (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180438Z" creationid="2008l" creationdate="20240818T180438Z">
+        <seg>黒鉄のタコ盾（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black kiteshield (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180220Z" creationid="2008l" creationdate="20240818T180220Z">
+        <seg>黒鉄のタコ盾（縁）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7870,6 +8318,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black platebody (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180319Z" creationid="2008l" creationdate="20240818T180319Z">
+        <seg>黒鉄の胸甲（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black platebody (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180048Z" creationid="2008l" creationdate="20240818T180048Z">
+        <seg>黒鉄の胸甲（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black platelegs</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071236Z" creationid="2008l" creationdate="20240729T203943Z">
@@ -7878,10 +8342,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black platelegs (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180403Z" creationid="2008l" creationdate="20240818T180403Z">
+        <seg>黒鉄の脚甲（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black platelegs (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180112Z" creationid="2008l" creationdate="20240818T180104Z">
+        <seg>黒鉄の脚甲（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black plateskirt</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071243Z" creationid="2008l" creationdate="20240729T204013Z">
         <seg>黒鉄の裙甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black plateskirt (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064112Z" creationid="2008l" creationdate="20240821T064112Z">
+        <seg>黒鉄の裙甲（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black plateskirt (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064047Z" creationid="2008l" creationdate="20240821T064047Z">
+        <seg>黒鉄の裙甲（縁）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8062,10 +8558,50 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blamish bark shell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071737Z" creationid="2008l" creationdate="20240820T071729Z">
+        <seg>ブラミシュ樹皮のシェル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blamish blue shell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071714Z" creationid="2008l" creationdate="20240820T071714Z">
+        <seg>ブラミシュ青色のシェル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blamish myre shell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071528Z" creationid="2008l" creationdate="20240820T071528Z">
+        <seg>ブラミシュマイヤーシェル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blamish ochre shell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071657Z" creationid="2008l" creationdate="20240820T071657Z">
+        <seg>ブラミシュ黄土色のシェル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blamish oil</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T130211Z" creationid="2008l" creationdate="20240806T064739Z">
         <seg>ブラミシュの油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blamish red shell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071540Z" creationid="2008l" creationdate="20240820T071540Z">
+        <seg>ブラミシュ赤色のシェル</seg>
       </tuv>
     </tu>
     <tu>
@@ -8150,6 +8686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blessed water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T063937Z" creationid="2008l" creationdate="20240819T063937Z">
+        <seg>祝福された</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blighted Bologano plant</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T080243Z" creationid="yumas" creationdate="20240812T131548Z">
@@ -8225,6 +8769,14 @@
         <seg>Bloated Toad</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T090743Z" creationid="yumas" creationdate="20240805T090731Z">
+        <seg>膨れたアマガエル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bloated toad</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183026Z" creationid="2008l" creationdate="20240818T183026Z">
         <seg>膨れたアマガエル</seg>
       </tuv>
     </tu>
@@ -8442,6 +8994,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T070038Z" creationid="2008l" creationdate="20240805T070038Z">
         <seg>血のタリスマン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blood'n'tar snelm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071322Z" creationid="2008l" creationdate="20240820T071322Z">
+        <seg>血とタールのスネルム</seg>
       </tuv>
     </tu>
     <tu>
@@ -8830,6 +9390,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blue beret</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181116Z" creationid="2008l" creationdate="20240818T181116Z">
+        <seg>青いベレー帽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blue block</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T032946Z" creationid="yumas" creationdate="20240815T032946Z">
@@ -9010,6 +9578,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T103556Z" creationid="yumas" creationdate="20240811T103556Z">
         <seg>青い涙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blue thread</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T070753Z" creationid="2008l" creationdate="20240821T070753Z">
+        <seg>青い糸</seg>
       </tuv>
     </tu>
     <tu>
@@ -9518,6 +10094,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Book of balance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T073130Z" creationid="2008l" creationdate="20240821T073130Z">
+        <seg>バランスの本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Book on baxtorian</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T064318Z" creationid="2008l" creationdate="20240722T064301Z">
@@ -9626,6 +10210,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T030738Z" creationid="yumas" creationdate="20240815T030738Z">
         <seg>ボスのスポーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Boss helper tool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064644Z" creationid="2008l" creationdate="20240821T064644Z">
+        <seg>ボスの手伝いツール</seg>
       </tuv>
     </tu>
     <tu>
@@ -10558,6 +11150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Broken bark snelm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071426Z" creationid="2008l" creationdate="20240820T071426Z">
+        <seg>壊れた樹皮のスネルム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Broken barrel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T084824Z" creationid="yumas" creationdate="20240810T084824Z">
@@ -11198,6 +11798,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bronze claws</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070348Z" creationid="2008l" creationdate="20240819T070348Z">
+        <seg>銅のクローズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bronze dagger</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071911Z" creationid="2008l" creationdate="20240730T071911Z">
@@ -11270,6 +11878,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bronze halberd</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065244Z" creationid="2008l" creationdate="20240820T065244Z">
+        <seg>銅の矛槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bronze javelin</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T060806Z" creationid="2008l" creationdate="20240728T060806Z">
@@ -11290,6 +11906,46 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T074124Z" creationid="2008l" creationdate="20240811T074124Z">
         <seg>銅の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze key black</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063655Z" creationid="2008l" creationdate="20240821T063655Z">
+        <seg>黒色の銅の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze key brown</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063252Z" creationid="2008l" creationdate="20240821T063252Z">
+        <seg>茶色の銅の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze key crimson</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063500Z" creationid="2008l" creationdate="20240821T063500Z">
+        <seg>深紅色の銅の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze key purple</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063708Z" creationid="2008l" creationdate="20240821T063708Z">
+        <seg>紫色の銅の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze key red</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063248Z" creationid="2008l" creationdate="20240821T063248Z">
+        <seg>赤色の銅の鍵</seg>
       </tuv>
     </tu>
     <tu>
@@ -11394,6 +12050,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T063924Z" creationid="2008l" creationdate="20240731T063924Z">
         <seg>銅の槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze spear(kp)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T064503Z" creationid="2008l" creationdate="20240820T064503Z">
+        <seg>銅の槍（カラムジャ毒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11558,6 +12222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Brown headband</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181657Z" creationid="2008l" creationdate="20240818T181657Z">
+        <seg>茶色の鉢巻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Brown spice (4)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T080936Z" creationid="yumas" creationdate="20240810T080936Z">
@@ -11586,6 +12258,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T131021Z" creationid="yumas" creationdate="20240806T131021Z">
         <seg>アザのブラミシュ・カタツムリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bruise blue snelm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071411Z" creationid="2008l" creationdate="20240820T071411Z">
+        <seg>アザの青いスネルム</seg>
       </tuv>
     </tu>
     <tu>
@@ -12094,6 +12774,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Burnt eel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072005Z" creationid="2008l" creationdate="20240820T072005Z">
+        <seg>焦げたウナギ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Burnt fish</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T062440Z" creationid="2008l" creationdate="20240723T062440Z">
@@ -12106,6 +12794,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T064744Z" creationid="2008l" creationdate="20240810T064711Z">
         <seg>焦げたノームボール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burnt jogre bones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070934Z" creationid="2008l" creationdate="20240819T070934Z">
+        <seg>焦げたジョーガの骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burnt karambwan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T071429Z" creationid="2008l" creationdate="20240819T071224Z">
+        <seg>焦げたカラムワン</seg>
       </tuv>
     </tu>
     <tu>
@@ -12194,6 +12898,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T064008Z" creationid="2008l" creationdate="20240723T064008Z">
         <seg>焦げたサメ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Burnt snail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071911Z" creationid="2008l" creationdate="20240820T071911Z">
+        <seg>焦げたカタツムリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -13798,6 +14510,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Casket (easy)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182031Z" creationid="2008l" creationdate="20240818T182031Z">
+        <seg>木箱（初級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Casket (hard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182057Z" creationid="2008l" creationdate="20240818T182057Z">
+        <seg>木箱（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Casket (medium)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182237Z" creationid="2008l" creationdate="20240818T182237Z">
+        <seg>木箱（中級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cassie</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134542Z" creationid="yumas" creationdate="20240807T134542Z">
@@ -14438,6 +15174,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cell key 1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T071121Z" creationid="2008l" creationdate="20240819T071121Z">
+        <seg>監房の鍵１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cell key 2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T071124Z" creationid="2008l" creationdate="20240819T071124Z">
+        <seg>監房の鍵２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cell tile (broken)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T030140Z" creationid="yumas" creationdate="20240814T132807Z">
@@ -14774,6 +15526,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Challenge scroll (medium)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182400Z" creationid="2008l" creationdate="20240818T182400Z">
+        <seg>チャレンジの巻物（中級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Challenge-mode</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T121753Z" creationid="yumas" creationdate="20240731T121753Z">
@@ -14818,6 +15578,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T113144Z" creationid="yumas" creationdate="20240809T112353Z">
         <seg>スカラバスのチャンピオン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Champions token</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065723Z" creationid="2008l" creationdate="20240821T065723Z">
+        <seg>チャンピオンのトークン</seg>
       </tuv>
     </tu>
     <tu>
@@ -16110,6 +16878,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chompy bird hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065224Z" creationid="2008l" creationdate="20240819T065224Z">
+        <seg>チョンピーハット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Chompy chick</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T115757Z" creationid="yumas" creationdate="20240808T115757Z">
@@ -16662,6 +17438,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cleaning cloth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065225Z" creationid="2008l" creationdate="20240820T065225Z">
+        <seg>雑巾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cleaning supplies</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T032106Z" creationid="yumas" creationdate="20240812T032106Z">
@@ -16906,6 +17690,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T042911Z" creationid="yumas" creationdate="20240811T042911Z">
         <seg>登る用のロープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Climbing boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070639Z" creationid="2008l" creationdate="20240819T070639Z">
+        <seg>クライミング用靴</seg>
       </tuv>
     </tu>
     <tu>
@@ -17178,6 +17970,30 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T082332Z" creationid="2008l" creationdate="20240726T082332Z">
         <seg>宝探しの巻物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Clue scroll (easy)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182006Z" creationid="2008l" creationdate="20240818T182006Z">
+        <seg>宝探しの巻物（初級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Clue scroll (hard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182043Z" creationid="2008l" creationdate="20240818T182043Z">
+        <seg>宝探しの巻物（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Clue scroll (medium)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182229Z" creationid="2008l" creationdate="20240818T182229Z">
+        <seg>宝探しの巻物（中級）</seg>
       </tuv>
     </tu>
     <tu>
@@ -17758,6 +18574,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Compost bin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070954Z" creationid="2008l" creationdate="20240820T070954Z">
+        <seg>コンポスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Compost heap</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T051649Z" creationid="yumas" creationdate="20240810T051649Z">
@@ -18014,6 +18838,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cooked chompy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183100Z" creationid="2008l" creationdate="20240818T183100Z">
+        <seg>チョンピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cooked karambwan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T071418Z" creationid="2008l" creationdate="20240819T071204Z">
+        <seg>カラムワン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cooked meat</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T063800Z" creationid="2008l" creationdate="20240810T063800Z">
@@ -18026,6 +18866,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T074656Z" creationid="2008l" creationdate="20240810T071003Z">
         <seg>巻ウームリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cooked rabbit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070314Z" creationid="2008l" creationdate="20240820T070314Z">
+        <seg>ウサギ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cooked slimy eel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072000Z" creationid="2008l" creationdate="20240820T072000Z">
+        <seg>ヌルヌルウナギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -18886,6 +19742,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crafting manual</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063646Z" creationid="2008l" creationdate="20240820T063646Z">
+        <seg>製作のマニュアル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crafting stall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T094753Z" creationid="yumas" creationdate="20240811T094753Z">
@@ -19710,6 +20574,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Crystal pendant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065555Z" creationid="2008l" creationdate="20240820T065555Z">
+        <seg>水晶の首飾り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Crystal spire</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T103243Z" creationid="yumas" creationdate="20240814T103243Z">
@@ -20050,6 +20922,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T133627Z" creationid="yumas" creationdate="20240814T133627Z">
         <seg>クッション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Custom bow string</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065626Z" creationid="2008l" creationdate="20240821T065626Z">
+        <seg>特注の弓弦</seg>
       </tuv>
     </tu>
     <tu>
@@ -20558,6 +21438,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Damaged book</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T073020Z" creationid="2008l" creationdate="20240821T073020Z">
+        <seg>損傷した本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Damaged cart</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T115957Z" creationid="yumas" creationdate="20240814T115957Z">
@@ -20754,6 +21642,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T115833Z" creationid="yumas" creationdate="20240808T115833Z">
         <seg>暗黒獣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dark cavalier</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181531Z" creationid="2008l" creationdate="20240818T181531Z">
+        <seg>暗黒のカバリエ</seg>
       </tuv>
     </tu>
     <tu>
@@ -22686,6 +23582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dirty robe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070753Z" creationid="2008l" creationdate="20240820T070753Z">
+        <seg>汚れたローブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Disable</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T125952Z" creationid="yumas" creationdate="20240731T125952Z">
@@ -23902,6 +24806,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dragon halberd</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065357Z" creationid="2008l" creationdate="20240820T065357Z">
+        <seg>竜鉄の矛槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dragon head</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T043216Z" creationid="yumas" creationdate="20240809T065624Z">
@@ -23962,6 +24874,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T063958Z" creationid="2008l" creationdate="20240731T063958Z">
         <seg>竜鉄のの槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragon spear(kp)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T064612Z" creationid="2008l" creationdate="20240820T064612Z">
+        <seg>竜鉄の槍（カラムジャ毒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -24302,6 +25222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dried thistle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070710Z" creationid="2008l" creationdate="20240820T070710Z">
+        <seg>乾燥したアザミ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Drift net (full)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T101905Z" creationid="yumas" creationdate="20240813T101905Z">
@@ -24478,6 +25406,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Druid pouch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T064217Z" creationid="2008l" creationdate="20240819T064217Z">
+        <seg>ドルイドのポーチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Druid's robe</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062124Z" creationid="2008l" creationdate="20240724T071316Z">
@@ -24502,6 +25438,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Druidic spell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T064637Z" creationid="2008l" creationdate="20240819T064637Z">
+        <seg>ドルイドの魔法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Drummer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T125453Z" creationid="yumas" creationdate="20240813T125453Z">
@@ -24514,6 +25458,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T063109Z" creationid="2008l" creationdate="20240810T063109Z">
         <seg>ドランクドラゴン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Drunk parrot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070738Z" creationid="2008l" creationdate="20240820T070738Z">
+        <seg>酔ったオウム</seg>
       </tuv>
     </tu>
     <tu>
@@ -25630,10 +26582,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Elemental metal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183401Z" creationid="2008l" creationdate="20240818T183401Z">
+        <seg>エレメンタルの金属</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Elemental ore</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183331Z" creationid="2008l" creationdate="20240818T183331Z">
+        <seg>エレメンタルの鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Elemental rock</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T082847Z" creationid="yumas" creationdate="20240805T082830Z">
         <seg>岩のエレメンタル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Elemental shield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183259Z" creationid="2008l" creationdate="20240818T183259Z">
+        <seg>エレメンタルの盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -26278,6 +27254,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Empty bucket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071127Z" creationid="2008l" creationdate="20240821T071127Z">
+        <seg>空のバケツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Empty chest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T080906Z" creationid="yumas" creationdate="20240814T080906Z">
@@ -26314,6 +27298,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T041310Z" creationid="yumas" creationdate="20240815T041310Z">
         <seg>空の展示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Empty jug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071247Z" creationid="2008l" creationdate="20240821T071247Z">
+        <seg>空の水差し</seg>
       </tuv>
     </tu>
     <tu>
@@ -26458,6 +27450,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T061921Z" creationid="2008l" creationdate="20240725T061921Z">
         <seg>魔法の鶏肉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Enchanted lyre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065028Z" creationid="2008l" creationdate="20240821T065028Z">
+        <seg>魔法のたて琴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Enchanted lyre(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065032Z" creationid="2008l" creationdate="20240821T065032Z">
+        <seg>魔法のたて琴（１）</seg>
       </tuv>
     </tu>
     <tu>
@@ -26618,6 +27626,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T055042Z" creationid="yumas" creationdate="20240809T055042Z">
         <seg>集中したエネルギー（白）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Energy potion(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063540Z" creationid="2008l" creationdate="20240820T063540Z">
+        <seg>エネルギーの薬液（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Energy potion(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063538Z" creationid="2008l" creationdate="20240820T063538Z">
+        <seg>エネルギーの薬液（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Energy potion(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063537Z" creationid="2008l" creationdate="20240820T063537Z">
+        <seg>エネルギーの薬液（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Energy potion(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063535Z" creationid="2008l" creationdate="20240820T063535Z">
+        <seg>エネルギーの薬液（４）</seg>
       </tuv>
     </tu>
     <tu>
@@ -27422,6 +28462,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Exotic flower</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065354Z" creationid="2008l" creationdate="20240821T065354Z">
+        <seg>エキゾチックな花</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Experiment</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T074758Z" creationid="yumas" creationdate="20240805T074758Z">
@@ -27822,6 +28870,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fake man</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070757Z" creationid="2008l" creationdate="20240820T070757Z">
+        <seg>偽の人間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Falador</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T010510Z" creationid="yumas" creationdate="20240803T010510Z">
@@ -28142,6 +29198,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Farseer helm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072441Z" creationid="2008l" creationdate="20240821T072441Z">
+        <seg>ファーシーアの兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fat Rocco</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T014543Z" creationid="yumas" creationdate="20240809T014543Z">
@@ -28154,6 +29218,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T073252Z" creationid="yumas" creationdate="20240809T073252Z">
         <seg>太ったトニー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fat snail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071828Z" creationid="2008l" creationdate="20240820T071828Z">
+        <seg>太ったカタツムリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fat snail meat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071902Z" creationid="2008l" creationdate="20240820T071902Z">
+        <seg>太ったカタツムリ肉</seg>
       </tuv>
     </tu>
     <tu>
@@ -28750,6 +29830,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fine cloth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064021Z" creationid="2008l" creationdate="20240821T064006Z">
+        <seg>上質な布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fingernails</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T071759Z" creationid="2008l" creationdate="20240810T071759Z">
@@ -29054,6 +30142,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Firework</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065558Z" creationid="2008l" creationdate="20240819T065558Z">
+        <seg>花火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Firm snow patch</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T091153Z" creationid="yumas" creationdate="20240812T091153Z">
@@ -29090,6 +30186,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T221941Z" creationid="yumas" creationdate="20240807T221941Z">
         <seg>一等航海士「デイビー・ボーイ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fiscal statement</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T070209Z" creationid="2008l" creationdate="20240821T070209Z">
+        <seg>財政の声明</seg>
       </tuv>
     </tu>
     <tu>
@@ -29422,6 +30526,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fiyr remains</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072322Z" creationid="2008l" creationdate="20240820T072322Z">
+        <seg>フィルの遺体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Flag</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T124201Z" creationid="yumas" creationdate="20240811T124201Z">
@@ -29474,6 +30586,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T051147Z" creationid="yumas" creationdate="20240809T051147Z">
         <seg>燃盛るパイヤーロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Flamtaer hammer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064715Z" creationid="2008l" creationdate="20240821T064715Z">
+        <seg>フラムテアのハンマー</seg>
       </tuv>
     </tu>
     <tu>
@@ -29586,6 +30706,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T133740Z" creationid="yumas" creationdate="20240807T133740Z">
         <seg>フライト・キリサ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Flighted ogre arrow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182821Z" creationid="2008l" creationdate="20240818T182821Z">
+        <seg>フライト付きオーガの矢</seg>
       </tuv>
     </tu>
     <tu>
@@ -30518,6 +31646,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fremennik</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064741Z" creationid="2008l" creationdate="20240821T064741Z">
+        <seg>フレメニック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fremennik Boat</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T124159Z" creationid="yumas" creationdate="20240811T124159Z">
@@ -30534,6 +31670,54 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fremennik ballad</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065423Z" creationid="2008l" creationdate="20240821T065423Z">
+        <seg>フレメニックのバラッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik beige shirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072654Z" creationid="2008l" creationdate="20240821T072654Z">
+        <seg>ベージュのフレメニックのシャツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik black cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072821Z" creationid="2008l" creationdate="20240821T072821Z">
+        <seg>黒色のフレメニックのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik blade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072458Z" creationid="2008l" creationdate="20240821T072458Z">
+        <seg>フレメニックの剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik blue cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072550Z" creationid="2008l" creationdate="20240821T072550Z">
+        <seg>青色のフレメニックのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik blue shirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072700Z" creationid="2008l" creationdate="20240821T072700Z">
+        <seg>青色のフレメニックのシャツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fremennik boat</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T093226Z" creationid="yumas" creationdate="20240812T093226Z">
@@ -30542,10 +31726,154 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fremennik boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072829Z" creationid="2008l" creationdate="20240821T072829Z">
+        <seg>フレメニックの靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik brown cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072541Z" creationid="2008l" creationdate="20240821T072541Z">
+        <seg>茶色のフレメニックのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik brown shirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072624Z" creationid="2008l" creationdate="20240821T072624Z">
+        <seg>茶色のフレメニックのシャツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik cyan cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072528Z" creationid="2008l" creationdate="20240821T072528Z">
+        <seg>シアンのフレメニックのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fremennik drummer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T114410Z" creationid="yumas" creationdate="20240813T114410Z">
         <seg>フレメニックのドラマー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik gloves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072842Z" creationid="2008l" creationdate="20240821T072842Z">
+        <seg>フレメニックの手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik green cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072554Z" creationid="2008l" creationdate="20240821T072554Z">
+        <seg>緑色のフレメニックのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik grey cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072731Z" creationid="2008l" creationdate="20240821T072731Z">
+        <seg>灰色のフレメニックのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik grey shirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072629Z" creationid="2008l" creationdate="20240821T072629Z">
+        <seg>灰色のフレメニックのシャツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072839Z" creationid="2008l" creationdate="20240821T072839Z">
+        <seg>フレメニックの帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik helm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072328Z" creationid="2008l" creationdate="20240821T072249Z">
+        <seg>フレメニックの兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik pink cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072814Z" creationid="2008l" creationdate="20240821T072814Z">
+        <seg>ピンク色のフレメニックのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik purple cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072804Z" creationid="2008l" creationdate="20240821T072804Z">
+        <seg>紫色のフレメニックのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik red cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072727Z" creationid="2008l" creationdate="20240821T072727Z">
+        <seg>赤色のフレメニックのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik red shirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072657Z" creationid="2008l" creationdate="20240821T072657Z">
+        <seg>赤色のフレメニックのシャツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik robe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072833Z" creationid="2008l" creationdate="20240821T072833Z">
+        <seg>フレメニックのローブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik shield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072505Z" creationid="2008l" creationdate="20240821T072505Z">
+        <seg>フレメニックの盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik skirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072836Z" creationid="2008l" creationdate="20240821T072836Z">
+        <seg>フレメニックのシャツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik teal cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072800Z" creationid="2008l" creationdate="20240821T072800Z">
+        <seg>青緑色のフレメニックのマント</seg>
       </tuv>
     </tu>
     <tu>
@@ -30578,6 +31906,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T114357Z" creationid="yumas" creationdate="20240813T114357Z">
         <seg>フレメニックの戦士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik yellow cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072735Z" creationid="2008l" creationdate="20240821T072735Z">
+        <seg>黄色のフレメニックのマント</seg>
       </tuv>
     </tu>
     <tu>
@@ -30806,6 +32142,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Frozen bucket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071140Z" creationid="2008l" creationdate="20240821T071140Z">
+        <seg>凍ったバケツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Frozen demon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T122740Z" creationid="yumas" creationdate="20240812T122740Z">
@@ -30818,6 +32162,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T123439Z" creationid="yumas" creationdate="20240814T123439Z">
         <seg>凍ったおしゃれな再生の飲み場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Frozen jug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071256Z" creationid="2008l" creationdate="20240821T071256Z">
+        <seg>凍った水差し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Frozen key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071456Z" creationid="2008l" creationdate="20240821T071456Z">
+        <seg>凍った鍵</seg>
       </tuv>
     </tu>
     <tu>
@@ -30842,6 +32202,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T044709Z" creationid="yumas" creationdate="20240811T044709Z">
         <seg>凍ったテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Frozen vase</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071338Z" creationid="2008l" creationdate="20240821T071338Z">
+        <seg>凍った花瓶</seg>
       </tuv>
     </tu>
     <tu>
@@ -30918,10 +32286,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Full bucket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T070911Z" creationid="2008l" creationdate="20240821T070911Z">
+        <seg>いっぱいのバケツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Full fishing net</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T053822Z" creationid="yumas" creationdate="20240810T053822Z">
         <seg>いっぱいの漁網</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Full jug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071152Z" creationid="2008l" creationdate="20240821T071152Z">
+        <seg>いっぱいの水差し</seg>
       </tuv>
     </tu>
     <tu>
@@ -32478,6 +33862,46 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gilded full helm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064258Z" creationid="2008l" creationdate="20240821T064258Z">
+        <seg>黄金の全頭甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gilded kiteshield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064315Z" creationid="2008l" creationdate="20240821T064315Z">
+        <seg>黄金のタコ盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gilded platebody</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064225Z" creationid="2008l" creationdate="20240821T064225Z">
+        <seg>黄金の胸甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gilded platelegs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064234Z" creationid="2008l" creationdate="20240821T064234Z">
+        <seg>黄金の脚甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gilded plateskirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064245Z" creationid="2008l" creationdate="20240821T064245Z">
+        <seg>黄金の裙甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gilded stand</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T113540Z" creationid="yumas" creationdate="20240814T113540Z">
@@ -33614,6 +35038,46 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Golden candle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184436Z" creationid="2008l" creationdate="20240818T184436Z">
+        <seg>黄金のロウソク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Golden feather</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184655Z" creationid="2008l" creationdate="20240818T184655Z">
+        <seg>黄金の羽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Golden fleece</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065110Z" creationid="2008l" creationdate="20240821T065110Z">
+        <seg>黄金のフリース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Golden hammer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184647Z" creationid="2008l" creationdate="20240818T184647Z">
+        <seg>黄金のハンマー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Golden key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184326Z" creationid="2008l" creationdate="20240818T184326Z">
+        <seg>金の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Golden lantern</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T131726Z" creationid="yumas" creationdate="20240811T131715Z">
@@ -33622,10 +35086,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Golden needle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184710Z" creationid="2008l" creationdate="20240818T184710Z">
+        <seg>黄金の針</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Golden pear bush</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T042435Z" creationid="yumas" creationdate="20240811T042435Z">
         <seg>黄金の梨の木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Golden pot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184632Z" creationid="2008l" creationdate="20240818T184632Z">
+        <seg>黄金の鍋</seg>
       </tuv>
     </tu>
     <tu>
@@ -33646,6 +35126,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Golden tinderbox</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184622Z" creationid="2008l" creationdate="20240818T184356Z">
+        <seg>黄金の火口箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Golden tree</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T044637Z" creationid="yumas" creationdate="20240811T044637Z">
@@ -33658,6 +35146,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T011752Z" creationid="yumas" creationdate="20240809T011752Z">
         <seg>金色のワーブラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Golden wool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065117Z" creationid="2008l" creationdate="20240821T065117Z">
+        <seg>黄金の羊毛</seg>
       </tuv>
     </tu>
     <tu>
@@ -33826,6 +35322,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T050304Z" creationid="yumas" creationdate="20240811T050304Z">
         <seg>ゴリラの像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gorilla bones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T064922Z" creationid="2008l" creationdate="20240820T064922Z">
+        <seg>ゴリラの骨</seg>
       </tuv>
     </tu>
     <tu>
@@ -34058,6 +35562,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T005618Z" creationid="yumas" creationdate="20240812T005618Z">
         <seg>花崗岩の岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Granite shield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070828Z" creationid="2008l" creationdate="20240819T070828Z">
+        <seg>花崗岩の盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -34590,10 +36102,50 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Grey boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183415Z" creationid="2008l" creationdate="20240818T183415Z">
+        <seg>灰色の靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grey gloves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183455Z" creationid="2008l" creationdate="20240818T183455Z">
+        <seg>灰色の手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Grey golem</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T222211Z" creationid="yumas" creationdate="20240808T222211Z">
         <seg>灰色のゴーレム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grey hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183440Z" creationid="2008l" creationdate="20240818T183440Z">
+        <seg>灰色の帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grey robe bottoms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183434Z" creationid="2008l" creationdate="20240818T183434Z">
+        <seg>灰色のローブ下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grey robe top</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183430Z" creationid="2008l" creationdate="20240818T183430Z">
+        <seg>灰色のローブ上</seg>
       </tuv>
     </tu>
     <tu>
@@ -34782,10 +36334,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Grimy snapdragon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070005Z" creationid="2008l" creationdate="20240819T070005Z">
+        <seg>汚れたスナップドラゴン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Grimy tarromin</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T070424Z" creationid="2008l" creationdate="20240721T070424Z">
         <seg>汚れたタロミン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grimy toadflax</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065955Z" creationid="2008l" creationdate="20240819T065955Z">
+        <seg>汚れたトードフラックス</seg>
       </tuv>
     </tu>
     <tu>
@@ -34914,6 +36482,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T070847Z" creationid="2008l" creationdate="20240726T063724Z">
         <seg>ひかれた炭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ground sulphur</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070042Z" creationid="2008l" creationdate="20240820T070042Z">
+        <seg>ひかれた硫黄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ground thistle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070720Z" creationid="2008l" creationdate="20240820T070720Z">
+        <seg>ひかれたアザミ</seg>
       </tuv>
     </tu>
     <tu>
@@ -35658,6 +37242,78 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T074101Z" creationid="2008l" creationdate="20240811T074101Z">
         <seg>がシックスのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guthix full helm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181924Z" creationid="2008l" creationdate="20240818T181924Z">
+        <seg>ガシックスの全頭甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guthix kiteshield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181938Z" creationid="2008l" creationdate="20240818T181938Z">
+        <seg>ガシックスのタコ盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guthix page 1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T073001Z" creationid="2008l" creationdate="20240821T073001Z">
+        <seg>がシックスのページ１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guthix page 2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T073002Z" creationid="2008l" creationdate="20240821T073002Z">
+        <seg>がシックスのページ２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guthix page 3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T073003Z" creationid="2008l" creationdate="20240821T073003Z">
+        <seg>がシックスのページ３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guthix page 4</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T073003Z" creationid="2008l" creationdate="20240821T073003Z">
+        <seg>がシックスのページ４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guthix platebody</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181908Z" creationid="2008l" creationdate="20240818T181908Z">
+        <seg>ガシックスの胸甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guthix platelegs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181916Z" creationid="2008l" creationdate="20240818T181916Z">
+        <seg>ガシックスの脚甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guthix plateskirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064211Z" creationid="2008l" creationdate="20240821T064211Z">
+        <seg>がシックスの裙甲</seg>
       </tuv>
     </tu>
     <tu>
@@ -37390,6 +39046,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Highwayman mask</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181051Z" creationid="2008l" creationdate="20240818T181051Z">
+        <seg>ハイウェイマンの仮面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hild</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070549Z" creationid="yumas" creationdate="20240805T070549Z">
@@ -37658,6 +39322,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T042028Z" creationid="yumas" creationdate="20240811T042028Z">
         <seg>聖なるバリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Holy book</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T073025Z" creationid="2008l" creationdate="20240821T073025Z">
+        <seg>聖なる本</seg>
       </tuv>
     </tu>
     <tu>
@@ -38154,6 +39826,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T030229Z" creationid="yumas" creationdate="20240810T030229Z">
         <seg>狩人ギルドの会員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hunters' talisman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065313Z" creationid="2008l" creationdate="20240821T065313Z">
+        <seg>狩人のタリスマン</seg>
       </tuv>
     </tu>
     <tu>
@@ -39598,6 +41278,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Iorwerth's message</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065503Z" creationid="2008l" creationdate="20240820T065503Z">
+        <seg>イオワースの手紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iou</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070535Z" creationid="2008l" creationdate="20240819T070535Z">
+        <seg>借用書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Irena</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T133748Z" creationid="yumas" creationdate="20240808T133748Z">
@@ -39726,6 +41422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Iron claws</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070350Z" creationid="2008l" creationdate="20240819T070350Z">
+        <seg>鉄のクローズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Iron dagger</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071838Z" creationid="2008l" creationdate="20240730T071838Z">
@@ -39798,6 +41502,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Iron halberd</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065251Z" creationid="2008l" creationdate="20240820T065251Z">
+        <seg>鉄の矛槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Iron javelin</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T060812Z" creationid="2008l" creationdate="20240728T060812Z">
@@ -39810,6 +41522,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T060903Z" creationid="2008l" creationdate="20240728T060903Z">
         <seg>鉄の投槍（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iron key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184332Z" creationid="2008l" creationdate="20240818T184332Z">
+        <seg>鉄の鍵</seg>
       </tuv>
     </tu>
     <tu>
@@ -39962,6 +41682,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T063933Z" creationid="2008l" creationdate="20240731T063933Z">
         <seg>鉄の槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iron spear(kp)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T064519Z" creationid="2008l" creationdate="20240820T064519Z">
+        <seg>鉄の槍（カラムジャ毒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -40870,6 +42598,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jogre bones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070910Z" creationid="2008l" creationdate="20240819T070910Z">
+        <seg>ジョーガの骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Johanhus Ulsbrecht</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T123306Z" creationid="yumas" creationdate="20240806T123306Z">
@@ -41026,6 +42762,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T125051Z" creationid="yumas" creationdate="20240808T125051Z">
         <seg>ジョシック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Journal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T064613Z" creationid="2008l" creationdate="20240819T064613Z">
+        <seg>日記</seg>
       </tuv>
     </tu>
     <tu>
@@ -41798,6 +43542,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Karambwan paste</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T071442Z" creationid="2008l" creationdate="20240819T071253Z">
+        <seg>カラムワンのペースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Karambwan vessel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T071609Z" creationid="2008l" creationdate="20240819T071403Z">
+        <seg>カラムワンの器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Karambwanji paste</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T071449Z" creationid="2008l" creationdate="20240819T071304Z">
+        <seg>カラムワンジのペースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Karamel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T235114Z" creationid="yumas" creationdate="20240808T235114Z">
@@ -41998,6 +43766,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Keg of beer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T070649Z" creationid="2008l" creationdate="20240821T070649Z">
+        <seg>ビールの小樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Keith</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T072639Z" creationid="yumas" creationdate="20240809T072639Z">
@@ -42162,6 +43938,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T212234Z" creationid="2008l" creationdate="20240722T062701Z">
         <seg>カギ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Key (medium)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182244Z" creationid="2008l" creationdate="20240818T182244Z">
+        <seg>鍵（中級）</seg>
       </tuv>
     </tu>
     <tu>
@@ -42626,6 +44410,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T200841Z" creationid="yumas" creationdate="20240807T200841Z">
         <seg>王の使者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>King's message</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065420Z" creationid="2008l" creationdate="20240820T065420Z">
+        <seg>王様からの手紙</seg>
       </tuv>
     </tu>
     <tu>
@@ -43894,6 +45686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Large zombie monkey bones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065023Z" creationid="2008l" creationdate="20240820T065023Z">
+        <seg>大きなゾンビザルの骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Large-leaf Plant</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T051620Z" creationid="yumas" creationdate="20240811T051620Z">
@@ -44590,6 +46390,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lava battlestaff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070040Z" creationid="2008l" creationdate="20240819T070040Z">
+        <seg>溶岩の戦杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lava beast</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T062832Z" creationid="yumas" creationdate="20240809T062832Z">
@@ -44902,6 +46710,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lean snail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071817Z" creationid="2008l" creationdate="20240820T071817Z">
+        <seg>痩せたカタツムリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lean snail meat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071847Z" creationid="2008l" creationdate="20240820T071847Z">
+        <seg>瘦せたカタツムリ肉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Leap</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T122407Z" creationid="yumas" creationdate="20240731T122407Z">
@@ -45118,10 +46942,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Left-handed banana</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T064834Z" creationid="2008l" creationdate="20240820T064834Z">
+        <seg>左利き用バナナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Leftovers</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T051518Z" creationid="yumas" creationdate="20240812T051518Z">
         <seg>残骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Legendary cocktail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065754Z" creationid="2008l" creationdate="20240821T065754Z">
+        <seg>伝説的なカクテル</seg>
       </tuv>
     </tu>
     <tu>
@@ -45742,6 +47582,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Limestone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065736Z" creationid="2008l" creationdate="20240820T065736Z">
+        <seg>石灰岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Limestone brick</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072647Z" creationid="2008l" creationdate="20240820T072647Z">
+        <seg>石灰岩のレンガ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Limestone fireplace</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T104528Z" creationid="yumas" creationdate="20240811T104528Z">
@@ -45874,6 +47730,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T131221Z" creationid="2008l" creationdate="20240716T075510Z">
         <seg>火のついたロウソク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lit strange object</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T070736Z" creationid="2008l" creationdate="20240821T070736Z">
+        <seg>火のついた不思議な物体</seg>
       </tuv>
     </tu>
     <tu>
@@ -46106,6 +47970,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T074924Z" creationid="yumas" creationdate="20240805T074924Z">
         <seg>ローの影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Loar remains</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072238Z" creationid="2008l" creationdate="20240820T072238Z">
+        <seg>ロールの遺体</seg>
       </tuv>
     </tu>
     <tu>
@@ -46926,6 +48798,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Low alcohol keg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T070710Z" creationid="2008l" creationdate="20240821T070710Z">
+        <seg>低アルコールの小樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Low fence</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T013439Z" creationid="yumas" creationdate="20240812T013439Z">
@@ -47270,6 +49150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lyre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065014Z" creationid="2008l" creationdate="20240821T065014Z">
+        <seg>たて琴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mac</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T025242Z" creationid="yumas" creationdate="20240809T025242Z">
@@ -47594,6 +49482,46 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T072446Z" creationid="2008l" creationdate="20240810T072446Z">
         <seg>魔法のオーガ薬液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic potion(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065946Z" creationid="2008l" creationdate="20240819T065946Z">
+        <seg>魔法の増強薬（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic potion(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065944Z" creationid="2008l" creationdate="20240819T065944Z">
+        <seg>魔法の増強薬（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic potion(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065941Z" creationid="2008l" creationdate="20240819T065941Z">
+        <seg>魔法の増強薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic potion(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065937Z" creationid="2008l" creationdate="20240819T065937Z">
+        <seg>魔法の増強薬（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic pyre logs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063204Z" creationid="2008l" creationdate="20240821T063204Z">
+        <seg>魔法の火葬の丸太</seg>
       </tuv>
     </tu>
     <tu>
@@ -48310,6 +50238,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T073143Z" creationid="2008l" creationdate="20240821T073143Z">
+        <seg>マニュアル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Map</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T021114Z" creationid="yumas" creationdate="20240812T021114Z">
@@ -48378,6 +50314,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T090026Z" creationid="2008l" creationdate="20240718T072250Z">
         <seg>楓の長弓（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Maple pyre logs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063155Z" creationid="2008l" creationdate="20240821T063155Z">
+        <seg>楓の火葬の丸太</seg>
       </tuv>
     </tu>
     <tu>
@@ -48538,6 +50482,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T074942Z" creationid="yumas" creationdate="20240813T074942Z">
         <seg>マリムのポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Marinated j' bones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T071053Z" creationid="2008l" creationdate="20240819T071047Z">
+        <seg>マリネしたジョーガ骨</seg>
       </tuv>
     </tu>
     <tu>
@@ -49262,6 +51214,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Medium ninja monkey bones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T064914Z" creationid="2008l" creationdate="20240820T064914Z">
+        <seg>普通の忍者ザルの骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Medium storage unit</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T082940Z" creationid="yumas" creationdate="20240813T082940Z">
@@ -49814,6 +51774,46 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mime boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070258Z" creationid="2008l" creationdate="20240819T070258Z">
+        <seg>マイムの靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mime gloves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070253Z" creationid="2008l" creationdate="20240819T070253Z">
+        <seg>マイムの手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mime legs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070243Z" creationid="2008l" creationdate="20240819T070243Z">
+        <seg>マイムのズボン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mime mask</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070155Z" creationid="2008l" creationdate="20240819T070155Z">
+        <seg>マイムのマスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mime top</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070203Z" creationid="2008l" creationdate="20240819T070203Z">
+        <seg>マイムのトップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mimic Display</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T150049Z" creationid="yumas" creationdate="20240814T150049Z">
@@ -49888,8 +51888,8 @@
       <tuv lang="en-GB">
         <seg>Mine</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240715T204246Z" creationid="2008l" creationdate="20240715T204246Z">
-        <seg>鉱山へ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T122044Z" creationid="2008l" creationdate="20240715T204246Z">
+        <seg>を掘る</seg>
       </tuv>
     </tu>
     <tu>
@@ -50064,7 +52064,7 @@
       <tuv lang="en-GB">
         <seg>Mirror</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T055906Z" creationid="yumas" creationdate="20240809T055906Z">
+      <tuv lang="ja" changeid="2008l" changedate="20240819T064609Z" creationid="2008l" creationdate="20240819T064609Z">
         <seg>鏡</seg>
       </tuv>
     </tu>
@@ -50238,6 +52238,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mithril claws</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070406Z" creationid="2008l" creationdate="20240819T070406Z">
+        <seg>ミスリルのクローズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mithril dagger</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071920Z" creationid="2008l" creationdate="20240730T071920Z">
@@ -50314,6 +52322,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204508Z" creationid="2008l" creationdate="20240729T204508Z">
         <seg>ミスリルの全頭甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mithril halberd</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065342Z" creationid="2008l" creationdate="20240820T065342Z">
+        <seg>ミスリルの矛槍</seg>
       </tuv>
     </tu>
     <tu>
@@ -50466,6 +52482,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T063939Z" creationid="2008l" creationdate="20240731T063939Z">
         <seg>ミスリルの槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mithril spear(kp)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T064542Z" creationid="2008l" creationdate="20240820T064542Z">
+        <seg>ミスリルの槍（カラムジャ毒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -50790,6 +52814,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Monkey bones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T064950Z" creationid="2008l" creationdate="20240820T064950Z">
+        <seg>サルの骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Monkey corpse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063741Z" creationid="2008l" creationdate="20240820T063741Z">
+        <seg>サルの遺体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Monkey display</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T021427Z" creationid="yumas" creationdate="20240809T021427Z">
@@ -50818,6 +52858,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T092612Z" creationid="yumas" creationdate="20240809T092612Z">
         <seg>ユニコーンにまたがるサル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Monkey skin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063803Z" creationid="2008l" creationdate="20240820T063803Z">
+        <seg>サルの皮</seg>
       </tuv>
     </tu>
     <tu>
@@ -50934,6 +52982,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Moonlight mead</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T064037Z" creationid="2008l" creationdate="20240819T064037Z">
+        <seg>月光ミード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Moonlight moth</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T021241Z" creationid="yumas" creationdate="20240810T021241Z">
@@ -51010,6 +53066,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T085232Z" creationid="yumas" creationdate="20240809T085232Z">
         <seg>モート・ナイトシェード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mort myre fungus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T064906Z" creationid="2008l" creationdate="20240819T064906Z">
+        <seg>モート・マイヤーのキノコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mort myre pear</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065151Z" creationid="2008l" creationdate="20240819T065151Z">
+        <seg>モート・マイヤーの梨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mort myre stem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065015Z" creationid="2008l" creationdate="20240819T065015Z">
+        <seg>モート・マイヤーの茎</seg>
       </tuv>
     </tu>
     <tu>
@@ -52118,6 +54198,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Murky water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T063915Z" creationid="2008l" creationdate="20240819T063915Z">
+        <seg>濁った水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Murng bat</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T055331Z" creationid="yumas" creationdate="20240809T055331Z">
@@ -52342,6 +54430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Myre snelm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071252Z" creationid="2008l" creationdate="20240820T071252Z">
+        <seg>マイヤーのスネルム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mysterious Adventurer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T064609Z" creationid="yumas" creationdate="20240809T064609Z">
@@ -52494,6 +54590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mystic lava staff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070055Z" creationid="2008l" creationdate="20240819T070055Z">
+        <seg>秘伝の溶岩の杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mystic portal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T035345Z" creationid="yumas" creationdate="20240811T035345Z">
@@ -52610,6 +54714,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T085819Z" creationid="yumas" creationdate="20240809T085819Z">
         <seg>ナカサ・ジョヴカイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Naphtha mix</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070233Z" creationid="2008l" creationdate="20240820T070233Z">
+        <seg>ナフサのミックス</seg>
       </tuv>
     </tu>
     <tu>
@@ -53870,6 +55982,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Oak pyre logs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063141Z" creationid="2008l" creationdate="20240821T063141Z">
+        <seg>樫の火葬の丸太</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Oak scratching post</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T125712Z" creationid="yumas" creationdate="20240812T125712Z">
@@ -54182,6 +56302,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ochre snelm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071337Z" creationid="2008l" creationdate="20240820T071337Z">
+        <seg>黄土色のスネルム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Odd Figure</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T010530Z" creationid="yumas" creationdate="20240810T010530Z">
@@ -54350,6 +56478,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ogre arrow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182830Z" creationid="2008l" creationdate="20240818T182830Z">
+        <seg>オーガの矢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ogre arrow shaft</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182526Z" creationid="2008l" creationdate="20240818T182526Z">
+        <seg>オーガの矢のャフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ogre barricade</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T105713Z" creationid="yumas" creationdate="20240811T105713Z">
@@ -54366,6 +56510,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ogre bellows</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183000Z" creationid="2008l" creationdate="20240818T183000Z">
+        <seg>オーガのふいご</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ogre bellows (1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183019Z" creationid="2008l" creationdate="20240818T183019Z">
+        <seg>オーガのふいご（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ogre bellows (2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183011Z" creationid="2008l" creationdate="20240818T183011Z">
+        <seg>オーガのふいご（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ogre bellows (3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183006Z" creationid="2008l" creationdate="20240818T183006Z">
+        <seg>オーガのふいご（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ogre bench</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T041944Z" creationid="yumas" creationdate="20240811T041944Z">
@@ -54378,6 +56554,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T235010Z" creationid="yumas" creationdate="20240808T235010Z">
         <seg>オーガの船</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ogre bow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183151Z" creationid="2008l" creationdate="20240818T183151Z">
+        <seg>オーガの弓</seg>
       </tuv>
     </tu>
     <tu>
@@ -54802,6 +56986,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T025840Z" creationid="yumas" creationdate="20240810T025840Z">
         <seg>オリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Olive oil(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072714Z" creationid="2008l" creationdate="20240820T072714Z">
+        <seg>オリーブオイル（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Olive oil(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072713Z" creationid="2008l" creationdate="20240820T072713Z">
+        <seg>オリーブオイル（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Olive oil(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072712Z" creationid="2008l" creationdate="20240820T072712Z">
+        <seg>オリーブオイル（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Olive oil(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072710Z" creationid="2008l" creationdate="20240820T072710Z">
+        <seg>オリーブオイル（４）</seg>
       </tuv>
     </tu>
     <tu>
@@ -56422,6 +58638,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pasty jogre bones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T071027Z" creationid="2008l" creationdate="20240819T071027Z">
+        <seg>ペースト状のジョーガ骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Patched Wall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T131851Z" creationid="yumas" creationdate="20240811T131851Z">
@@ -57470,6 +59694,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Phrin remains</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072246Z" creationid="2008l" creationdate="20240820T072246Z">
+        <seg>フリンの遺体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Piano</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T084859Z" creationid="yumas" creationdate="20240810T084859Z">
@@ -58334,6 +60566,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pirate's hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181709Z" creationid="2008l" creationdate="20240818T181709Z">
+        <seg>海賊の帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pirate's hook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065357Z" creationid="2008l" creationdate="20240819T065357Z">
+        <seg>海賊のフック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Piscarilius statue</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T130151Z" creationid="yumas" creationdate="20240814T130151Z">
@@ -58730,6 +60978,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T052413Z" creationid="yumas" creationdate="20240812T052413Z">
         <seg>毒噴出口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Poison karambwan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T071423Z" creationid="2008l" creationdate="20240819T071219Z">
+        <seg>毒されたカラムワン</seg>
       </tuv>
     </tu>
     <tu>
@@ -59266,6 +61522,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T063700Z" creationid="2008l" creationdate="20240809T064800Z">
         <seg>小麦粉の土鍋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pot of quicklime</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065945Z" creationid="2008l" creationdate="20240820T065945Z">
+        <seg>生石灰の土鍋</seg>
       </tuv>
     </tu>
     <tu>
@@ -60086,6 +62350,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Prison key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T071109Z" creationid="2008l" creationdate="20240819T071109Z">
+        <seg>刑務所の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Prison space</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T030756Z" creationid="yumas" creationdate="20240812T030756Z">
@@ -60242,6 +62514,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T115127Z" creationid="yumas" creationdate="20240812T115127Z">
         <seg>先生のテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Promissory note</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T070542Z" creationid="2008l" creationdate="20240821T070542Z">
+        <seg>約束手形</seg>
       </tuv>
     </tu>
     <tu>
@@ -60534,6 +62814,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Purple boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184228Z" creationid="2008l" creationdate="20240818T184228Z">
+        <seg>紫色の靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Purple cape</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T082500Z" creationid="2008l" creationdate="20240729T064646Z">
@@ -60558,10 +62846,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Purple gloves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184249Z" creationid="2008l" creationdate="20240818T184249Z">
+        <seg>紫色の手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Purple hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184243Z" creationid="2008l" creationdate="20240818T184243Z">
+        <seg>紫色の帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Purple partyhat</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T065341Z" creationid="2008l" creationdate="20240729T065212Z">
         <seg>紫のパーティーハット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Purple robe bottoms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184240Z" creationid="2008l" creationdate="20240818T184240Z">
+        <seg>紫色のローブ下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Purple robe top</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184233Z" creationid="2008l" creationdate="20240818T184233Z">
+        <seg>紫色のローブ上</seg>
       </tuv>
     </tu>
     <tu>
@@ -60622,6 +62942,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Puzzle box (hard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182212Z" creationid="2008l" creationdate="20240818T182212Z">
+        <seg>パズルボックス（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>PvP Arena</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T021202Z" creationid="yumas" creationdate="20240803T021202Z">
@@ -60666,6 +62994,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T025242Z" creationid="yumas" creationdate="20240810T025242Z">
         <seg>パイヤー・フォックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pyre logs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063120Z" creationid="2008l" creationdate="20240821T063120Z">
+        <seg>火葬の丸太</seg>
       </tuv>
     </tu>
     <tu>
@@ -60978,6 +63314,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T095916Z" creationid="yumas" creationdate="20240730T095916Z">
         <seg>即引き出し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Quicklime</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065822Z" creationid="2008l" creationdate="20240820T065822Z">
+        <seg>生石灰</seg>
       </tuv>
     </tu>
     <tu>
@@ -61766,6 +64110,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Raw chompy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183050Z" creationid="2008l" creationdate="20240818T183050Z">
+        <seg>生のチョンピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Raw cod</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T063227Z" creationid="2008l" creationdate="20240723T063227Z">
@@ -61802,6 +64154,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T063236Z" creationid="2008l" creationdate="20240723T063236Z">
         <seg>生のニシン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raw karambwan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T071413Z" creationid="2008l" creationdate="20240819T071150Z">
+        <seg>生のカラムワン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raw karambwanji</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T071436Z" creationid="2008l" creationdate="20240819T071237Z">
+        <seg>生のカラムワンジ</seg>
       </tuv>
     </tu>
     <tu>
@@ -61854,6 +64222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Raw rabbit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070308Z" creationid="2008l" creationdate="20240820T070308Z">
+        <seg>生のウサギ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Raw rat meat</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T063514Z" creationid="2008l" creationdate="20240810T063514Z">
@@ -61898,6 +64274,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T052842Z" creationid="2008l" creationdate="20240723T062349Z">
         <seg>生エビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raw slimy eel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071959Z" creationid="2008l" creationdate="20240820T071959Z">
+        <seg>生のヌルヌルウナギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -62454,6 +64838,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Red boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183656Z" creationid="2008l" creationdate="20240818T183501Z">
+        <seg>赤色の靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Red cape</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T064003Z" creationid="2008l" creationdate="20240729T064003Z">
@@ -62498,6 +64890,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T075946Z" creationid="2008l" creationdate="20240811T075946Z">
         <seg>赤竜革の腕甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Red disk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T070746Z" creationid="2008l" creationdate="20240821T070746Z">
+        <seg>赤いディスク</seg>
       </tuv>
     </tu>
     <tu>
@@ -62566,10 +64966,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Red gloves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183559Z" creationid="2008l" creationdate="20240818T183535Z">
+        <seg>赤色の手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Red halloween mask</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T065454Z" creationid="2008l" creationdate="20240729T065454Z">
         <seg>赤いハロウィンマスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Red hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183602Z" creationid="2008l" creationdate="20240818T183531Z">
+        <seg>赤色の帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Red headband</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181643Z" creationid="2008l" creationdate="20240818T181643Z">
+        <seg>赤い鉢巻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Red herring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071535Z" creationid="2008l" creationdate="20240821T071535Z">
+        <seg>赤ニシン</seg>
       </tuv>
     </tu>
     <tu>
@@ -62586,6 +65018,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T065153Z" creationid="2008l" creationdate="20240729T065153Z">
         <seg>赤いパーティーハット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Red robe bottoms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183605Z" creationid="2008l" creationdate="20240818T183526Z">
+        <seg>赤色のローブ下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Red robe top</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183607Z" creationid="2008l" creationdate="20240818T183514Z">
+        <seg>赤色のローブ上</seg>
       </tuv>
     </tu>
     <tu>
@@ -64710,6 +67158,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Riyl remains</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072252Z" creationid="2008l" creationdate="20240820T072252Z">
+        <seg>リルの遺体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Riyl shadow</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T013120Z" creationid="yumas" creationdate="20240809T013120Z">
@@ -65894,6 +68350,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ruined chompy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183115Z" creationid="2008l" creationdate="20240818T183115Z">
+        <seg>焦げたチョンピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ruined stall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T130224Z" creationid="yumas" creationdate="20240814T130224Z">
@@ -66054,6 +68518,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rune claws</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070415Z" creationid="2008l" creationdate="20240819T070415Z">
+        <seg>ルーンのクローズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rune dagger</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071927Z" creationid="2008l" creationdate="20240730T071927Z">
@@ -66142,6 +68614,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rune full helm (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180901Z" creationid="2008l" creationdate="20240818T180901Z">
+        <seg>ルーンの全頭甲（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rune full helm (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180946Z" creationid="2008l" creationdate="20240818T180946Z">
+        <seg>ルーンの全頭甲（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rune halberd</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065350Z" creationid="2008l" creationdate="20240820T065350Z">
+        <seg>ルーンの矛槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rune javelin</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T060839Z" creationid="2008l" creationdate="20240728T060839Z">
@@ -66162,6 +68658,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071538Z" creationid="2008l" creationdate="20240730T071538Z">
         <seg>ルーンのタコ盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rune kiteshield (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180910Z" creationid="2008l" creationdate="20240818T180910Z">
+        <seg>ルーンのタコ盾（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rune kiteshield (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181019Z" creationid="2008l" creationdate="20240818T181019Z">
+        <seg>ルーンのタコ盾（縁）</seg>
       </tuv>
     </tu>
     <tu>
@@ -66230,6 +68742,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rune platebody (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180709Z" creationid="2008l" creationdate="20240818T180709Z">
+        <seg>ルーンの胸甲（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rune platebody (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180922Z" creationid="2008l" creationdate="20240818T180922Z">
+        <seg>ルーンの胸甲（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rune platelegs</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T203947Z" creationid="2008l" creationdate="20240729T203947Z">
@@ -66238,10 +68766,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rune platelegs (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180720Z" creationid="2008l" creationdate="20240818T180720Z">
+        <seg>ルーンの脚甲（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rune platelegs (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T180938Z" creationid="2008l" creationdate="20240818T180938Z">
+        <seg>ルーンの脚甲（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rune plateskirt</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204018Z" creationid="2008l" creationdate="20240729T204018Z">
         <seg>ルーンの裙甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rune plateskirt (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064345Z" creationid="2008l" creationdate="20240821T064137Z">
+        <seg>ルーンの裙甲（金）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rune plateskirt (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064341Z" creationid="2008l" creationdate="20240821T064145Z">
+        <seg>ルーンの裙甲（縁）</seg>
       </tuv>
     </tu>
     <tu>
@@ -66266,6 +68826,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T063951Z" creationid="2008l" creationdate="20240731T063951Z">
         <seg>ルーンの槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rune spear(kp)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T064552Z" creationid="2008l" creationdate="20240820T064552Z">
+        <seg>ルーンの槍（カラムジャ毒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -66630,6 +69198,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sacred oil(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072810Z" creationid="2008l" creationdate="20240820T072810Z">
+        <seg>神聖なオイル（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sacred oil(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072808Z" creationid="2008l" creationdate="20240820T072808Z">
+        <seg>神聖なオイル（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sacred oil(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072807Z" creationid="2008l" creationdate="20240820T072807Z">
+        <seg>神聖なオイル（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sacred oil(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072805Z" creationid="2008l" creationdate="20240820T072805Z">
+        <seg>神聖なオイル（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sacred water</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T035552Z" creationid="yumas" creationdate="20240811T035552Z">
@@ -66722,6 +69322,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T133253Z" creationid="yumas" creationdate="20240808T133253Z">
         <seg>サギラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T175106Z" creationid="2008l" creationdate="20240818T175106Z">
+        <seg>帆</seg>
       </tuv>
     </tu>
     <tu>
@@ -66834,6 +69442,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T121044Z" creationid="yumas" creationdate="20240809T121044Z">
         <seg>サミー・サーヴィル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sample bottle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071931Z" creationid="2008l" creationdate="20240820T071924Z">
+        <seg>サンプルの瓶</seg>
       </tuv>
     </tu>
     <tu>
@@ -67178,6 +69794,78 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T074054Z" creationid="2008l" creationdate="20240811T074054Z">
         <seg>サラドミンのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Saradomin full helm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181850Z" creationid="2008l" creationdate="20240818T181850Z">
+        <seg>サラドミンの全頭甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Saradomin kiteshield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181858Z" creationid="2008l" creationdate="20240818T181858Z">
+        <seg>サラドミンのタコ盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Saradomin page 1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072943Z" creationid="2008l" creationdate="20240821T072943Z">
+        <seg>サラドミンのページ１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Saradomin page 2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072945Z" creationid="2008l" creationdate="20240821T072945Z">
+        <seg>サラドミンのページ２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Saradomin page 3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072946Z" creationid="2008l" creationdate="20240821T072946Z">
+        <seg>サラドミンのページ３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Saradomin page 4</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072947Z" creationid="2008l" creationdate="20240821T072947Z">
+        <seg>サラドミンのページ４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Saradomin platebody</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181826Z" creationid="2008l" creationdate="20240818T181826Z">
+        <seg>サラドミンの胸甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Saradomin platelegs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181835Z" creationid="2008l" creationdate="20240818T181835Z">
+        <seg>サラドミンの脚甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Saradomin plateskirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064207Z" creationid="2008l" creationdate="20240821T064207Z">
+        <seg>サラドミンの裙甲</seg>
       </tuv>
     </tu>
     <tu>
@@ -67926,6 +70614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sea fishing map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065652Z" creationid="2008l" creationdate="20240821T065652Z">
+        <seg>海の釣り地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sea slug</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T070328Z" creationid="2008l" creationdate="20240805T070328Z">
@@ -68046,6 +70742,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sealed vase</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071446Z" creationid="2008l" creationdate="20240821T071446Z">
+        <seg>密閉の花瓶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Seaman Lorris</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T213050Z" creationid="yumas" creationdate="20240807T213050Z">
@@ -68090,6 +70794,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T100943Z" creationid="yumas" creationdate="20240803T100943Z">
         <seg>罠を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Seasoned chompy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183133Z" creationid="2008l" creationdate="20240818T183133Z">
+        <seg>味付けしたチョンピー</seg>
       </tuv>
     </tu>
     <tu>
@@ -68142,6 +70854,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Seaweed sandwich</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063820Z" creationid="2008l" creationdate="20240820T063820Z">
+        <seg>海藻のサンドイッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Secret Door</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T043057Z" creationid="yumas" creationdate="20240811T043057Z">
@@ -68154,6 +70874,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T003814Z" creationid="yumas" creationdate="20240812T003814Z">
         <seg>秘密の入口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Secret way map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070619Z" creationid="2008l" creationdate="20240819T070619Z">
+        <seg>秘密の道の地図</seg>
       </tuv>
     </tu>
     <tu>
@@ -68242,6 +70970,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T003212Z" creationid="yumas" creationdate="20240809T003212Z">
         <seg>予見者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Seer's key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071851Z" creationid="2008l" creationdate="20240821T071851Z">
+        <seg>予見者の鍵</seg>
       </tuv>
     </tu>
     <tu>
@@ -68454,6 +71190,70 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Serum 207 (1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072529Z" creationid="2008l" creationdate="20240820T072529Z">
+        <seg>血清２０７（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Serum 207 (2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072528Z" creationid="2008l" creationdate="20240820T072528Z">
+        <seg>血清２０７（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Serum 207 (3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072527Z" creationid="2008l" creationdate="20240820T072527Z">
+        <seg>血清２０７（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Serum 207 (4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072524Z" creationid="2008l" creationdate="20240820T072524Z">
+        <seg>血清２０７（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Serum 208 (1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072536Z" creationid="2008l" creationdate="20240820T072536Z">
+        <seg>血清２０８（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Serum 208 (2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072535Z" creationid="2008l" creationdate="20240820T072535Z">
+        <seg>血清２０８（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Serum 208 (3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072533Z" creationid="2008l" creationdate="20240820T072533Z">
+        <seg>血清２０８（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Serum 208 (4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072532Z" creationid="2008l" creationdate="20240820T072532Z">
+        <seg>血清２０８（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Servant</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T045723Z" creationid="yumas" creationdate="20240805T045723Z">
@@ -68562,6 +71362,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T082005Z" creationid="yumas" creationdate="20240805T082005Z">
         <seg>セス・グローツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063425Z" creationid="2008l" creationdate="20240820T063425Z">
+        <seg>設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -68826,6 +71634,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T073816Z" creationid="yumas" creationdate="20240809T073816Z">
         <seg>シャエデッド・ビースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shaikahan bones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070851Z" creationid="2008l" creationdate="20240819T070851Z">
+        <seg>シャイカハンの骨</seg>
       </tuv>
     </tu>
     <tu>
@@ -69366,6 +72182,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shoe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064724Z" creationid="2008l" creationdate="20240821T064724Z">
+        <seg>靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shoe box</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T014113Z" creationid="yumas" creationdate="20240812T014113Z">
@@ -69646,6 +72470,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sickle mould</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065200Z" creationid="2008l" creationdate="20240819T065200Z">
+        <seg>鎌の鋳型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sid</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T055731Z" creationid="yumas" creationdate="20240809T055731Z">
@@ -69862,6 +72694,46 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Silver key black</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063858Z" creationid="2008l" creationdate="20240821T063858Z">
+        <seg>黒色の銀の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Silver key brown</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063850Z" creationid="2008l" creationdate="20240821T063850Z">
+        <seg>茶色の銀の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Silver key crimson</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063855Z" creationid="2008l" creationdate="20240821T063855Z">
+        <seg>深紅色の銀の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Silver key purple</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063902Z" creationid="2008l" creationdate="20240821T063902Z">
+        <seg>紫色の銀の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Silver key red</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063845Z" creationid="2008l" creationdate="20240821T063845Z">
+        <seg>赤色の銀の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Silver merchant</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T132920Z" creationid="yumas" creationdate="20240808T132920Z">
@@ -69906,6 +72778,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T005035Z" creationid="yumas" creationdate="20240812T005035Z">
         <seg>銀の岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Silver sickle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T064349Z" creationid="2008l" creationdate="20240819T064349Z">
+        <seg>銀の鎌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Silver sickle (b)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T064436Z" creationid="2008l" creationdate="20240819T064436Z">
+        <seg>銀の鎌（祝福）</seg>
       </tuv>
     </tu>
     <tu>
@@ -70958,6 +73846,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sliced banana</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063730Z" creationid="2008l" creationdate="20240820T063730Z">
+        <seg>スライスしたバナナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sliced web</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T025127Z" creationid="yumas" creationdate="20240811T025127Z">
@@ -71270,6 +74166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Small ninja monkey bones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T064907Z" creationid="2008l" creationdate="20240820T064907Z">
+        <seg>小さな忍者ザルの骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Small orrery</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T022147Z" creationid="yumas" creationdate="20240812T022147Z">
@@ -71282,6 +74186,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T021205Z" creationid="yumas" creationdate="20240812T021205Z">
         <seg>小さなオーブン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Small pick</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T070811Z" creationid="2008l" creationdate="20240821T070811Z">
+        <seg>小さいツルハシ</seg>
       </tuv>
     </tu>
     <tu>
@@ -71338,6 +74250,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T090006Z" creationid="yumas" creationdate="20240805T090006Z">
         <seg>小さなゾンビザル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Small zombie monkey bones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065011Z" creationid="2008l" creationdate="20240820T065011Z">
+        <seg>小さなゾンビザルの骨</seg>
       </tuv>
     </tu>
     <tu>
@@ -71634,6 +74554,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T064840Z" creationid="2008l" creationdate="20240727T064840Z">
         <seg>スネーク草の混合物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Snapdragon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065513Z" creationid="2008l" creationdate="20240819T065513Z">
+        <seg>スナップドラゴン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Snapdragon potion (unf)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065551Z" creationid="2008l" creationdate="20240819T065551Z">
+        <seg>スナップドラゴンの薬液（未）</seg>
       </tuv>
     </tu>
     <tu>
@@ -72494,6 +75430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Spiked boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070652Z" creationid="2008l" creationdate="20240819T070652Z">
+        <seg>トゲの靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Spiked pit</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T234138Z" creationid="yumas" creationdate="20240808T234138Z">
@@ -72890,6 +75834,46 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T131937Z" creationid="yumas" creationdate="20240803T131937Z">
         <seg>別ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Splitbark body</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T062817Z" creationid="2008l" creationdate="20240821T062817Z">
+        <seg>分樹皮のボディ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Splitbark boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063007Z" creationid="2008l" creationdate="20240821T063007Z">
+        <seg>分樹皮の靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Splitbark gauntlets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063003Z" creationid="2008l" creationdate="20240821T063003Z">
+        <seg>分樹皮の手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Splitbark helm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T062804Z" creationid="2008l" creationdate="20240821T062804Z">
+        <seg>分樹皮の帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Splitbark legs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T062947Z" creationid="2008l" creationdate="20240821T062947Z">
+        <seg>分樹皮のズボン</seg>
       </tuv>
     </tu>
     <tu>
@@ -73958,6 +76942,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Steel claws</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070400Z" creationid="2008l" creationdate="20240819T070400Z">
+        <seg>鋼鉄のクローズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Steel dagger</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071916Z" creationid="2008l" creationdate="20240730T071916Z">
@@ -74038,6 +77030,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Steel halberd</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T065303Z" creationid="2008l" creationdate="20240820T065303Z">
+        <seg>鋼鉄の矛槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Steel javelin</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T060819Z" creationid="2008l" creationdate="20240728T060819Z">
@@ -74050,6 +77050,46 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T060912Z" creationid="2008l" creationdate="20240728T060912Z">
         <seg>鋼鉄の投槍（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel key black</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063739Z" creationid="2008l" creationdate="20240821T063739Z">
+        <seg>黒色の鋼鉄の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel key brown</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063726Z" creationid="2008l" creationdate="20240821T063726Z">
+        <seg>茶色の鋼鉄の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel key crimson</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063735Z" creationid="2008l" creationdate="20240821T063735Z">
+        <seg>深紅色の鋼鉄の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel key purple</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063744Z" creationid="2008l" creationdate="20240821T063744Z">
+        <seg>紫色の鋼鉄の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel key red</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063719Z" creationid="2008l" creationdate="20240821T063719Z">
+        <seg>赤色の鋼鉄の鍵</seg>
       </tuv>
     </tu>
     <tu>
@@ -74170,6 +77210,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T063935Z" creationid="2008l" creationdate="20240731T063935Z">
         <seg>鋼鉄の槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel spear(kp)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T064536Z" creationid="2008l" creationdate="20240820T064536Z">
+        <seg>鋼鉄の槍（カラムジャ毒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -74358,6 +77406,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sticky red goop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072228Z" creationid="2008l" creationdate="20240821T072228Z">
+        <seg>赤いベトベト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stile</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T022011Z" creationid="yumas" creationdate="20240811T022011Z">
@@ -74506,6 +77562,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T115503Z" creationid="yumas" creationdate="20240812T115503Z">
         <seg>石のアーチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stone ball</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070709Z" creationid="2008l" creationdate="20240819T070709Z">
+        <seg>石のボール</seg>
       </tuv>
     </tu>
     <tu>
@@ -74778,6 +77842,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T043213Z" creationid="yumas" creationdate="20240811T043204Z">
         <seg>物置のドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Storeroom key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070816Z" creationid="2008l" creationdate="20240820T070816Z">
+        <seg>倉庫の鍵</seg>
       </tuv>
     </tu>
     <tu>
@@ -75086,6 +78158,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strange object</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T070727Z" creationid="2008l" creationdate="20240821T070727Z">
+        <seg>不思議な物体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strange panels</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T134911Z" creationid="yumas" creationdate="20240814T134911Z">
@@ -75350,6 +78430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strip of cloth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070251Z" creationid="2008l" creationdate="20240820T070251Z">
+        <seg>布切れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stroke</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T093159Z" creationid="yumas" creationdate="20240730T093159Z">
@@ -75518,6 +78606,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stuffed monkey</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T064134Z" creationid="2008l" creationdate="20240820T064134Z">
+        <seg>サルの剝製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stuffed swordfish</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T021712Z" creationid="yumas" creationdate="20240811T021712Z">
@@ -75578,6 +78674,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T062609Z" creationid="yumas" creationdate="20240809T044104Z">
         <seg>発育不良の悪魔のゴリラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sturdy boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065434Z" creationid="2008l" creationdate="20240821T065434Z">
+        <seg>頑丈な靴</seg>
       </tuv>
     </tu>
     <tu>
@@ -75878,6 +78982,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Super energy(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063609Z" creationid="2008l" creationdate="20240820T063609Z">
+        <seg>超エネルギーの薬液（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super energy(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063606Z" creationid="2008l" creationdate="20240820T063606Z">
+        <seg>超エネルギーの薬液（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super energy(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063605Z" creationid="2008l" creationdate="20240820T063605Z">
+        <seg>超エネルギーの薬液（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super energy(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T063603Z" creationid="2008l" creationdate="20240820T063603Z">
+        <seg>超エネルギーの薬液（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Super magic potion</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T121322Z" creationid="yumas" creationdate="20240812T121322Z">
@@ -75890,6 +79026,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T121306Z" creationid="yumas" creationdate="20240812T121246Z">
         <seg>超弓薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super restore(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065847Z" creationid="2008l" creationdate="20240819T065847Z">
+        <seg>超回復薬（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super restore(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065840Z" creationid="2008l" creationdate="20240819T065840Z">
+        <seg>超回復薬（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super restore(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065833Z" creationid="2008l" creationdate="20240819T065833Z">
+        <seg>超回復薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Super restore(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065823Z" creationid="2008l" creationdate="20240819T065823Z">
+        <seg>超回復薬（４）</seg>
       </tuv>
     </tu>
     <tu>
@@ -76425,6 +79593,14 @@
         <seg>Swing-on</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T220538Z" creationid="yumas" creationdate="20240730T220538Z">
+        <seg>振り渡る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Swings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T175140Z" creationid="2008l" creationdate="20240818T175140Z">
         <seg>振り渡る</seg>
       </tuv>
     </tu>
@@ -77256,6 +80432,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tan cavalier</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181344Z" creationid="2008l" creationdate="20240818T181239Z">
+        <seg>褐色のカバリエ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tan-hides</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122426Z" creationid="yumas" creationdate="20240730T122426Z">
@@ -77308,6 +80492,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T045433Z" creationid="yumas" creationdate="20240809T045433Z">
         <seg>タングルルート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tankard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072933Z" creationid="2008l" creationdate="20240821T072933Z">
+        <seg>タンカード</seg>
       </tuv>
     </tu>
     <tu>
@@ -77724,6 +80916,46 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T014209Z" creationid="yumas" creationdate="20240812T014209Z">
         <seg>チークのタンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teal boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184126Z" creationid="2008l" creationdate="20240818T184126Z">
+        <seg>青緑色の靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teal gloves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184219Z" creationid="2008l" creationdate="20240818T184219Z">
+        <seg>青緑色の手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teal hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184212Z" creationid="2008l" creationdate="20240818T184212Z">
+        <seg>青緑色の帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teal robe bottoms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184200Z" creationid="2008l" creationdate="20240818T184200Z">
+        <seg>青緑色のローブ下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teal robe top</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T184133Z" creationid="2008l" creationdate="20240818T184133Z">
+        <seg>青緑色のローブ上</seg>
       </tuv>
     </tu>
     <tu>
@@ -78800,6 +82032,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Thin snail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071753Z" creationid="2008l" creationdate="20240820T071753Z">
+        <seg>細いカタツムリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Thin snail meat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071839Z" creationid="2008l" creationdate="20240820T071839Z">
+        <seg>細いカタツムリ肉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Thing under the bed</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T134834Z" creationid="yumas" creationdate="20240805T134834Z">
@@ -79460,6 +82708,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T064127Z" creationid="2008l" creationdate="20240810T064127Z">
         <seg>アマガエルの足</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Toadflax</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065432Z" creationid="2008l" creationdate="20240819T065432Z">
+        <seg>トードフラックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Toadflax potion (unf)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T065532Z" creationid="2008l" creationdate="20240819T065532Z">
+        <seg>トードフラックスの薬液（未）</seg>
       </tuv>
     </tu>
     <tu>
@@ -80184,6 +83448,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Toy ship</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T070839Z" creationid="2008l" creationdate="20240821T070839Z">
+        <seg>おもちゃの船</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Toy sink</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T103552Z" creationid="yumas" creationdate="20240812T103552Z">
@@ -80244,6 +83516,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T235915Z" creationid="yumas" creationdate="20240808T235915Z">
         <seg>ノームの追跡者３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tracking map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065518Z" creationid="2008l" creationdate="20240821T065518Z">
+        <seg>追跡地図</seg>
       </tuv>
     </tu>
     <tu>
@@ -81056,10 +84336,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Troll potion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070728Z" creationid="2008l" creationdate="20240820T070728Z">
+        <seg>トロールの薬液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Troll spectator</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120705Z" creationid="yumas" creationdate="20240808T120705Z">
         <seg>トロールの観戦者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Troll thistle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070648Z" creationid="2008l" creationdate="20240820T070648Z">
+        <seg>トロールのアザミ</seg>
       </tuv>
     </tu>
     <tu>
@@ -82224,6 +85520,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Unfinished potion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T072336Z" creationid="2008l" creationdate="20240820T072336Z">
+        <seg>未完成の薬液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Unfired bowl</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T070223Z" creationid="2008l" creationdate="20240808T070223Z">
@@ -82260,6 +85564,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T130534Z" creationid="yumas" creationdate="20240730T130534Z">
         <seg>アンガエル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Unholy book</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T073031Z" creationid="2008l" creationdate="20240821T073031Z">
+        <seg>けがれの本</seg>
       </tuv>
     </tu>
     <tu>
@@ -82504,6 +85816,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Unstrung lyre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065011Z" creationid="2008l" creationdate="20240821T065011Z">
+        <seg>紐無しのたて琴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Unstrung symbol</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T063007Z" creationid="2008l" creationdate="20240808T063007Z">
@@ -82548,6 +85868,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T071920Z" creationid="2008l" creationdate="20240810T071920Z">
         <seg>変な鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Unusual fish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065637Z" creationid="2008l" creationdate="20240821T065637Z">
+        <seg>変な魚</seg>
       </tuv>
     </tu>
     <tu>
@@ -82888,6 +86216,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Vampyre dust</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T071200Z" creationid="2008l" creationdate="20240820T071200Z">
+        <seg>吸血鬼の塵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Vampyre statue</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T044433Z" creationid="yumas" creationdate="20240812T044433Z">
@@ -83084,6 +86420,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T064220Z" creationid="2008l" creationdate="20240726T064220Z">
         <seg>花瓶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vase lid</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071348Z" creationid="2008l" creationdate="20240821T071348Z">
+        <seg>花瓶のフタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vase of water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071334Z" creationid="2008l" creationdate="20240821T071334Z">
+        <seg>水の花瓶</seg>
       </tuv>
     </tu>
     <tu>
@@ -84440,6 +87792,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Warrior helm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072422Z" creationid="2008l" creationdate="20240821T072422Z">
+        <seg>戦士の兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Warrior of Murahs</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T090553Z" creationid="yumas" creationdate="20240809T090553Z">
@@ -84448,10 +87808,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Warrior woman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240820T070447Z" creationid="2008l" creationdate="20240820T070447Z">
+        <seg>戦士女</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Warriors' Guild</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T032047Z" creationid="yumas" creationdate="20240803T032047Z">
         <seg>戦士ギルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Warriors' contract</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T070551Z" creationid="2008l" creationdate="20240821T070551Z">
+        <seg>戦士の契約</seg>
       </tuv>
     </tu>
     <tu>
@@ -84468,6 +87844,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T044302Z" creationid="yumas" creationdate="20240811T044302Z">
         <seg>洗濯干しのロープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Washing bowl</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T064607Z" creationid="2008l" creationdate="20240819T064556Z">
+        <seg>洗濯のボール</seg>
       </tuv>
     </tu>
     <tu>
@@ -85104,6 +88488,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Weather forecast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T065702Z" creationid="2008l" creationdate="20240821T065702Z">
+        <seg>天気予報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Weather vane</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T131916Z" creationid="yumas" creationdate="20240810T131916Z">
@@ -85464,6 +88856,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>White beret</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181126Z" creationid="2008l" creationdate="20240818T181126Z">
+        <seg>白いベレー帽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>White berries</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T071216Z" creationid="2008l" creationdate="20240721T071216Z">
@@ -85764,6 +89164,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T090020Z" creationid="2008l" creationdate="20240718T072138Z">
         <seg>柳の長弓（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Willow pyre logs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063146Z" creationid="2008l" creationdate="20240821T063146Z">
+        <seg>柳の火葬の丸太</seg>
       </tuv>
     </tu>
     <tu>
@@ -86416,10 +89824,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wolf bones</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182409Z" creationid="2008l" creationdate="20240818T182409Z">
+        <seg>オオカミの骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wolfbane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T063857Z" creationid="2008l" creationdate="20240819T063857Z">
+        <seg>狼討短剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Wolfbone</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T070935Z" creationid="yumas" creationdate="20240809T070909Z">
         <seg>オオカミの骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wolfbone arrowtips</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T182432Z" creationid="2008l" creationdate="20240818T182432Z">
+        <seg>オオカミ骨の矢じり</seg>
       </tuv>
     </tu>
     <tu>
@@ -86580,6 +90012,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T145441Z" creationid="yumas" creationdate="20240810T145441Z">
         <seg>木製の守備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wooden disk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T071738Z" creationid="2008l" creationdate="20240821T071738Z">
+        <seg>木製のディスク</seg>
       </tuv>
     </tu>
     <tu>
@@ -87080,6 +90520,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Yellow boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183551Z" creationid="2008l" creationdate="20240818T183541Z">
+        <seg>黄色の靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Yellow cape</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T064156Z" creationid="2008l" creationdate="20240729T064156Z">
@@ -87120,6 +90568,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Yellow gloves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183642Z" creationid="2008l" creationdate="20240818T183642Z">
+        <seg>黄色の手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yellow hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183638Z" creationid="2008l" creationdate="20240818T183638Z">
+        <seg>黄色の帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Yellow orchids</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T132538Z" creationid="yumas" creationdate="20240811T132538Z">
@@ -87132,6 +90596,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T065158Z" creationid="2008l" creationdate="20240729T065158Z">
         <seg>黄色いパーティーハット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yellow robe bottoms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183633Z" creationid="2008l" creationdate="20240818T183633Z">
+        <seg>黄色のローブ下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yellow robe top</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T183629Z" creationid="2008l" creationdate="20240818T183629Z">
+        <seg>黄色のローブ上</seg>
       </tuv>
     </tu>
     <tu>
@@ -87204,6 +90684,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240718T090031Z" creationid="2008l" creationdate="20240718T072412Z">
         <seg>イチイの長弓（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yew pyre logs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T063200Z" creationid="2008l" creationdate="20240821T063200Z">
+        <seg>イチイの火葬の丸太</seg>
       </tuv>
     </tu>
     <tu>
@@ -87576,6 +91064,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Zamorak full helm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181803Z" creationid="2008l" creationdate="20240818T181803Z">
+        <seg>ザモラックの全頭甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak kiteshield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181813Z" creationid="2008l" creationdate="20240818T181813Z">
+        <seg>ザモラックのタコ盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Zamorak mage</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T052141Z" creationid="yumas" creationdate="20240809T052141Z">
@@ -87596,6 +91100,62 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T082613Z" creationid="2008l" creationdate="20240729T064857Z">
         <seg>ザモラック僧侶上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak page 1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072952Z" creationid="2008l" creationdate="20240821T072952Z">
+        <seg>ザモラックのページ１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak page 2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072953Z" creationid="2008l" creationdate="20240821T072953Z">
+        <seg>ザモラックのページ２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak page 3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072954Z" creationid="2008l" creationdate="20240821T072954Z">
+        <seg>ザモラックのページ３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak page 4</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T072955Z" creationid="2008l" creationdate="20240821T072955Z">
+        <seg>ザモラックのページ４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak platebody</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181747Z" creationid="2008l" creationdate="20240818T181747Z">
+        <seg>ザモラックの胸甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak platelegs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T181756Z" creationid="2008l" creationdate="20240818T181756Z">
+        <seg>ザモラックの脚甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak plateskirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064157Z" creationid="2008l" creationdate="20240821T064157Z">
+        <seg>ザモラックの裙甲</seg>
       </tuv>
     </tu>
     <tu>
@@ -88207,6 +91767,28 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">transcript_ja_name_item.xliff</prop>
+      <prop type="id">1550</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Combination</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240819T070452Z" creationid="2008l" creationdate="20240819T070452Z">
+        <seg>組み合わせ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_item.xliff</prop>
+      <prop type="id">957</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Shears</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240818T175350Z" creationid="2008l" creationdate="20240818T175350Z">
+        <seg>鋏</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">transcript_jp_actions.xliff</prop>
       <prop type="id">109748</prop>
