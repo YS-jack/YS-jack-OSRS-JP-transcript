@@ -69038,6 +69038,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rusty</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T140927Z" creationid="yumas" creationdate="20240821T140927Z">
+        <seg>ラスティー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rusty key</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T043138Z" creationid="yumas" creationdate="20240812T043138Z">
@@ -92217,6 +92225,138 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240821T135949Z" creationid="yumas" creationdate="20240821T135949Z">
         <seg>タイルズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_npc.xliff</prop>
+      <prop type="id">11572</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Angel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T140941Z" creationid="yumas" creationdate="20240821T140941Z">
+        <seg>アンゲル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_npc.xliff</prop>
+      <prop type="id">12228</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Boot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T140955Z" creationid="yumas" creationdate="20240821T140955Z">
+        <seg>ブート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_npc.xliff</prop>
+      <prop type="id">12682</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Pay-dirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T141005Z" creationid="yumas" creationdate="20240821T141005Z">
+        <seg>有望な鉱脈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_npc.xliff</prop>
+      <prop type="id">12837</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Novice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T141015Z" creationid="yumas" creationdate="20240821T141015Z">
+        <seg>ノヴァイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_npc.xliff</prop>
+      <prop type="id">13122</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Midnight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T141024Z" creationid="yumas" creationdate="20240821T141024Z">
+        <seg>ミッドナイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_npc.xliff</prop>
+      <prop type="id">13123</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Noon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T141030Z" creationid="yumas" creationdate="20240821T141030Z">
+        <seg>ヌーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_npc.xliff</prop>
+      <prop type="id">13589</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Acorn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T141040Z" creationid="yumas" creationdate="20240821T141040Z">
+        <seg>エイコーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_npc.xliff</prop>
+      <prop type="id">13764</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Willow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T141046Z" creationid="yumas" creationdate="20240821T141046Z">
+        <seg>ウィロウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_npc.xliff</prop>
+      <prop type="id">13781</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Gem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T141053Z" creationid="yumas" creationdate="20240821T141053Z">
+        <seg>ジェム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_npc.xliff</prop>
+      <prop type="id">13798</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Fire Wave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T141059Z" creationid="yumas" creationdate="20240821T141059Z">
+        <seg>火の波</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_npc.xliff</prop>
+      <prop type="id">13906</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Roger</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T141107Z" creationid="yumas" creationdate="20240821T141107Z">
+        <seg>ロジャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_npc.xliff</prop>
+      <prop type="id">13918</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Hannibal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T141112Z" creationid="yumas" creationdate="20240821T141112Z">
+        <seg>ハンニバル</seg>
       </tuv>
     </tu>
     <tu>
