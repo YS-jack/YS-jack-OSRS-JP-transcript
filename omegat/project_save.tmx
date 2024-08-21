@@ -7686,6 +7686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bind</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T134808Z" creationid="yumas" creationdate="20240821T134808Z">
+        <seg>魔力封入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Binding book</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T064112Z" creationid="2008l" creationdate="20240727T064112Z">
@@ -91849,6 +91857,61 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240821T134749Z" creationid="yumas" creationdate="20240821T134749Z">
         <seg>を組み立てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">42214</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Fuel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T134832Z" creationid="yumas" creationdate="20240821T134832Z">
+        <seg>燃料を追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">42216</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Shared</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T134935Z" creationid="yumas" creationdate="20240821T134935Z">
+        <seg>共有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">42242</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Feel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135002Z" creationid="yumas" creationdate="20240821T135002Z">
+        <seg>探る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">42248</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135033Z" creationid="yumas" creationdate="20240821T135033Z">
+        <seg>優先設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">42290</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Heart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135047Z" creationid="yumas" creationdate="20240821T135047Z">
+        <seg>心臓部</seg>
       </tuv>
     </tu>
     <tu>
