@@ -82936,6 +82936,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Toggle-view</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135538Z" creationid="yumas" creationdate="20240821T135538Z">
+        <seg>見た目の切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Toggle-warning</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240821T134627Z" creationid="yumas" creationdate="20240821T134627Z">
@@ -91978,6 +91986,171 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240821T135348Z" creationid="yumas" creationdate="20240821T135348Z">
         <seg>で連絡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41021</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135401Z" creationid="yumas" creationdate="20240821T135401Z">
+        <seg>示す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41022</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Question</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135416Z" creationid="yumas" creationdate="20240821T135416Z">
+        <seg>質問する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41024</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Feel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135430Z" creationid="yumas" creationdate="20240821T135430Z">
+        <seg>を手で感じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41027</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Bow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135440Z" creationid="yumas" creationdate="20240821T135440Z">
+        <seg>お辞儀する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41030</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Smell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135448Z" creationid="yumas" creationdate="20240821T135448Z">
+        <seg>の匂いをかぐ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41033</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Separate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135459Z" creationid="yumas" creationdate="20240821T135459Z">
+        <seg>を別ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41034</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Unstuff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135506Z" creationid="yumas" creationdate="20240821T135506Z">
+        <seg>の中身を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41047</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Invoke</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135520Z" creationid="yumas" creationdate="20240821T135520Z">
+        <seg>を発動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41048</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Divine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135534Z" creationid="yumas" creationdate="20240821T135534Z">
+        <seg>の残量確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41113</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Check completion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135549Z" creationid="yumas" creationdate="20240821T135549Z">
+        <seg>完成度を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41137</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Pickle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135600Z" creationid="yumas" creationdate="20240821T135600Z">
+        <seg>漬物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41173</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Bloom</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135613Z" creationid="yumas" creationdate="20240821T135613Z">
+        <seg>咲かせる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41187</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Fletch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135629Z" creationid="yumas" creationdate="20240821T135629Z">
+        <seg>加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41198</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Scrutinise</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135637Z" creationid="yumas" creationdate="20240821T135637Z">
+        <seg>よく調べる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41215</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Reverse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135647Z" creationid="yumas" creationdate="20240821T135647Z">
+        <seg>を逆にする</seg>
       </tuv>
     </tu>
     <tu>
