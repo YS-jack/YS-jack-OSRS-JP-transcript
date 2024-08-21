@@ -92154,6 +92154,28 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41241</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Squeeze</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135656Z" creationid="yumas" creationdate="20240821T135656Z">
+        <seg>力を入れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41254</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Toggle-activity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135705Z" creationid="yumas" creationdate="20240821T135705Z">
+        <seg>発動を切り替える</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">transcript_ja_name_item.xliff</prop>
       <prop type="id">1550</prop>
       <prop type="path">//transcript.db</prop>
