@@ -1208,16 +1208,16 @@
       <tuv lang="en-GB">
         <seg>Adamant plateskirt (g)</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240821T064122Z" creationid="2008l" creationdate="20240821T064122Z">
-        <seg>アダマントの裙甲</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064349Z" creationid="2008l" creationdate="20240821T064122Z">
+        <seg>アダマントの裙甲（金）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Adamant plateskirt (t)</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240821T064130Z" creationid="2008l" creationdate="20240821T064130Z">
-        <seg>アダマントの裙甲</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064332Z" creationid="2008l" creationdate="20240821T064130Z">
+        <seg>アダマントの裙甲（縁）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10122,6 +10122,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T030738Z" creationid="yumas" creationdate="20240815T030738Z">
         <seg>ボスのスポーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Boss helper tool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064644Z" creationid="2008l" creationdate="20240821T064644Z">
+        <seg>ボスの手伝いツール</seg>
       </tuv>
     </tu>
     <tu>
@@ -33426,6 +33434,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240821T064258Z" creationid="2008l" creationdate="20240821T064258Z">
         <seg>黄金の全頭甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gilded kiteshield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064315Z" creationid="2008l" creationdate="20240821T064315Z">
+        <seg>黄金のタコ盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -68208,16 +68224,16 @@
       <tuv lang="en-GB">
         <seg>Rune plateskirt (g)</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240821T064137Z" creationid="2008l" creationdate="20240821T064137Z">
-        <seg>ルーンの裙甲</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064345Z" creationid="2008l" creationdate="20240821T064137Z">
+        <seg>ルーンの裙甲（金）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Rune plateskirt (t)</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240821T064145Z" creationid="2008l" creationdate="20240821T064145Z">
-        <seg>ルーンの裙甲</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240821T064341Z" creationid="2008l" creationdate="20240821T064145Z">
+        <seg>ルーンの裙甲（縁）</seg>
       </tuv>
     </tu>
     <tu>
