@@ -92360,6 +92360,50 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">transcript_ja_name_object.xliff</prop>
+      <prop type="id">14566</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Sink</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T141419Z" creationid="yumas" creationdate="20240821T141419Z">
+        <seg>シンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_object.xliff</prop>
+      <prop type="id">15069</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Shell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T141424Z" creationid="yumas" creationdate="20240821T141424Z">
+        <seg>シェル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_object.xliff</prop>
+      <prop type="id">15608</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Coke</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T141429Z" creationid="yumas" creationdate="20240821T141429Z">
+        <seg>コーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_object.xliff</prop>
+      <prop type="id">18609</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Extremity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T141442Z" creationid="yumas" creationdate="20240821T141442Z">
+        <seg>エクストレミティー</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">transcript_jp_actions.xliff</prop>
       <prop type="id">109748</prop>
       <prop type="path">//transcript.db</prop>
