@@ -17558,6 +17558,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Climb up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T134730Z" creationid="yumas" creationdate="20240821T134730Z">
+        <seg>を上る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Climb-across</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T220810Z" creationid="yumas" creationdate="20240730T220810Z">
@@ -58542,6 +58550,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pass</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T134527Z" creationid="yumas" creationdate="20240821T134527Z">
+        <seg>にパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pass (normal)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T111957Z" creationid="yumas" creationdate="20240803T111957Z">
@@ -79982,6 +79998,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take-Log</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T134718Z" creationid="yumas" creationdate="20240821T134718Z">
+        <seg>から丸太を取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Take-Meat</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T125728Z" creationid="yumas" creationdate="20240731T125728Z">
@@ -82900,6 +82924,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T134747Z" creationid="yumas" creationdate="20240730T114436Z">
         <seg>で試薬瓶の処理を切り替える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Toggle-warning</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T134627Z" creationid="yumas" creationdate="20240821T134627Z">
+        <seg>警告表示を切り替える</seg>
       </tuv>
     </tu>
     <tu>
@@ -89000,6 +89032,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wiki</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T134508Z" creationid="yumas" creationdate="20240821T134508Z">
+        <seg>ウィキ検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Wild Beehive</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T014146Z" creationid="yumas" creationdate="20240810T014146Z">
@@ -91767,6 +91807,50 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">41560</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Locks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T134617Z" creationid="yumas" creationdate="20240821T134617Z">
+        <seg>ロック関連</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">41843</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Count</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T134654Z" creationid="yumas" creationdate="20240821T134654Z">
+        <seg>を数える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">41864</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Zanaris</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T134709Z" creationid="yumas" creationdate="20240821T134709Z">
+        <seg>ザナリスへ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">42028</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Construct</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T134749Z" creationid="yumas" creationdate="20240821T134749Z">
+        <seg>を組み立てる</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">transcript_ja_name_item.xliff</prop>
       <prop type="id">1550</prop>
