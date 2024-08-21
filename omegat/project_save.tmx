@@ -92209,6 +92209,17 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">transcript_ja_name_npc.xliff</prop>
+      <prop type="id">11017</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Tiles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135949Z" creationid="yumas" creationdate="20240821T135949Z">
+        <seg>タイルズ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">transcript_jp_actions.xliff</prop>
       <prop type="id">109748</prop>
       <prop type="path">//transcript.db</prop>
