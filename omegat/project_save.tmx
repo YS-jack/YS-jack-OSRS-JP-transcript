@@ -91990,6 +91990,17 @@
     </tu>
     <tu>
       <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41015</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Playback</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240821T135807Z" creationid="yumas" creationdate="20240821T135807Z">
+        <seg>で再生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
       <prop type="id">41021</prop>
       <prop type="path">//transcript.db</prop>
       <tuv lang="en-GB">
