@@ -808,8 +808,8 @@
       <tuv lang="en-GB">
         <seg>Abyssal whip</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240822T075643Z" creationid="2008l" creationdate="20240822T075643Z">
-        <seg>深淵のムチ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T075738Z" creationid="2008l" creationdate="20240822T075643Z">
+        <seg>深淵の鞭</seg>
       </tuv>
     </tu>
     <tu>
@@ -5442,6 +5442,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T045316Z" creationid="yumas" creationdate="20240812T045316Z">
         <seg>修理が不完全な壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bag of salt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T075857Z" creationid="2008l" creationdate="20240822T075857Z">
+        <seg>塩の袋</seg>
       </tuv>
     </tu>
     <tu>
@@ -27646,6 +27654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Enchanted gem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T075746Z" creationid="2008l" creationdate="20240822T075746Z">
+        <seg>魔法の宝石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Enchanted lyre</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240821T065028Z" creationid="2008l" creationdate="20240821T065028Z">
@@ -28882,6 +28898,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T015544Z" creationid="yumas" creationdate="20240815T015544Z">
         <seg>布地ロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Facemask</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T075948Z" creationid="2008l" creationdate="20240822T075948Z">
+        <seg>マスク</seg>
       </tuv>
     </tu>
     <tu>
@@ -35874,6 +35898,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120530Z" creationid="yumas" creationdate="20240808T120530Z">
         <seg>ジャックおじいちゃん</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Granite maul</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T075717Z" creationid="2008l" creationdate="20240822T075717Z">
+        <seg>花崗岩の大槌</seg>
       </tuv>
     </tu>
     <tu>
@@ -46934,6 +46966,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Leaf-bladed spear</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T075844Z" creationid="2008l" creationdate="20240822T075844Z">
+        <seg>葉刃の槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Leaflet</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T115624Z" creationid="yumas" creationdate="20240813T115624Z">
@@ -52466,6 +52506,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T135206Z" creationid="yumas" creationdate="20240814T135206Z">
         <seg>鏡（汚）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mirror shield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T075752Z" creationid="2008l" creationdate="20240822T075752Z">
+        <seg>鏡の盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -67922,6 +67970,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T125152Z" creationid="yumas" creationdate="20240814T125152Z">
         <seg>がれきの岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rock hammer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T075905Z" creationid="2008l" creationdate="20240822T075905Z">
+        <seg>岩のハンマー</seg>
       </tuv>
     </tu>
     <tu>
