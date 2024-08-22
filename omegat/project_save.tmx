@@ -8014,6 +8014,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T074409Z" creationid="2008l" creationdate="20240822T074409Z">
+        <seg>黒鉄の靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black candle</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T131333Z" creationid="2008l" creationdate="20240716T075554Z">
@@ -11850,6 +11858,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T061208Z" creationid="2008l" creationdate="20240729T061138Z">
         <seg>銅のボルト（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T074354Z" creationid="2008l" creationdate="20240822T074354Z">
+        <seg>銅の靴</seg>
       </tuv>
     </tu>
     <tu>
@@ -41710,6 +41726,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Iron boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T074359Z" creationid="2008l" creationdate="20240822T074359Z">
+        <seg>鉄の靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Iron chainbody</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204128Z" creationid="2008l" creationdate="20240729T204128Z">
@@ -52566,6 +52590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mithril boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T074420Z" creationid="2008l" creationdate="20240822T074420Z">
+        <seg>ミスリルの靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mithril chainbody</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T204141Z" creationid="2008l" creationdate="20240729T204141Z">
@@ -54974,6 +55006,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mystic boots (dark)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T074133Z" creationid="2008l" creationdate="20240822T074133Z">
+        <seg>秘伝の靴（暗い）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mystic boots (light)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T074349Z" creationid="2008l" creationdate="20240822T074349Z">
+        <seg>秘伝の靴（明るい）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mystic earth staff</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T070452Z" creationid="2008l" creationdate="20240731T070452Z">
@@ -54998,6 +55046,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mystic gloves (dark)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T074129Z" creationid="2008l" creationdate="20240822T074129Z">
+        <seg>秘伝の手袋（暗い）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mystic gloves (light)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T074345Z" creationid="2008l" creationdate="20240822T074345Z">
+        <seg>秘伝の手袋（明るい）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mystic hat</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T074019Z" creationid="2008l" creationdate="20240822T074019Z">
@@ -55010,6 +55074,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T074109Z" creationid="2008l" creationdate="20240822T074109Z">
         <seg>秘伝の帽子（暗い）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mystic hat (light)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T074313Z" creationid="2008l" creationdate="20240822T074313Z">
+        <seg>秘伝の帽子（明るい）</seg>
       </tuv>
     </tu>
     <tu>
@@ -55038,6 +55110,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mystic robe bottom (dark)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T074124Z" creationid="2008l" creationdate="20240822T074124Z">
+        <seg>秘伝のローブ下（暗い）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mystic robe bottom (light)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T074340Z" creationid="2008l" creationdate="20240822T074340Z">
+        <seg>秘伝のローブ下（明るい）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mystic robe top</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T074025Z" creationid="2008l" creationdate="20240822T074025Z">
@@ -55050,6 +55138,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T074115Z" creationid="2008l" creationdate="20240822T074115Z">
         <seg>秘伝のローブ上（暗い）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mystic robe top (light)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T074333Z" creationid="2008l" creationdate="20240822T074333Z">
+        <seg>秘伝のローブ上（明るい）</seg>
       </tuv>
     </tu>
     <tu>
@@ -77442,6 +77538,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T065649Z" creationid="2008l" creationdate="20240731T065649Z">
         <seg>鋼鉄の戦斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240822T074403Z" creationid="2008l" creationdate="20240822T074403Z">
+        <seg>鋼鉄の靴</seg>
       </tuv>
     </tu>
     <tu>
