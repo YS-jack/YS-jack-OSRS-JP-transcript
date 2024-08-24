@@ -17736,16 +17736,16 @@
       <tuv lang="en-GB">
         <seg>Climb Down</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T004116Z" creationid="yumas" creationdate="20240803T004111Z">
-        <seg>を降りる</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044436Z" creationid="yumas" creationdate="20240803T004111Z">
+        <seg>降りる</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Climb Up</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T004113Z" creationid="yumas" creationdate="20240803T004113Z">
-        <seg>を上る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044436Z" creationid="yumas" creationdate="20240803T004113Z">
+        <seg>上る</seg>
       </tuv>
     </tu>
     <tu>
@@ -17760,8 +17760,8 @@
       <tuv lang="en-GB">
         <seg>Climb over</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T133618Z" creationid="yumas" creationdate="20240731T133618Z">
-        <seg>を登る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044300Z" creationid="yumas" creationdate="20240731T133618Z">
+        <seg>登る</seg>
       </tuv>
     </tu>
     <tu>
@@ -19968,8 +19968,8 @@
       <tuv lang="en-GB">
         <seg>Craft-rune</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T002439Z" creationid="yumas" creationdate="20240803T002439Z">
-        <seg>でルーン工作</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044416Z" creationid="yumas" creationdate="20240803T002439Z">
+        <seg>ルーン工作</seg>
       </tuv>
     </tu>
     <tu>
@@ -20400,8 +20400,8 @@
       <tuv lang="en-GB">
         <seg>Cross-to</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T133721Z" creationid="yumas" creationdate="20240731T133721Z">
-        <seg>を渡る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044304Z" creationid="yumas" creationdate="20240731T133721Z">
+        <seg>渡る</seg>
       </tuv>
     </tu>
     <tu>
@@ -24608,8 +24608,8 @@
       <tuv lang="en-GB">
         <seg>Dispel</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T002727Z" creationid="yumas" creationdate="20240803T002727Z">
-        <seg>を消し去る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044417Z" creationid="yumas" creationdate="20240803T002727Z">
+        <seg>消し去る</seg>
       </tuv>
     </tu>
     <tu>
@@ -24720,8 +24720,8 @@
       <tuv lang="en-GB">
         <seg>Dive</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T004118Z" creationid="yumas" creationdate="20240803T004118Z">
-        <seg>に飛び込む</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044437Z" creationid="yumas" creationdate="20240803T004118Z">
+        <seg>飛び込む</seg>
       </tuv>
     </tu>
     <tu>
@@ -33576,8 +33576,8 @@
       <tuv lang="en-GB">
         <seg>Gaze-into</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T133516Z" creationid="yumas" creationdate="20240731T133516Z">
-        <seg>をのぞき込む</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044255Z" creationid="yumas" creationdate="20240731T133516Z">
+        <seg>のぞき込む</seg>
       </tuv>
     </tu>
     <tu>
@@ -46600,480 +46600,480 @@
       <tuv lang="en-GB">
         <seg>Last-destination (AJP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135245Z" creationid="yumas" creationdate="20240731T135245Z">
-        <seg>で前の目的地へ（AJP）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044320Z" creationid="yumas" creationdate="20240731T135245Z">
+        <seg>前の目的地へ（AJP）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (AJQ)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135423Z" creationid="yumas" creationdate="20240731T135423Z">
-        <seg>で前の目的地へ（AJQ）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044321Z" creationid="yumas" creationdate="20240731T135423Z">
+        <seg>前の目的地へ（AJQ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (AJR)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135416Z" creationid="yumas" creationdate="20240731T135416Z">
-        <seg>で前の目的地へ（AJR）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044321Z" creationid="yumas" creationdate="20240731T135416Z">
+        <seg>前の目的地へ（AJR）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (AJS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135250Z" creationid="yumas" creationdate="20240731T135250Z">
-        <seg>で前の目的地へ（AJS）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044321Z" creationid="yumas" creationdate="20240731T135250Z">
+        <seg>前の目的地へ（AJS）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (AKP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135220Z" creationid="yumas" creationdate="20240731T135220Z">
-        <seg>で前の目的地へ（AKP）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044317Z" creationid="yumas" creationdate="20240731T135220Z">
+        <seg>前の目的地へ（AKP）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (AKQ)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135240Z" creationid="yumas" creationdate="20240731T135240Z">
-        <seg>で前の目的地へ（AKQ）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044319Z" creationid="yumas" creationdate="20240731T135240Z">
+        <seg>前の目的地へ（AKQ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (AKR)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135234Z" creationid="yumas" creationdate="20240731T135227Z">
-        <seg>で前の目的地へ（AKR）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044319Z" creationid="yumas" creationdate="20240731T135227Z">
+        <seg>前の目的地へ（AKR）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (AKS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135225Z" creationid="yumas" creationdate="20240731T135225Z">
-        <seg>で前の目的地へ（AKS）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044318Z" creationid="yumas" creationdate="20240731T135225Z">
+        <seg>前の目的地へ（AKS）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (ALP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135152Z" creationid="yumas" creationdate="20240731T135152Z">
-        <seg>で前の目的地へ（ALP）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044315Z" creationid="yumas" creationdate="20240731T135152Z">
+        <seg>前の目的地へ（ALP）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (ALQ)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135214Z" creationid="yumas" creationdate="20240731T135214Z">
-        <seg>で前の目的地へ（ALQ）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044316Z" creationid="yumas" creationdate="20240731T135214Z">
+        <seg>前の目的地へ（ALQ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (ALR)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135207Z" creationid="yumas" creationdate="20240731T135207Z">
-        <seg>で前の目的地へ（ALR）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044316Z" creationid="yumas" creationdate="20240731T135207Z">
+        <seg>前の目的地へ（ALR）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (ALS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135157Z" creationid="yumas" creationdate="20240731T135157Z">
-        <seg>で前の目的地へ（ALS）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044315Z" creationid="yumas" creationdate="20240731T135157Z">
+        <seg>前の目的地へ（ALS）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (BIP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135606Z" creationid="yumas" creationdate="20240731T135606Z">
-        <seg>で前の目的地へ（BIP）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044331Z" creationid="yumas" creationdate="20240731T135606Z">
+        <seg>前の目的地へ（BIP）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (BIQ)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135614Z" creationid="yumas" creationdate="20240731T135614Z">
-        <seg>で前の目的地へ（BIQ）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044332Z" creationid="yumas" creationdate="20240731T135614Z">
+        <seg>前の目的地へ（BIQ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (BIR)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135611Z" creationid="yumas" creationdate="20240731T135611Z">
-        <seg>で前の目的地へ（BIR）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044331Z" creationid="yumas" creationdate="20240731T135611Z">
+        <seg>前の目的地へ（BIR）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (BIS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135608Z" creationid="yumas" creationdate="20240731T135608Z">
-        <seg>で前の目的地へ（BIS）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044331Z" creationid="yumas" creationdate="20240731T135608Z">
+        <seg>前の目的地へ（BIS）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (BJP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135643Z" creationid="yumas" creationdate="20240731T135643Z">
-        <seg>で前の目的地へ（BJP）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044334Z" creationid="yumas" creationdate="20240731T135643Z">
+        <seg>前の目的地へ（BJP）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (BJQ)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135655Z" creationid="yumas" creationdate="20240731T135655Z">
-        <seg>で前の目的地へ（BJQ）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044335Z" creationid="yumas" creationdate="20240731T135655Z">
+        <seg>前の目的地へ（BJQ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (BJR)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135651Z" creationid="yumas" creationdate="20240731T135651Z">
-        <seg>で前の目的地へ（BJR）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044335Z" creationid="yumas" creationdate="20240731T135651Z">
+        <seg>前の目的地へ（BJR）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (BJS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135647Z" creationid="yumas" creationdate="20240731T135647Z">
-        <seg>で前の目的地へ（BJS）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044335Z" creationid="yumas" creationdate="20240731T135647Z">
+        <seg>前の目的地へ（BJS）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (BKP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135630Z" creationid="yumas" creationdate="20240731T135630Z">
-        <seg>で前の目的地へ（BKP）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044333Z" creationid="yumas" creationdate="20240731T135630Z">
+        <seg>前の目的地へ（BKP）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (BKQ)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135638Z" creationid="yumas" creationdate="20240731T135638Z">
-        <seg>で前の目的地へ（BKQ）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044334Z" creationid="yumas" creationdate="20240731T135638Z">
+        <seg>前の目的地へ（BKQ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (BKR)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135635Z" creationid="yumas" creationdate="20240731T135635Z">
-        <seg>で前の目的地へ（BKR）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044334Z" creationid="yumas" creationdate="20240731T135635Z">
+        <seg>前の目的地へ（BKR）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (BKS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135632Z" creationid="yumas" creationdate="20240731T135632Z">
-        <seg>で前の目的地へ（BKS）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044333Z" creationid="yumas" creationdate="20240731T135632Z">
+        <seg>前の目的地へ（BKS）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (BLP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135617Z" creationid="yumas" creationdate="20240731T135617Z">
-        <seg>で前の目的地へ（BLP）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044332Z" creationid="yumas" creationdate="20240731T135617Z">
+        <seg>前の目的地へ（BLP）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (BLQ)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135626Z" creationid="yumas" creationdate="20240731T135626Z">
-        <seg>で前の目的地へ（BLQ）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044333Z" creationid="yumas" creationdate="20240731T135626Z">
+        <seg>前の目的地へ（BLQ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (BLR)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135623Z" creationid="yumas" creationdate="20240731T135623Z">
-        <seg>で前の目的地へ（BLR）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044332Z" creationid="yumas" creationdate="20240731T135623Z">
+        <seg>前の目的地へ（BLR）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (BLS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135620Z" creationid="yumas" creationdate="20240731T135620Z">
-        <seg>で前の目的地へ（BLS）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044332Z" creationid="yumas" creationdate="20240731T135620Z">
+        <seg>前の目的地へ（BLS）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (CIP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135519Z" creationid="yumas" creationdate="20240731T135519Z">
-        <seg>で前の目的地へ（CIP）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044326Z" creationid="yumas" creationdate="20240731T135519Z">
+        <seg>前の目的地へ（CIP）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (CIQ)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135527Z" creationid="yumas" creationdate="20240731T135527Z">
-        <seg>で前の目的地へ（CIQ）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044327Z" creationid="yumas" creationdate="20240731T135527Z">
+        <seg>前の目的地へ（CIQ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (CIR)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135524Z" creationid="yumas" creationdate="20240731T135524Z">
-        <seg>で前の目的地へ（CIR）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044327Z" creationid="yumas" creationdate="20240731T135524Z">
+        <seg>前の目的地へ（CIR）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (CIS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135522Z" creationid="yumas" creationdate="20240731T135522Z">
-        <seg>で前の目的地へ（CIS）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044327Z" creationid="yumas" creationdate="20240731T135522Z">
+        <seg>前の目的地へ（CIS）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (CJP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135554Z" creationid="yumas" creationdate="20240731T135554Z">
-        <seg>で前の目的地へ（CJP）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044330Z" creationid="yumas" creationdate="20240731T135554Z">
+        <seg>前の目的地へ（CJP）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (CJQ)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135603Z" creationid="yumas" creationdate="20240731T135603Z">
-        <seg>で前の目的地へ（CJQ）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044330Z" creationid="yumas" creationdate="20240731T135603Z">
+        <seg>前の目的地へ（CJQ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (CJR)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135600Z" creationid="yumas" creationdate="20240731T135600Z">
-        <seg>で前の目的地へ（CJR）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044330Z" creationid="yumas" creationdate="20240731T135600Z">
+        <seg>前の目的地へ（CJR）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (CJS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135557Z" creationid="yumas" creationdate="20240731T135557Z">
-        <seg>で前の目的地へ（CJS）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044330Z" creationid="yumas" creationdate="20240731T135557Z">
+        <seg>前の目的地へ（CJS）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (CKP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135543Z" creationid="yumas" creationdate="20240731T135543Z">
-        <seg>で前の目的地へ（CKP）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044329Z" creationid="yumas" creationdate="20240731T135543Z">
+        <seg>前の目的地へ（CKP）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (CKQ)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135551Z" creationid="yumas" creationdate="20240731T135551Z">
-        <seg>で前の目的地へ（CKQ）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044329Z" creationid="yumas" creationdate="20240731T135551Z">
+        <seg>前の目的地へ（CKQ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (CKR)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135548Z" creationid="yumas" creationdate="20240731T135548Z">
-        <seg>で前の目的地へ（CKR）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044329Z" creationid="yumas" creationdate="20240731T135548Z">
+        <seg>前の目的地へ（CKR）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (CKS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135545Z" creationid="yumas" creationdate="20240731T135545Z">
-        <seg>で前の目的地へ（CKS）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044329Z" creationid="yumas" creationdate="20240731T135545Z">
+        <seg>前の目的地へ（CKS）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (CLP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135530Z" creationid="yumas" creationdate="20240731T135530Z">
-        <seg>で前の目的地へ（CLP）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044328Z" creationid="yumas" creationdate="20240731T135530Z">
+        <seg>前の目的地へ（CLP）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (CLQ)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135539Z" creationid="yumas" creationdate="20240731T135539Z">
-        <seg>で前の目的地へ（CLQ）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044328Z" creationid="yumas" creationdate="20240731T135539Z">
+        <seg>前の目的地へ（CLQ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (CLR)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135537Z" creationid="yumas" creationdate="20240731T135537Z">
-        <seg>で前の目的地へ（CLR）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044328Z" creationid="yumas" creationdate="20240731T135537Z">
+        <seg>前の目的地へ（CLR）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (CLS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135534Z" creationid="yumas" creationdate="20240731T135534Z">
-        <seg>で前の目的地へ（CLS）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044328Z" creationid="yumas" creationdate="20240731T135534Z">
+        <seg>前の目的地へ（CLS）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (DIP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135426Z" creationid="yumas" creationdate="20240731T135426Z">
-        <seg>で前の目的地へ（DIP）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044322Z" creationid="yumas" creationdate="20240731T135426Z">
+        <seg>前の目的地へ（DIP）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (DIQ)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135435Z" creationid="yumas" creationdate="20240731T135435Z">
-        <seg>で前の目的地へ（DIQ）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044323Z" creationid="yumas" creationdate="20240731T135435Z">
+        <seg>前の目的地へ（DIQ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (DIR)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135432Z" creationid="yumas" creationdate="20240731T135432Z">
-        <seg>で前の目的地へ（DIR）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044322Z" creationid="yumas" creationdate="20240731T135432Z">
+        <seg>前の目的地へ（DIR）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (DIS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135429Z" creationid="yumas" creationdate="20240731T135429Z">
-        <seg>で前の目的地へ（DIS）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044322Z" creationid="yumas" creationdate="20240731T135429Z">
+        <seg>前の目的地へ（DIS）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (DJP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135506Z" creationid="yumas" creationdate="20240731T135506Z">
-        <seg>で前の目的地へ（DJP）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044325Z" creationid="yumas" creationdate="20240731T135506Z">
+        <seg>前の目的地へ（DJP）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (DJQ)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135516Z" creationid="yumas" creationdate="20240731T135516Z">
-        <seg>で前の目的地へ（DJQ）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044326Z" creationid="yumas" creationdate="20240731T135516Z">
+        <seg>前の目的地へ（DJQ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (DJR)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135512Z" creationid="yumas" creationdate="20240731T135512Z">
-        <seg>で前の目的地へ（DJR）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044326Z" creationid="yumas" creationdate="20240731T135512Z">
+        <seg>前の目的地へ（DJR）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (DJS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135509Z" creationid="yumas" creationdate="20240731T135509Z">
-        <seg>で前の目的地へ（DJS）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044326Z" creationid="yumas" creationdate="20240731T135509Z">
+        <seg>前の目的地へ（DJS）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (DKP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135453Z" creationid="yumas" creationdate="20240731T135453Z">
-        <seg>で前の目的地へ（DKP）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044324Z" creationid="yumas" creationdate="20240731T135453Z">
+        <seg>前の目的地へ（DKP）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (DKQ)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135503Z" creationid="yumas" creationdate="20240731T135503Z">
-        <seg>で前の目的地へ（DKQ）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044325Z" creationid="yumas" creationdate="20240731T135503Z">
+        <seg>前の目的地へ（DKQ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (DKR)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135500Z" creationid="yumas" creationdate="20240731T135500Z">
-        <seg>で前の目的地へ（DKR）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044325Z" creationid="yumas" creationdate="20240731T135500Z">
+        <seg>前の目的地へ（DKR）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (DKS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135457Z" creationid="yumas" creationdate="20240731T135457Z">
-        <seg>で前の目的地へ（DKS）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044324Z" creationid="yumas" creationdate="20240731T135457Z">
+        <seg>前の目的地へ（DKS）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (DLP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135439Z" creationid="yumas" creationdate="20240731T135439Z">
-        <seg>で前の目的地へ（DLP）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044323Z" creationid="yumas" creationdate="20240731T135439Z">
+        <seg>前の目的地へ（DLP）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (DLQ)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135450Z" creationid="yumas" creationdate="20240731T135450Z">
-        <seg>で前の目的地へ（DLQ）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044324Z" creationid="yumas" creationdate="20240731T135450Z">
+        <seg>前の目的地へ（DLQ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (DLR)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135446Z" creationid="yumas" creationdate="20240731T135446Z">
-        <seg>で前の目的地へ（DLR）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044324Z" creationid="yumas" creationdate="20240731T135446Z">
+        <seg>前の目的地へ（DLR）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Last-destination (DLS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T135442Z" creationid="yumas" creationdate="20240731T135442Z">
-        <seg>で前の目的地へ（DLS）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044323Z" creationid="yumas" creationdate="20240731T135442Z">
+        <seg>前の目的地へ（DLS）</seg>
       </tuv>
     </tu>
     <tu>
@@ -59696,8 +59696,8 @@
       <tuv lang="en-GB">
         <seg>Pass through</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T133457Z" creationid="yumas" creationdate="20240731T133457Z">
-        <seg>を通り抜ける</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044254Z" creationid="yumas" creationdate="20240731T133457Z">
+        <seg>通り抜ける</seg>
       </tuv>
     </tu>
     <tu>
@@ -60976,8 +60976,8 @@
       <tuv lang="en-GB">
         <seg>Pick-lots</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T003043Z" creationid="yumas" creationdate="20240803T003043Z">
-        <seg>から沢山とる</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044421Z" creationid="yumas" creationdate="20240803T003043Z">
+        <seg>沢山とる</seg>
       </tuv>
     </tu>
     <tu>
@@ -71304,8 +71304,8 @@
       <tuv lang="en-GB">
         <seg>Scale</seg>
       </tuv>
-      <tuv lang="ja" changeid="b0sh" changedate="20240716T185425Z" creationid="b0sh" creationdate="20240716T185353Z">
-        <seg>を登る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044251Z" creationid="b0sh" creationdate="20240716T185353Z">
+        <seg>登る</seg>
       </tuv>
     </tu>
     <tu>
@@ -81152,24 +81152,24 @@
       <tuv lang="en-GB">
         <seg>Take Rake</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T002743Z" creationid="yumas" creationdate="20240803T002743Z">
-        <seg>かくを取る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044418Z" creationid="yumas" creationdate="20240803T002743Z">
+        <seg>を取る</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Take Seed Dibber</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T002836Z" creationid="yumas" creationdate="20240803T002836Z">
-        <seg>から種まき器を取る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044420Z" creationid="yumas" creationdate="20240803T002836Z">
+        <seg>種まき器を取る</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Take Spade</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T002751Z" creationid="yumas" creationdate="20240803T002751Z">
-        <seg>からシャベルを取る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044419Z" creationid="yumas" creationdate="20240803T002751Z">
+        <seg>シャベルを取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -81224,8 +81224,8 @@
       <tuv lang="en-GB">
         <seg>Take-10-concoction</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T134700Z" creationid="yumas" creationdate="20240731T134700Z">
-        <seg>から１０個混合物を取る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044314Z" creationid="yumas" creationdate="20240731T134700Z">
+        <seg>１０個混合物を取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -81240,8 +81240,8 @@
       <tuv lang="en-GB">
         <seg>Take-5-concoction</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T134652Z" creationid="yumas" creationdate="20240731T134652Z">
-        <seg>から５個混合物を取る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044313Z" creationid="yumas" creationdate="20240731T134652Z">
+        <seg>５個混合物を取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -81416,8 +81416,8 @@
       <tuv lang="en-GB">
         <seg>Take-concoction</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T134641Z" creationid="yumas" creationdate="20240731T134641Z">
-        <seg>から混合物を取る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044312Z" creationid="yumas" creationdate="20240731T134641Z">
+        <seg>混合物を取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -81480,8 +81480,8 @@
       <tuv lang="en-GB">
         <seg>Take-hammer</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T134311Z" creationid="yumas" creationdate="20240731T134311Z">
-        <seg>からハンマーを取る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044309Z" creationid="yumas" creationdate="20240731T134311Z">
+        <seg>ハンマーを取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -81496,8 +81496,8 @@
       <tuv lang="en-GB">
         <seg>Take-knife</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T134317Z" creationid="yumas" creationdate="20240731T134317Z">
-        <seg>からナイフを取る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044310Z" creationid="yumas" creationdate="20240731T134317Z">
+        <seg>ナイフを取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -81560,8 +81560,8 @@
       <tuv lang="en-GB">
         <seg>Take-remains</seg>
       </tuv>
-      <tuv lang="ja" changeid="b0sh" changedate="20240716T185110Z" creationid="b0sh" creationdate="20240716T185110Z">
-        <seg>から遺体を取る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044251Z" creationid="b0sh" creationdate="20240716T185110Z">
+        <seg>遺体を取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -81600,8 +81600,8 @@
       <tuv lang="en-GB">
         <seg>Take-tinderbox</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T134510Z" creationid="yumas" creationdate="20240731T134510Z">
-        <seg>から火口箱を取る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044310Z" creationid="yumas" creationdate="20240731T134510Z">
+        <seg>火口箱を取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -85376,14 +85376,6 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
-        <seg>Tree</seg>
-      </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T002317Z" creationid="yumas" creationdate="20240731T140332Z">
-        <seg>木</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
         <seg>Tree Door</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T025543Z" creationid="yumas" creationdate="20240811T025543Z">
@@ -88730,8 +88722,8 @@
       <tuv lang="en-GB">
         <seg>Walk on</seg>
       </tuv>
-      <tuv lang="ja" changeid="b0sh" changedate="20240716T185235Z" creationid="b0sh" creationdate="20240716T185235Z">
-        <seg>を渡る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044252Z" creationid="b0sh" creationdate="20240716T185235Z">
+        <seg>渡る</seg>
       </tuv>
     </tu>
     <tu>
@@ -93282,6 +93274,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T043746Z" creationid="yumas" creationdate="20240821T134749Z">
         <seg>組み立てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">42146</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044359Z" creationid="yumas" creationdate="20240824T044359Z">
+        <seg>精霊樹</seg>
       </tuv>
     </tu>
     <tu>
