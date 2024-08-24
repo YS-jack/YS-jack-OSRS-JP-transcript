@@ -1910,6 +1910,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Agility</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055732Z" creationid="yumas" creationdate="20240824T055732Z">
+        <seg>運動神経</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Agility Boss</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T015618Z" creationid="yumas" creationdate="20240809T015618Z">
@@ -19542,6 +19550,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cooking</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055812Z" creationid="yumas" creationdate="20240824T055812Z">
+        <seg>料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cooking Guild</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T032245Z" creationid="yumas" creationdate="20240803T032245Z">
@@ -20378,6 +20394,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T044416Z" creationid="yumas" creationdate="20240803T002439Z">
         <seg>ルーン工作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crafting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055818Z" creationid="yumas" creationdate="20240824T055818Z">
+        <seg>工作</seg>
       </tuv>
     </tu>
     <tu>
@@ -23682,6 +23706,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T014831Z" creationid="yumas" creationdate="20240812T014831Z">
         <seg>装飾された窓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Defence</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055743Z" creationid="yumas" creationdate="20240824T055743Z">
+        <seg>守備力</seg>
       </tuv>
     </tu>
     <tu>
@@ -31198,6 +31230,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Firemaking</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055821Z" creationid="yumas" creationdate="20240824T055821Z">
+        <seg>火起こし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Firepit</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T021146Z" creationid="yumas" creationdate="20240812T021146Z">
@@ -31402,6 +31442,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T213250Z" creationid="yumas" creationdate="20240807T213250Z">
         <seg>釣り人のフロディ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fishing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055800Z" creationid="yumas" creationdate="20240824T055800Z">
+        <seg>釣り</seg>
       </tuv>
     </tu>
     <tu>
@@ -31794,6 +31842,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T025107Z" creationid="yumas" creationdate="20240815T025107Z">
         <seg>肉質の生産物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fletching</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055829Z" creationid="yumas" creationdate="20240824T055829Z">
+        <seg>木材加工</seg>
       </tuv>
     </tu>
     <tu>
@@ -37742,6 +37798,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ground Markers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055643Z" creationid="yumas" creationdate="20240824T055643Z">
+        <seg>地面マーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ground bat bones</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T072341Z" creationid="2008l" creationdate="20240810T072341Z">
@@ -40094,6 +40158,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Herblore</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055749Z" creationid="yumas" creationdate="20240824T055749Z">
+        <seg>調合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Herbs</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T034516Z" creationid="yumas" creationdate="20240811T034516Z">
@@ -40434,6 +40506,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T042402Z" creationid="yumas" creationdate="20240713T101034Z">
         <seg>当てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hitpoints</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055715Z" creationid="yumas" creationdate="20240824T055715Z">
+        <seg>体力</seg>
       </tuv>
     </tu>
     <tu>
@@ -42450,6 +42530,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T042431Z" creationid="b0sh" creationdate="20240716T190039Z">
         <seg>調べる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Instance Map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055652Z" creationid="yumas" creationdate="20240824T055652Z">
+        <seg>インスタンスの地図</seg>
       </tuv>
     </tu>
     <tu>
@@ -65598,6 +65686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ranged</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055804Z" creationid="yumas" creationdate="20240824T055804Z">
+        <seg>弓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ranged combat tutor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134727Z" creationid="yumas" creationdate="20240807T134624Z">
@@ -76446,6 +76542,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Smithing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055740Z" creationid="yumas" creationdate="20240824T055740Z">
+        <seg>鍛冶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Smithing apprentice</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134838Z" creationid="yumas" creationdate="20240807T134824Z">
@@ -80470,6 +80574,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strength</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055728Z" creationid="yumas" creationdate="20240824T055728Z">
+        <seg>腕力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strength potion(1)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T070620Z" creationid="2008l" creationdate="20240720T070620Z">
@@ -84140,6 +84252,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240806T063909Z" creationid="2008l" creationdate="20240806T063909Z">
         <seg>泥棒の腕章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Thieving</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055807Z" creationid="yumas" creationdate="20240824T055807Z">
+        <seg>盗み</seg>
       </tuv>
     </tu>
     <tu>
@@ -92424,6 +92544,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Woodcutting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055832Z" creationid="yumas" creationdate="20240824T055832Z">
+        <seg>木こり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Woodcutting Guild</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T032248Z" creationid="yumas" creationdate="20240803T032248Z">
@@ -94847,6 +94975,28 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240818T175350Z" creationid="2008l" creationdate="20240818T175350Z">
         <seg>鋏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_menu.xliff</prop>
+      <prop type="id">110531</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Attack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055713Z" creationid="yumas" creationdate="20240824T055713Z">
+        <seg>攻撃力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_menu.xliff</prop>
+      <prop type="id">110533</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Mining</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055725Z" creationid="yumas" creationdate="20240824T055725Z">
+        <seg>採掘</seg>
       </tuv>
     </tu>
     <tu>
