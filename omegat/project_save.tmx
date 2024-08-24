@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Account</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054442Z" creationid="yumas" creationdate="20240824T054442Z">
+        <seg>アカウント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Account Guide</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T135950Z" creationid="yumas" creationdate="20240807T135950Z">
@@ -1626,6 +1634,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T005050Z" creationid="yumas" creationdate="20240812T005050Z">
         <seg>アダマンタイトの岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Add Friend</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054417Z" creationid="yumas" creationdate="20240824T054417Z">
+        <seg>フレンド追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Add Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054437Z" creationid="yumas" creationdate="20240824T054437Z">
+        <seg>名前を追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Add Note</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054327Z" creationid="yumas" creationdate="20240824T054327Z">
+        <seg>メモに追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -19070,6 +19102,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Community</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054458Z" creationid="yumas" creationdate="20240824T054458Z">
+        <seg>コミュニティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Competition Judge</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T022006Z" creationid="yumas" creationdate="20240809T022006Z">
@@ -23666,6 +23706,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T112240Z" creationid="yumas" creationdate="20240805T112240Z">
         <seg>デル・モンティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Delete Friend</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054422Z" creationid="yumas" creationdate="20240824T054422Z">
+        <seg>フレンド削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Delete Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054440Z" creationid="yumas" creationdate="20240824T054440Z">
+        <seg>名前を削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -30802,6 +30858,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T080523Z" creationid="yumas" creationdate="20240809T080523Z">
         <seg>フィナーフィン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054313Z" creationid="yumas" creationdate="20240824T054313Z">
+        <seg>検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -40146,6 +40210,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T032955Z" creationid="yumas" creationdate="20240812T032955Z">
         <seg>隠された落とし戸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hide notifications</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054332Z" creationid="yumas" creationdate="20240824T054332Z">
+        <seg>通知を非表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -56334,6 +56406,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Name Changer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054514Z" creationid="yumas" creationdate="20240824T054514Z">
+        <seg>名前変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Naphtha mix</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240820T070233Z" creationid="2008l" creationdate="20240820T070233Z">
@@ -66998,6 +67078,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054245Z" creationid="yumas" creationdate="20240824T054245Z">
+        <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Refuel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T112252Z" creationid="yumas" creationdate="20240731T112252Z">
@@ -73216,8 +73304,8 @@
       <tuv lang="en-GB">
         <seg>Setup</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T133727Z" creationid="yumas" creationdate="20240731T133727Z">
-        <seg>設置</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054302Z" creationid="yumas" creationdate="20240731T133727Z">
+        <seg>設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -74218,6 +74306,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T051208Z" creationid="yumas" creationdate="20240824T051208Z">
         <seg>表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Show notifications</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054321Z" creationid="yumas" creationdate="20240824T054321Z">
+        <seg>通知を表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -88056,6 +88152,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Useful Links</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054502Z" creationid="yumas" creationdate="20240824T054502Z">
+        <seg>便利なリンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ushabti</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T033215Z" creationid="yumas" creationdate="20240815T033215Z">
@@ -89004,6 +89108,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T053158Z" creationid="yumas" creationdate="20240824T053158Z">
         <seg>&lt;colNum0&gt;木こり&lt;/col&gt;のガイドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View Friends List</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054433Z" creationid="yumas" creationdate="20240824T054433Z">
+        <seg>フレンド一覧を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View Ignore List</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054412Z" creationid="yumas" creationdate="20240824T054412Z">
+        <seg>無視リストを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View Inbox</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054738Z" creationid="yumas" creationdate="20240824T054509Z">
+        <seg>受信箱を確認</seg>
       </tuv>
     </tu>
     <tu>
@@ -94111,6 +94239,17 @@
     </tu>
     <tu>
       <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">109872</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Your Clan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054231Z" creationid="yumas" creationdate="20240824T054231Z">
+        <seg>所属クラン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
       <prop type="id">41330</prop>
       <prop type="path">//transcript.db</prop>
       <tuv lang="en-GB">
@@ -94195,6 +94334,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T043746Z" creationid="yumas" creationdate="20240821T134749Z">
         <seg>組み立てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">42074</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Setup</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054309Z" creationid="yumas" creationdate="20240824T054309Z">
+        <seg>設置</seg>
       </tuv>
     </tu>
     <tu>
