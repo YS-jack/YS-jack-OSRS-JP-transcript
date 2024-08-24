@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;PvP Arena&lt;/col&gt; options</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123408Z" creationid="yumas" creationdate="20240824T123357Z">
+        <seg>&lt;colNum0&gt;PvPアリーナ&lt;/col&gt; のオプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Channel (/@f)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T045009Z" creationid="yumas" creationdate="20240824T044956Z">
@@ -4302,6 +4310,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ardougne Elite Diary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123540Z" creationid="yumas" creationdate="20240824T123526Z">
+        <seg>アルドインの超級日記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ardougne Portal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T021618Z" creationid="yumas" creationdate="20240812T021618Z">
@@ -4354,6 +4370,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240727T064928Z" creationid="2008l" creationdate="20240727T064928Z">
         <seg>アードリガルの混合物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>AreaﾂSounds</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123350Z" creationid="yumas" creationdate="20240824T123350Z">
+        <seg>環境音</seg>
       </tuv>
     </tu>
     <tu>
@@ -24134,6 +24158,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Desert Elite Diary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123542Z" creationid="yumas" creationdate="20240824T123533Z">
+        <seg>砂漠の超級日記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Desert Lizard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T050026Z" creationid="yumas" creationdate="20240805T050026Z">
@@ -32898,6 +32930,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T124159Z" creationid="yumas" creationdate="20240811T124159Z">
         <seg>フレメニックのボート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fremennik Elite Diary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123548Z" creationid="yumas" creationdate="20240824T123548Z">
+        <seg>フレメニックの超級日記</seg>
       </tuv>
     </tu>
     <tu>
@@ -45054,6 +45094,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Kandarin Elite Diary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123554Z" creationid="yumas" creationdate="20240824T123554Z">
+        <seg>カンダリンの超級日記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Kanel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T203727Z" creationid="yumas" creationdate="20240807T203727Z">
@@ -45138,6 +45186,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T120948Z" creationid="yumas" creationdate="20240731T120948Z">
         <seg>カラムジャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Karamja Elite Diary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123558Z" creationid="yumas" creationdate="20240824T123558Z">
+        <seg>カラムジャの超級日記</seg>
       </tuv>
     </tu>
     <tu>
@@ -46298,6 +46354,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T114026Z" creationid="yumas" creationdate="20240808T114026Z">
         <seg>不死のコスチェイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kourend &amp; Kebos Elite Diary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123610Z" creationid="yumas" creationdate="20240824T123610Z">
+        <seg>クーレンドとケボスの超級日記</seg>
       </tuv>
     </tu>
     <tu>
@@ -54926,6 +54990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Morytania Elite Diary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123615Z" creationid="yumas" creationdate="20240824T123615Z">
+        <seg>モリタニアの超級日記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Morytania painting</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T021050Z" creationid="yumas" creationdate="20240812T021050Z">
@@ -56106,6 +56178,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T091519Z" creationid="yumas" creationdate="20240813T091519Z">
         <seg>キノコのクッション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Music</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123332Z" creationid="yumas" creationdate="20240824T123332Z">
+        <seg>音楽</seg>
       </tuv>
     </tu>
     <tu>
@@ -77522,6 +77602,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052901Z" creationid="yumas" creationdate="20240805T052901Z">
         <seg>無魂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>SoundﾂEffects</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123336Z" creationid="yumas" creationdate="20240824T123336Z">
+        <seg>効果音</seg>
       </tuv>
     </tu>
     <tu>
