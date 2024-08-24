@@ -304,8 +304,16 @@
       <tuv lang="en-GB">
         <seg>&lt;colNum0&gt;Private:&lt;/col&gt; Clear history</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240824T045906Z" creationid="yumas" creationdate="20240824T045906Z">
-        <seg>&lt;colNum0&gt;公共:&lt;/col&gt; 履歴削除</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050243Z" creationid="yumas" creationdate="20240824T045906Z">
+        <seg>&lt;colNum0&gt;個別:&lt;/col&gt; 履歴削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Private:&lt;/col&gt; Show none</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045912Z" creationid="yumas" creationdate="20240824T045912Z">
+        <seg>&lt;colNum0&gt;公共:&lt;/col&gt; </seg>
       </tuv>
     </tu>
     <tu>
