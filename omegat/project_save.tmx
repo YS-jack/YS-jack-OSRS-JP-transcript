@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Private:&lt;/col&gt; Clear history</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045906Z" creationid="yumas" creationdate="20240824T045906Z">
+        <seg>&lt;colNum0&gt;公共:&lt;/col&gt; 履歴削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;colNum0&gt;Public:&lt;/col&gt; Clear history</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T045307Z" creationid="yumas" creationdate="20240824T045259Z">
@@ -318,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Public:&lt;/col&gt; Show autochat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045440Z" creationid="yumas" creationdate="20240824T045440Z">
+        <seg>&lt;colNum0&gt;公共:&lt;/col&gt; 自動チャット表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;colNum0&gt;Public:&lt;/col&gt; Show friends</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T045402Z" creationid="yumas" creationdate="20240824T045342Z">
@@ -330,6 +346,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T045340Z" creationid="yumas" creationdate="20240824T045330Z">
         <seg>&lt;colNum0&gt;公共:&lt;/col&gt; 非表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Public:&lt;/col&gt; Show standard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045408Z" creationid="yumas" creationdate="20240824T045408Z">
+        <seg>&lt;colNum0&gt;公共:&lt;/col&gt; 通常表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -72752,8 +72776,8 @@
       <tuv lang="en-GB">
         <seg>Setup your autochat</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240824T045215Z" creationid="yumas" creationdate="20240824T045215Z">
-        <seg>オートチャット設定</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045449Z" creationid="yumas" creationdate="20240824T045215Z">
+        <seg>自動チャット設定</seg>
       </tuv>
     </tu>
     <tu>
