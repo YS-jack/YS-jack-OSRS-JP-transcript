@@ -286,6 +286,70 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Channel:&lt;/col&gt; Clear history</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050359Z" creationid="yumas" creationdate="20240824T050359Z">
+        <seg>&lt;colNum0&gt;個別:&lt;/col&gt; 履歴削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Channel:&lt;/col&gt; Show all</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050443Z" creationid="yumas" creationdate="20240824T050443Z">
+        <seg>&lt;colNum0&gt;チャンネル:&lt;/col&gt; 全表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Channel:&lt;/col&gt; Show friends</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050436Z" creationid="yumas" creationdate="20240824T050436Z">
+        <seg>&lt;colNum0&gt;チャンネル:&lt;/col&gt; 友達表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Channel:&lt;/col&gt; Show none</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050432Z" creationid="yumas" creationdate="20240824T050432Z">
+        <seg>&lt;colNum0&gt;チャンネル:&lt;/col&gt; 非表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Clan:&lt;/col&gt; Clear history</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050505Z" creationid="yumas" creationdate="20240824T050448Z">
+        <seg>&lt;colNum0&gt;クラン:&lt;/col&gt; 履歴削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Clan:&lt;/col&gt; Show all</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050538Z" creationid="yumas" creationdate="20240824T050538Z">
+        <seg>&lt;colNum0&gt;クラン:&lt;/col&gt; 全表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Clan:&lt;/col&gt; Show friends</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050516Z" creationid="yumas" creationdate="20240824T050500Z">
+        <seg>&lt;colNum0&gt;クラン:&lt;/col&gt; 友達表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Clan:&lt;/col&gt; Show none</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050508Z" creationid="yumas" creationdate="20240824T050452Z">
+        <seg>&lt;colNum0&gt;クラン:&lt;/col&gt; 非表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;colNum0&gt;Game:&lt;/col&gt; Clear history</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T045151Z" creationid="yumas" creationdate="20240824T045133Z">
@@ -302,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Group:&lt;/col&gt; Clear history</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050552Z" creationid="yumas" creationdate="20240824T050552Z">
+        <seg>&lt;colNum0&gt;グループ:&lt;/col&gt; 履歴削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;colNum0&gt;Private:&lt;/col&gt; Clear history</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T050243Z" creationid="yumas" creationdate="20240824T045906Z">
@@ -310,10 +382,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Private:&lt;/col&gt; Show all</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050354Z" creationid="yumas" creationdate="20240824T050354Z">
+        <seg>&lt;colNum0&gt;個別:&lt;/col&gt; 全表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Private:&lt;/col&gt; Show friends</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050305Z" creationid="yumas" creationdate="20240824T050305Z">
+        <seg>&lt;colNum0&gt;個別:&lt;/col&gt; 友達表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;colNum0&gt;Private:&lt;/col&gt; Show none</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240824T045912Z" creationid="yumas" creationdate="20240824T045912Z">
-        <seg>&lt;colNum0&gt;公共:&lt;/col&gt; </seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050252Z" creationid="yumas" creationdate="20240824T045912Z">
+        <seg>&lt;colNum0&gt;個別:&lt;/col&gt; 非表示</seg>
       </tuv>
     </tu>
     <tu>
