@@ -64678,6 +64678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Protect from Melee</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T122548Z" creationid="yumas" creationdate="20240824T122548Z">
+        <seg>近接から守る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Protest Banners</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T130449Z" creationid="yumas" creationdate="20240814T130449Z">
@@ -77554,6 +77562,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T092123Z" creationid="yumas" creationdate="20240812T092123Z">
         <seg>槍の罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Special Attack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T122438Z" creationid="yumas" creationdate="20240824T122438Z">
+        <seg>奥義</seg>
       </tuv>
     </tu>
     <tu>
@@ -95374,6 +95390,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T055725Z" creationid="yumas" creationdate="20240824T055725Z">
         <seg>採掘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_menu.xliff</prop>
+      <prop type="id">110557</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Wiki</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T122449Z" creationid="yumas" creationdate="20240824T122449Z">
+        <seg>ウィキ</seg>
       </tuv>
     </tu>
     <tu>
