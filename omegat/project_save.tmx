@@ -286,6 +286,54 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Game:&lt;/col&gt; Clear history</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045151Z" creationid="yumas" creationdate="20240824T045133Z">
+        <seg>&lt;colNum0&gt;ゲーム:&lt;/col&gt; 履歴削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Game:&lt;/col&gt; Filter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045206Z" creationid="yumas" creationdate="20240824T045157Z">
+        <seg>&lt;colNum0&gt;ゲーム:&lt;/col&gt; フィルタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Public:&lt;/col&gt; Clear history</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045307Z" creationid="yumas" creationdate="20240824T045259Z">
+        <seg>&lt;colNum0&gt;公共:&lt;/col&gt; 履歴削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Public:&lt;/col&gt; Hide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045325Z" creationid="yumas" creationdate="20240824T045317Z">
+        <seg>&lt;colNum0&gt;公共:&lt;/col&gt; 隠す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Public:&lt;/col&gt; Show friends</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045402Z" creationid="yumas" creationdate="20240824T045342Z">
+        <seg>&lt;colNum0&gt;公共:&lt;/col&gt; 友達表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Public:&lt;/col&gt; Show none</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045340Z" creationid="yumas" creationdate="20240824T045330Z">
+        <seg>&lt;colNum0&gt;公共:&lt;/col&gt; 非表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Channel (/@f)</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T045009Z" creationid="yumas" creationdate="20240824T044956Z">
@@ -320,8 +368,8 @@
       <tuv lang="en-GB">
         <seg>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Public (/@p)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240824T045052Z" creationid="yumas" creationdate="20240824T045052Z">
-        <seg>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Public (/@p)</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045112Z" creationid="yumas" creationdate="20240824T045052Z">
+        <seg>&lt;colNum0&gt;チャット切り替え:&lt;/col&gt; 公共(/@p)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17726,6 +17774,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Clear history</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045118Z" creationid="yumas" creationdate="20240824T045118Z">
+        <seg>履歴削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cleddyf</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T080508Z" creationid="yumas" creationdate="20240809T080508Z">
@@ -18906,6 +18962,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T043424Z" creationid="yumas" creationdate="20240731T120215Z">
         <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Configure filter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045128Z" creationid="yumas" creationdate="20240824T045128Z">
+        <seg>フィルタ設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -30394,6 +30458,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T065336Z" creationid="yumas" creationdate="20240805T065336Z">
         <seg>フィリマン・ターロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Filter public chat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045254Z" creationid="yumas" creationdate="20240824T045254Z">
+        <seg>公共チャットをフィルタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -72678,6 +72750,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Setup your autochat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045215Z" creationid="yumas" creationdate="20240824T045215Z">
+        <seg>オートチャット設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Seven</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T040309Z" creationid="yumas" creationdate="20240812T040309Z">
@@ -80962,6 +81042,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T051823Z" creationid="yumas" creationdate="20240812T051823Z">
         <seg>スイッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Switch tab</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045121Z" creationid="yumas" creationdate="20240824T045121Z">
+        <seg>タブ切り替え</seg>
       </tuv>
     </tu>
     <tu>
