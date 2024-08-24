@@ -10302,6 +10302,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bond Pouch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050948Z" creationid="yumas" creationdate="20240824T050948Z">
+        <seg>ボンド入れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bone Chain</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T111824Z" creationid="yumas" creationdate="20240812T111824Z">
@@ -29342,6 +29350,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Export</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051206Z" creationid="yumas" creationdate="20240824T051206Z">
+        <seg>エクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Exposed altar</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T043310Z" creationid="yumas" creationdate="20240815T043310Z">
@@ -41598,6 +41614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Import</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051155Z" creationid="yumas" creationdate="20240824T051155Z">
+        <seg>インポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Imposing Doors</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T045534Z" creationid="yumas" creationdate="20240812T045534Z">
@@ -49434,6 +49458,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T043201Z" creationid="yumas" creationdate="20240730T214803Z">
         <seg>見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Look East</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050911Z" creationid="yumas" creationdate="20240824T050911Z">
+        <seg>東を向く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Look North</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050914Z" creationid="yumas" creationdate="20240824T050914Z">
+        <seg>北を向く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Look South</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050907Z" creationid="yumas" creationdate="20240824T050907Z">
+        <seg>南を向く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Look West</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050904Z" creationid="yumas" creationdate="20240824T050904Z">
+        <seg>西を向く</seg>
       </tuv>
     </tu>
     <tu>
@@ -58670,6 +58726,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Open Store</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050955Z" creationid="yumas" creationdate="20240824T050955Z">
+        <seg>ストアを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Open chest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T051014Z" creationid="yumas" creationdate="20240810T051014Z">
@@ -67208,8 +67272,8 @@
       <tuv lang="en-GB">
         <seg>Report abuse</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240824T050839Z" creationid="yumas" creationdate="20240824T050839Z">
-        <seg>悪質行為を通報</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050900Z" creationid="yumas" creationdate="20240824T050839Z">
+        <seg>悪質行為を報告</seg>
       </tuv>
     </tu>
     <tu>
@@ -84432,6 +84496,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Toggle Run</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050934Z" creationid="yumas" creationdate="20240824T050934Z">
+        <seg>走りの切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Toggle XP</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T132547Z" creationid="yumas" creationdate="20240731T132547Z">
@@ -93505,6 +93577,17 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">109799</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051116Z" creationid="yumas" creationdate="20240824T051116Z">
+        <seg>クリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
       <prop type="id">41330</prop>
       <prop type="path">//transcript.db</prop>
       <tuv lang="en-GB">
@@ -93534,6 +93617,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240821T134617Z" creationid="yumas" creationdate="20240821T134617Z">
         <seg>ロック関連</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">41794</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051040Z" creationid="yumas" creationdate="20240824T051040Z">
+        <seg>除去する</seg>
       </tuv>
     </tu>
     <tu>
