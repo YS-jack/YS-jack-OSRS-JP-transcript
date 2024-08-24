@@ -10654,6 +10654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bosses</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053243Z" creationid="yumas" creationdate="20240824T053243Z">
+        <seg>ボス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bottle</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T045455Z" creationid="yumas" creationdate="20240812T045455Z">
@@ -16366,6 +16374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Character Summary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053235Z" creationid="yumas" creationdate="20240824T053235Z">
+        <seg>キャラ概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Charcoal</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T062916Z" creationid="2008l" creationdate="20240729T062916Z">
@@ -18786,6 +18802,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T044705Z" creationid="b0sh" creationdate="20240716T184517Z">
         <seg>報酬を回収</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Collection Log</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053439Z" creationid="yumas" creationdate="20240824T053439Z">
+        <seg>取得アイテム一覧</seg>
       </tuv>
     </tu>
     <tu>
@@ -59758,6 +59782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Overview</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053259Z" creationid="yumas" creationdate="20240824T053259Z">
+        <seg>概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Owl</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T085134Z" creationid="yumas" creationdate="20240809T085134Z">
@@ -82512,6 +82544,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tasks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053240Z" creationid="yumas" creationdate="20240824T053240Z">
+        <seg>タスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tassie Slipcast</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T082038Z" creationid="yumas" creationdate="20240805T082013Z">
@@ -88736,10 +88776,66 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>View &lt;colNum0&gt;Construction&lt;/col&gt; guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053219Z" creationid="yumas" creationdate="20240824T053219Z">
+        <seg>&lt;colNum0&gt;建築&lt;/col&gt;のガイドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View &lt;colNum0&gt;Cooking&lt;/col&gt; guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053126Z" creationid="yumas" creationdate="20240824T053126Z">
+        <seg>&lt;colNum0&gt;料理&lt;/col&gt;のガイドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View &lt;colNum0&gt;Crafting&lt;/col&gt; guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053139Z" creationid="yumas" creationdate="20240824T053139Z">
+        <seg>&lt;colNum0&gt;工作&lt;/col&gt;のガイドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>View &lt;colNum0&gt;Defence&lt;/col&gt; guide</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T052920Z" creationid="yumas" creationdate="20240824T052920Z">
         <seg>&lt;colNum0&gt;守備力&lt;/col&gt;のガイドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View &lt;colNum0&gt;Farming&lt;/col&gt; guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053215Z" creationid="yumas" creationdate="20240824T053215Z">
+        <seg>&lt;colNum0&gt;農業&lt;/col&gt;のガイドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View &lt;colNum0&gt;Firemaking&lt;/col&gt; guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053144Z" creationid="yumas" creationdate="20240824T053144Z">
+        <seg>&lt;colNum0&gt;火起こし&lt;/col&gt;のガイドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View &lt;colNum0&gt;Fishing&lt;/col&gt; guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053110Z" creationid="yumas" creationdate="20240824T053110Z">
+        <seg>&lt;colNum0&gt;釣り&lt;/col&gt;のガイドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View &lt;colNum0&gt;Fletching&lt;/col&gt; guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053154Z" creationid="yumas" creationdate="20240824T053154Z">
+        <seg>&lt;colNum0&gt;木材加工&lt;/col&gt;のガイドを表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -88760,10 +88856,58 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>View &lt;colNum0&gt;Hunter&lt;/col&gt; guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053223Z" creationid="yumas" creationdate="20240824T053223Z">
+        <seg>&lt;colNum0&gt;狩人&lt;/col&gt;のガイドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View &lt;colNum0&gt;Magic&lt;/col&gt; guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053148Z" creationid="yumas" creationdate="20240824T053148Z">
+        <seg>&lt;colNum0&gt;魔法&lt;/col&gt;のガイドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>View &lt;colNum0&gt;Mining&lt;/col&gt; guide</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T052858Z" creationid="yumas" creationdate="20240824T052858Z">
         <seg>&lt;colNum0&gt;採掘&lt;/col&gt;のガイドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View &lt;colNum0&gt;Prayer&lt;/col&gt; guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053133Z" creationid="yumas" creationdate="20240824T053133Z">
+        <seg>&lt;colNum0&gt;祈り&lt;/col&gt;のガイドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View &lt;colNum0&gt;Ranged&lt;/col&gt; guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053115Z" creationid="yumas" creationdate="20240824T053115Z">
+        <seg>&lt;colNum0&gt;弓&lt;/col&gt;のガイドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View &lt;colNum0&gt;Runecraft&lt;/col&gt; guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053205Z" creationid="yumas" creationdate="20240824T053205Z">
+        <seg>&lt;colNum0&gt;ルーン作り&lt;/col&gt;のガイドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View &lt;colNum0&gt;Slayer&lt;/col&gt; guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053209Z" creationid="yumas" creationdate="20240824T053209Z">
+        <seg>&lt;colNum0&gt;討伐&lt;/col&gt;のガイドを表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -88780,6 +88924,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T052903Z" creationid="yumas" creationdate="20240824T052903Z">
         <seg>&lt;colNum0&gt;腕力&lt;/col&gt;のガイドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View &lt;colNum0&gt;Thieving&lt;/col&gt; guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053122Z" creationid="yumas" creationdate="20240824T053122Z">
+        <seg>&lt;colNum0&gt;盗み&lt;/col&gt;のガイドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View &lt;colNum0&gt;Woodcutting&lt;/col&gt; guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053158Z" creationid="yumas" creationdate="20240824T053158Z">
+        <seg>&lt;colNum0&gt;木こり&lt;/col&gt;のガイドを表示</seg>
       </tuv>
     </tu>
     <tu>
