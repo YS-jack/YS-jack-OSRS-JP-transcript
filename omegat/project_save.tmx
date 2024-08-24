@@ -286,6 +286,46 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Channel (/@f)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045009Z" creationid="yumas" creationdate="20240824T044956Z">
+        <seg>&lt;colNum0&gt;チャット切り替え:&lt;/col&gt; チャンネル(/@f)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Clan (/@c)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044945Z" creationid="yumas" creationdate="20240824T044927Z">
+        <seg>&lt;colNum0&gt;チャット切り替え:&lt;/col&gt; クラン(/@c)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Group (/@g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044952Z" creationid="yumas" creationdate="20240824T044809Z">
+        <seg>&lt;colNum0&gt;チャット切り替え:&lt;/col&gt; グループ(/@g)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Guest Clan (/@gc)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044949Z" creationid="yumas" creationdate="20240824T044848Z">
+        <seg>&lt;colNum0&gt;チャット切り替え:&lt;/col&gt; 見学クラン(/@gc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Public (/@p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T045052Z" creationid="yumas" creationdate="20240824T045052Z">
+        <seg>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Public (/@p)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>?</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T072116Z" creationid="yumas" creationdate="20240805T072116Z">
@@ -19282,6 +19322,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T224740Z" creationid="yumas" creationdate="20240811T224740Z">
         <seg>銅の岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Copy to clipboard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044750Z" creationid="yumas" creationdate="20240824T044750Z">
+        <seg>コピー</seg>
       </tuv>
     </tu>
     <tu>
@@ -49282,6 +49330,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T113500Z" creationid="yumas" creationdate="20240731T113450Z">
         <seg>上を見る </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lookup</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T044757Z" creationid="yumas" creationdate="20240824T044757Z">
+        <seg>検索</seg>
       </tuv>
     </tu>
     <tu>
