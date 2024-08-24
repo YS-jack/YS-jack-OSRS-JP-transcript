@@ -94593,6 +94593,17 @@
     </tu>
     <tu>
       <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">41631</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Cook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T103912Z" creationid="yumas" creationdate="20240824T103912Z">
+        <seg>料理する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
       <prop type="id">41794</prop>
       <prop type="path">//transcript.db</prop>
       <tuv lang="en-GB">
