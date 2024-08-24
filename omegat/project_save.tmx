@@ -1110,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Achievement Diaries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051336Z" creationid="yumas" creationdate="20240824T051336Z">
+        <seg>達成記録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Achievement diary display</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T112205Z" creationid="yumas" creationdate="20240813T112205Z">
@@ -18862,6 +18870,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Combat Options</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051328Z" creationid="yumas" creationdate="20240824T051328Z">
+        <seg>戦闘オプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Combat Scroll</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T051544Z" creationid="yumas" creationdate="20240811T051544Z">
@@ -28174,6 +28190,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Enable prayer reordering</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051511Z" creationid="yumas" creationdate="20240824T051511Z">
+        <seg>祈りの再配置を有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Enakhra</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T210106Z" creationid="yumas" creationdate="20240807T210106Z">
@@ -31598,6 +31622,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Floating &lt;colNum0&gt;World Map&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051305Z" creationid="yumas" creationdate="20240824T051305Z">
+        <seg>&lt;colNum0&gt;世界地図&lt;/col&gt; を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Floating Book</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T084945Z" creationid="yumas" creationdate="20240814T084945Z">
@@ -33162,6 +33194,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070611Z" creationid="yumas" creationdate="20240805T070611Z">
         <seg>フラングル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fullscreen &lt;colNum0&gt;World Map&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051238Z" creationid="yumas" creationdate="20240824T051215Z">
+        <seg>&lt;colNum0&gt;世界地図&lt;/col&gt; を全画面表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -42226,6 +42266,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T054916Z" creationid="2008l" creationdate="20240728T054916Z">
         <seg>侵攻の計画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Inventory</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051348Z" creationid="yumas" creationdate="20240824T051348Z">
+        <seg>カバン</seg>
       </tuv>
     </tu>
     <tu>
@@ -73966,6 +74014,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Show</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051208Z" creationid="yumas" creationdate="20240824T051208Z">
+        <seg>表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Show-Goal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100131Z" creationid="yumas" creationdate="20240730T100131Z">
@@ -75082,6 +75138,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240726T070456Z" creationid="2008l" creationdate="20240726T070456Z">
         <seg>スケッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Skills</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051331Z" creationid="yumas" creationdate="20240824T051331Z">
+        <seg>スキル</seg>
       </tuv>
     </tu>
     <tu>
@@ -91972,6 +92036,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T063436Z" creationid="yumas" creationdate="20240805T063436Z">
         <seg>ワームブレイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Worn Equipment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051356Z" creationid="yumas" creationdate="20240824T051356Z">
+        <seg>装備品</seg>
       </tuv>
     </tu>
     <tu>
