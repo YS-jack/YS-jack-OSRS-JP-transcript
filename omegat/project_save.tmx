@@ -10150,6 +10150,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blunt axe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192400Z" creationid="2008l" creationdate="20240824T192400Z">
+        <seg>鈍い斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blurberry</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T034308Z" creationid="yumas" creationdate="20240809T034308Z">
@@ -38918,6 +38926,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Guthix rest(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192535Z" creationid="2008l" creationdate="20240824T192535Z">
+        <seg>グティクスの休養（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guthix rest(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192533Z" creationid="2008l" creationdate="20240824T192533Z">
+        <seg>グティクスの休養（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guthix rest(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192532Z" creationid="2008l" creationdate="20240824T192532Z">
+        <seg>グティクスの休養（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guthix rest(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192529Z" creationid="2008l" creationdate="20240824T192529Z">
+        <seg>グティクスの休養（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Guthix staff</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T074116Z" creationid="2008l" creationdate="20240811T074116Z">
@@ -40442,6 +40482,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T120136Z" creationid="yumas" creationdate="20240811T120136Z">
         <seg>薬草の小区画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Herbal tincture</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192439Z" creationid="2008l" creationdate="20240824T192439Z">
+        <seg>ハーブチンキ</seg>
       </tuv>
     </tu>
     <tu>
@@ -80358,6 +80406,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stodgy mattress</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192648Z" creationid="2008l" creationdate="20240824T192648Z">
+        <seg>硬いマットレス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stolen Eggs</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T043838Z" creationid="yumas" creationdate="20240815T043838Z">
@@ -84186,72 +84242,72 @@
       <tuv lang="en-GB">
         <seg>Team-41 cape</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240824T192041Z" creationid="2008l" creationdate="20240824T192041Z">
-        <seg>チームー41のマント</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192252Z" creationid="2008l" creationdate="20240824T192041Z">
+        <seg>チーム41のマント</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Team-42 cape</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240824T192041Z" creationid="2008l" creationdate="20240824T192041Z">
-        <seg>チームー42のマント</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192254Z" creationid="2008l" creationdate="20240824T192041Z">
+        <seg>チーム42のマント</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Team-43 cape</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240824T192042Z" creationid="2008l" creationdate="20240824T192042Z">
-        <seg>チームー43のマント</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192255Z" creationid="2008l" creationdate="20240824T192042Z">
+        <seg>チーム43のマント</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Team-44 cape</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240824T192042Z" creationid="2008l" creationdate="20240824T192042Z">
-        <seg>チームー44のマント</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192256Z" creationid="2008l" creationdate="20240824T192042Z">
+        <seg>チーム44のマント</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Team-45 cape</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240824T192042Z" creationid="2008l" creationdate="20240824T192042Z">
-        <seg>チームー45のマント</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192257Z" creationid="2008l" creationdate="20240824T192042Z">
+        <seg>チーム45のマント</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Team-46 cape</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240824T192042Z" creationid="2008l" creationdate="20240824T192042Z">
-        <seg>チームー46のマント</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192258Z" creationid="2008l" creationdate="20240824T192042Z">
+        <seg>チーム46のマント</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Team-47 cape</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240824T192043Z" creationid="2008l" creationdate="20240824T192043Z">
-        <seg>チームー47のマント</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192259Z" creationid="2008l" creationdate="20240824T192043Z">
+        <seg>チーム47のマント</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Team-48 cape</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240824T192043Z" creationid="2008l" creationdate="20240824T192043Z">
-        <seg>チームー48のマント</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192300Z" creationid="2008l" creationdate="20240824T192043Z">
+        <seg>チーム48のマント</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Team-49 cape</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240824T192043Z" creationid="2008l" creationdate="20240824T192043Z">
-        <seg>チームー49のマント</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192300Z" creationid="2008l" creationdate="20240824T192043Z">
+        <seg>チーム49のマント</seg>
       </tuv>
     </tu>
     <tu>
@@ -84266,8 +84322,8 @@
       <tuv lang="en-GB">
         <seg>Team-50 cape</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240824T192043Z" creationid="2008l" creationdate="20240824T192043Z">
-        <seg>チームー50のマント</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240824T192317Z" creationid="2008l" creationdate="20240824T192043Z">
+        <seg>チーム50のマント</seg>
       </tuv>
     </tu>
     <tu>
