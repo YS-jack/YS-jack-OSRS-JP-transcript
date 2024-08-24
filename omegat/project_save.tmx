@@ -67742,6 +67742,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Reveal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053454Z" creationid="yumas" creationdate="20240824T053454Z">
+        <seg>公開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Revenant Maledictus Display</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T153519Z" creationid="yumas" creationdate="20240814T153519Z">
@@ -88960,6 +88968,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>View equipment stats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053514Z" creationid="yumas" creationdate="20240824T053514Z">
+        <seg>装備品のステータスを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View guide prices</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053615Z" creationid="yumas" creationdate="20240824T053615Z">
+        <seg>参考価格を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View items kept on death</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053638Z" creationid="yumas" creationdate="20240824T053638Z">
+        <seg>死亡時に保持するアイテムを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>View-game</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221700Z" creationid="yumas" creationdate="20240730T221700Z">
@@ -93992,6 +94024,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T051116Z" creationid="yumas" creationdate="20240824T051116Z">
         <seg>クリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">109860</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Hide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T053448Z" creationid="yumas" creationdate="20240824T053448Z">
+        <seg>非表示</seg>
       </tuv>
     </tu>
     <tu>
