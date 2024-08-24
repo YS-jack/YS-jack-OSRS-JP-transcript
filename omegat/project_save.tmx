@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Account Management</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051652Z" creationid="yumas" creationdate="20240824T051652Z">
+        <seg>アカウント設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Achey Tree</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T025825Z" creationid="yumas" creationdate="20240811T025825Z">
@@ -24350,6 +24358,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Disable spell filtering</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051555Z" creationid="yumas" creationdate="20240824T051555Z">
+        <seg>魔法の再配置無効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Disarm</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T043013Z" creationid="yumas" creationdate="20240730T133501Z">
@@ -27926,6 +27942,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Emotes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051656Z" creationid="yumas" creationdate="20240824T051656Z">
+        <seg>エモート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Empty</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T211540Z" creationid="yumas" creationdate="20240730T211540Z">
@@ -28190,10 +28214,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Enable prayer filtering</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051545Z" creationid="yumas" creationdate="20240824T051522Z">
+        <seg>祈りのフィルタ有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Enable prayer reordering</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240824T051511Z" creationid="yumas" creationdate="20240824T051511Z">
-        <seg>祈りの再配置を有効</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051548Z" creationid="yumas" creationdate="20240824T051511Z">
+        <seg>祈りの再配置有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Enable spell reordering</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051543Z" creationid="yumas" creationdate="20240824T051543Z">
+        <seg>魔法の再配置有効</seg>
       </tuv>
     </tu>
     <tu>
@@ -32894,6 +32934,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Friends List</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051647Z" creationid="yumas" creationdate="20240824T051647Z">
+        <seg>フレンド一覧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Frightened Fox</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T014736Z" creationid="yumas" creationdate="20240810T014736Z">
@@ -37570,6 +37618,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T131519Z" creationid="yumas" creationdate="20240814T131519Z">
         <seg>グループ保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grouping</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051632Z" creationid="yumas" creationdate="20240824T051632Z">
+        <seg>グループ</seg>
       </tuv>
     </tu>
     <tu>
@@ -49366,6 +49422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Logout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051654Z" creationid="yumas" creationdate="20240824T051654Z">
+        <seg>ログアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Logs</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T074005Z" creationid="2008l" creationdate="20240805T074005Z">
@@ -50482,6 +50546,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T033309Z" creationid="yumas" creationdate="20240811T033254Z">
         <seg>赤紫色のドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051626Z" creationid="yumas" creationdate="20240824T051626Z">
+        <seg>魔法</seg>
       </tuv>
     </tu>
     <tu>
@@ -55626,6 +55698,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T091519Z" creationid="yumas" creationdate="20240813T091519Z">
         <seg>キノコのクッション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Music Player</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051712Z" creationid="yumas" creationdate="20240824T051712Z">
+        <seg>音楽再生</seg>
       </tuv>
     </tu>
     <tu>
@@ -63362,6 +63442,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T135009Z" creationid="yumas" creationdate="20240803T135009Z">
         <seg>に祈る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Prayer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T051525Z" creationid="yumas" creationdate="20240824T051525Z">
+        <seg>祈り</seg>
       </tuv>
     </tu>
     <tu>
