@@ -16734,6 +16734,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chat-channel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054207Z" creationid="yumas" creationdate="20240824T054207Z">
+        <seg>会話チャンネル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Check</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T095946Z" creationid="yumas" creationdate="20240730T095946Z">
@@ -24398,9 +24406,33 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Disable prayer filtering</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054132Z" creationid="yumas" creationdate="20240824T054132Z">
+        <seg>祈りのフィルタ有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Disable prayer reordering</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054122Z" creationid="yumas" creationdate="20240824T054122Z">
+        <seg>祈りの再配置無効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Disable spell filtering</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T051555Z" creationid="yumas" creationdate="20240824T051555Z">
+        <seg>魔法の再配置無効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Disable spell reordering</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054142Z" creationid="yumas" creationdate="20240824T054142Z">
         <seg>魔法の再配置無効</seg>
       </tuv>
     </tu>
@@ -28266,6 +28298,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T051548Z" creationid="yumas" creationdate="20240824T051511Z">
         <seg>祈りの再配置有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Enable spell filtering</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054153Z" creationid="yumas" creationdate="20240824T054153Z">
+        <seg>魔法のフィルタ有効</seg>
       </tuv>
     </tu>
     <tu>
@@ -42930,6 +42970,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T112551Z" creationid="yumas" creationdate="20240813T112551Z">
         <seg>鉄人・究極鉄人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ironman Group</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054159Z" creationid="yumas" creationdate="20240824T054159Z">
+        <seg>鉄人グループ</seg>
       </tuv>
     </tu>
     <tu>
@@ -88976,6 +89024,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>View another clan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054223Z" creationid="yumas" creationdate="20240824T054223Z">
+        <seg>別のクラン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>View equipment stats</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T053514Z" creationid="yumas" creationdate="20240824T053514Z">
@@ -93084,6 +93140,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T073901Z" creationid="yumas" creationdate="20240809T073901Z">
         <seg>ヤングレフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Your Clan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054219Z" creationid="yumas" creationdate="20240824T054219Z">
+        <seg>クラン</seg>
       </tuv>
     </tu>
     <tu>
