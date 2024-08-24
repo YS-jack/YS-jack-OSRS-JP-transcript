@@ -59254,6 +59254,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Open &lt;colNum0&gt;Morytania Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121626Z" creationid="yumas" creationdate="20240824T121626Z">
+        <seg>&lt;colNum0&gt;モリタニアの日誌&lt;/col&gt;を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Open &lt;colNum0&gt;Varrock Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121758Z" creationid="yumas" creationdate="20240824T121734Z">
+        <seg>&lt;colNum0&gt;ヴァロックの日誌&lt;/col&gt;を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Open &lt;colNum0&gt;Western Provinces Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121834Z" creationid="yumas" creationdate="20240824T121834Z">
+        <seg>&lt;colNum0&gt;西部地方の日誌&lt;/col&gt;を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Open &lt;colNum0&gt;Wilderness Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121847Z" creationid="yumas" creationdate="20240824T121847Z">
+        <seg>&lt;colNum0&gt;ウィルダネスの日誌&lt;/col&gt;を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Open Adventure Paths</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122927Z" creationid="yumas" creationdate="20240730T122927Z">
@@ -88898,32 +88930,32 @@
       <tuv lang="en-GB">
         <seg>Varrock</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T010021Z" creationid="yumas" creationdate="20240803T010021Z">
-        <seg>バロック</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121750Z" creationid="yumas" creationdate="20240803T010021Z">
+        <seg>ヴァロック</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Varrock Census</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240815T032822Z" creationid="yumas" creationdate="20240815T032414Z">
-        <seg>バロックの都市調査</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121750Z" creationid="yumas" creationdate="20240815T032414Z">
+        <seg>ヴァロックの都市調査</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Varrock Portal</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240813T124749Z" creationid="yumas" creationdate="20240813T124749Z">
-        <seg>バロックのポータル</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121750Z" creationid="yumas" creationdate="20240813T124749Z">
+        <seg>ヴァロックのポータル</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Varrock Waystone</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240814T131146Z" creationid="yumas" creationdate="20240814T131146Z">
-        <seg>バロックの転移ポイント</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121750Z" creationid="yumas" creationdate="20240814T131146Z">
+        <seg>ヴァロックの転移ポイント</seg>
       </tuv>
     </tu>
     <tu>
@@ -91892,6 +91924,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T121618Z" creationid="yumas" creationdate="20240824T121618Z">
         <seg>&lt;colNum0&gt;モリタニアの日誌&lt;/col&gt;をウィキ検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wiki &lt;colNum0&gt;Varrock Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121750Z" creationid="yumas" creationdate="20240824T121634Z">
+        <seg>&lt;colNum0&gt;ヴァロックの日誌&lt;/col&gt;をウィキ検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wiki &lt;colNum0&gt;Western Provinces Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121827Z" creationid="yumas" creationdate="20240824T121827Z">
+        <seg>&lt;colNum0&gt;西部地方の日誌&lt;/col&gt;をウィキ検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wiki &lt;colNum0&gt;Wilderness Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121840Z" creationid="yumas" creationdate="20240824T121840Z">
+        <seg>&lt;colNum0&gt;ウィルダネスの日誌&lt;/col&gt;をウィキ検索</seg>
       </tuv>
     </tu>
     <tu>
