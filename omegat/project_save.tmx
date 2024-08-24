@@ -59192,8 +59192,24 @@
       <tuv lang="en-GB">
         <seg>Open &lt;colNum0&gt;Ardougne Journal&lt;/col&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240824T120626Z" creationid="yumas" creationdate="20240824T120515Z">
-        <seg>&lt;colNum0&gt;アルドインの記録&lt;/col&gt;を開く</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120943Z" creationid="yumas" creationdate="20240824T120515Z">
+        <seg>&lt;colNum0&gt;アルドインの日誌&lt;/col&gt;を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Open &lt;colNum0&gt;Desert Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120954Z" creationid="yumas" creationdate="20240824T120954Z">
+        <seg>&lt;colNum0&gt;砂漠の日誌&lt;/col&gt;を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Open &lt;colNum0&gt;Falador Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121010Z" creationid="yumas" creationdate="20240824T121010Z">
+        <seg>&lt;colNum0&gt;ファラドーの日誌&lt;/col&gt;を開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -91770,16 +91786,32 @@
       <tuv lang="en-GB">
         <seg>Wiki &lt;colNum0&gt;Ardougne Journal&lt;/col&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240824T120609Z" creationid="yumas" creationdate="20240824T120443Z">
-        <seg>&lt;colNum0&gt;アルドインの記録&lt;/col&gt;をウィキ検索</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120940Z" creationid="yumas" creationdate="20240824T120443Z">
+        <seg>&lt;colNum0&gt;アルドインの日誌&lt;/col&gt;をウィキ検索</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Wiki &lt;colNum0&gt;Desert Journal&lt;/col&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240824T120933Z" creationid="yumas" creationdate="20240824T120933Z">
-        <seg>&lt;colNum0&gt;砂漠の記録&lt;/col&gt;をウィキ検索</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120948Z" creationid="yumas" creationdate="20240824T120933Z">
+        <seg>&lt;colNum0&gt;砂漠の日誌&lt;/col&gt;をウィキ検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wiki &lt;colNum0&gt;Falador Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121003Z" creationid="yumas" creationdate="20240824T121003Z">
+        <seg>&lt;colNum0&gt;ファラドーの日誌&lt;/col&gt;をウィキ検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wiki &lt;colNum0&gt;Fremennik Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121021Z" creationid="yumas" creationdate="20240824T121021Z">
+        <seg>&lt;colNum0&gt;フレメニックの日誌&lt;/col&gt;をウィキ検索</seg>
       </tuv>
     </tu>
     <tu>
