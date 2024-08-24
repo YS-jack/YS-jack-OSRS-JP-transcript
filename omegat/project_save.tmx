@@ -59238,6 +59238,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Open &lt;colNum0&gt;Kourend &amp; Kebos Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121344Z" creationid="yumas" creationdate="20240824T121344Z">
+        <seg>&lt;colNum0&gt;クーレンドとケボスの日誌&lt;/col&gt;を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Open &lt;colNum0&gt;Lumbridge &amp; Draynor Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121606Z" creationid="yumas" creationdate="20240824T121606Z">
+        <seg>&lt;colNum0&gt;ランブリッジとドレイナーの日誌&lt;/col&gt;を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Open Adventure Paths</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122927Z" creationid="yumas" creationdate="20240730T122927Z">
@@ -91860,6 +91876,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T121334Z" creationid="yumas" creationdate="20240824T121334Z">
         <seg>&lt;colNum0&gt;クーレンドとケボスの日誌&lt;/col&gt;をウィキ検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wiki &lt;colNum0&gt;Lumbridge &amp; Draynor Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121559Z" creationid="yumas" creationdate="20240824T121559Z">
+        <seg>&lt;colNum0&gt;ランブリッジとドレイナーの日誌&lt;/col&gt;をウィキ検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wiki &lt;colNum0&gt;Morytania Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121618Z" creationid="yumas" creationdate="20240824T121618Z">
+        <seg>&lt;colNum0&gt;モリタニアの日誌&lt;/col&gt;をウィキ検索</seg>
       </tuv>
     </tu>
     <tu>
