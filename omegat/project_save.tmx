@@ -59214,6 +59214,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Open &lt;colNum0&gt;Fremennik Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121233Z" creationid="yumas" creationdate="20240824T121233Z">
+        <seg>&lt;colNum0&gt;フレメニックの日誌&lt;/col&gt;を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Open &lt;colNum0&gt;Kandarin Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121253Z" creationid="yumas" creationdate="20240824T121253Z">
+        <seg>&lt;colNum0&gt;カンダリンの日誌&lt;/col&gt;を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Open &lt;colNum0&gt;Karamja Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121305Z" creationid="yumas" creationdate="20240824T121305Z">
+        <seg>&lt;colNum0&gt;カラムジャの日誌&lt;/col&gt;を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Open Adventure Paths</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122927Z" creationid="yumas" creationdate="20240730T122927Z">
@@ -91812,6 +91836,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T121021Z" creationid="yumas" creationdate="20240824T121021Z">
         <seg>&lt;colNum0&gt;フレメニックの日誌&lt;/col&gt;をウィキ検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wiki &lt;colNum0&gt;Kandarin Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121245Z" creationid="yumas" creationdate="20240824T121245Z">
+        <seg>&lt;colNum0&gt;カンダリンの日誌&lt;/col&gt;をウィキ検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wiki &lt;colNum0&gt;Karamja Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121300Z" creationid="yumas" creationdate="20240824T121300Z">
+        <seg>&lt;colNum0&gt;カラムジャの日誌&lt;/col&gt;をウィキ検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wiki &lt;colNum0&gt;Kourend &amp; Kebos Journal&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T121334Z" creationid="yumas" creationdate="20240824T121334Z">
+        <seg>&lt;colNum0&gt;クーレンドとケボスの日誌&lt;/col&gt;をウィキ検索</seg>
       </tuv>
     </tu>
     <tu>
