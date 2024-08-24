@@ -2622,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123314Z" creationid="yumas" creationdate="20240824T123314Z">
+        <seg>全て</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>All Settings</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T055056Z" creationid="yumas" creationdate="20240824T055056Z">
@@ -21822,6 +21830,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Customer Support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123218Z" creationid="yumas" creationdate="20240824T123218Z">
+        <seg>サポートセンタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Customs officer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T213149Z" creationid="yumas" creationdate="20240807T213149Z">
@@ -36934,6 +36950,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>GrandﾂExchange</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123252Z" creationid="yumas" creationdate="20240824T123252Z">
+        <seg>グランド・エクスチェンジ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Granite maul</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T075717Z" creationid="2008l" creationdate="20240822T075717Z">
@@ -40514,6 +40538,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T133449Z" creationid="yumas" creationdate="20240806T133449Z">
         <seg>ヒーコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hiscores</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123134Z" creationid="yumas" creationdate="20240824T123134Z">
+        <seg>ハイスコア</seg>
       </tuv>
     </tu>
     <tu>
@@ -53102,6 +53134,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Merchandise</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123128Z" creationid="yumas" creationdate="20240824T123128Z">
+        <seg>商品サイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mercy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T012254Z" creationid="yumas" creationdate="20240809T012254Z">
@@ -58746,6 +58786,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T042622Z" creationid="yumas" creationdate="20240815T042622Z">
         <seg>古いモノの像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Old School Website</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123227Z" creationid="yumas" creationdate="20240824T123227Z">
+        <seg>オールドスクールのサイト</seg>
       </tuv>
     </tu>
     <tu>
@@ -95409,6 +95457,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T122449Z" creationid="yumas" creationdate="20240824T122449Z">
         <seg>ウィキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_menu.xliff</prop>
+      <prop type="id">110565</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T123307Z" creationid="yumas" creationdate="20240824T123307Z">
+        <seg>検索</seg>
       </tuv>
     </tu>
     <tu>
