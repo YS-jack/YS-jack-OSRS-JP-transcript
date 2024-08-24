@@ -1670,6 +1670,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Add friend</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120142Z" creationid="yumas" creationdate="20240824T120142Z">
+        <seg>フレンド追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Add ignore</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120141Z" creationid="yumas" creationdate="20240824T120141Z">
+        <seg>無視リスト追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Add to</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T044445Z" creationid="yumas" creationdate="20240803T004226Z">
@@ -23790,6 +23806,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120113Z" creationid="yumas" creationdate="20240824T120113Z">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Delete Friend</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T054422Z" creationid="yumas" creationdate="20240824T054422Z">
@@ -30434,6 +30458,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T065121Z" creationid="yumas" creationdate="20240805T065121Z">
         <seg>ウーフニー神父</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Favourite</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120111Z" creationid="yumas" creationdate="20240824T120111Z">
+        <seg>お気に入り</seg>
       </tuv>
     </tu>
     <tu>
@@ -59254,6 +59286,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Open wiki guide:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120240Z" creationid="yumas" creationdate="20240824T120240Z">
+        <seg>ウィキガイドを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Open wiki quick guide:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120403Z" creationid="yumas" creationdate="20240824T120228Z">
+        <seg>ウィキの最速攻略を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Open-all</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T052526Z" creationid="yumas" creationdate="20240804T052526Z">
@@ -66398,6 +66446,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Read journal:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120331Z" creationid="yumas" creationdate="20240824T120331Z">
+        <seg>記録を読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Read-tag</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T040455Z" creationid="yumas" creationdate="20240805T040455Z">
@@ -67546,6 +67602,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T050525Z" creationid="yumas" creationdate="20240804T050525Z">
         <seg>即値を除く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Remove friend</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120133Z" creationid="yumas" creationdate="20240824T120133Z">
+        <seg>フレンド削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -74526,6 +74590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Show on map:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120300Z" creationid="yumas" creationdate="20240824T120300Z">
+        <seg>地図上で示す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Show-Goal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100131Z" creationid="yumas" creationdate="20240730T100131Z">
@@ -78698,6 +78770,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T013124Z" creationid="yumas" creationdate="20240803T013124Z">
         <seg>開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Start Helper</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120437Z" creationid="yumas" creationdate="20240824T120437Z">
+        <seg>ヘルパーを開始</seg>
       </tuv>
     </tu>
     <tu>
@@ -94591,6 +94671,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T120008Z" creationid="yumas" creationdate="20240824T120008Z">
         <seg>検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">109924</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Message</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120124Z" creationid="yumas" creationdate="20240824T120124Z">
+        <seg>メッセージ</seg>
       </tuv>
     </tu>
     <tu>
