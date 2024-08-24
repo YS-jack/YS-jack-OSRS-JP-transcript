@@ -67758,6 +67758,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Restore Default Zoom</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054835Z" creationid="yumas" creationdate="20240824T054835Z">
+        <seg>既定値に戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Restore potion(1)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T065400Z" creationid="2008l" creationdate="20240721T065400Z">
@@ -81624,8 +81632,8 @@
       <tuv lang="en-GB">
         <seg>Switch</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240812T051823Z" creationid="yumas" creationdate="20240812T051823Z">
-        <seg>スイッチ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054814Z" creationid="yumas" creationdate="20240812T051823Z">
+        <seg>切り替える</seg>
       </tuv>
     </tu>
     <tu>
@@ -89112,10 +89120,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>View Archive</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054808Z" creationid="yumas" creationdate="20240824T054808Z">
+        <seg>アーカイブを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>View Friends List</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T054433Z" creationid="yumas" creationdate="20240824T054433Z">
         <seg>フレンド一覧を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View History</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054749Z" creationid="yumas" creationdate="20240824T054749Z">
+        <seg>履歴を表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -89140,6 +89164,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100002Z" creationid="yumas" creationdate="20240730T100002Z">
         <seg>ラップ数を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View Newspost</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054804Z" creationid="yumas" creationdate="20240824T054804Z">
+        <seg>ニュースを表示</seg>
       </tuv>
     </tu>
     <tu>
