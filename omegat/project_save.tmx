@@ -1734,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adjust Brightness</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054903Z" creationid="yumas" creationdate="20240824T054903Z">
+        <seg>明るさを調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Admire</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T124232Z" creationid="yumas" creationdate="20240731T124201Z">
@@ -2586,6 +2594,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T120856Z" creationid="yumas" creationdate="20240809T120856Z">
         <seg>老婆のアリシャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>All Settings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055056Z" creationid="yumas" creationdate="20240824T055056Z">
+        <seg>全設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -5274,6 +5290,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T090052Z" creationid="yumas" creationdate="20240809T090052Z">
         <seg>競売人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Audio</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054907Z" creationid="yumas" creationdate="20240824T054907Z">
+        <seg>音声</seg>
       </tuv>
     </tu>
     <tu>
@@ -19390,6 +19414,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Controls</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054908Z" creationid="yumas" creationdate="20240824T054908Z">
+        <seg>操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Convert</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T130402Z" creationid="yumas" creationdate="20240731T130110Z">
@@ -25046,6 +25078,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054913Z" creationid="yumas" creationdate="20240824T054913Z">
+        <seg>表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Display Case</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T072847Z" creationid="yumas" creationdate="20240814T072847Z">
@@ -28338,6 +28378,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T043409Z" creationid="yumas" creationdate="20240731T114211Z">
         <seg>空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Enable</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055116Z" creationid="yumas" creationdate="20240824T055116Z">
+        <seg>有効にする</seg>
       </tuv>
     </tu>
     <tu>
@@ -51672,8 +51720,8 @@
       <tuv lang="en-GB">
         <seg>Manual</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240821T073143Z" creationid="2008l" creationdate="20240821T073143Z">
-        <seg>マニュアル</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055133Z" creationid="2008l" creationdate="20240821T073143Z">
+        <seg>手動</seg>
       </tuv>
     </tu>
     <tu>
@@ -58994,6 +59042,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122927Z" creationid="yumas" creationdate="20240730T122927Z">
         <seg>冒険の旅路を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Open Bond Pouch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055042Z" creationid="yumas" creationdate="20240824T055042Z">
+        <seg>ボンド入れを開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -84832,6 +84888,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Toggle Accept Aid</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055023Z" creationid="yumas" creationdate="20240824T055023Z">
+        <seg>手助けの許容の切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Toggle Counter</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T100013Z" creationid="yumas" creationdate="20240730T100013Z">
@@ -84884,6 +84948,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T132547Z" creationid="yumas" creationdate="20240731T132547Z">
         <seg>XP切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Toggle skull prevention</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054926Z" creationid="yumas" creationdate="20240824T054926Z">
+        <seg>ドクロ防止の切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Toggle unlock message</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055111Z" creationid="yumas" creationdate="20240824T055111Z">
+        <seg>開放通知の切り替え</seg>
       </tuv>
     </tu>
     <tu>
@@ -89140,6 +89220,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T054749Z" creationid="yumas" creationdate="20240824T054749Z">
         <seg>履歴を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>View House Options</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055033Z" creationid="yumas" creationdate="20240824T055033Z">
+        <seg>家のオプションを表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -94278,6 +94366,28 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T054231Z" creationid="yumas" creationdate="20240824T054231Z">
         <seg>所属クラン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">109899</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Disable</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T054855Z" creationid="yumas" creationdate="20240824T054855Z">
+        <seg>無効にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">109911</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Area</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T055124Z" creationid="yumas" creationdate="20240824T055124Z">
+        <seg>地域</seg>
       </tuv>
     </tu>
     <tu>
