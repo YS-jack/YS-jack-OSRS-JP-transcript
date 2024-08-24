@@ -288,8 +288,8 @@
       <tuv lang="en-GB">
         <seg>&lt;colNum0&gt;Channel:&lt;/col&gt; Clear history</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240824T050359Z" creationid="yumas" creationdate="20240824T050359Z">
-        <seg>&lt;colNum0&gt;個別:&lt;/col&gt; 履歴削除</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050722Z" creationid="yumas" creationdate="20240824T050359Z">
+        <seg>&lt;colNum0&gt;チャンネル:&lt;/col&gt; 履歴削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +374,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Group:&lt;/col&gt; Show all</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050614Z" creationid="yumas" creationdate="20240824T050614Z">
+        <seg>&lt;colNum0&gt;グループ:&lt;/col&gt; 全表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Group:&lt;/col&gt; Show friends</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050604Z" creationid="yumas" creationdate="20240824T050604Z">
+        <seg>&lt;colNum0&gt;グループ:&lt;/col&gt; 友達表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>&lt;colNum0&gt;Group:&lt;/col&gt; Show none</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050600Z" creationid="yumas" creationdate="20240824T050600Z">
+        <seg>&lt;colNum0&gt;グループ:&lt;/col&gt; 非表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;colNum0&gt;Private:&lt;/col&gt; Clear history</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T050243Z" creationid="yumas" creationdate="20240824T045906Z">
@@ -416,7 +440,7 @@
       <tuv lang="en-GB">
         <seg>&lt;colNum0&gt;Public:&lt;/col&gt; Hide</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240824T045325Z" creationid="yumas" creationdate="20240824T045317Z">
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050651Z" creationid="yumas" creationdate="20240824T045317Z">
         <seg>&lt;colNum0&gt;公共:&lt;/col&gt; 隠す</seg>
       </tuv>
     </tu>
@@ -67178,6 +67202,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091647Z" creationid="yumas" creationdate="20240730T091647Z">
         <seg>修復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Report abuse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050839Z" creationid="yumas" creationdate="20240824T050839Z">
+        <seg>悪質行為を通報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Report game bug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T050856Z" creationid="yumas" creationdate="20240824T050827Z">
+        <seg>バグを報告</seg>
       </tuv>
     </tu>
     <tu>
