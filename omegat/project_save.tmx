@@ -5286,6 +5286,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Auto retaliate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T052229Z" creationid="yumas" creationdate="20240824T052229Z">
+        <seg>自動反撃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Auto-afk</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T052521Z" creationid="yumas" creationdate="20240804T052521Z">
@@ -87912,6 +87920,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Use &lt;colNum0&gt;Special Attack&lt;/col&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T052303Z" creationid="yumas" creationdate="20240824T052249Z">
+        <seg>&lt;colNum0&gt;奥義&lt;/col&gt; を発動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Use-Driftwood</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T122232Z" creationid="yumas" creationdate="20240731T122232Z">
@@ -90914,7 +90930,7 @@
       <tuv lang="en-GB">
         <seg>Wiki</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240821T134508Z" creationid="yumas" creationdate="20240821T134508Z">
+      <tuv lang="ja" changeid="yumas" changedate="20240824T052319Z" creationid="yumas" creationdate="20240821T134508Z">
         <seg>ウィキ検索</seg>
       </tuv>
     </tu>
