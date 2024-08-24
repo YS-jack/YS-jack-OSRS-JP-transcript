@@ -1739,7 +1739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14575">
         <xliff:source>Cross</xliff:source>
-        <xliff:target state="translated">を渡る</xliff:target>
+        <xliff:target state="translated">渡る</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Cross
@@ -2371,7 +2371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14654">
         <xliff:source>Tree</xliff:source>
-        <xliff:target state="translated">木</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Tree
@@ -4539,7 +4539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14925">
         <xliff:source>Cage</xliff:source>
-        <xliff:target state="translated">カゴ</xliff:target>
+        <xliff:target state="translated">カゴで釣る</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Cage
@@ -11267,7 +11267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15766">
         <xliff:source>Light</xliff:source>
-        <xliff:target state="translated">灯す</xliff:target>
+        <xliff:target state="translated">火をつける</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Light
@@ -13827,7 +13827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16086">
         <xliff:source>Net</xliff:source>
-        <xliff:target state="translated">で網で釣る</xliff:target>
+        <xliff:target state="translated">網で釣る</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Net
@@ -18155,7 +18155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16627">
         <xliff:source>Switch</xliff:source>
-        <xliff:target state="translated">スイッチ</xliff:target>
+        <xliff:target state="translated">切り替える</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Switch
@@ -33459,7 +33459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18540">
         <xliff:source>Spike</xliff:source>
-        <xliff:target state="translated">スパイク</xliff:target>
+        <xliff:target state="translated">突く</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Spike

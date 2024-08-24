@@ -10955,7 +10955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1370">
         <xliff:source>Watch</xliff:source>
-        <xliff:target state="translated">を眺める</xliff:target>
+        <xliff:target state="translated">眺める</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Watch
@@ -14683,7 +14683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1836">
         <xliff:source>Manual</xliff:source>
-        <xliff:target state="translated">マニュアル</xliff:target>
+        <xliff:target state="translated">手動</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Manual
@@ -26779,7 +26779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3348">
         <xliff:source>Roll</xliff:source>
-        <xliff:target state="translated">を転がす</xliff:target>
+        <xliff:target state="translated">転がす</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Roll
@@ -27259,7 +27259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3408">
         <xliff:source>Plunder</xliff:source>
-        <xliff:target state="translated">から奪取</xliff:target>
+        <xliff:target state="translated">奪取</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Plunder
@@ -31643,7 +31643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3956">
         <xliff:source>Tree</xliff:source>
-        <xliff:target state="translated">木</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Tree
@@ -33219,7 +33219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4153">
         <xliff:source>Study</xliff:source>
-        <xliff:target state="translated">を調べる</xliff:target>
+        <xliff:target state="translated">調べる</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Study
@@ -35483,7 +35483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4436">
         <xliff:source>Grapple</xliff:source>
-        <xliff:target state="translated">に捕まる</xliff:target>
+        <xliff:target state="translated">捕まる</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Grapple
