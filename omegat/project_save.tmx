@@ -21974,6 +21974,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>DPS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T115955Z" creationid="yumas" creationdate="20240824T115955Z">
+        <seg>DPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Da Vinci</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T070718Z" creationid="yumas" creationdate="20240805T070718Z">
@@ -88088,6 +88096,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Unmute</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120049Z" creationid="yumas" creationdate="20240824T120049Z">
+        <seg>消音解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Unnamed troll child</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T055134Z" creationid="yumas" creationdate="20240805T055134Z">
@@ -92840,6 +92856,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>World Switcher</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120107Z" creationid="yumas" creationdate="20240824T120107Z">
+        <seg>サーバー変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>World map display</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T112405Z" creationid="yumas" creationdate="20240813T112405Z">
@@ -94556,6 +94580,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T055124Z" creationid="yumas" creationdate="20240824T055124Z">
         <seg>地域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">109917</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240824T120008Z" creationid="yumas" creationdate="20240824T120008Z">
+        <seg>検索</seg>
       </tuv>
     </tu>
     <tu>
