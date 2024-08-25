@@ -1654,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T080516Z" creationid="yumas" creationdate="20240825T080516Z">
+        <seg>加える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Add Friend</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T054417Z" creationid="yumas" creationdate="20240824T054417Z">
@@ -1718,10 +1726,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Add-10</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T080535Z" creationid="yumas" creationdate="20240825T080535Z">
+        <seg>10コ加える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Add-5</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T080530Z" creationid="yumas" creationdate="20240825T080524Z">
+        <seg>５コ加える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Add-All</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T080544Z" creationid="yumas" creationdate="20240825T080544Z">
+        <seg>全て加える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Add-House</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T133706Z" creationid="yumas" creationdate="20240731T133706Z">
         <seg>家を登録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Add-X</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T080552Z" creationid="yumas" creationdate="20240825T080552Z">
+        <seg>Xコ加える</seg>
       </tuv>
     </tu>
     <tu>
@@ -87256,6 +87296,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Thumbs Down</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T080432Z" creationid="yumas" creationdate="20240825T080415Z">
+        <seg>アンハッピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Thumbs Up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T080418Z" creationid="yumas" creationdate="20240825T080411Z">
+        <seg>いいね</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Thumpy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T010056Z" creationid="yumas" creationdate="20240809T010056Z">
@@ -90812,6 +90868,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T043210Z" creationid="yumas" creationdate="20240730T215136Z">
         <seg>開錠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Unlock hint</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T080406Z" creationid="yumas" creationdate="20240825T080406Z">
+        <seg>開放ヒント</seg>
       </tuv>
     </tu>
     <tu>
