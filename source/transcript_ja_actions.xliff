@@ -9782,7 +9782,8 @@ source: None
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109752"><xliff:source>Light</xliff:source><xliff:target state="translated">火をつける</xliff:target><xliff:note>category: actions
 sub_category: item
 source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109753"><xliff:source>Assignment</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit>
+    <xliff:trans-unit id="109753"><xliff:source>Assignment</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: npc
 source: Vannaka
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=403</xliff:note></xliff:trans-unit><xliff:trans-unit id="109754"><xliff:source>Attract</xliff:source><xliff:target/><xliff:note>category: actions
