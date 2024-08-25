@@ -4510,6 +4510,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Area</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T080357Z" creationid="yumas" creationdate="20240825T080357Z">
+        <seg>地域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>AreaﾂSounds</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T123350Z" creationid="yumas" creationdate="20240824T123350Z">
@@ -41526,6 +41534,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T080244Z" creationid="yumas" creationdate="20240825T080244Z">
+        <seg>隠す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hide notifications</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T054332Z" creationid="yumas" creationdate="20240824T054332Z">
@@ -60854,6 +60870,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Open Activity Adviser</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T080229Z" creationid="yumas" creationdate="20240825T080229Z">
+        <seg>推奨コンテンツを確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Open Adventure Paths</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T122927Z" creationid="yumas" creationdate="20240730T122927Z">
@@ -62930,6 +62954,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T140513Z" creationid="yumas" creationdate="20240806T140513Z">
         <seg>「完璧」な金鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Perform</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T080336Z" creationid="yumas" creationdate="20240825T080336Z">
+        <seg>演技する</seg>
       </tuv>
     </tu>
     <tu>
@@ -75054,6 +75086,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T080307Z" creationid="yumas" creationdate="20240825T080307Z">
+        <seg>選ぶ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Selena</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T132822Z" creationid="yumas" creationdate="20240806T132822Z">
@@ -80770,6 +80810,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T120437Z" creationid="yumas" creationdate="20240824T120437Z">
         <seg>ヘルパーを開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Start Quest Helper</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T080258Z" creationid="yumas" creationdate="20240825T080258Z">
+        <seg>クエストヘルパーを開始</seg>
       </tuv>
     </tu>
     <tu>
