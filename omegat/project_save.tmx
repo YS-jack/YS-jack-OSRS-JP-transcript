@@ -2262,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Akrisae</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020610Z" creationid="yumas" creationdate="20240825T020610Z">
+        <seg>アクリサエ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Akthanakos</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T210111Z" creationid="yumas" creationdate="20240807T210111Z">
@@ -6026,6 +6034,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T115918Z" creationid="yumas" creationdate="20240731T115918Z">
         <seg>バランスをとって渡る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Balance Elemental</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020436Z" creationid="yumas" creationdate="20240825T020436Z">
+        <seg>均衡のエレメンタル</seg>
       </tuv>
     </tu>
     <tu>
@@ -11450,6 +11466,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T075539Z" creationid="2008l" creationdate="20240822T075539Z">
         <seg>太矢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Broav</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020416Z" creationid="yumas" creationdate="20240825T020416Z">
+        <seg>ブローブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -28158,6 +28182,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Elite Khazard Guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020452Z" creationid="yumas" creationdate="20240825T020452Z">
+        <seg>カザード衛兵の精鋭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Elite Void Knight</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T010436Z" creationid="yumas" creationdate="20240809T010436Z">
@@ -42374,6 +42406,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Idria</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020603Z" creationid="yumas" creationdate="20240825T020603Z">
+        <seg>アイドリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Idril</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T080133Z" creationid="yumas" creationdate="20240809T080133Z">
@@ -53770,6 +53810,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T133445Z" creationid="yumas" creationdate="20240808T133445Z">
         <seg>傭兵の隊長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mercenary axeman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020549Z" creationid="yumas" creationdate="20240825T020549Z">
+        <seg>傭兵の斧兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mercenary mage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020558Z" creationid="yumas" creationdate="20240825T020558Z">
+        <seg>傭兵の魔術師</seg>
       </tuv>
     </tu>
     <tu>
@@ -74710,6 +74766,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shady stranger</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020640Z" creationid="yumas" creationdate="20240825T020640Z">
+        <seg>怪しいよそ者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shaeded Beast</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T073816Z" creationid="yumas" creationdate="20240809T073816Z">
@@ -75722,6 +75786,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120924Z" creationid="yumas" creationdate="20240808T120924Z">
         <seg>シラス・ダハクスヌ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Silif</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020426Z" creationid="yumas" creationdate="20240825T020426Z">
+        <seg>シリフ</seg>
       </tuv>
     </tu>
     <tu>
@@ -82522,6 +82594,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T091801Z" creationid="yumas" creationdate="20240812T091801Z">
         <seg>怪しい足跡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Suspicious outsider</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020655Z" creationid="yumas" creationdate="20240825T020655Z">
+        <seg>胡散臭いよそ者</seg>
       </tuv>
     </tu>
     <tu>
@@ -93356,6 +93436,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T014146Z" creationid="yumas" creationdate="20240810T014146Z">
         <seg>野生のハチの巣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wild broav</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020412Z" creationid="yumas" creationdate="20240825T020412Z">
+        <seg>野生のブローブ</seg>
       </tuv>
     </tu>
     <tu>
