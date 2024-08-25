@@ -1958,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Agile Warrior</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020148Z" creationid="yumas" creationdate="20240825T020148Z">
+        <seg>俊敏な戦士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Agility</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T055732Z" creationid="yumas" creationdate="20240824T055732Z">
@@ -8464,32 +8472,32 @@
       <tuv lang="en-GB">
         <seg>Black Knight</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T053021Z" creationid="yumas" creationdate="20240805T053021Z">
-        <seg>黒い騎士</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015902Z" creationid="yumas" creationdate="20240805T053021Z">
+        <seg>黒騎士</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Black Knight Captain</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240808T223638Z" creationid="yumas" creationdate="20240808T223638Z">
-        <seg>黒い騎士の隊長</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015902Z" creationid="yumas" creationdate="20240808T223638Z">
+        <seg>黒騎士の隊長</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Black Knight Titan</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240808T120423Z" creationid="yumas" creationdate="20240808T120423Z">
-        <seg>黒い騎士の巨人</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015902Z" creationid="yumas" creationdate="20240808T120423Z">
+        <seg>黒騎士の巨人</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Black Knight Titan (hard)</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T023536Z" creationid="yumas" creationdate="20240809T023536Z">
-        <seg>黒い騎士の巨人（上級）</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015902Z" creationid="yumas" creationdate="20240809T023536Z">
+        <seg>黒騎士の巨人（上級）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8864,8 +8872,8 @@
       <tuv lang="en-GB">
         <seg>Black knight</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T091836Z" creationid="yumas" creationdate="20240805T091836Z">
-        <seg>黒い騎士</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015902Z" creationid="yumas" creationdate="20240805T091836Z">
+        <seg>黒騎士</seg>
       </tuv>
     </tu>
     <tu>
@@ -28106,6 +28114,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T051230Z" creationid="yumas" creationdate="20240804T051230Z">
         <seg>超級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Elite Black Knight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015947Z" creationid="yumas" creationdate="20240825T015947Z">
+        <seg>黒騎士の精鋭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Elite Dark Mage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020033Z" creationid="yumas" creationdate="20240825T020033Z">
+        <seg>暗黒魔術師の精鋭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Elite Dark Ranger</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020028Z" creationid="yumas" creationdate="20240825T020028Z">
+        <seg>暗黒射手の精鋭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Elite Dark Warrior</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020019Z" creationid="yumas" creationdate="20240825T020019Z">
+        <seg>暗黒戦士の精鋭</seg>
       </tuv>
     </tu>
     <tu>
@@ -89116,6 +89156,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T013147Z" creationid="yumas" creationdate="20240809T013147Z">
         <seg>アンデッドの木こり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Undead Mage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020041Z" creationid="yumas" creationdate="20240825T020041Z">
+        <seg>アンデッドの魔術師</seg>
       </tuv>
     </tu>
     <tu>
