@@ -1758,10 +1758,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adjust Area Sound Volume</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015400Z" creationid="yumas" creationdate="20240825T015400Z">
+        <seg>環境音を調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adjust Brightness</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T054903Z" creationid="yumas" creationdate="20240824T054903Z">
         <seg>明るさを調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adjust Music Volume</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015350Z" creationid="yumas" creationdate="20240825T015350Z">
+        <seg>音量を調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adjust Sound Effect Volume</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015407Z" creationid="yumas" creationdate="20240825T015407Z">
+        <seg>効果音を調整</seg>
       </tuv>
     </tu>
     <tu>
@@ -5366,6 +5390,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Attract</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015244Z" creationid="yumas" creationdate="20240825T015244Z">
+        <seg>引き付ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Attune</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T053322Z" creationid="yumas" creationdate="20240804T053322Z">
@@ -8154,6 +8186,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T103753Z" creationid="yumas" creationdate="20240813T103753Z">
         <seg>大きな足跡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Big-Search</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015314Z" creationid="yumas" creationdate="20240825T015314Z">
+        <seg>よく探す</seg>
       </tuv>
     </tu>
     <tu>
@@ -20998,6 +21038,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cross-over</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015329Z" creationid="yumas" creationdate="20240825T015329Z">
+        <seg>渡る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cross-to</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T044304Z" creationid="yumas" creationdate="20240731T133721Z">
@@ -28362,6 +28410,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T081359Z" creationid="yumas" creationdate="20240805T081359Z">
         <seg>エミリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Emir's Arena</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015307Z" creationid="yumas" creationdate="20240825T015307Z">
+        <seg>エミアのアリーナ</seg>
       </tuv>
     </tu>
     <tu>
@@ -63486,6 +63542,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Plant-orb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015257Z" creationid="yumas" creationdate="20240825T015257Z">
+        <seg>オーブを置く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Planter</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T114420Z" creationid="yumas" creationdate="20240814T114420Z">
@@ -68586,6 +68650,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T091647Z" creationid="yumas" creationdate="20240730T091647Z">
         <seg>修復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Report</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015343Z" creationid="yumas" creationdate="20240825T015343Z">
+        <seg>通報</seg>
       </tuv>
     </tu>
     <tu>
@@ -76758,6 +76830,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Slayer Master</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015523Z" creationid="yumas" creationdate="20240825T015523Z">
+        <seg>討伐の達人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Slayer's Respite</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T011112Z" creationid="yumas" creationdate="20240812T010932Z">
@@ -77946,6 +78026,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T003304Z" creationid="yumas" creationdate="20240809T003304Z">
         <seg>ソリヒブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Solo-start</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015321Z" creationid="yumas" creationdate="20240825T015321Z">
+        <seg>ソロで開始</seg>
       </tuv>
     </tu>
     <tu>
@@ -87140,6 +87228,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T021700Z" creationid="yumas" creationdate="20240809T021700Z">
         <seg>貿易審判</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trade with</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T015333Z" creationid="yumas" creationdate="20240825T015333Z">
+        <seg>取引</seg>
       </tuv>
     </tu>
     <tu>
