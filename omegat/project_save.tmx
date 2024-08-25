@@ -14446,6 +14446,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Candle lantern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T070536Z" creationid="2008l" creationdate="20240825T070536Z">
+        <seg>ロウソクランタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Candle maker</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134145Z" creationid="yumas" creationdate="20240807T134145Z">
@@ -28774,6 +28782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Empty candle lantern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T070529Z" creationid="2008l" creationdate="20240825T070529Z">
+        <seg>空のロウソクランタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Empty chest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T080906Z" creationid="yumas" creationdate="20240814T080906Z">
@@ -28826,6 +28842,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T102641Z" creationid="yumas" creationdate="20240812T102641Z">
         <seg>空のランプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Empty oil lamp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T070429Z" creationid="2008l" creationdate="20240825T070429Z">
+        <seg>空の石油ランプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Empty oil lantern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T070600Z" creationid="2008l" creationdate="20240825T070600Z">
+        <seg>空の石油ちょうちん</seg>
       </tuv>
     </tu>
     <tu>
@@ -59574,6 +59606,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Oil lantern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T070601Z" creationid="2008l" creationdate="20240825T070601Z">
+        <seg>石油ちょうちん</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Oil lantern frame</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T070621Z" creationid="2008l" creationdate="20240825T070621Z">
+        <seg>石油ちょうちんのフレーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Oily cloth</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T071221Z" creationid="2008l" creationdate="20240805T071221Z">
@@ -82894,6 +82942,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Swamp cave bug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T070404Z" creationid="2008l" creationdate="20240825T070404Z">
+        <seg>沼のドウクツムシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Swamp cave slime</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T070346Z" creationid="2008l" creationdate="20240825T070346Z">
+        <seg>沼の洞窟スライム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Swamp frog</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T072347Z" creationid="yumas" creationdate="20240809T072347Z">
@@ -82960,8 +83024,8 @@
       <tuv lang="en-GB">
         <seg>Swamp wallbeast</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240825T070324Z" creationid="2008l" creationdate="20240825T070324Z">
-        <seg>沼</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T070336Z" creationid="2008l" creationdate="20240825T070324Z">
+        <seg>沼の壁の獣</seg>
       </tuv>
     </tu>
     <tu>
