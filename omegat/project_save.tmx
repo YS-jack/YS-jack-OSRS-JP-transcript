@@ -13294,6 +13294,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bullseye lantern (unf)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T070930Z" creationid="2008l" creationdate="20240825T070930Z">
+        <seg>ブルズアイランタン（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Buneir</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T020834Z" creationid="yumas" creationdate="20240810T020834Z">
@@ -28856,8 +28864,8 @@
       <tuv lang="en-GB">
         <seg>Empty oil lantern</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240825T070600Z" creationid="2008l" creationdate="20240825T070600Z">
-        <seg>空の石油ちょうちん</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T070708Z" creationid="2008l" creationdate="20240825T070600Z">
+        <seg>空の石油ランタン</seg>
       </tuv>
     </tu>
     <tu>
@@ -47710,6 +47718,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lantern lens</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T070655Z" creationid="2008l" creationdate="20240825T070635Z">
+        <seg>ランタンのレンズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lanthus</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T112654Z" creationid="yumas" creationdate="20240809T112654Z">
@@ -59608,16 +59624,16 @@
       <tuv lang="en-GB">
         <seg>Oil lantern</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240825T070601Z" creationid="2008l" creationdate="20240825T070601Z">
-        <seg>石油ちょうちん</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T070704Z" creationid="2008l" creationdate="20240825T070601Z">
+        <seg>石油ランタン</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Oil lantern frame</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240825T070621Z" creationid="2008l" creationdate="20240825T070621Z">
-        <seg>石油ちょうちんのフレーム</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T070659Z" creationid="2008l" creationdate="20240825T070621Z">
+        <seg>石油ランタンのフレーム</seg>
       </tuv>
     </tu>
     <tu>
