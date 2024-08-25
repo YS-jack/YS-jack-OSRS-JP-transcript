@@ -84142,6 +84142,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Switch world</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T121620Z" creationid="yumas" creationdate="20240825T121620Z">
+        <seg>世界変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sword cabinet</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T020737Z" creationid="yumas" creationdate="20240811T020737Z">
@@ -92320,6 +92328,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>View Poll</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T121631Z" creationid="yumas" creationdate="20240825T121631Z">
+        <seg>投票を見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>View Stats</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T221511Z" creationid="yumas" creationdate="20240730T221511Z">
@@ -95986,8 +96002,8 @@
       <tuv lang="en-GB">
         <seg>World Switcher</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240824T120107Z" creationid="yumas" creationdate="20240824T120107Z">
-        <seg>サーバー変更</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T121649Z" creationid="yumas" creationdate="20240824T120107Z">
+        <seg>世界変更</seg>
       </tuv>
     </tu>
     <tu>
