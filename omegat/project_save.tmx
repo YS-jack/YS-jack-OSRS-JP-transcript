@@ -9062,6 +9062,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black spear</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T071308Z" creationid="2008l" creationdate="20240825T071308Z">
+        <seg>黒鉄の槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black spear(kp)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T071334Z" creationid="2008l" creationdate="20240825T071334Z">
+        <seg>黒鉄の槍（カラムジャ毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black spear(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T071318Z" creationid="2008l" creationdate="20240825T071318Z">
+        <seg>黒鉄の槍（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black sq shield</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T071043Z" creationid="2008l" creationdate="20240730T071043Z">
@@ -14602,6 +14626,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T145414Z" creationid="yumas" creationdate="20240810T145414Z">
         <seg>砲兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cannon ball</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T071257Z" creationid="2008l" creationdate="20240825T071257Z">
+        <seg>キャノンボール</seg>
       </tuv>
     </tu>
     <tu>
@@ -26342,10 +26374,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dragon plateskirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T071354Z" creationid="2008l" creationdate="20240825T071354Z">
+        <seg>竜鉄の裙甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dragon scale dust</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T071259Z" creationid="2008l" creationdate="20240721T071259Z">
         <seg>ドラゴンの鱗の粉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragon scimitar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T071403Z" creationid="2008l" creationdate="20240825T071403Z">
+        <seg>竜鉄の三日月刀</seg>
       </tuv>
     </tu>
     <tu>
@@ -44846,6 +44894,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jewels</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T071526Z" creationid="2008l" creationdate="20240825T071526Z">
+        <seg>宝飾品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jex</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T113850Z" creationid="yumas" creationdate="20240808T113850Z">
@@ -46398,6 +46454,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Keys</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T071406Z" creationid="2008l" creationdate="20240825T071406Z">
+        <seg>カギ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Keystone crystal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T082101Z" creationid="yumas" creationdate="20240813T082101Z">
@@ -46434,6 +46498,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T033948Z" creationid="yumas" creationdate="20240811T033948Z">
         <seg>カリジアのサボテン（健康）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kharidian headpiece</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T071600Z" creationid="2008l" creationdate="20240825T071600Z">
+        <seg>カリジアのヘッドピース</seg>
       </tuv>
     </tu>
     <tu>
@@ -73750,10 +73822,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Schematic</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T071245Z" creationid="2008l" creationdate="20240825T071245Z">
+        <seg>設計図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Schematic crate</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T050649Z" creationid="yumas" creationdate="20240812T050649Z">
         <seg>図式の箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Schematics</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240825T071247Z" creationid="2008l" creationdate="20240825T071247Z">
+        <seg>設計図</seg>
       </tuv>
     </tu>
     <tu>
