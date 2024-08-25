@@ -9822,606 +9822,696 @@ source: None
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109765"><xliff:source>Report</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: player
 source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109766"><xliff:source>Adjust Music Volume</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109766"><xliff:source>Walk here</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: manual
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109767"><xliff:source>Examine</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: npc
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109768"><xliff:source>Examine</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: item
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109769"><xliff:source>Take</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: item
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109770"><xliff:source>Light</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: item
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109771"><xliff:source>Cancel</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: manual
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109772"><xliff:source>Follow</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: player
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109773"><xliff:source>Trade with</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: player
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109774"><xliff:source>Lookup</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: player
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109775"><xliff:source>Equipment</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: player
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109776"><xliff:source>Report</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: player
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109777"><xliff:source>Adjust Music Volume</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109767"><xliff:source>Adjust Area Sound Volume</xliff:source><xliff:target/><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109778"><xliff:source>Adjust Area Sound Volume</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109768"><xliff:source>Adjust Sound Effect Volume</xliff:source><xliff:target/><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109779"><xliff:source>Adjust Sound Effect Volume</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109769"><xliff:source>Play</xliff:source><xliff:target/><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109780"><xliff:source>Toggle unlock message</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109770"><xliff:source>Open Activity Adviser</xliff:source><xliff:target/><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109781"><xliff:source>Play</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109771"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Group (/@g)</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109782"><xliff:source>Open Activity Adviser</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109772"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Guest Clan (/@gc)</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109783"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Group (/@g)</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109773"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Clan (/@c)</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109784"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Guest Clan (/@gc)</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109774"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Channel (/@f)</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109785"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Clan (/@c)</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109775"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Public (/@p)</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109786"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Channel (/@f)</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109776"><xliff:source>Clear history</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109787"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Public (/@p)</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109777"><xliff:source>Switch tab</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109788"><xliff:source>Clear history</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109778"><xliff:source>Configure filter</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109789"><xliff:source>Switch tab</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109779"><xliff:source>&lt;colNum0&gt;Game:&lt;/col&gt; Clear history</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109790"><xliff:source>Configure filter</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109780"><xliff:source>&lt;colNum0&gt;Game:&lt;/col&gt; Filter</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109791"><xliff:source>&lt;colNum0&gt;Game:&lt;/col&gt; Clear history</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109781"><xliff:source>Setup your autochat</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109792"><xliff:source>&lt;colNum0&gt;Game:&lt;/col&gt; Filter</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109782"><xliff:source>Filter public chat</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109793"><xliff:source>Setup your autochat</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109783"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Clear history</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109794"><xliff:source>Filter public chat</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109784"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Hide</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109795"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Clear history</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109785"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Show none</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109796"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Hide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109786"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Show friends</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109797"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Show none</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109787"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Show standard</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109798"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Show friends</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109788"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Show autochat</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109799"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Show standard</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109789"><xliff:source>&lt;colNum0&gt;Private:&lt;/col&gt; Clear history</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109800"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Show autochat</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109790"><xliff:source>&lt;colNum0&gt;Private:&lt;/col&gt; Show none</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109801"><xliff:source>&lt;colNum0&gt;Private:&lt;/col&gt; Clear history</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109791"><xliff:source>&lt;colNum0&gt;Private:&lt;/col&gt; Show friends</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109802"><xliff:source>&lt;colNum0&gt;Private:&lt;/col&gt; Show none</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109792"><xliff:source>&lt;colNum0&gt;Private:&lt;/col&gt; Show all</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109803"><xliff:source>&lt;colNum0&gt;Private:&lt;/col&gt; Show friends</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109793"><xliff:source>&lt;colNum0&gt;Channel:&lt;/col&gt; Clear history</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109804"><xliff:source>&lt;colNum0&gt;Private:&lt;/col&gt; Show all</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109794"><xliff:source>&lt;colNum0&gt;Channel:&lt;/col&gt; Show none</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109805"><xliff:source>&lt;colNum0&gt;Channel:&lt;/col&gt; Clear history</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109795"><xliff:source>&lt;colNum0&gt;Channel:&lt;/col&gt; Show friends</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109806"><xliff:source>&lt;colNum0&gt;Channel:&lt;/col&gt; Show none</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109796"><xliff:source>&lt;colNum0&gt;Channel:&lt;/col&gt; Show all</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109807"><xliff:source>&lt;colNum0&gt;Channel:&lt;/col&gt; Show friends</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109797"><xliff:source>&lt;colNum0&gt;Clan:&lt;/col&gt; Clear history</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109808"><xliff:source>&lt;colNum0&gt;Channel:&lt;/col&gt; Show all</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109798"><xliff:source>&lt;colNum0&gt;Clan:&lt;/col&gt; Show none</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109809"><xliff:source>&lt;colNum0&gt;Clan:&lt;/col&gt; Clear history</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109799"><xliff:source>&lt;colNum0&gt;Clan:&lt;/col&gt; Show friends</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109810"><xliff:source>&lt;colNum0&gt;Clan:&lt;/col&gt; Show none</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109800"><xliff:source>&lt;colNum0&gt;Clan:&lt;/col&gt; Show all</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109811"><xliff:source>&lt;colNum0&gt;Clan:&lt;/col&gt; Show friends</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109801"><xliff:source>&lt;colNum0&gt;Group:&lt;/col&gt; Clear history</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109812"><xliff:source>&lt;colNum0&gt;Clan:&lt;/col&gt; Show all</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109802"><xliff:source>&lt;colNum0&gt;Group:&lt;/col&gt; Show none</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109813"><xliff:source>&lt;colNum0&gt;Group:&lt;/col&gt; Clear history</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109803"><xliff:source>&lt;colNum0&gt;Group:&lt;/col&gt; Show friends</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109814"><xliff:source>&lt;colNum0&gt;Group:&lt;/col&gt; Show none</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109804"><xliff:source>&lt;colNum0&gt;Group:&lt;/col&gt; Show all</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109815"><xliff:source>&lt;colNum0&gt;Group:&lt;/col&gt; Show friends</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109805"><xliff:source>Report game bug</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109816"><xliff:source>&lt;colNum0&gt;Group:&lt;/col&gt; Show all</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109806"><xliff:source>Report abuse</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109817"><xliff:source>Report game bug</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109807"><xliff:source>Combat Options</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109818"><xliff:source>Report abuse</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109808"><xliff:source>Skills</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109819"><xliff:source>Combat Options</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109809"><xliff:source>Achievement Diaries</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109820"><xliff:source>Skills</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109810"><xliff:source>Inventory</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109821"><xliff:source>Achievement Diaries</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109811"><xliff:source>Worn Equipment</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109822"><xliff:source>Inventory</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109812"><xliff:source>Enable prayer reordering</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109823"><xliff:source>Worn Equipment</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109813"><xliff:source>Disable prayer filtering</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109824"><xliff:source>Enable prayer reordering</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109814"><xliff:source>Prayer</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109825"><xliff:source>Disable prayer filtering</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109815"><xliff:source>Enable spell reordering</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109826"><xliff:source>Prayer</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109816"><xliff:source>Disable spell filtering</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109827"><xliff:source>Enable spell reordering</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109817"><xliff:source>Magic</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109828"><xliff:source>Disable spell filtering</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109818"><xliff:source>Friends List</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109829"><xliff:source>Magic</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109819"><xliff:source>Account Management</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109830"><xliff:source>Friends List</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109820"><xliff:source>Ironman Group</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109831"><xliff:source>Account Management</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109821"><xliff:source>Settings</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109832"><xliff:source>Ironman Group</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109822"><xliff:source>Emotes</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109833"><xliff:source>Settings</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109823"><xliff:source>Music Player</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109834"><xliff:source>Emotes</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109824"><xliff:source>Logout</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109835"><xliff:source>Music Player</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109825"><xliff:source>Look West</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109836"><xliff:source>Logout</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109826"><xliff:source>Look South</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109837"><xliff:source>Look West</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109827"><xliff:source>Look East</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109838"><xliff:source>Look South</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109828"><xliff:source>Look North</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109839"><xliff:source>Look East</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109829"><xliff:source>Setup</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109840"><xliff:source>Look North</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109830"><xliff:source>Hide</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109841"><xliff:source>Setup</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109831"><xliff:source>Show</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109842"><xliff:source>Hide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109832"><xliff:source>Activate</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109843"><xliff:source>Show</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109833"><xliff:source>Toggle Run</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109844"><xliff:source>Activate</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109834"><xliff:source>Use</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109845"><xliff:source>Toggle Run</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109835"><xliff:source>Bond Pouch</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109846"><xliff:source>Use</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109836"><xliff:source>Open Store</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109847"><xliff:source>Bond Pouch</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109837"><xliff:source>Clear</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109848"><xliff:source>Open Store</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109838"><xliff:source>Import</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109849"><xliff:source>Clear</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109839"><xliff:source>Export</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109850"><xliff:source>Import</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109840"><xliff:source>Fullscreen &lt;colNum0&gt;World Map&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109851"><xliff:source>Export</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109841"><xliff:source>Floating &lt;colNum0&gt;World Map&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109852"><xliff:source>Fullscreen &lt;colNum0&gt;World Map&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109842"><xliff:source>DPS</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109853"><xliff:source>Floating &lt;colNum0&gt;World Map&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109843"><xliff:source>Search</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109854"><xliff:source>DPS</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109844"><xliff:source>Lookup</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109855"><xliff:source>Search</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109845"><xliff:source>Auto retaliate</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109856"><xliff:source>Lookup</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109846"><xliff:source>Use &lt;colNum0&gt;Special Attack&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109857"><xliff:source>Auto retaliate</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109847"><xliff:source>Wiki</xliff:source><xliff:target/><xliff:note>category: actions
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109858"><xliff:source>Use &lt;colNum0&gt;Special Attack&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109848"><xliff:source>Add to canvas</xliff:source><xliff:target/><xliff:note>category: actions
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109859"><xliff:source>Wiki</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109849"><xliff:source>View &lt;colNum0&gt;Attack&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109860"><xliff:source>Add to canvas</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109850"><xliff:source>View &lt;colNum0&gt;Hitpoints&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109861"><xliff:source>View &lt;colNum0&gt;Attack&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109851"><xliff:source>View &lt;colNum0&gt;Mining&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109862"><xliff:source>View &lt;colNum0&gt;Hitpoints&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109852"><xliff:source>View &lt;colNum0&gt;Strength&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109863"><xliff:source>View &lt;colNum0&gt;Mining&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109853"><xliff:source>View &lt;colNum0&gt;Agility&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109864"><xliff:source>View &lt;colNum0&gt;Strength&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109854"><xliff:source>View &lt;colNum0&gt;Smithing&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109865"><xliff:source>View &lt;colNum0&gt;Agility&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109855"><xliff:source>View &lt;colNum0&gt;Defence&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109866"><xliff:source>View &lt;colNum0&gt;Smithing&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109856"><xliff:source>View &lt;colNum0&gt;Herblore&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109867"><xliff:source>View &lt;colNum0&gt;Defence&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109857"><xliff:source>View &lt;colNum0&gt;Fishing&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109868"><xliff:source>View &lt;colNum0&gt;Herblore&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109858"><xliff:source>View &lt;colNum0&gt;Ranged&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109869"><xliff:source>View &lt;colNum0&gt;Fishing&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109859"><xliff:source>View &lt;colNum0&gt;Thieving&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109870"><xliff:source>View &lt;colNum0&gt;Ranged&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109860"><xliff:source>View &lt;colNum0&gt;Cooking&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109871"><xliff:source>View &lt;colNum0&gt;Thieving&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109861"><xliff:source>View &lt;colNum0&gt;Prayer&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109872"><xliff:source>View &lt;colNum0&gt;Cooking&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109862"><xliff:source>View &lt;colNum0&gt;Crafting&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109873"><xliff:source>View &lt;colNum0&gt;Prayer&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109863"><xliff:source>View &lt;colNum0&gt;Firemaking&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109874"><xliff:source>View &lt;colNum0&gt;Crafting&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109864"><xliff:source>View &lt;colNum0&gt;Magic&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109875"><xliff:source>View &lt;colNum0&gt;Firemaking&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109865"><xliff:source>View &lt;colNum0&gt;Fletching&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109876"><xliff:source>View &lt;colNum0&gt;Magic&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109866"><xliff:source>View &lt;colNum0&gt;Woodcutting&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109877"><xliff:source>View &lt;colNum0&gt;Fletching&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109867"><xliff:source>View &lt;colNum0&gt;Runecraft&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109878"><xliff:source>View &lt;colNum0&gt;Woodcutting&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109868"><xliff:source>View &lt;colNum0&gt;Slayer&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109879"><xliff:source>View &lt;colNum0&gt;Runecraft&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109869"><xliff:source>View &lt;colNum0&gt;Farming&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109880"><xliff:source>View &lt;colNum0&gt;Slayer&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109870"><xliff:source>View &lt;colNum0&gt;Construction&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109881"><xliff:source>View &lt;colNum0&gt;Farming&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109871"><xliff:source>View &lt;colNum0&gt;Hunter&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109882"><xliff:source>View &lt;colNum0&gt;Construction&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109872"><xliff:source>Character Summary</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109883"><xliff:source>View &lt;colNum0&gt;Hunter&lt;/col&gt; guide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109873"><xliff:source>Quest List</xliff:source><xliff:target/><xliff:note>category: actions
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109884"><xliff:source>Character Summary</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109874"><xliff:source>Rewards</xliff:source><xliff:target/><xliff:note>category: actions
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109885"><xliff:source>Achievement Diaries</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109875"><xliff:source>Tasks</xliff:source><xliff:target/><xliff:note>category: actions
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109886"><xliff:source>Quest List</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109876"><xliff:source>Bosses</xliff:source><xliff:target/><xliff:note>category: actions
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109887"><xliff:source>Character Summary</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109877"><xliff:source>Overview</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109888"><xliff:source>Quest List</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109878"><xliff:source>Collection Log</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109889"><xliff:source>Rewards</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109879"><xliff:source>Reveal</xliff:source><xliff:target/><xliff:note>category: actions
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109890"><xliff:source>Tasks</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109880"><xliff:source>Open</xliff:source><xliff:target/><xliff:note>category: actions
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109891"><xliff:source>Bosses</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109881"><xliff:source>Close</xliff:source><xliff:target/><xliff:note>category: actions
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109892"><xliff:source>Overview</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109882"><xliff:source>Start Quest Helper</xliff:source><xliff:target/><xliff:note>category: actions
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109893"><xliff:source>Collection Log</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109883"><xliff:source>Open wiki quick guide:</xliff:source><xliff:target/><xliff:note>category: actions
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109894"><xliff:source>Reveal</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109884"><xliff:source>Open wiki guide:</xliff:source><xliff:target/><xliff:note>category: actions
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109895"><xliff:source>Hide</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109885"><xliff:source>Show on map:</xliff:source><xliff:target/><xliff:note>category: actions
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109896"><xliff:source>Open</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109886"><xliff:source>Read journal:</xliff:source><xliff:target/><xliff:note>category: actions
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109897"><xliff:source>Close</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109887"><xliff:source>Start Helper</xliff:source><xliff:target/><xliff:note>category: actions
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109898"><xliff:source>Start Quest Helper</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109888"><xliff:source>Wiki &lt;colNum0&gt;Ardougne Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109899"><xliff:source>Open wiki quick guide:</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109889"><xliff:source>Open &lt;colNum0&gt;Ardougne Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109900"><xliff:source>Open wiki guide:</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109890"><xliff:source>Wiki &lt;colNum0&gt;Desert Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109901"><xliff:source>Show on map:</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109891"><xliff:source>Open &lt;colNum0&gt;Desert Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109902"><xliff:source>Read journal:</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109892"><xliff:source>Wiki &lt;colNum0&gt;Falador Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109903"><xliff:source>Start Helper</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109893"><xliff:source>Open &lt;colNum0&gt;Falador Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109904"><xliff:source>Wiki &lt;colNum0&gt;Ardougne Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109894"><xliff:source>Wiki &lt;colNum0&gt;Fremennik Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109905"><xliff:source>Open &lt;colNum0&gt;Ardougne Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109895"><xliff:source>Open &lt;colNum0&gt;Fremennik Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109906"><xliff:source>Wiki &lt;colNum0&gt;Desert Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109896"><xliff:source>Wiki &lt;colNum0&gt;Kandarin Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109907"><xliff:source>Open &lt;colNum0&gt;Desert Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109897"><xliff:source>Open &lt;colNum0&gt;Kandarin Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109908"><xliff:source>Wiki &lt;colNum0&gt;Falador Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109898"><xliff:source>Wiki &lt;colNum0&gt;Karamja Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109909"><xliff:source>Open &lt;colNum0&gt;Falador Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109899"><xliff:source>Open &lt;colNum0&gt;Karamja Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109910"><xliff:source>Wiki &lt;colNum0&gt;Fremennik Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109900"><xliff:source>Wiki &lt;colNum0&gt;Kourend &amp; Kebos Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109911"><xliff:source>Open &lt;colNum0&gt;Fremennik Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109901"><xliff:source>Open &lt;colNum0&gt;Kourend &amp; Kebos Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109912"><xliff:source>Wiki &lt;colNum0&gt;Kandarin Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109902"><xliff:source>Wiki &lt;colNum0&gt;Lumbridge &amp; Draynor Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109913"><xliff:source>Open &lt;colNum0&gt;Kandarin Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109903"><xliff:source>Open &lt;colNum0&gt;Lumbridge &amp; Draynor Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109914"><xliff:source>Wiki &lt;colNum0&gt;Karamja Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109904"><xliff:source>Wiki &lt;colNum0&gt;Morytania Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109915"><xliff:source>Open &lt;colNum0&gt;Karamja Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109905"><xliff:source>Open &lt;colNum0&gt;Morytania Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109916"><xliff:source>Wiki &lt;colNum0&gt;Kourend &amp; Kebos Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109906"><xliff:source>Wiki &lt;colNum0&gt;Varrock Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109917"><xliff:source>Open &lt;colNum0&gt;Kourend &amp; Kebos Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109907"><xliff:source>Open &lt;colNum0&gt;Varrock Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109918"><xliff:source>Wiki &lt;colNum0&gt;Lumbridge &amp; Draynor Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109908"><xliff:source>Wiki &lt;colNum0&gt;Western Provinces Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109919"><xliff:source>Open &lt;colNum0&gt;Lumbridge &amp; Draynor Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109909"><xliff:source>Open &lt;colNum0&gt;Western Provinces Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109920"><xliff:source>Wiki &lt;colNum0&gt;Morytania Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109910"><xliff:source>Wiki &lt;colNum0&gt;Wilderness Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109921"><xliff:source>Open &lt;colNum0&gt;Morytania Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109911"><xliff:source>Open &lt;colNum0&gt;Wilderness Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109922"><xliff:source>Wiki &lt;colNum0&gt;Varrock Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109912"><xliff:source>View equipment stats</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109923"><xliff:source>Open &lt;colNum0&gt;Varrock Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109913"><xliff:source>View guide prices</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109924"><xliff:source>Wiki &lt;colNum0&gt;Western Provinces Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109914"><xliff:source>View items kept on death</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109925"><xliff:source>Open &lt;colNum0&gt;Western Provinces Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109915"><xliff:source>Call follower</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109926"><xliff:source>Wiki &lt;colNum0&gt;Wilderness Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109916"><xliff:source>Disable prayer reordering</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109927"><xliff:source>Open &lt;colNum0&gt;Wilderness Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109917"><xliff:source>Enable prayer filtering</xliff:source><xliff:target/><xliff:note>category: actions
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109928"><xliff:source>View equipment stats</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109918"><xliff:source>Disable spell reordering</xliff:source><xliff:target/><xliff:note>category: actions
+source: wornEquipmentTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109929"><xliff:source>View guide prices</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109919"><xliff:source>Enable spell filtering</xliff:source><xliff:target/><xliff:note>category: actions
+source: wornEquipmentTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109930"><xliff:source>View items kept on death</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109920"><xliff:source>Show notifications</xliff:source><xliff:target/><xliff:note>category: actions
+source: wornEquipmentTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109931"><xliff:source>Call follower</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109921"><xliff:source>Add Note</xliff:source><xliff:target/><xliff:note>category: actions
+source: wornEquipmentTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109932"><xliff:source>Disable prayer reordering</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109922"><xliff:source>Delete</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109933"><xliff:source>Enable prayer filtering</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109923"><xliff:source>Message</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109934"><xliff:source>Disable spell reordering</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109924"><xliff:source>View Ignore List</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109935"><xliff:source>Enable spell filtering</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109925"><xliff:source>Add Friend</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109936"><xliff:source>Show notifications</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109926"><xliff:source>Delete Friend</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109937"><xliff:source>Add Note</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109927"><xliff:source>View Friends List</xliff:source><xliff:target/><xliff:note>category: actions
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109938"><xliff:source>Delete</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109928"><xliff:source>Add Name</xliff:source><xliff:target/><xliff:note>category: actions
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109939"><xliff:source>Message</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109929"><xliff:source>Delete Name</xliff:source><xliff:target/><xliff:note>category: actions
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109940"><xliff:source>View Ignore List</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109930"><xliff:source>Account</xliff:source><xliff:target/><xliff:note>category: actions
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109941"><xliff:source>Add Friend</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109931"><xliff:source>Community</xliff:source><xliff:target/><xliff:note>category: actions
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109942"><xliff:source>Delete Friend</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109932"><xliff:source>Useful Links</xliff:source><xliff:target/><xliff:note>category: actions
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109943"><xliff:source>View Friends List</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109933"><xliff:source>View Inbox</xliff:source><xliff:target/><xliff:note>category: actions
+source: ignoreTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109944"><xliff:source>Delete</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109934"><xliff:source>Name Changer</xliff:source><xliff:target/><xliff:note>category: actions
+source: ignoreTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109945"><xliff:source>Add Name</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109935"><xliff:source>View History</xliff:source><xliff:target/><xliff:note>category: actions
+source: ignoreTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109946"><xliff:source>Delete Name</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109936"><xliff:source>View Newspost</xliff:source><xliff:target/><xliff:note>category: actions
+source: ignoreTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109947"><xliff:source>Account</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109937"><xliff:source>View Archive</xliff:source><xliff:target/><xliff:note>category: actions
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109948"><xliff:source>Community</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109938"><xliff:source>Refresh</xliff:source><xliff:target/><xliff:note>category: actions
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109949"><xliff:source>Useful Links</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109939"><xliff:source>Join</xliff:source><xliff:target/><xliff:note>category: actions
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109950"><xliff:source>Open Store</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109940"><xliff:source>Find</xliff:source><xliff:target/><xliff:note>category: actions
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109951"><xliff:source>Bond Pouch</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109941"><xliff:source>Teleport</xliff:source><xliff:target/><xliff:note>category: actions
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109952"><xliff:source>View Inbox</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109942"><xliff:source>Select</xliff:source><xliff:target/><xliff:note>category: actions
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109953"><xliff:source>Name Changer</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109943"><xliff:source>Toggle skull prevention</xliff:source><xliff:target/><xliff:note>category: actions
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109954"><xliff:source>View History</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109944"><xliff:source>Toggle Accept Aid</xliff:source><xliff:target/><xliff:note>category: actions
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109955"><xliff:source>View Newspost</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109945"><xliff:source>View House Options</xliff:source><xliff:target/><xliff:note>category: actions
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109956"><xliff:source>View Archive</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109946"><xliff:source>Open Bond Pouch</xliff:source><xliff:target/><xliff:note>category: actions
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109957"><xliff:source>Open</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109947"><xliff:source>All Settings</xliff:source><xliff:target/><xliff:note>category: actions
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109958"><xliff:source>Settings</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109948"><xliff:source>Controls</xliff:source><xliff:target/><xliff:note>category: actions
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109959"><xliff:source>Refresh</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109949"><xliff:source>Display</xliff:source><xliff:target/><xliff:note>category: actions
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109960"><xliff:source>Join</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109950"><xliff:source>Audio</xliff:source><xliff:target/><xliff:note>category: actions
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109961"><xliff:source>Setup</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109951"><xliff:source>Unmute</xliff:source><xliff:target/><xliff:note>category: actions
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109962"><xliff:source>Find</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109952"><xliff:source>Adjust Brightness</xliff:source><xliff:target/><xliff:note>category: actions
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109963"><xliff:source>Open</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109953"><xliff:source>Restore Default Zoom</xliff:source><xliff:target/><xliff:note>category: actions
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109964"><xliff:source>Teleport</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109954"><xliff:source>Disable</xliff:source><xliff:target/><xliff:note>category: actions
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109965"><xliff:source>Select</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109955"><xliff:source>Perform</xliff:source><xliff:target/><xliff:note>category: actions
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109966"><xliff:source>Toggle skull prevention</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109956"><xliff:source>Area</xliff:source><xliff:target/><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109967"><xliff:source>Toggle Accept Aid</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109957"><xliff:source>Manual</xliff:source><xliff:target/><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109968"><xliff:source>Toggle Run</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109958"><xliff:source>Random</xliff:source><xliff:target/><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109969"><xliff:source>View House Options</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109959"><xliff:source>Unlock hint</xliff:source><xliff:target/><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109970"><xliff:source>Open Bond Pouch</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109960"><xliff:source>Thumbs Up</xliff:source><xliff:target/><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109971"><xliff:source>All Settings</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109961"><xliff:source>Thumbs Down</xliff:source><xliff:target/><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109972"><xliff:source>Controls</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109962"><xliff:source>World Switcher</xliff:source><xliff:target/><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109973"><xliff:source>Display</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109963"><xliff:source>Favourite</xliff:source><xliff:target/><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109974"><xliff:source>Audio</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109964"><xliff:source>Switch</xliff:source><xliff:target/><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109975"><xliff:source>Unmute</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109965"><xliff:source>Configure</xliff:source><xliff:target/><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109976"><xliff:source>Adjust Brightness</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
-source: None
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109977"><xliff:source>Restore Default Zoom</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109978"><xliff:source>Disable</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109979"><xliff:source>Select</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109980"><xliff:source>Perform</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: emotesTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109981"><xliff:source>Area</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109982"><xliff:source>Manual</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109983"><xliff:source>Random</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109984"><xliff:source>Unlock hint</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109985"><xliff:source>Play</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109986"><xliff:source>Thumbs Up</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: logoutTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109987"><xliff:source>Thumbs Down</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: logoutTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109988"><xliff:source>World Switcher</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: logoutTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109989"><xliff:source>Logout</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: logoutTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109990"><xliff:source>Favourite</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109991"><xliff:source>Switch</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109992"><xliff:source>Logout</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109993"><xliff:source>Clear</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109994"><xliff:source>Close</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109995"><xliff:source>Configure</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
