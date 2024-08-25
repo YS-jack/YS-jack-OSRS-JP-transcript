@@ -22782,6 +22782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dark Squall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020744Z" creationid="yumas" creationdate="20240825T020744Z">
+        <seg>暗黒のスコール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dark Squirrel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T084949Z" creationid="yumas" creationdate="20240809T084949Z">
@@ -23858,6 +23866,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T030446Z" creationid="yumas" creationdate="20240815T030446Z">
         <seg>デバッグ・ブロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Debug Man</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020954Z" creationid="yumas" creationdate="20240825T020954Z">
+        <seg>デバッグ男</seg>
       </tuv>
     </tu>
     <tu>
@@ -26722,6 +26738,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240819T064217Z" creationid="2008l" creationdate="20240819T064217Z">
         <seg>ドルイドのポーチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Druid spirit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020749Z" creationid="yumas" creationdate="20240825T020749Z">
+        <seg>ドルイドの魂</seg>
       </tuv>
     </tu>
     <tu>
@@ -72462,6 +72486,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sakirth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020757Z" creationid="yumas" creationdate="20240825T020757Z">
+        <seg>サキース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Salarin the twisted</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T044901Z" creationid="yumas" creationdate="20240805T044901Z">
@@ -74768,8 +74800,8 @@
       <tuv lang="en-GB">
         <seg>Shady stranger</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240825T020640Z" creationid="yumas" creationdate="20240825T020640Z">
-        <seg>怪しいよそ者</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020710Z" creationid="yumas" creationdate="20240825T020640Z">
+        <seg>怪しい見知らぬ人</seg>
       </tuv>
     </tu>
     <tu>
@@ -76506,6 +76538,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T043313Z" creationid="yumas" creationdate="20240730T222801Z">
         <seg>座る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sithaph</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020754Z" creationid="yumas" creationdate="20240825T020754Z">
+        <seg>シスパフ</seg>
       </tuv>
     </tu>
     <tu>
@@ -81550,6 +81590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strange tube</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020814Z" creationid="yumas" creationdate="20240825T020814Z">
+        <seg>不思議なチューブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strange wall</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T045748Z" creationid="yumas" creationdate="20240811T045748Z">
@@ -81770,6 +81818,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240820T070251Z" creationid="2008l" creationdate="20240820T070251Z">
         <seg>布切れ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strisath</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020803Z" creationid="yumas" creationdate="20240825T020803Z">
+        <seg>シトリサス</seg>
       </tuv>
     </tu>
     <tu>
@@ -86992,18 +87048,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tormented Demon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020851Z" creationid="yumas" creationdate="20240825T020823Z">
+        <seg>苦悩する悪魔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tormented Soul</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240809T071606Z" creationid="yumas" creationdate="20240809T071606Z">
-        <seg>苦悩の魂</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020909Z" creationid="yumas" creationdate="20240809T071606Z">
+        <seg>苦悩する魂</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Tormented Warrior</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240808T115316Z" creationid="yumas" creationdate="20240808T115316Z">
-        <seg>苦悩の戦士</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020901Z" creationid="yumas" creationdate="20240808T115316Z">
+        <seg>苦悩する戦士</seg>
       </tuv>
     </tu>
     <tu>
@@ -90044,6 +90108,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T003950Z" creationid="yumas" creationdate="20240809T003950Z">
         <seg>ウイオロ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>V</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T020816Z" creationid="yumas" creationdate="20240825T020816Z">
+        <seg>V</seg>
       </tuv>
     </tu>
     <tu>
