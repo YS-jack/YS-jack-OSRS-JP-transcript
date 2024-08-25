@@ -98255,6 +98255,17 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">transcript_ja_name_menu.xliff</prop>
+      <prop type="id">111321</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Mining</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240825T080850Z" creationid="yumas" creationdate="20240825T080850Z">
+        <seg>採掘</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">transcript_ja_name_npc.xliff</prop>
       <prop type="id">11017</prop>
       <prop type="path">//transcript.db</prop>
