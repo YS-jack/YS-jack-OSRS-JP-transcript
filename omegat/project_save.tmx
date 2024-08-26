@@ -95696,6 +95696,78 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Watering can</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T074236Z" creationid="2008l" creationdate="20240826T074236Z">
+        <seg>じょうろ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Watering can(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T074242Z" creationid="2008l" creationdate="20240826T074242Z">
+        <seg>じょうろ（1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Watering can(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T074243Z" creationid="2008l" creationdate="20240826T074243Z">
+        <seg>じょうろ（2）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Watering can(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T074244Z" creationid="2008l" creationdate="20240826T074244Z">
+        <seg>じょうろ（3）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Watering can(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T074245Z" creationid="2008l" creationdate="20240826T074245Z">
+        <seg>じょうろ（4）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Watering can(5)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T074245Z" creationid="2008l" creationdate="20240826T074245Z">
+        <seg>じょうろ（5）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Watering can(6)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T074246Z" creationid="2008l" creationdate="20240826T074246Z">
+        <seg>じょうろ（6）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Watering can(7)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T074246Z" creationid="2008l" creationdate="20240826T074246Z">
+        <seg>じょうろ（7）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Watering can(8)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T074247Z" creationid="2008l" creationdate="20240826T074247Z">
+        <seg>じょうろ（8）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Waterlily</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T023950Z" creationid="yumas" creationdate="20240811T023950Z">
@@ -100213,6 +100285,17 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240819T070452Z" creationid="2008l" creationdate="20240819T070452Z">
         <seg>組み合わせ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_item.xliff</prop>
+      <prop type="id">2528</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Rake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T074458Z" creationid="2008l" creationdate="20240826T074458Z">
+        <seg>レーキ</seg>
       </tuv>
     </tu>
     <tu>
