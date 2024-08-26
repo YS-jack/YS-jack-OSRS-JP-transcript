@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>(level-%d0)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240826T114636Z" creationid="yumas" creationdate="20240826T114636Z">
+        <seg>レベル %d0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>1/2 anchovy pizza</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T070140Z" creationid="2008l" creationdate="20240810T070140Z">
