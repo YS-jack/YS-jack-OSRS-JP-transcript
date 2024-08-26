@@ -11214,6 +11214,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Book on costumes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T072111Z" creationid="2008l" creationdate="20240826T072111Z">
+        <seg>衣装の本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Book page 1</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240825T071221Z" creationid="2008l" creationdate="20240825T071221Z">
@@ -28174,6 +28182,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dwarven battleaxe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T071739Z" creationid="2008l" creationdate="20240826T071739Z">
+        <seg>ドワーフの戦斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dwarven lore</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240825T071210Z" creationid="2008l" creationdate="20240825T071210Z">
@@ -31010,6 +31026,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T043310Z" creationid="yumas" creationdate="20240815T043310Z">
         <seg>露出した祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Exquisite boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T071922Z" creationid="2008l" creationdate="20240826T071922Z">
+        <seg>雅びやかな靴</seg>
       </tuv>
     </tu>
     <tu>
@@ -50722,6 +50746,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T042503Z" creationid="yumas" creationdate="20240809T042503Z">
         <seg>リーンズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Left boot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T071747Z" creationid="2008l" creationdate="20240826T071747Z">
+        <seg>左足の靴</seg>
       </tuv>
     </tu>
     <tu>
@@ -71294,6 +71326,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Right boot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T071752Z" creationid="2008l" creationdate="20240826T071752Z">
+        <seg>右足の靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Right eye patch</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T064533Z" creationid="2008l" creationdate="20240729T064533Z">
@@ -77334,6 +77374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T071658Z" creationid="2008l" creationdate="20240826T071658Z">
+        <seg>シャツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shockwave Colossus</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T022006Z" creationid="yumas" creationdate="20240810T021948Z">
@@ -77506,6 +77554,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T045537Z" creationid="yumas" creationdate="20240812T045537Z">
         <seg>近道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shorts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T071705Z" creationid="2008l" creationdate="20240826T071705Z">
+        <seg>ショーツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -78738,6 +78794,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T125758Z" creationid="yumas" creationdate="20240806T125758Z">
         <seg>スキッピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Skirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T071711Z" creationid="2008l" creationdate="20240826T071711Z">
+        <seg>スカート</seg>
       </tuv>
     </tu>
     <tu>
@@ -90784,6 +90848,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Trousers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T071702Z" creationid="2008l" creationdate="20240826T071702Z">
+        <seg>ズボン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Trout</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240723T062505Z" creationid="2008l" creationdate="20240723T062505Z">
@@ -97466,8 +97538,8 @@
       <tuv lang="en-GB">
         <seg>Woven top</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240826T071630Z" creationid="2008l" creationdate="20240826T071630Z">
-        <seg>織りトプ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240826T071656Z" creationid="2008l" creationdate="20240826T071630Z">
+        <seg>織りトップ</seg>
       </tuv>
     </tu>
     <tu>
