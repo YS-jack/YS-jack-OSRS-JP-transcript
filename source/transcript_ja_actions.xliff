@@ -10488,7 +10488,7 @@ source: logoutTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109987"><xliff:source>Thumbs Down</xliff:source><xliff:target state="translated">アンハッピー</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: logoutTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109988"><xliff:source>World Switcher</xliff:source><xliff:target state="translated">サーバー変更</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109988"><xliff:source>World Switcher</xliff:source><xliff:target state="translated">世界変更</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: logoutTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109989"><xliff:source>Logout</xliff:source><xliff:target state="translated">ログアウト</xliff:target><xliff:note>category: actions
@@ -10512,51 +10512,132 @@ source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109995"><xliff:source>Configure</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109996"><xliff:source>Character Summary</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109996"><xliff:source>Character Summary</xliff:source><xliff:target state="translated">キャラ概要</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: achievementDiaryTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109997"><xliff:source>Achievement Diaries</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109997"><xliff:source>Achievement Diaries</xliff:source><xliff:target state="translated">達成記録</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: achievementDiaryTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109998"><xliff:source>Quest List</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109998"><xliff:source>Quest List</xliff:source><xliff:target state="translated">クエスト一覧</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: achievementDiaryTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109999"><xliff:source>Character Summary</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109999"><xliff:source>Character Summary</xliff:source><xliff:target state="translated">キャラ概要</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: questListTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110000"><xliff:source>Achievement Diaries</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110000"><xliff:source>Achievement Diaries</xliff:source><xliff:target state="translated">達成記録</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: questListTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110001"><xliff:source>Quest List</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110001"><xliff:source>Quest List</xliff:source><xliff:target state="translated">クエスト一覧</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: questListTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110002"><xliff:source>Grouping</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110002"><xliff:source>Grouping</xliff:source><xliff:target state="translated">グループ</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110003"><xliff:source>Ironman Group</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110003"><xliff:source>Ironman Group</xliff:source><xliff:target state="translated">鉄人グループ</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110004"><xliff:source>Chat-channel</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110004"><xliff:source>Chat-channel</xliff:source><xliff:target state="translated">会話チャンネル</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110005"><xliff:source>Your Clan</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110005"><xliff:source>Your Clan</xliff:source><xliff:target state="translated">クラン</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110006"><xliff:source>View another clan</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110006"><xliff:source>View another clan</xliff:source><xliff:target state="translated">別のクラン</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110007"><xliff:source>Message</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110007"><xliff:source>Message</xliff:source><xliff:target state="translated">手紙</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110008"><xliff:source>Remove friend</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110008"><xliff:source>Remove friend</xliff:source><xliff:target state="translated">フレンド削除</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110009"><xliff:source>Switch world</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110009"><xliff:source>Switch world</xliff:source><xliff:target state="translated">世界変更</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110010"><xliff:source>View Poll</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110010"><xliff:source>View Poll</xliff:source><xliff:target state="translated">投票を見る</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110011"><xliff:source>Hide</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110012"><xliff:source>Activate</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110013"><xliff:source>Unhide</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110014"><xliff:source>Deactivate</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110015"><xliff:source>Animation</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110016"><xliff:source>Hide</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110017"><xliff:source>Cast</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110018"><xliff:source>Unhide</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110019"><xliff:source>View</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110020"><xliff:source>Warnings</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110021"><xliff:source>Configure</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110022"><xliff:source>Grand Exchange</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110023"><xliff:source>Seers'</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110024"><xliff:source>Group: Previous</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110025"><xliff:source>Group: Choose</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110026"><xliff:source>Outside</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110027"><xliff:source>Yanille</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110028"><xliff:source>Enable warning</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110029"><xliff:source>Disable warning</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110030"><xliff:source>Turael</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110031"><xliff:source>Target</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110032"><xliff:source>Setup</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110033"><xliff:source>Arceuus</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110034"><xliff:source>Ancient</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110035"><xliff:source>Standard</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110036"><xliff:source>Reanimate</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110037"><xliff:source>Resurrect</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
