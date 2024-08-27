@@ -8014,6 +8014,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Barrows Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224304Z" creationid="yumas" creationdate="20240827T224304Z">
+        <seg>バロウズ・ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bars</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T130924Z" creationid="yumas" creationdate="20240730T114246Z">
@@ -24886,6 +24894,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dark Demonbane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224258Z" creationid="yumas" creationdate="20240827T224258Z">
+        <seg>暗黒の悪魔殺し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dark Lure</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T223651Z" creationid="yumas" creationdate="20240827T223651Z">
@@ -25846,6 +25862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Death Charge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224243Z" creationid="yumas" creationdate="20240827T224243Z">
+        <seg>死による回復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Death Energy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T133034Z" creationid="yumas" creationdate="20240814T133034Z">
@@ -26298,6 +26322,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043834Z" creationid="yumas" creationdate="20240805T043834Z">
         <seg>悪魔の執事</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Demonic Offering</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224314Z" creationid="yumas" creationdate="20240827T224314Z">
+        <seg>悪魔的供物</seg>
       </tuv>
     </tu>
     <tu>
@@ -40690,6 +40722,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T142821Z" creationid="yumas" creationdate="20240814T142821Z">
         <seg>偉大な大釜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Greater Corruption</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224347Z" creationid="yumas" creationdate="20240827T224347Z">
+        <seg>上位の腐敗</seg>
       </tuv>
     </tu>
     <tu>
@@ -57410,6 +57450,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T083809Z" creationid="yumas" creationdate="20240809T083809Z">
         <seg>偉いナビゲーター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Master Reanimation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224353Z" creationid="yumas" creationdate="20240827T224353Z">
+        <seg>超級蘇生術</seg>
       </tuv>
     </tu>
     <tu>
@@ -74504,8 +74552,8 @@
       <tuv lang="en-GB">
         <seg>Resurrect Crops</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240827T224218Z" creationid="yumas" creationdate="20240827T224218Z">
-        <seg>作物復活</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224230Z" creationid="yumas" creationdate="20240827T224218Z">
+        <seg>作物蘇生</seg>
       </tuv>
     </tu>
     <tu>
@@ -82170,6 +82218,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T043523Z" creationid="yumas" creationdate="20240812T043523Z">
         <seg>１つの柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sinister Offering</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224401Z" creationid="yumas" creationdate="20240827T224401Z">
+        <seg>不吉な供物</seg>
       </tuv>
     </tu>
     <tu>
@@ -96412,6 +96468,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T135422Z" creationid="yumas" creationdate="20240805T135422Z">
         <seg>アンデッド・ドルイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Undead Grasp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224234Z" creationid="yumas" creationdate="20240827T224234Z">
+        <seg>不死の掌握</seg>
       </tuv>
     </tu>
     <tu>
