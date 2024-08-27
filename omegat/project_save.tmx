@@ -21262,6 +21262,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Confuse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T214247Z" creationid="yumas" creationdate="20240827T214247Z">
+        <seg>混乱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Confused barbarian</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T135528Z" creationid="yumas" creationdate="20240806T135528Z">
@@ -22858,6 +22866,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T055724Z" creationid="2008l" creationdate="20240728T055724Z">
         <seg>洋弓銃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crossbow Bolt Enchantments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T214517Z" creationid="yumas" creationdate="20240827T214517Z">
+        <seg>ボルトに魔法付与</seg>
       </tuv>
     </tu>
     <tu>
@@ -100244,6 +100260,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T125951Z" creationid="yumas" creationdate="20240803T125916Z">
         <seg>巻く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wind Strike</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T214245Z" creationid="yumas" creationdate="20240827T214245Z">
+        <seg>風ストライク</seg>
       </tuv>
     </tu>
     <tu>
