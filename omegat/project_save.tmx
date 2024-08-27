@@ -45822,6 +45822,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Incredible Reflexes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T140645Z" creationid="yumas" creationdate="20240827T140645Z">
+        <seg>とてつもない反射神経</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Incubation chamber</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T032740Z" creationid="yumas" creationdate="20240812T032740Z">
@@ -60966,6 +60974,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mystic Will</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T140727Z" creationid="yumas" creationdate="20240827T140727Z">
+        <seg>神秘の意思</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mystic air staff</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T070445Z" creationid="2008l" creationdate="20240731T070445Z">
@@ -69918,10 +69934,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Protect Item</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T140632Z" creationid="yumas" creationdate="20240827T140632Z">
+        <seg>アイテム保護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Protect from Magic</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T140740Z" creationid="yumas" creationdate="20240827T140740Z">
+        <seg>魔法から守る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Protect from Melee</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240824T122548Z" creationid="yumas" creationdate="20240824T122548Z">
-        <seg>近接から守る</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T140802Z" creationid="yumas" creationdate="20240824T122548Z">
+        <seg>近接武器から守る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Protect from Missiles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T140757Z" creationid="yumas" creationdate="20240827T140757Z">
+        <seg>発射体から守る</seg>
       </tuv>
     </tu>
     <tu>
@@ -74958,6 +74998,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rock Skin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T140734Z" creationid="yumas" creationdate="20240827T140734Z">
+        <seg>岩の肌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rock and string</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T013301Z" creationid="yumas" creationdate="20240812T013301Z">
@@ -79850,6 +79898,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T045003Z" creationid="yumas" creationdate="20240812T045003Z">
         <seg>サメの頭部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sharp Eye</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T140702Z" creationid="yumas" creationdate="20240827T140702Z">
+        <seg>鋭い目</seg>
       </tuv>
     </tu>
     <tu>
