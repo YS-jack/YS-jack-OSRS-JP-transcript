@@ -26934,6 +26934,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Disable warning</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T135842Z" creationid="yumas" creationdate="20240827T135833Z">
+        <seg>警告を無効化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Disarm</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T043013Z" creationid="yumas" creationdate="20240730T133501Z">
@@ -31210,6 +31218,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T051543Z" creationid="yumas" creationdate="20240824T051543Z">
         <seg>魔法の再配置有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Enable warning</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T135839Z" creationid="yumas" creationdate="20240827T135828Z">
+        <seg>警告を有効化</seg>
       </tuv>
     </tu>
     <tu>
@@ -40990,6 +41006,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Group: Choose</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T135810Z" creationid="yumas" creationdate="20240827T135810Z">
+        <seg>グループ：選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Group: Previous</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T135802Z" creationid="yumas" creationdate="20240827T135802Z">
+        <seg>グループ：以前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Grouping</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T051632Z" creationid="yumas" creationdate="20240824T051632Z">
@@ -46032,7 +46064,7 @@
       <tuv lang="en-GB">
         <seg>Inside</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240803T130151Z" creationid="yumas" creationdate="20240803T130151Z">
+      <tuv lang="ja" changeid="yumas" changedate="20240827T135701Z" creationid="yumas" creationdate="20240803T130151Z">
         <seg>中</seg>
       </tuv>
     </tu>
@@ -71846,6 +71878,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Reanimate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T135911Z" creationid="yumas" creationdate="20240827T135911Z">
+        <seg>復活</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Reanimated TzHaar</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T043237Z" creationid="yumas" creationdate="20240809T043237Z">
@@ -78914,6 +78954,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T053307Z" creationid="yumas" creationdate="20240811T053307Z">
         <seg>シアーズの風見</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Seers'</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T135747Z" creationid="yumas" creationdate="20240827T135747Z">
+        <seg>シアーズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -97972,6 +98020,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T044318Z" creationid="yumas" creationdate="20240811T044318Z">
         <seg>警告標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Warnings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T135724Z" creationid="yumas" creationdate="20240827T135724Z">
+        <seg>警告</seg>
       </tuv>
     </tu>
     <tu>
