@@ -24878,6 +24878,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dark Lure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223651Z" creationid="yumas" creationdate="20240827T223651Z">
+        <seg>闇の誘い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dark Mage</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T125136Z" creationid="yumas" creationdate="20240806T125136Z">
@@ -33890,6 +33898,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T104204Z" creationid="yumas" creationdate="20240814T104204Z">
         <seg>フェンケンストレインの城のポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fenkenstrain's Castle Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223637Z" creationid="yumas" creationdate="20240827T223637Z">
+        <seg>フェンケンストレイン城・ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -57072,8 +57088,8 @@
       <tuv lang="en-GB">
         <seg>Mark of Darkness</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240814T130209Z" creationid="yumas" creationdate="20240814T130209Z">
-        <seg>暗黒の印</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223749Z" creationid="yumas" creationdate="20240814T130209Z">
+        <seg>闇の刻印</seg>
       </tuv>
     </tu>
     <tu>
@@ -74470,6 +74486,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Resurrect Superior Ghost</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223712Z" creationid="yumas" creationdate="20240827T223712Z">
+        <seg>中級ゴースト復活術式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Resurrect Superior Skeleton</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223719Z" creationid="yumas" creationdate="20240827T223719Z">
+        <seg>中級スケルトン復活術式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Resurrect Superior Zombie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223730Z" creationid="yumas" creationdate="20240827T223730Z">
+        <seg>中級ゾンビ復活術式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Retired sailor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T092804Z" creationid="yumas" creationdate="20240809T092804Z">
@@ -80510,6 +80550,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Shadow Veil</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223629Z" creationid="yumas" creationdate="20240827T223629Z">
+        <seg>影のベール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Shadow Wyrm</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T090615Z" creationid="yumas" creationdate="20240809T090615Z">
@@ -82442,6 +82490,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T071629Z" creationid="2008l" creationdate="20240810T071629Z">
         <seg>スカヴィドの地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Skeletal Grasp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223659Z" creationid="yumas" creationdate="20240827T223659Z">
+        <seg>スケルトン掌握</seg>
       </tuv>
     </tu>
     <tu>
@@ -88938,6 +88994,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T141000Z" creationid="yumas" creationdate="20240827T141000Z">
         <seg>超人的な力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Superior Demonbane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223942Z" creationid="yumas" creationdate="20240827T223942Z">
+        <seg>優勢</seg>
       </tuv>
     </tu>
     <tu>
@@ -100468,6 +100532,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T104217Z" creationid="yumas" creationdate="20240814T104217Z">
         <seg>西アルドインのポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>West Ardougne Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223848Z" creationid="yumas" creationdate="20240827T223848Z">
+        <seg>西アルドイン・ワープ</seg>
       </tuv>
     </tu>
     <tu>
