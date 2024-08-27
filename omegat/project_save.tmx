@@ -5006,6 +5006,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ardougne Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215317Z" creationid="yumas" creationdate="20240827T215317Z">
+        <seg>アルドイン・ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ardougne Wall Door</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T123323Z" creationid="yumas" creationdate="20240811T123323Z">
@@ -15790,6 +15798,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Camelot Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215204Z" creationid="yumas" creationdate="20240827T215204Z">
+        <seg>カメロット・ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Camorra</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T065546Z" creationid="yumas" creationdate="20240809T065546Z">
@@ -19702,6 +19718,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Civitas illa Fortis Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215336Z" creationid="yumas" creationdate="20240827T215336Z">
+        <seg>シビリタス・イラ・フォーチス・ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Claim</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T133632Z" creationid="yumas" creationdate="20240730T093100Z">
@@ -22986,6 +23010,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T013251Z" creationid="yumas" creationdate="20240811T031325Z">
         <seg>粗末なイカダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crumble Undead</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215226Z" creationid="yumas" creationdate="20240827T215226Z">
+        <seg>アンデッド崩し</seg>
       </tuv>
     </tu>
     <tu>
@@ -29750,6 +29782,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Earth Blast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215325Z" creationid="yumas" creationdate="20240827T215325Z">
+        <seg>土ブラスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Earth Bolt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215045Z" creationid="yumas" creationdate="20240827T215045Z">
+        <seg>土ボルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Earth Energy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T133024Z" creationid="yumas" creationdate="20240814T133024Z">
@@ -32950,6 +32998,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Falador Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215103Z" creationid="yumas" creationdate="20240827T215103Z">
+        <seg>ファラドー・ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Falador Waystone</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T131139Z" creationid="yumas" creationdate="20240814T131139Z">
@@ -34010,6 +34066,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T030024Z" creationid="yumas" creationdate="20240815T030024Z">
         <seg>火のの軸索終末</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fire Bolt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215058Z" creationid="yumas" creationdate="20240827T215058Z">
+        <seg>炎ボルト</seg>
       </tuv>
     </tu>
     <tu>
@@ -43966,6 +44030,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>High Level Alchemy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215343Z" creationid="yumas" creationdate="20240827T215343Z">
+        <seg>上級錬金術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>High Priest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120234Z" creationid="yumas" creationdate="20240808T120234Z">
@@ -44938,6 +45010,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T075711Z" creationid="yumas" creationdate="20240809T075711Z">
         <seg>アイバン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iban Blast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215232Z" creationid="yumas" creationdate="20240827T215232Z">
+        <seg>アイバン・ブラスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -50358,6 +50438,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Kourend Castle Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215150Z" creationid="yumas" creationdate="20240827T215150Z">
+        <seg>クーレンド城ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Kourend Portal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T074949Z" creationid="yumas" creationdate="20240813T074949Z">
@@ -54758,6 +54846,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lumbridge Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215052Z" creationid="yumas" creationdate="20240827T215052Z">
+        <seg>ランブリッジ・ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lumbridge Waystone</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T131119Z" creationid="yumas" creationdate="20240814T131119Z">
@@ -55154,6 +55250,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T051626Z" creationid="yumas" creationdate="20240824T051626Z">
         <seg>魔法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic Dart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215305Z" creationid="yumas" creationdate="20240827T215305Z">
+        <seg>魔法ダーツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -83190,6 +83294,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Snare</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215301Z" creationid="yumas" creationdate="20240827T215301Z">
+        <seg>スネア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sneaky undead fowl</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T125033Z" creationid="yumas" creationdate="20240808T125033Z">
@@ -88126,6 +88238,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Superheat Item</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215211Z" creationid="yumas" creationdate="20240827T215211Z">
+        <seg>超加熱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Superhuman Strength</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T141000Z" creationid="yumas" creationdate="20240827T141000Z">
@@ -90644,6 +90764,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T122440Z" creationid="yumas" creationdate="20240731T122429Z">
         <seg>目的地へワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teleport to House</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215220Z" creationid="yumas" creationdate="20240827T215220Z">
+        <seg>家ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -98576,6 +98704,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Water Blast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215158Z" creationid="yumas" creationdate="20240827T215158Z">
+        <seg>水ブラスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Water Bolt</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T215028Z" creationid="yumas" creationdate="20240827T215028Z">
@@ -100348,6 +100484,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T125951Z" creationid="yumas" creationdate="20240803T125916Z">
         <seg>巻く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wind Blast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T215215Z" creationid="yumas" creationdate="20240827T215215Z">
+        <seg>風ブラスト</seg>
       </tuv>
     </tu>
     <tu>
