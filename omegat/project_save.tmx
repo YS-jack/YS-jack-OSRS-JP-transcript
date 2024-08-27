@@ -102702,6 +102702,17 @@
     </tu>
     <tu>
       <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">110015</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Animation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T133743Z" creationid="yumas" creationdate="20240827T133743Z">
+        <seg>蘇生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
       <prop type="id">41330</prop>
       <prop type="path">//transcript.db</prop>
       <tuv lang="en-GB">
