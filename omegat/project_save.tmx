@@ -6806,6 +6806,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bake Pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221605Z" creationid="yumas" creationdate="20240827T221605Z">
+        <seg>パイを焼く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Baker</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134247Z" creationid="yumas" creationdate="20240807T134247Z">
@@ -23886,6 +23894,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cure Me</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221731Z" creationid="yumas" creationdate="20240827T221731Z">
+        <seg>自己治癒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cure Other</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221635Z" creationid="yumas" creationdate="20240827T221635Z">
+        <seg>仲間治癒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cure Plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221620Z" creationid="yumas" creationdate="20240827T221620Z">
+        <seg>植物治癒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Curling plant</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T024210Z" creationid="yumas" creationdate="20240811T024210Z">
@@ -37790,6 +37822,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Geomancy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221614Z" creationid="yumas" creationdate="20240827T221614Z">
+        <seg>ジェオマンシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>George Laxmeister</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T122453Z" creationid="yumas" creationdate="20240808T122453Z">
@@ -37954,6 +37994,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T130927Z" creationid="yumas" creationdate="20240813T130927Z">
         <seg>ゴロックのポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ghorrock Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221508Z" creationid="yumas" creationdate="20240827T221508Z">
+        <seg>ゴロック・ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -45058,6 +45106,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T030826Z" creationid="yumas" creationdate="20240815T030826Z">
         <seg>人間の食べ物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Humidify</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221640Z" creationid="yumas" creationdate="20240827T221640Z">
+        <seg>加湿</seg>
       </tuv>
     </tu>
     <tu>
@@ -55190,6 +55246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lunar Home Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221515Z" creationid="yumas" creationdate="20240827T221515Z">
+        <seg>ルーナ帰還ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lunar Isle</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T010700Z" creationid="yumas" creationdate="20240803T010700Z">
@@ -59606,6 +59670,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Monster Examine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221625Z" creationid="yumas" creationdate="20240827T221625Z">
+        <seg>魔獣解析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Monster space</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T030349Z" creationid="yumas" creationdate="20240812T030349Z">
@@ -59650,6 +59722,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T023712Z" creationid="yumas" creationdate="20240810T023712Z">
         <seg>月の盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Moonclan Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221655Z" creationid="yumas" creationdate="20240827T221655Z">
+        <seg>ムーンクラン・ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -61706,6 +61786,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T113919Z" creationid="yumas" creationdate="20240813T113919Z">
         <seg>神秘のマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>NPC Contact</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221630Z" creationid="yumas" creationdate="20240827T221630Z">
+        <seg>NPC通信</seg>
       </tuv>
     </tu>
     <tu>
@@ -65562,6 +65650,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T005742Z" creationid="yumas" creationdate="20240812T005742Z">
         <seg>私たちの人生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ourania Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221803Z" creationid="yumas" creationdate="20240827T221803Z">
+        <seg>ウラニア・ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -90996,6 +91092,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T215946Z" creationid="yumas" creationdate="20240827T215946Z">
         <seg>ワープ阻止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tele Group Moonclan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221719Z" creationid="yumas" creationdate="20240827T221719Z">
+        <seg>ムーンクラン・集団ワープ</seg>
       </tuv>
     </tu>
     <tu>
