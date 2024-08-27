@@ -6344,24 +6344,24 @@
       <tuv lang="en-GB">
         <seg>Axeman's folly(m2)</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240827T071651Z" creationid="2008l" creationdate="20240827T071651Z">
-        <seg>斧使いのフォリー（2）</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071756Z" creationid="2008l" creationdate="20240827T071651Z">
+        <seg>熟した斧使いのフォリー（2）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Axeman's folly(m3)</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240827T071652Z" creationid="2008l" creationdate="20240827T071652Z">
-        <seg>斧使いのフォリー（3）</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071757Z" creationid="2008l" creationdate="20240827T071652Z">
+        <seg>熟した斧使いのフォリー（3）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Axeman's folly(m4)</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240827T071652Z" creationid="2008l" creationdate="20240827T071652Z">
-        <seg>斧使いのフォリー（4）</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071758Z" creationid="2008l" creationdate="20240827T071652Z">
+        <seg>熟した斧使いのフォリー（4）</seg>
       </tuv>
     </tu>
     <tu>
@@ -18854,6 +18854,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chef's delight(m2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071703Z" creationid="2008l" creationdate="20240827T071703Z">
+        <seg>熟したシェフの歓喜（2）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chef's delight(m3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071706Z" creationid="2008l" creationdate="20240827T071701Z">
+        <seg>熟したシェフの歓喜（3）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chef's delight(m4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071707Z" creationid="2008l" creationdate="20240827T071707Z">
+        <seg>熟したシェフの歓喜（4）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Chef's hat</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T065209Z" creationid="2008l" creationdate="20240809T065209Z">
@@ -19442,6 +19466,38 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240827T071447Z" creationid="2008l" creationdate="20240827T071447Z">
         <seg>サイダー（4）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cider(m1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071734Z" creationid="2008l" creationdate="20240827T071734Z">
+        <seg>熟したサイダー（1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cider(m2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071735Z" creationid="2008l" creationdate="20240827T071735Z">
+        <seg>熟したサイダー（2）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cider(m3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071736Z" creationid="2008l" creationdate="20240827T071736Z">
+        <seg>熟したサイダー（3）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cider(m4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071737Z" creationid="2008l" creationdate="20240827T071737Z">
+        <seg>熟したサイダー（4）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20506,6 +20562,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T070435Z" creationid="2008l" creationdate="20240809T070430Z">
         <seg>カクテルのシェーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Coconut milk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071855Z" creationid="2008l" creationdate="20240827T071855Z">
+        <seg>ココナッツミルク</seg>
       </tuv>
     </tu>
     <tu>
@@ -48202,6 +48266,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T120618Z" creationid="yumas" creationdate="20240811T120618Z">
         <seg>黄麻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jute fibre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071827Z" creationid="2008l" creationdate="20240827T071827Z">
+        <seg>黄麻の繊維</seg>
       </tuv>
     </tu>
     <tu>
@@ -81766,6 +81838,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Slayer's respite(m1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071713Z" creationid="2008l" creationdate="20240827T071713Z">
+        <seg>熟した討伐者の小休止（1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Slayer's respite(m2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071723Z" creationid="2008l" creationdate="20240827T071715Z">
+        <seg>熟した討伐者の小休止（2）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Slayer's respite(m3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071725Z" creationid="2008l" creationdate="20240827T071716Z">
+        <seg>熟した討伐者の小休止（3）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Slayer's respite(m4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071728Z" creationid="2008l" creationdate="20240827T071719Z">
+        <seg>熟した討伐者の小休止（4）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Slayer's staff</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T080131Z" creationid="2008l" creationdate="20240822T080131Z">
@@ -98528,6 +98632,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Weapon poison(+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071915Z" creationid="2008l" creationdate="20240827T071915Z">
+        <seg>武器用毒＋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weapon poison(++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071924Z" creationid="2008l" creationdate="20240827T071924Z">
+        <seg>武器用毒＋＋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weapon poison+ (unf)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071913Z" creationid="2008l" creationdate="20240827T071913Z">
+        <seg>武器用毒＋（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Weapon poison++ (unf)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071921Z" creationid="2008l" creationdate="20240827T071921Z">
+        <seg>武器用毒＋＋（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Weapon rack</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T022940Z" creationid="yumas" creationdate="20240812T022940Z">
@@ -99500,6 +99636,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240825T071855Z" creationid="2008l" creationdate="20240825T071855Z">
         <seg>柳の棍棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Willow branch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071842Z" creationid="2008l" creationdate="20240827T071842Z">
+        <seg>柳の枝</seg>
       </tuv>
     </tu>
     <tu>
