@@ -9184,8 +9184,8 @@
       <tuv lang="en-GB">
         <seg>Bind</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240821T134808Z" creationid="yumas" creationdate="20240821T134808Z">
-        <seg>魔力封入</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T214700Z" creationid="yumas" creationdate="20240821T134808Z">
+        <seg>バインド</seg>
       </tuv>
     </tu>
     <tu>
@@ -29750,6 +29750,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Earth Strike</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T214610Z" creationid="yumas" creationdate="20240827T214610Z">
+        <seg>土ストライク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Earth Warrior Champion</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T140551Z" creationid="yumas" creationdate="20240807T140551Z">
@@ -47690,6 +47698,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T041406Z" creationid="yumas" creationdate="20240805T041406Z">
         <seg>宝石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jewellery Enchantments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T214601Z" creationid="yumas" creationdate="20240827T214601Z">
+        <seg>宝石に魔法付与</seg>
       </tuv>
     </tu>
     <tu>
@@ -90512,6 +90528,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Telekinetic Grab</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T214622Z" creationid="yumas" creationdate="20240827T214622Z">
+        <seg>掌握</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Telekinetic Guardian</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T020847Z" creationid="yumas" creationdate="20240809T020809Z">
@@ -98552,6 +98576,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Water Strike</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T214522Z" creationid="yumas" creationdate="20240827T214522Z">
+        <seg>水ストライク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Water Tank</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T050355Z" creationid="yumas" creationdate="20240812T050355Z">
@@ -103139,6 +103171,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T043746Z" creationid="yumas" creationdate="20240821T134749Z">
         <seg>組み立てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_actions.xliff</prop>
+      <prop type="id">42056</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Bind</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T214735Z" creationid="yumas" creationdate="20240827T214735Z">
+        <seg>魔力封入</seg>
       </tuv>
     </tu>
     <tu>
