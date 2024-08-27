@@ -4854,6 +4854,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Arceuus Home Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222553Z" creationid="yumas" creationdate="20240827T222553Z">
+        <seg>アルセウス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Arceuus Library</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T111333Z" creationid="yumas" creationdate="20240803T111333Z">
@@ -31774,6 +31782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Energy Transfer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222453Z" creationid="yumas" creationdate="20240827T222453Z">
+        <seg>力の譲渡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Energy ball</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T052902Z" creationid="yumas" creationdate="20240809T052902Z">
@@ -43686,6 +43702,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Heal Group</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222524Z" creationid="yumas" creationdate="20240827T222524Z">
+        <seg>集団回復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Heal Other</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222502Z" creationid="yumas" creationdate="20240827T222502Z">
+        <seg>他者を回復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Healer item machine</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T052731Z" creationid="yumas" creationdate="20240812T052731Z">
@@ -45410,6 +45442,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T051908Z" creationid="yumas" creationdate="20240810T051908Z">
         <seg>氷の灯り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ice Plateau Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222432Z" creationid="yumas" creationdate="20240827T222432Z">
+        <seg>アイス・プラトー・ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -84518,6 +84558,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Spellbook Swap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222535Z" creationid="yumas" creationdate="20240827T222535Z">
+        <seg>魔導書の切替</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sphinx</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T130249Z" creationid="yumas" creationdate="20240806T130249Z">
@@ -91248,6 +91296,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tele Group Ice Plateau</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222440Z" creationid="yumas" creationdate="20240827T222440Z">
+        <seg>アイス・プラトー・集団ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tele Group Khazard</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T222130Z" creationid="yumas" creationdate="20240827T222130Z">
@@ -97484,6 +97540,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T133424Z" creationid="yumas" creationdate="20240731T133424Z">
         <seg>崇拝する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vengeance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222518Z" creationid="yumas" creationdate="20240827T222518Z">
+        <seg>復讐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vengeance Other</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222516Z" creationid="yumas" creationdate="20240827T222516Z">
+        <seg>復讐・他者</seg>
       </tuv>
     </tu>
     <tu>
