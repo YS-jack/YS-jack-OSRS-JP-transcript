@@ -12078,6 +12078,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Boost Potion Share</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222305Z" creationid="yumas" creationdate="20240827T222305Z">
+        <seg>強化薬共有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Boots of lightness</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T135035Z" creationid="2008l" creationdate="20240719T064253Z">
@@ -17194,6 +17202,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T130923Z" creationid="yumas" creationdate="20240813T130923Z">
         <seg>カサビーのポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Catherby Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222350Z" creationid="yumas" creationdate="20240827T222350Z">
+        <seg>カサビー・ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -34774,6 +34790,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fishing Guild Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222313Z" creationid="yumas" creationdate="20240827T222313Z">
+        <seg>釣りギルド・ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fishing Spot</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T101210Z" creationid="yumas" creationdate="20240814T101210Z">
@@ -50038,6 +50062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Khazard Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222123Z" creationid="yumas" creationdate="20240827T222123Z">
+        <seg>カザード・ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Khazard armour</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240719T062301Z" creationid="2008l" creationdate="20240719T062301Z">
@@ -55586,6 +55618,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T115544Z" creationid="yumas" creationdate="20240813T115544Z">
         <seg>魔法のゲート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic Imbue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222224Z" creationid="yumas" creationdate="20240827T222224Z">
+        <seg>魔力を込める</seg>
       </tuv>
     </tu>
     <tu>
@@ -68582,6 +68622,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Plank Make</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222345Z" creationid="yumas" creationdate="20240827T222345Z">
+        <seg>板材加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Plant</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T122709Z" creationid="yumas" creationdate="20240803T122709Z">
@@ -72810,6 +72858,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T041033Z" creationid="yumas" creationdate="20240811T041033Z">
         <seg>くぼみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Recharge Dragonstone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222414Z" creationid="yumas" creationdate="20240827T222414Z">
+        <seg>竜石チャージ</seg>
       </tuv>
     </tu>
     <tu>
@@ -85782,6 +85838,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stat Restore Pot Share</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222219Z" creationid="yumas" creationdate="20240827T222219Z">
+        <seg>ステ回復薬共有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stat Spy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T222001Z" creationid="yumas" creationdate="20240827T222001Z">
@@ -87970,6 +88034,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T043000Z" creationid="yumas" creationdate="20240730T132540Z">
         <seg>殴る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>String Jewellery</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222204Z" creationid="yumas" creationdate="20240827T222204Z">
+        <seg>宝石に紐</seg>
       </tuv>
     </tu>
     <tu>
@@ -91156,6 +91228,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T222025Z" creationid="yumas" creationdate="20240827T222025Z">
         <seg>蛮族基地・集団ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tele Group Catherby</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222402Z" creationid="yumas" creationdate="20240827T222402Z">
+        <seg>カサビー・集団ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tele Group Fishing Guild</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222327Z" creationid="yumas" creationdate="20240827T222327Z">
+        <seg>釣りギルド・集団ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tele Group Khazard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222130Z" creationid="yumas" creationdate="20240827T222130Z">
+        <seg>カザード・集団ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -104452,6 +104548,28 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T220058Z" creationid="yumas" creationdate="20240827T220058Z">
         <seg>チャージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_menu.xliff</prop>
+      <prop type="id">112812</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Dream</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222140Z" creationid="yumas" creationdate="20240827T222140Z">
+        <seg>夢中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_menu.xliff</prop>
+      <prop type="id">112816</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Fertile Soil</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222258Z" creationid="yumas" creationdate="20240827T222258Z">
+        <seg>肥沃化</seg>
       </tuv>
     </tu>
     <tu>
