@@ -10566,6 +10566,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blood Blitz</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221213Z" creationid="yumas" creationdate="20240827T221213Z">
+        <seg>ブラッド・ブリッツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blood Burst</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221028Z" creationid="yumas" creationdate="20240827T221028Z">
+        <seg>ブラッド・バースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blood Cloud</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T115404Z" creationid="yumas" creationdate="20240809T115404Z">
@@ -10608,8 +10624,8 @@
       <tuv lang="en-GB">
         <seg>Blood Rush</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240827T220256Z" creationid="yumas" creationdate="20240827T220256Z">
-        <seg>血ラッシュ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221008Z" creationid="yumas" creationdate="20240827T220256Z">
+        <seg>ブラッド・ラッシュ</seg>
       </tuv>
     </tu>
     <tu>
@@ -24694,6 +24710,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>DareeyakﾂTeleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221051Z" creationid="yumas" creationdate="20240827T221051Z">
+        <seg>ダリーヤク・ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dark Altar</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T133120Z" creationid="yumas" creationdate="20240812T133120Z">
@@ -34176,16 +34200,16 @@
       <tuv lang="en-GB">
         <seg>Fire Blast</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240827T215444Z" creationid="yumas" creationdate="20240827T215444Z">
-        <seg>炎ブラスト</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T220918Z" creationid="yumas" creationdate="20240827T215444Z">
+        <seg>ファイヤー・ブラスト</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Fire Bolt</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240827T215058Z" creationid="yumas" creationdate="20240827T215058Z">
-        <seg>炎ボルト</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T220913Z" creationid="yumas" creationdate="20240827T215058Z">
+        <seg>ファイヤー・ボルト</seg>
       </tuv>
     </tu>
     <tu>
@@ -34200,16 +34224,16 @@
       <tuv lang="en-GB">
         <seg>Fire Strike</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240827T215000Z" creationid="yumas" creationdate="20240827T215000Z">
-        <seg>炎ストライク</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T220916Z" creationid="yumas" creationdate="20240827T215000Z">
+        <seg>ファイヤー・ストライク</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Fire Surge</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240827T220107Z" creationid="yumas" creationdate="20240827T220107Z">
-        <seg>炎サージ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T220920Z" creationid="yumas" creationdate="20240827T220107Z">
+        <seg>ファイヤー・サージ</seg>
       </tuv>
     </tu>
     <tu>
@@ -34232,8 +34256,8 @@
       <tuv lang="en-GB">
         <seg>Fire Wave</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240827T215819Z" creationid="yumas" creationdate="20240827T215819Z">
-        <seg>炎ウェーブ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T220920Z" creationid="yumas" creationdate="20240827T215819Z">
+        <seg>ファイヤー・ウェーブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -45222,6 +45246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ice Burst</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221035Z" creationid="yumas" creationdate="20240827T221035Z">
+        <seg>アイス・バースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ice Column</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T011730Z" creationid="yumas" creationdate="20240812T011730Z">
@@ -45248,8 +45280,8 @@
       <tuv lang="en-GB">
         <seg>Ice Rush</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240827T220250Z" creationid="yumas" creationdate="20240827T220250Z">
-        <seg>氷ラッシュ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221003Z" creationid="yumas" creationdate="20240827T220250Z">
+        <seg>アイス・ラッシュ</seg>
       </tuv>
     </tu>
     <tu>
@@ -49830,6 +49862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>KharyrllﾂTeleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221024Z" creationid="yumas" creationdate="20240827T221024Z">
+        <seg>カリール・ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Khazard Barman</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T073029Z" creationid="yumas" creationdate="20240805T073029Z">
@@ -51666,6 +51706,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T085741Z" creationid="yumas" creationdate="20240809T085741Z">
         <seg>ラセンナ・ラスプチン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>LassarﾂTeleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221140Z" creationid="yumas" creationdate="20240827T221140Z">
+        <seg>ラサー・ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -80088,8 +80136,8 @@
       <tuv lang="en-GB">
         <seg>Shadow Rush</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240827T220150Z" creationid="yumas" creationdate="20240827T220150Z">
-        <seg>影ラッシュ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T220954Z" creationid="yumas" creationdate="20240827T220150Z">
+        <seg>シャドー・ラッシュ</seg>
       </tuv>
     </tu>
     <tu>
@@ -80154,6 +80202,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T220717Z" creationid="yumas" creationdate="20240807T220717Z">
         <seg>謎めいた存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>ShadowﾂBlitz</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221059Z" creationid="yumas" creationdate="20240827T221059Z">
+        <seg>シャドー・ブリッツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>ShadowﾂBurst</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221016Z" creationid="yumas" creationdate="20240827T221016Z">
+        <seg>シャドー・バースト</seg>
       </tuv>
     </tu>
     <tu>
@@ -83238,10 +83302,18 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Smoke Blitz</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221106Z" creationid="yumas" creationdate="20240827T221106Z">
+        <seg>スモーク・ブリッツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Smoke Burst</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240827T220238Z" creationid="yumas" creationdate="20240827T220238Z">
-        <seg>煙バースト</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T220959Z" creationid="yumas" creationdate="20240827T220238Z">
+        <seg>スモーク・バースト</seg>
       </tuv>
     </tu>
     <tu>
@@ -83280,8 +83352,8 @@
       <tuv lang="en-GB">
         <seg>Smoke Rush</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240827T220146Z" creationid="yumas" creationdate="20240827T220146Z">
-        <seg>煙ラッシュ</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T220949Z" creationid="yumas" creationdate="20240827T220146Z">
+        <seg>スモーク・ラッシュ</seg>
       </tuv>
     </tu>
     <tu>
