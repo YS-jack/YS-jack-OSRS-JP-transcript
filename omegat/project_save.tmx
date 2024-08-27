@@ -7558,6 +7558,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Barbarian Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222016Z" creationid="yumas" creationdate="20240827T222016Z">
+        <seg>蛮族基地ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Barbarian Warlord</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T095100Z" creationid="yumas" creationdate="20240809T095100Z">
@@ -23890,6 +23898,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T105753Z" creationid="yumas" creationdate="20240731T105753Z">
         <seg>治す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cure Group</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221838Z" creationid="yumas" creationdate="20240827T221838Z">
+        <seg>集団治癒</seg>
       </tuv>
     </tu>
     <tu>
@@ -45138,6 +45154,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T055850Z" creationid="yumas" creationdate="20240824T055850Z">
         <seg>狩人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hunter Kit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221809Z" creationid="yumas" creationdate="20240827T221809Z">
+        <seg>狩り道具</seg>
       </tuv>
     </tu>
     <tu>
@@ -84670,6 +84694,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Spin Flax</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222034Z" creationid="yumas" creationdate="20240827T222034Z">
+        <seg>亜麻加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Spin-globe</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T110923Z" creationid="yumas" creationdate="20240803T110923Z">
@@ -85746,6 +85778,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T210658Z" creationid="yumas" creationdate="20240730T210658Z">
         <seg>ウェーブ開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stat Spy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222001Z" creationid="yumas" creationdate="20240827T222001Z">
+        <seg>ステータス覗き</seg>
       </tuv>
     </tu>
     <tu>
@@ -88654,6 +88694,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Superglass Make</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222040Z" creationid="yumas" creationdate="20240827T222040Z">
+        <seg>超ガラス加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Superheat Item</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T215211Z" creationid="yumas" creationdate="20240827T215211Z">
@@ -90032,6 +90080,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tan Leather</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222104Z" creationid="yumas" creationdate="20240827T222104Z">
+        <seg>皮を革に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tan cavalier</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240818T181344Z" creationid="2008l" creationdate="20240818T181239Z">
@@ -91096,10 +91152,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tele Group Barbarian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222025Z" creationid="yumas" creationdate="20240827T222025Z">
+        <seg>蛮族基地・集団ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tele Group Moonclan</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T221719Z" creationid="yumas" creationdate="20240827T221719Z">
         <seg>ムーンクラン・集団ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tele Group Waterbirth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221833Z" creationid="yumas" creationdate="20240827T221833Z">
+        <seg>ウオーターバース・集団ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -99452,6 +99524,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T074927Z" creationid="yumas" creationdate="20240813T074927Z">
         <seg>ウオーターバース島のポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Waterbirth Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T221823Z" creationid="yumas" creationdate="20240827T221823Z">
+        <seg>ウオーターバース・ワープ</seg>
       </tuv>
     </tu>
     <tu>
