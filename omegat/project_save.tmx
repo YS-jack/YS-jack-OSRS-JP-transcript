@@ -5592,8 +5592,8 @@
       <tuv lang="en-GB">
         <seg>Asgarnian ale(m)</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240827T070824Z" creationid="2008l" creationdate="20240827T070824Z">
-        <seg>アスガルニアン・エール（熟成）</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071001Z" creationid="2008l" creationdate="20240827T070824Z">
+        <seg>熟したアスガルニアン・エール</seg>
       </tuv>
     </tu>
     <tu>
@@ -6210,6 +6210,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T010841Z" creationid="yumas" creationdate="20240812T010841Z">
         <seg>斧使いのフォリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Axeman's folly</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071036Z" creationid="2008l" creationdate="20240827T071036Z">
+        <seg>斧使いのフォリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Axeman's folly(m)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071044Z" creationid="2008l" creationdate="20240827T071044Z">
+        <seg>熟した斧使いのフォリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -18638,6 +18654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chef's delight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071046Z" creationid="2008l" creationdate="20240827T071046Z">
+        <seg>シェフの歓喜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Chef's hat</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T065209Z" creationid="2008l" creationdate="20240809T065209Z">
@@ -27702,6 +27726,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dragon bitter(m)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071016Z" creationid="2008l" creationdate="20240827T071016Z">
+        <seg>熟したドラゴン・ビター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dragon bonemeal</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T082306Z" creationid="2008l" creationdate="20240822T082306Z">
@@ -29018,6 +29050,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T064620Z" creationid="2008l" creationdate="20240809T064620Z">
         <seg>ドワーフ・スタウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dwarven stout(m)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071026Z" creationid="2008l" creationdate="20240827T071026Z">
+        <seg>熟したドワーフ・スタウト</seg>
       </tuv>
     </tu>
     <tu>
@@ -39898,6 +39938,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T064515Z" creationid="2008l" creationdate="20240809T064515Z">
         <seg>グリーンマンズ・エール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Greenman's ale(m)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071008Z" creationid="2008l" creationdate="20240827T071008Z">
+        <seg>熟したグリーンマンズ・エール</seg>
       </tuv>
     </tu>
     <tu>
@@ -56158,6 +56206,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mature wmb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070910Z" creationid="2008l" creationdate="20240827T070910Z">
+        <seg>熟した魔法使いの精神爆弾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mausoleum</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T224314Z" creationid="yumas" creationdate="20240811T224314Z">
@@ -58490,6 +58546,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240819T064037Z" creationid="2008l" creationdate="20240819T064037Z">
         <seg>月光ミード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Moonlight mead(m)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T071034Z" creationid="2008l" creationdate="20240827T071034Z">
+        <seg>熟した月光ミード</seg>
       </tuv>
     </tu>
     <tu>
