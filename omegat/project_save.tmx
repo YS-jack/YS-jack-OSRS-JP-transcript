@@ -1382,6 +1382,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adamant dagger(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070451Z" creationid="2008l" creationdate="20240827T070451Z">
+        <seg>アダマントの短剣（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant dagger(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070502Z" creationid="2008l" creationdate="20240827T070502Z">
+        <seg>アダマントの短剣（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant dart</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240729T150116Z" creationid="2008l" creationdate="20240728T060128Z">
@@ -1550,6 +1566,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adamant knife(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070439Z" creationid="2008l" creationdate="20240827T070439Z">
+        <seg>アダマントのナイフ（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant knife(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070446Z" creationid="2008l" creationdate="20240827T070446Z">
+        <seg>アダマントのナイフ（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant longsword</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064506Z" creationid="2008l" creationdate="20240731T064506Z">
@@ -1698,6 +1730,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064023Z" creationid="2008l" creationdate="20240731T064023Z">
         <seg>アダマントの槍（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant spear(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070513Z" creationid="2008l" creationdate="20240827T070513Z">
+        <seg>アダマントの槍（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant spear(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070522Z" creationid="2008l" creationdate="20240827T070522Z">
+        <seg>アダマントの槍（毒＋＋）</seg>
       </tuv>
     </tu>
     <tu>
@@ -5542,6 +5590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Asgarnian ale(m)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070824Z" creationid="2008l" creationdate="20240827T070824Z">
+        <seg>アスガルニアン・エール（熟成）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Asgarnian seed</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240826T073348Z" creationid="2008l" creationdate="20240826T073253Z">
@@ -9302,6 +9358,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black dagger(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070457Z" creationid="2008l" creationdate="20240827T070457Z">
+        <seg>黒鉄の短剣（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black dagger(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070506Z" creationid="2008l" creationdate="20240827T070506Z">
+        <seg>黒鉄の短剣（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black dart</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240819T070314Z" creationid="2008l" creationdate="20240819T070314Z">
@@ -9542,6 +9614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black knife(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070445Z" creationid="2008l" creationdate="20240827T070445Z">
+        <seg>黒鉄のナイフ（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black knight</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240825T015902Z" creationid="yumas" creationdate="20240805T091836Z">
@@ -9730,6 +9810,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240825T071318Z" creationid="2008l" creationdate="20240825T071318Z">
         <seg>黒鉄の槍（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black spear(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070545Z" creationid="2008l" creationdate="20240827T070545Z">
+        <seg>黒鉄の槍（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black spear(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070546Z" creationid="2008l" creationdate="20240827T070546Z">
+        <seg>黒鉄の槍（毒＋＋）</seg>
       </tuv>
     </tu>
     <tu>
@@ -13398,6 +13494,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bronze dagger(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070448Z" creationid="2008l" creationdate="20240827T070448Z">
+        <seg>銅の短剣（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze dagger(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070500Z" creationid="2008l" creationdate="20240827T070500Z">
+        <seg>銅の短剣（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bronze dart</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T060034Z" creationid="2008l" creationdate="20240728T060034Z">
@@ -13590,6 +13702,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bronze knife(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070441Z" creationid="2008l" creationdate="20240827T070441Z">
+        <seg>銅のナイフ（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bronze longsword</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064355Z" creationid="2008l" creationdate="20240731T064355Z">
@@ -13690,6 +13810,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064009Z" creationid="2008l" creationdate="20240731T064009Z">
         <seg>銅の槍（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze spear(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070508Z" creationid="2008l" creationdate="20240827T070508Z">
+        <seg>銅の槍（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze spear(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070518Z" creationid="2008l" creationdate="20240827T070518Z">
+        <seg>銅の槍（毒＋＋）</seg>
       </tuv>
     </tu>
     <tu>
@@ -27614,6 +27750,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dragon dagger(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070456Z" creationid="2008l" creationdate="20240827T070456Z">
+        <seg>竜鉄の点検（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragon dagger(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070505Z" creationid="2008l" creationdate="20240827T070505Z">
+        <seg>竜鉄の点検（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dragon display</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T021509Z" creationid="yumas" creationdate="20240809T021509Z">
@@ -27746,6 +27898,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064032Z" creationid="2008l" creationdate="20240731T064032Z">
         <seg>竜鉄の槍（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragon spear(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070517Z" creationid="2008l" creationdate="20240827T070517Z">
+        <seg>竜鉄の槍（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragon spear(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070524Z" creationid="2008l" creationdate="20240827T070524Z">
+        <seg>竜鉄の槍（毒＋＋）</seg>
       </tuv>
     </tu>
     <tu>
@@ -45638,6 +45806,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Iron dagger(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070447Z" creationid="2008l" creationdate="20240827T070447Z">
+        <seg>鉄の短剣（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iron dagger(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070459Z" creationid="2008l" creationdate="20240827T070459Z">
+        <seg>鉄の短剣（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Iron dart</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T060112Z" creationid="2008l" creationdate="20240728T060112Z">
@@ -45786,6 +45970,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240827T070429Z" creationid="2008l" creationdate="20240827T070429Z">
         <seg>鉄のナイフ（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iron knife(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070442Z" creationid="2008l" creationdate="20240827T070442Z">
+        <seg>鉄のナイフ（毒＋＋）</seg>
       </tuv>
     </tu>
     <tu>
@@ -45954,6 +46146,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064013Z" creationid="2008l" creationdate="20240731T064013Z">
         <seg>鉄の槍（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iron spear(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070509Z" creationid="2008l" creationdate="20240827T070509Z">
+        <seg>鉄の槍（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Iron spear(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070519Z" creationid="2008l" creationdate="20240827T070519Z">
+        <seg>鉄の槍（毒＋＋）</seg>
       </tuv>
     </tu>
     <tu>
@@ -57398,6 +57606,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mithril dagger(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070450Z" creationid="2008l" creationdate="20240827T070450Z">
+        <seg>ミスリルの短剣（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mithril dagger(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070501Z" creationid="2008l" creationdate="20240827T070501Z">
+        <seg>ミスリルの短剣（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mithril dart</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T060124Z" creationid="2008l" creationdate="20240728T060124Z">
@@ -57550,6 +57774,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mithril knife(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070444Z" creationid="2008l" creationdate="20240827T070444Z">
+        <seg>ミスリルのナイフ（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mithril longsword</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064503Z" creationid="2008l" creationdate="20240731T064503Z">
@@ -57682,6 +57914,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064018Z" creationid="2008l" creationdate="20240731T064018Z">
         <seg>ミスリルの槍（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mithril spear(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070511Z" creationid="2008l" creationdate="20240827T070511Z">
+        <seg>ミスリルの槍（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mithril spear(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070521Z" creationid="2008l" creationdate="20240827T070521Z">
+        <seg>ミスリルの槍（毒＋＋）</seg>
       </tuv>
     </tu>
     <tu>
@@ -67166,6 +67414,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Poison dagger(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070458Z" creationid="2008l" creationdate="20240827T070458Z">
+        <seg>毒の短剣（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Poison dagger(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070507Z" creationid="2008l" creationdate="20240827T070507Z">
+        <seg>毒の短剣（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Poison ivy seed</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240826T072614Z" creationid="2008l" creationdate="20240826T072614Z">
@@ -74606,6 +74870,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rotten potato</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070543Z" creationid="2008l" creationdate="20240827T070543Z">
+        <seg>腐ったジャガイモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rotten sapling</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T081748Z" creationid="yumas" creationdate="20240813T081748Z">
@@ -75222,6 +75494,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rune dagger(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070451Z" creationid="2008l" creationdate="20240827T070451Z">
+        <seg>ルーンの短剣（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rune dagger(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070503Z" creationid="2008l" creationdate="20240827T070503Z">
+        <seg>ルーンの短剣（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rune dart</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T074708Z" creationid="2008l" creationdate="20240728T060135Z">
@@ -75406,6 +75694,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rune knife(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070440Z" creationid="2008l" creationdate="20240827T070440Z">
+        <seg>ルーンのナイフ（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rune knife(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070446Z" creationid="2008l" creationdate="20240827T070446Z">
+        <seg>ルーンのナイフ（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rune longsword</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064510Z" creationid="2008l" creationdate="20240731T064510Z">
@@ -75562,6 +75866,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064026Z" creationid="2008l" creationdate="20240731T064026Z">
         <seg>ルーンの槍（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rune spear(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070515Z" creationid="2008l" creationdate="20240827T070515Z">
+        <seg>ルーンの槍（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rune spear(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070524Z" creationid="2008l" creationdate="20240827T070524Z">
+        <seg>ルーンの槍（毒＋＋）</seg>
       </tuv>
     </tu>
     <tu>
@@ -84246,6 +84566,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Steel dagger(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070449Z" creationid="2008l" creationdate="20240827T070449Z">
+        <seg>鋼鉄の短剣（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel dagger(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070501Z" creationid="2008l" creationdate="20240827T070501Z">
+        <seg>鋼鉄の短剣（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Steel dart</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240728T060117Z" creationid="2008l" creationdate="20240728T060117Z">
@@ -84446,6 +84782,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Steel knife(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070443Z" creationid="2008l" creationdate="20240827T070443Z">
+        <seg>鋼鉄のナイフ（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Steel longsword</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064457Z" creationid="2008l" creationdate="20240731T064457Z">
@@ -84554,6 +84898,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T064015Z" creationid="2008l" creationdate="20240731T064015Z">
         <seg>鋼鉄の槍（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel spear(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070510Z" creationid="2008l" creationdate="20240827T070510Z">
+        <seg>鋼鉄の槍（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel spear(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T070519Z" creationid="2008l" creationdate="20240827T070519Z">
+        <seg>鋼鉄の槍（毒＋＋）</seg>
       </tuv>
     </tu>
     <tu>
