@@ -59686,6 +59686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mystic jewel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T064911Z" creationid="2008l" creationdate="20240827T064911Z">
+        <seg>秘伝の宝飾品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mystic lava staff</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240819T070055Z" creationid="2008l" creationdate="20240819T070055Z">
@@ -84238,6 +84246,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stethoscope</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T064842Z" creationid="2008l" creationdate="20240827T064842Z">
+        <seg>聴診器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Steve</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T040453Z" creationid="yumas" creationdate="20240809T040448Z">
@@ -101352,6 +101368,17 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240826T074458Z" creationid="2008l" creationdate="20240826T074458Z">
         <seg>レーキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_item.xliff</prop>
+      <prop type="id">2667</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Gear</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T064934Z" creationid="2008l" creationdate="20240827T064934Z">
+        <seg>歯車</seg>
       </tuv>
     </tu>
     <tu>
