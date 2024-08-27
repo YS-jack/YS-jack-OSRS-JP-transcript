@@ -17766,6 +17766,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cemetery Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224041Z" creationid="yumas" creationdate="20240827T224041Z">
+        <seg>セメトリー・ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cenotaph</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T103601Z" creationid="yumas" creationdate="20240814T103601Z">
@@ -26206,6 +26214,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Degrime</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224036Z" creationid="yumas" creationdate="20240827T224036Z">
+        <seg>汚れ落とし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Del-Monty</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T112240Z" creationid="yumas" creationdate="20240805T112240Z">
@@ -32786,6 +32802,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T112911Z" creationid="yumas" creationdate="20240812T112911Z">
         <seg>試験管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Expert Reanimation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224056Z" creationid="yumas" creationdate="20240827T224056Z">
+        <seg>専門蘇生術</seg>
       </tuv>
     </tu>
     <tu>
@@ -43374,6 +43398,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Harmony Island Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224014Z" creationid="yumas" creationdate="20240827T224014Z">
+        <seg>ハーモニー島・ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Harness</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T023037Z" creationid="yumas" creationdate="20240815T023037Z">
@@ -46472,8 +46504,8 @@
       <tuv lang="en-GB">
         <seg>Inferior Demonbane</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240827T223615Z" creationid="yumas" creationdate="20240827T223615Z">
-        <seg>劣性・悪魔殺し</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223948Z" creationid="yumas" creationdate="20240827T223615Z">
+        <seg>劣勢・悪魔殺し</seg>
       </tuv>
     </tu>
     <tu>
@@ -53338,6 +53370,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T195414Z" creationid="yumas" creationdate="20240807T195414Z">
         <seg>レオン・ドクール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lesser Corruption</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224007Z" creationid="yumas" creationdate="20240827T224007Z">
+        <seg>下位の腐敗</seg>
       </tuv>
     </tu>
     <tu>
@@ -74458,6 +74498,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T135926Z" creationid="yumas" creationdate="20240827T135926Z">
         <seg>蘇生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Resurrect Crops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224218Z" creationid="yumas" creationdate="20240827T224218Z">
+        <seg>作物復活</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Resurrect Greater Ghost</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224144Z" creationid="yumas" creationdate="20240827T224144Z">
+        <seg>上級ゴースト復活術式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Resurrect Greater Skeleton</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224156Z" creationid="yumas" creationdate="20240827T224156Z">
+        <seg>上級スケルトン復活術式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Resurrect Greater Zombie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224203Z" creationid="yumas" creationdate="20240827T224203Z">
+        <seg>上級ゾンビ復活術式</seg>
       </tuv>
     </tu>
     <tu>
@@ -98496,6 +98568,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Vile Vigour</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224028Z" creationid="yumas" creationdate="20240827T224028Z">
+        <seg>卑劣な活力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Village fence</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T124633Z" creationid="yumas" creationdate="20240811T124633Z">
@@ -99284,6 +99364,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T122318Z" creationid="yumas" creationdate="20240813T122318Z">
         <seg>作戦テーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ward of Arceuus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T224120Z" creationid="yumas" creationdate="20240827T224120Z">
+        <seg>アルセウス・ワード</seg>
       </tuv>
     </tu>
     <tu>
