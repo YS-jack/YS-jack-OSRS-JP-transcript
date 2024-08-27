@@ -4230,6 +4230,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Animation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T133428Z" creationid="yumas" creationdate="20240827T133428Z">
+        <seg>動かす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Anita</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T044239Z" creationid="yumas" creationdate="20240809T044239Z">
@@ -24832,8 +24840,8 @@
       <tuv lang="en-GB">
         <seg>Deactivate</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240731T124953Z" creationid="yumas" creationdate="20240731T124953Z">
-        <seg>無効化する</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T133432Z" creationid="yumas" creationdate="20240731T124953Z">
+        <seg>無効化</seg>
       </tuv>
     </tu>
     <tu>
@@ -95204,6 +95212,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T130534Z" creationid="yumas" creationdate="20240730T130534Z">
         <seg>アンガエル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Unhide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T133240Z" creationid="yumas" creationdate="20240827T133240Z">
+        <seg>表示</seg>
       </tuv>
     </tu>
     <tu>
