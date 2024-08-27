@@ -4856,8 +4856,8 @@
       <tuv lang="en-GB">
         <seg>Arceuus Home Teleport</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240827T222553Z" creationid="yumas" creationdate="20240827T222553Z">
-        <seg>アルセウス</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222844Z" creationid="yumas" creationdate="20240827T222553Z">
+        <seg>アルセウス帰還ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -4874,6 +4874,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T124941Z" creationid="yumas" creationdate="20240814T124941Z">
         <seg>アルセウス図書館のポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Arceuus Library Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222850Z" creationid="yumas" creationdate="20240827T222850Z">
+        <seg>アルセウス図書館ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -8070,6 +8078,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Basic Reanimation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222937Z" creationid="yumas" creationdate="20240827T222937Z">
+        <seg>基本蘇生術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Basilisk</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043009Z" creationid="yumas" creationdate="20240805T043009Z">
@@ -8282,6 +8298,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T104139Z" creationid="yumas" creationdate="20240814T104139Z">
         <seg>戦線のポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Battlefront Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223006Z" creationid="yumas" creationdate="20240827T223006Z">
+        <seg>戦線ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -28914,6 +28938,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T104131Z" creationid="yumas" creationdate="20240814T104131Z">
         <seg>ドレイナーの邸宅のポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Draynor Manor Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T222949Z" creationid="yumas" creationdate="20240827T222949Z">
+        <seg>ドレイナー邸宅ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -58418,6 +58450,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T104145Z" creationid="yumas" creationdate="20240814T104145Z">
         <seg>心の祭壇のポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mind Altar Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223010Z" creationid="yumas" creationdate="20240827T223010Z">
+        <seg>心の祭壇ワープ</seg>
       </tuv>
     </tu>
     <tu>
