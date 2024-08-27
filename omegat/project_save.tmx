@@ -38190,6 +38190,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ghostly Grasp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223033Z" creationid="yumas" creationdate="20240827T223033Z">
+        <seg>霊的掌握</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ghostspeak amulet</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T073216Z" creationid="2008l" creationdate="20240726T062123Z">
@@ -74302,6 +74310,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Respawn Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223028Z" creationid="yumas" creationdate="20240827T223028Z">
+        <seg>復活地点ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Resper mushrooms</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T020411Z" creationid="yumas" creationdate="20240815T020411Z">
@@ -74410,6 +74426,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T135926Z" creationid="yumas" creationdate="20240827T135926Z">
         <seg>蘇生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Resurrect Lesser Ghost</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223054Z" creationid="yumas" creationdate="20240827T223054Z">
+        <seg>下級ゴースト復活術式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Resurrect Lesser Skeleton</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223143Z" creationid="yumas" creationdate="20240827T223143Z">
+        <seg>下級スケルトン復活術式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Resurrect Lesser Zombie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223152Z" creationid="yumas" creationdate="20240827T223152Z">
+        <seg>下級ゾンビ復活術式</seg>
       </tuv>
     </tu>
     <tu>
@@ -78170,6 +78210,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T104153Z" creationid="yumas" creationdate="20240814T104153Z">
         <seg>サルヴ墓地のポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Salve Graveyard Teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240827T223320Z" creationid="yumas" creationdate="20240827T223320Z">
+        <seg>サルヴ基地ワープ</seg>
       </tuv>
     </tu>
     <tu>
