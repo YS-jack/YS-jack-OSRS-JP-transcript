@@ -4414,10 +4414,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Apple sapling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063553Z" creationid="2008l" creationdate="20240827T063553Z">
+        <seg>リンゴの木の若木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Apple seedling</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240827T063314Z" creationid="2008l" creationdate="20240827T063303Z">
-        <seg>リンゴ木の苗</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063404Z" creationid="2008l" creationdate="20240827T063303Z">
+        <seg>リンゴの木の苗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Apple seedling (w)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063458Z" creationid="2008l" creationdate="20240827T063458Z">
+        <seg>リンゴの木の苗（水）</seg>
       </tuv>
     </tu>
     <tu>
@@ -6606,10 +6622,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Banana sapling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063556Z" creationid="2008l" creationdate="20240827T063556Z">
+        <seg>バナナの木の若木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Banana seedling</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240827T063322Z" creationid="2008l" creationdate="20240827T063307Z">
-        <seg>バナナ木の苗</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063407Z" creationid="2008l" creationdate="20240827T063307Z">
+        <seg>バナナの木の苗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Banana seedling (w)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063515Z" creationid="2008l" creationdate="20240827T063515Z">
+        <seg>バナナの木の苗（水）</seg>
       </tuv>
     </tu>
     <tu>
@@ -15046,6 +15078,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Calquat sapling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063629Z" creationid="2008l" creationdate="20240827T063629Z">
+        <seg>カルカンの木の若木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Calquat seedling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063440Z" creationid="2008l" creationdate="20240827T063440Z">
+        <seg>カルカンの木の苗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Calquat seedling (w)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063539Z" creationid="2008l" creationdate="20240827T063539Z">
+        <seg>カルカンの木の苗（水）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Calquat tree</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T114242Z" creationid="yumas" creationdate="20240811T114242Z">
@@ -22910,10 +22966,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Curry sapling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063606Z" creationid="2008l" creationdate="20240827T063606Z">
+        <seg>カレーの木の若木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Curry seedling</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240827T063349Z" creationid="2008l" creationdate="20240827T063349Z">
-        <seg>カレー木の苗</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063411Z" creationid="2008l" creationdate="20240827T063349Z">
+        <seg>カレーの木の苗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Curry seedling (w)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063523Z" creationid="2008l" creationdate="20240827T063523Z">
+        <seg>カレーの木の苗（水）</seg>
       </tuv>
     </tu>
     <tu>
@@ -62014,6 +62086,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Old man's message</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063702Z" creationid="2008l" creationdate="20240827T063702Z">
+        <seg>おじいさんのメッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Old passageway</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T111315Z" creationid="yumas" creationdate="20240813T111315Z">
@@ -62822,10 +62902,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Orange sapling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063601Z" creationid="2008l" creationdate="20240827T063601Z">
+        <seg>オレンジの木の若木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Orange seedling</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240827T063324Z" creationid="2008l" creationdate="20240827T063324Z">
-        <seg>オレンジ木の苗</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063409Z" creationid="2008l" creationdate="20240827T063324Z">
+        <seg>オレンジの木の苗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Orange seedling (w)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063518Z" creationid="2008l" creationdate="20240827T063518Z">
+        <seg>オレンジの木の苗（水）</seg>
       </tuv>
     </tu>
     <tu>
@@ -63750,6 +63846,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Palm sapling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063622Z" creationid="2008l" creationdate="20240827T063622Z">
+        <seg>ヤシの木の若木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Palm seedling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063435Z" creationid="2008l" creationdate="20240827T063435Z">
+        <seg>ヤシの木の苗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Palm seedling (w)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063535Z" creationid="2008l" creationdate="20240827T063535Z">
+        <seg>ヤシの木の苗（水）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Palm tree</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T031444Z" creationid="yumas" creationdate="20240811T031444Z">
@@ -63826,6 +63946,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T065651Z" creationid="2008l" creationdate="20240725T071619Z">
         <seg>パントレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Papaya sapling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063614Z" creationid="2008l" creationdate="20240827T063614Z">
+        <seg>パパイヤの木の若木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Papaya seedling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063430Z" creationid="2008l" creationdate="20240827T063430Z">
+        <seg>パパイヤの木の苗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Papaya seedling (w)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063532Z" creationid="2008l" creationdate="20240827T063532Z">
+        <seg>パパイヤの木の苗（水）</seg>
       </tuv>
     </tu>
     <tu>
@@ -65886,10 +66030,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pineapple sapling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063610Z" creationid="2008l" creationdate="20240827T063610Z">
+        <seg>パイナップルの若木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pineapple seed</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240826T072849Z" creationid="2008l" creationdate="20240826T072849Z">
         <seg>パイナップルの種</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pineapple seedling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063420Z" creationid="2008l" creationdate="20240827T063420Z">
+        <seg>パイナップルの苗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pineapple seedling (w)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240827T063528Z" creationid="2008l" creationdate="20240827T063528Z">
+        <seg>パイナップルの苗（水）</seg>
       </tuv>
     </tu>
     <tu>
