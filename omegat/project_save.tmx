@@ -46568,8 +46568,8 @@
       <tuv lang="en-GB">
         <seg>Impale</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240824T051810Z" creationid="yumas" creationdate="20240824T051810Z">
-        <seg>刺し貫く</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T111327Z" creationid="yumas" creationdate="20240824T051810Z">
+        <seg>貫く</seg>
       </tuv>
     </tu>
     <tu>
@@ -70582,6 +70582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pound</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T111250Z" creationid="yumas" creationdate="20240828T111250Z">
+        <seg>打つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pour</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T112306Z" creationid="yumas" creationdate="20240803T112306Z">
@@ -71642,6 +71650,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T030346Z" creationid="yumas" creationdate="20240815T030346Z">
         <seg>脈打つの神経の終端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pummel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T111304Z" creationid="yumas" creationdate="20240828T111304Z">
+        <seg>殴打</seg>
       </tuv>
     </tu>
     <tu>
@@ -84472,7 +84488,7 @@
       <tuv lang="en-GB">
         <seg>Smash</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240824T042753Z" creationid="yumas" creationdate="20240730T113445Z">
+      <tuv lang="ja" changeid="yumas" changedate="20240828T111357Z" creationid="yumas" creationdate="20240730T113445Z">
         <seg>砕く</seg>
       </tuv>
     </tu>
@@ -86586,6 +86602,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T135226Z" creationid="yumas" creationdate="20240805T135226Z">
         <seg>スララチャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stab</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T111212Z" creationid="yumas" creationdate="20240828T111212Z">
+        <seg>刺す</seg>
       </tuv>
     </tu>
     <tu>
@@ -105978,6 +106002,50 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T222258Z" creationid="yumas" creationdate="20240827T222258Z">
         <seg>肥沃化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_menu.xliff</prop>
+      <prop type="id">112879</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Chop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T111144Z" creationid="yumas" creationdate="20240828T111144Z">
+        <seg>チョップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_menu.xliff</prop>
+      <prop type="id">112880</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Slash</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T111207Z" creationid="yumas" creationdate="20240828T111207Z">
+        <seg>スラッシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_menu.xliff</prop>
+      <prop type="id">112885</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Spike</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T111317Z" creationid="yumas" creationdate="20240828T111317Z">
+        <seg>突き刺す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_menu.xliff</prop>
+      <prop type="id">112887</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Smash</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T111523Z" creationid="yumas" creationdate="20240828T111523Z">
+        <seg>強打</seg>
       </tuv>
     </tu>
     <tu>
