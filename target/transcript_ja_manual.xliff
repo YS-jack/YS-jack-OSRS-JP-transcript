@@ -1411,7 +1411,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109439">
         <xliff:source>Burgh de Rott</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">バーグ・ドゥ・ロット</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1843,7 +1843,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109493">
         <xliff:source>Death Plateau</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">死の高原</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -3851,7 +3851,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109749">
         <xliff:source>Animal Magnetism</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">動物の磁性</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -3867,7 +3867,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109751">
         <xliff:source>Another Slice of H.A.M.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">もう１スライスのH.A.M</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -3883,7 +3883,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109753">
         <xliff:source>Ascent of Arceuus, The</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アルセウスの昇天</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -3891,7 +3891,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109754">
         <xliff:source>The Ascent of Arceuus</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アルセウスの昇天</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -3907,7 +3907,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109756">
         <xliff:source>Alfred Grimhand's Barcrawl</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アルフレッド・グイムハンドのバー巡り</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -3923,7 +3923,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109758">
         <xliff:source>Bear Your Soul</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魂をさらけ出す</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -3939,7 +3939,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109760">
         <xliff:source>Below Ice Mountain</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">氷山の地下</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -3955,7 +3955,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109762">
         <xliff:source>Between a Rock...</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">岩の間に・・・</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -3971,7 +3971,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109764">
         <xliff:source>Big Chompy Bird Hunting</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">大チョンピー鳥狩り</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -3987,7 +3987,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109766">
         <xliff:source>Biohazard</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">バイオハザード</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4003,7 +4003,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109768">
         <xliff:source>Black Knights' Fortress</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">黒騎士の要塞</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4019,7 +4019,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109770">
         <xliff:source>Bone Voyage</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">骨の航海</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4035,7 +4035,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109772">
         <xliff:source>Cabin Fever</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">船室病</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4051,7 +4051,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109774">
         <xliff:source>Client of Kourend</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クーレンドの顧客</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4067,7 +4067,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109776">
         <xliff:source>Clock Tower</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">時計塔</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4083,7 +4083,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109778">
         <xliff:source>Cold War</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">冷戦</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4099,7 +4099,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109780">
         <xliff:source>Contact!</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">接触！</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4115,7 +4115,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109782">
         <xliff:source>Cook's Assistant</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">料理人の助手</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4131,7 +4131,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109784">
         <xliff:source>Corsair Curse, The</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">私掠戦の呪い</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4139,7 +4139,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109785">
         <xliff:source>The Corsair Curse</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">私掠戦の呪い</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4155,7 +4155,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109787">
         <xliff:source>Creature of Fenkenstrain</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フェンケンストレインの生物</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4171,7 +4171,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109789">
         <xliff:source>Curse of the Empty Lord</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">虚無の主の呪い</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4187,7 +4187,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109791">
         <xliff:source>Daddy's Home</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">父の家</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4203,7 +4203,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109793">
         <xliff:source>Darkness of Hallowvale</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ハローヴァールの闇</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4219,7 +4219,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109795">
         <xliff:source>Death Plateau</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">死の高原</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4235,7 +4235,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109797">
         <xliff:source>Death to the Dorgeshuun</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ドーゲシューンに死を</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4251,7 +4251,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109799">
         <xliff:source>Demon Slayer</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">デーモン・スレイヤー</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4267,7 +4267,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109801">
         <xliff:source>Depths of Despair, The</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">絶望の底</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4275,7 +4275,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109802">
         <xliff:source>The Depths of Despair</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">絶望の底</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4291,7 +4291,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109804">
         <xliff:source>Desert Treasure I</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">砂漠の宝１</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4307,7 +4307,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109806">
         <xliff:source>Devious Minds</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">狡猾な心</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4315,7 +4315,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109807">
         <xliff:source>Dig Site, The</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">発掘現場</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4323,7 +4323,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109808">
         <xliff:source>The Dig Site</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">発掘現場</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4339,7 +4339,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109810">
         <xliff:source>Doric's Quest</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ドリックのクエスト</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4355,7 +4355,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109812">
         <xliff:source>Dragon Slayer I</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ドラゴン・スレイヤー１</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4371,7 +4371,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109814">
         <xliff:source>Dragon Slayer II</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ドラゴン・スレイヤー２</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4387,7 +4387,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109816">
         <xliff:source>Dream Mentor</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">夢のメンター</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4403,7 +4403,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109818">
         <xliff:source>Druidic Ritual</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ドルイドの儀式</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4419,7 +4419,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109820">
         <xliff:source>Dwarf Cannon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ドワーフ・キャノン</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4435,7 +4435,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109822">
         <xliff:source>Eadgar's Ruse</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エドガーの策略</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4451,7 +4451,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109824">
         <xliff:source>Eagles' Peak</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ワシの峰</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4467,7 +4467,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109826">
         <xliff:source>Elemental Workshop I</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エレメント工房１</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4483,7 +4483,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109828">
         <xliff:source>Elemental Workshop II</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エレメント工房２</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4499,7 +4499,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109830">
         <xliff:source>Enakhra's Lament</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">得なくらの嘆き</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4515,7 +4515,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109832">
         <xliff:source>Enchanted Key, The</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魔法のカギ</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4523,7 +4523,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109833">
         <xliff:source>The Enchanted Key</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魔法のカギ</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4539,7 +4539,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109835">
         <xliff:source>Enlightened Journey</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">悟りの旅</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4555,7 +4555,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109837">
         <xliff:source>Enter the Abyss</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">深淵へ</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4571,7 +4571,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109839">
         <xliff:source>Ernest the Chicken</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ニワトリのアーネスト</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4587,7 +4587,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109841">
         <xliff:source>Eyes of Glouphrie, The</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">グルフリーの目</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4595,7 +4595,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109842">
         <xliff:source>The Eyes of Glouphrie</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">グルフリーの目</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4611,7 +4611,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109844">
         <xliff:source>Fairytale I - Growing Pains</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フェアリーテール１：成長する痛み</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4627,7 +4627,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109846">
         <xliff:source>Fairytale II - Cure a Queen</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フェアリーテール２</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4643,7 +4643,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109848">
         <xliff:source>Family Crest</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">家紋</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4659,7 +4659,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109850">
         <xliff:source>Family Pest</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">家族の厄介者</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4675,7 +4675,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109852">
         <xliff:source>Feud, The</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">確執</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4683,7 +4683,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109853">
         <xliff:source>The Feud</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">確執</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4699,7 +4699,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109855">
         <xliff:source>Fight Arena</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">闘技場</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4715,7 +4715,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109857">
         <xliff:source>Fishing Contest</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">釣りコンテスト</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4731,7 +4731,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109859">
         <xliff:source>Forgettable Tale...</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">忘れがちな物語</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4739,7 +4739,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109860">
         <xliff:source>Forsaken Tower, The</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">放棄された塔</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4747,7 +4747,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109861">
         <xliff:source>The Forsaken Tower</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">放棄された塔</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4763,7 +4763,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109863">
         <xliff:source>Fremennik Exiles, The</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フレメニックの追放者</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4771,7 +4771,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109864">
         <xliff:source>The Fremennik Exiles</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フレメニックの追放者</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4787,7 +4787,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109866">
         <xliff:source>Fremennik Isles, The</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フレメニックの島々</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4795,7 +4795,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109867">
         <xliff:source>The Fremennik Isles</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フレメニックの島々</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4811,7 +4811,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109869">
         <xliff:source>Fremennik Trials, The</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フレメニックの試験</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4819,7 +4819,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109870">
         <xliff:source>The Fremennik Trials</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フレメニックの試験</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4835,7 +4835,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109872">
         <xliff:source>Garden of Tranquillity</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">静寂の庭</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4851,7 +4851,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109874">
         <xliff:source>General's Shadow, The</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">将軍の影</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4859,7 +4859,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109875">
         <xliff:source>The General's Shadow</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">将軍の影</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4875,7 +4875,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109877">
         <xliff:source>Gertrude's Cat</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ゲートルードのネコ</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4891,7 +4891,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109879">
         <xliff:source>Getting Ahead</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">先頭に立つ</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4907,7 +4907,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109881">
         <xliff:source>Ghosts Ahoy</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">幽霊さんヤッホー</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4923,7 +4923,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109883">
         <xliff:source>Giant Dwarf, The</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">巨大なドワーフ</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4931,7 +4931,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109884">
         <xliff:source>The Giant Dwarf</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">巨大なドワーフ</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4947,7 +4947,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109886">
         <xliff:source>Goblin Diplomacy</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ゴブリンとの外交</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4963,7 +4963,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109888">
         <xliff:source>Golem, The</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ザ・ゴーレム</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4971,7 +4971,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109889">
         <xliff:source>The Golem</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ザ・ゴーレム</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4987,7 +4987,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109891">
         <xliff:source>Grand Tree, The</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">グランド・ツリー</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -4995,7 +4995,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109892">
         <xliff:source>The Grand Tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">グランド・ツリー</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -5011,7 +5011,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109894">
         <xliff:source>Great Brain Robbery, The</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">大脳みそ大泥棒</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -5019,7 +5019,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109895">
         <xliff:source>The Great Brain Robbery</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">大脳みそ大泥棒</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -5035,7 +5035,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109897">
         <xliff:source>Grim Tales</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">残酷な物語</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -5051,7 +5051,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109899">
         <xliff:source>The Hand in the Sand</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">砂の中の手</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -5067,7 +5067,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109901">
         <xliff:source>Haunted Mine</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">呪われた採掘現場</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -5083,7 +5083,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109903">
         <xliff:source>Hazeel Cult</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ヘーゼル・カルト</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -5099,7 +5099,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109905">
         <xliff:source>Heroes' Quest</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ヒーロー・クエスト</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -5115,7 +5115,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109907">
         <xliff:source>Holy Grail</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">聖杯</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -5131,7 +5131,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109909">
         <xliff:source>Horror from the Deep</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">深淵の恐怖</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -10577,7 +10577,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110699"><xliff:source>Al Kharid</xliff:source><xliff:target state="translated">アル・カリッド</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110700"><xliff:source>Burgh de Rott</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110700"><xliff:source>Burgh de Rott</xliff:source><xliff:target state="translated">バーグ・ドゥ・ロット</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110701"><xliff:source>Burthorpe</xliff:source><xliff:target state="translated">バーソープ</xliff:target><xliff:note>category: manual
@@ -10739,7 +10739,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110753"><xliff:source>Smoke Devil Dungeon</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110754"><xliff:source>Death Plateau</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110754"><xliff:source>Death Plateau</xliff:source><xliff:target state="translated">死の高原</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110755"><xliff:source>South of Mount Quidamortem</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -11492,487 +11492,487 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111004"><xliff:source>during the Easter  Holiday Event.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111005"><xliff:source>Animal Magnetism</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111005"><xliff:source>Animal Magnetism</xliff:source><xliff:target state="translated">動物の磁性</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111006"><xliff:source>Learn how to equip Ava's ranged devices.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111007"><xliff:source>Another Slice of H.A.M.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111007"><xliff:source>Another Slice of H.A.M.</xliff:source><xliff:target state="translated">もう１スライスのH.A.M</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111008"><xliff:source>Learn how to use the Goblin Village teleport spheres.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111009"><xliff:source>Ascent of Arceuus, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111009"><xliff:source>Ascent of Arceuus, The</xliff:source><xliff:target state="translated">アルセウスの昇天</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111010"><xliff:source>The Ascent of Arceuus</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111010"><xliff:source>The Ascent of Arceuus</xliff:source><xliff:target state="translated">アルセウスの昇天</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111011"><xliff:source>Gain the Arceuus Memoirs teleport.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111012"><xliff:source>Alfred Grimhand's Barcrawl</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111012"><xliff:source>Alfred Grimhand's Barcrawl</xliff:source><xliff:target state="translated">アルフレッド・グイムハンドのバー巡り</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111013"><xliff:source>Embark on a Barbarian rite of passage.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111014"><xliff:source>Bear Your Soul</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111014"><xliff:source>Bear Your Soul</xliff:source><xliff:target state="translated">魂をさらけ出す</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111015"><xliff:source>Gain the Soul Bearer.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111016"><xliff:source>Below Ice Mountain</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111016"><xliff:source>Below Ice Mountain</xliff:source><xliff:target state="translated">氷山の地下</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111017"><xliff:source>Gain access to the Ruins of Camdozaal.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111018"><xliff:source>Between a Rock...</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111018"><xliff:source>Between a Rock...</xliff:source><xliff:target state="translated">岩の間に・・・</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111019"><xliff:source>Gain access to the Arzinian Gold Mine.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111020"><xliff:source>Big Chompy Bird Hunting</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111020"><xliff:source>Big Chompy Bird Hunting</xliff:source><xliff:target state="translated">大チョンピー鳥狩り</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111021"><xliff:source>Learn how to hunt Chompy Birds.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111022"><xliff:source>Biohazard</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111022"><xliff:source>Biohazard</xliff:source><xliff:target state="translated">バイオハザード</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111023"><xliff:source>Unlock the West Ardougne teleport spell.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111024"><xliff:source>Black Knights' Fortress</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111024"><xliff:source>Black Knights' Fortress</xliff:source><xliff:target state="translated">黒騎士の要塞</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111025"><xliff:source>Assist the White Knights with their investigation.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111026"><xliff:source>Bone Voyage</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111026"><xliff:source>Bone Voyage</xliff:source><xliff:target state="translated">骨の航海</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111027"><xliff:source>Gain access to Fossil Island.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111028"><xliff:source>Cabin Fever</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111028"><xliff:source>Cabin Fever</xliff:source><xliff:target state="translated">船室病</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111029"><xliff:source>Gain access to Mos'LeHarmless.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111030"><xliff:source>Client of Kourend</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111030"><xliff:source>Client of Kourend</xliff:source><xliff:target state="translated">クーレンドの顧客</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111031"><xliff:source>Gain Kharedst's Memoirs.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111032"><xliff:source>Clock Tower</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111032"><xliff:source>Clock Tower</xliff:source><xliff:target state="translated">時計塔</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111033"><xliff:source>Help Brother Kojo repair the Clock Tower.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111034"><xliff:source>Cold War</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111034"><xliff:source>Cold War</xliff:source><xliff:target state="translated">冷戦</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111035"><xliff:source>Gain access to the Penguin Agility Course.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111036"><xliff:source>Contact!</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111036"><xliff:source>Contact!</xliff:source><xliff:target state="translated">接触！</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111037"><xliff:source>Gain the Keris dagger.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111038"><xliff:source>Cook's Assistant</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111038"><xliff:source>Cook's Assistant</xliff:source><xliff:target state="translated">料理人の助手</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111039"><xliff:source>Help the Lumbridge Castle Cook out of his baking bind.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111040"><xliff:source>Corsair Curse, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111040"><xliff:source>Corsair Curse, The</xliff:source><xliff:target state="translated">私掠戦の呪い</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111041"><xliff:source>The Corsair Curse</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111041"><xliff:source>The Corsair Curse</xliff:source><xliff:target state="translated">私掠戦の呪い</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111042"><xliff:source>Gain access to the Corsair Cove Bank.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111043"><xliff:source>Creature of Fenkenstrain</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111043"><xliff:source>Creature of Fenkenstrain</xliff:source><xliff:target state="translated">フェンケンストレインの生物</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111044"><xliff:source>Gain a Ring of Charos.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111045"><xliff:source>Curse of the Empty Lord</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111045"><xliff:source>Curse of the Empty Lord</xliff:source><xliff:target state="translated">虚無の主の呪い</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111046"><xliff:source>Gain a set of Ghostly Robes.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111047"><xliff:source>Daddy's Home</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111047"><xliff:source>Daddy's Home</xliff:source><xliff:target state="translated">父の家</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111048"><xliff:source>Learn about the Construction skill.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111049"><xliff:source>Darkness of Hallowvale</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111049"><xliff:source>Darkness of Hallowvale</xliff:source><xliff:target state="translated">ハローヴァールの闇</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111050"><xliff:source>Learn the reverse Temple Trekking routes.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111051"><xliff:source>Death Plateau</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111051"><xliff:source>Death Plateau</xliff:source><xliff:target state="translated">死の高原</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111052"><xliff:source>Gain a set of Climbing Boots.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111053"><xliff:source>Death to the Dorgeshuun</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111053"><xliff:source>Death to the Dorgeshuun</xliff:source><xliff:target state="translated">ドーゲシューンに死を</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111054"><xliff:source>Gain access to the H.A.M Store Room.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111055"><xliff:source>Demon Slayer</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111055"><xliff:source>Demon Slayer</xliff:source><xliff:target state="translated">デーモン・スレイヤー</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111056"><xliff:source>Face your destiny in Varrock.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111057"><xliff:source>Depths of Despair, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111057"><xliff:source>Depths of Despair, The</xliff:source><xliff:target state="translated">絶望の底</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111058"><xliff:source>The Depths of Despair</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111058"><xliff:source>The Depths of Despair</xliff:source><xliff:target state="translated">絶望の底</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111059"><xliff:source>Gain the Hosidius Memoirs teleport.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111060"><xliff:source>Desert Treasure I</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111060"><xliff:source>Desert Treasure I</xliff:source><xliff:target state="translated">砂漠の宝１</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111061"><xliff:source>Learn how to use the Ancient Magicks.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111062"><xliff:source>Devious Minds</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111062"><xliff:source>Devious Minds</xliff:source><xliff:target state="translated">狡猾な心</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111063"><xliff:source>Dig Site, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111063"><xliff:source>Dig Site, The</xliff:source><xliff:target state="translated">発掘現場</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111064"><xliff:source>The Dig Site</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111064"><xliff:source>The Dig Site</xliff:source><xliff:target state="translated">発掘現場</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111065"><xliff:source>Learn how to clean specimens in Varrock Museum.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111066"><xliff:source>Doric's Quest</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111066"><xliff:source>Doric's Quest</xliff:source><xliff:target state="translated">ドリックのクエスト</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111067"><xliff:source>Gain early game Mining XP.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111068"><xliff:source>Dragon Slayer I</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111068"><xliff:source>Dragon Slayer I</xliff:source><xliff:target state="translated">ドラゴン・スレイヤー１</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111069"><xliff:source>Learn how to equip Rune and Dragon Platebodies.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111070"><xliff:source>Dragon Slayer II</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111070"><xliff:source>Dragon Slayer II</xliff:source><xliff:target state="translated">ドラゴン・スレイヤー２</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111071"><xliff:source>Gain great XP and access to the Myth's Guild.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111072"><xliff:source>Dream Mentor</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111072"><xliff:source>Dream Mentor</xliff:source><xliff:target state="translated">夢のメンター</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111073"><xliff:source>Learn how to cast more Lunar spells.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111074"><xliff:source>Druidic Ritual</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111074"><xliff:source>Druidic Ritual</xliff:source><xliff:target state="translated">ドルイドの儀式</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111075"><xliff:source>Unlock the Herblore skill.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111076"><xliff:source>Dwarf Cannon</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111076"><xliff:source>Dwarf Cannon</xliff:source><xliff:target state="translated">ドワーフ・キャノン</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111077"><xliff:source>Learn how to use a Dwarf Multicannons.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111078"><xliff:source>Eadgar's Ruse</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111078"><xliff:source>Eadgar's Ruse</xliff:source><xliff:target state="translated">エドガーの策略</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111079"><xliff:source>Learn how to grow and steal Goutweed.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111080"><xliff:source>Eagles' Peak</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111080"><xliff:source>Eagles' Peak</xliff:source><xliff:target state="translated">ワシの峰</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111081"><xliff:source>Gain access to the Eagle transportation and Box Traps.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111082"><xliff:source>Elemental Workshop I</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111082"><xliff:source>Elemental Workshop I</xliff:source><xliff:target state="translated">エレメント工房１</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111083"><xliff:source>Rediscover the knowledge hidden in Seers' Village.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111084"><xliff:source>Elemental Workshop II</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111084"><xliff:source>Elemental Workshop II</xliff:source><xliff:target state="translated">エレメント工房２</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111085"><xliff:source>Learn how to equip Mind equipment.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111086"><xliff:source>Enakhra's Lament</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111086"><xliff:source>Enakhra's Lament</xliff:source><xliff:target state="translated">得なくらの嘆き</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111087"><xliff:source>Gain a Camulet.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111088"><xliff:source>Enchanted Key, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111088"><xliff:source>Enchanted Key, The</xliff:source><xliff:target state="translated">魔法のカギ</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111089"><xliff:source>The Enchanted Key</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111089"><xliff:source>The Enchanted Key</xliff:source><xliff:target state="translated">魔法のカギ</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111090"><xliff:source>Hunt for hidden treasure using the Enchanted Key.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111091"><xliff:source>Enlightened Journey</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111091"><xliff:source>Enlightened Journey</xliff:source><xliff:target state="translated">悟りの旅</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111092"><xliff:source>Gain access to the Balloon transportation.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111093"><xliff:source>Enter the Abyss</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111093"><xliff:source>Enter the Abyss</xliff:source><xliff:target state="translated">深淵へ</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111094"><xliff:source>Gain access to the Abyss.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111095"><xliff:source>Ernest the Chicken</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111095"><xliff:source>Ernest the Chicken</xliff:source><xliff:target state="translated">ニワトリのアーネスト</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111096"><xliff:source>Investigate the whereabouts of Ernest.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111097"><xliff:source>Eyes of Glouphrie, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111097"><xliff:source>Eyes of Glouphrie, The</xliff:source><xliff:target state="translated">グルフリーの目</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111098"><xliff:source>The Eyes of Glouphrie</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111098"><xliff:source>The Eyes of Glouphrie</xliff:source><xliff:target state="translated">グルフリーの目</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111099"><xliff:source>Gain a Crystal Saw Seed.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111100"><xliff:source>Fairytale I - Growing Pains</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111100"><xliff:source>Fairytale I - Growing Pains</xliff:source><xliff:target state="translated">フェアリーテール１：成長する痛み</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111101"><xliff:source>Learn how to teleport using Fairy Rings (start Fairytale II).</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111102"><xliff:source>Fairytale II - Cure a Queen</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111102"><xliff:source>Fairytale II - Cure a Queen</xliff:source><xliff:target state="translated">フェアリーテール２</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111103"><xliff:source>Investigate what's really going on in Zanaris.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111104"><xliff:source>Family Crest</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111104"><xliff:source>Family Crest</xliff:source><xliff:target state="translated">家紋</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111105"><xliff:source>Gain Skill-imbued Gauntlets.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111106"><xliff:source>Family Pest</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111106"><xliff:source>Family Pest</xliff:source><xliff:target state="translated">家族の厄介者</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111107"><xliff:source>Gain the ability to own all Skill-imbued Gauntlets.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111108"><xliff:source>Feud, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111108"><xliff:source>Feud, The</xliff:source><xliff:target state="translated">確執</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111109"><xliff:source>The Feud</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111109"><xliff:source>The Feud</xliff:source><xliff:target state="translated">確執</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111110"><xliff:source>Learn how to use a Blackjack.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111111"><xliff:source>Fight Arena</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111111"><xliff:source>Fight Arena</xliff:source><xliff:target state="translated">闘技場</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111112"><xliff:source>Gain the Khazard armour.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111113"><xliff:source>Fishing Contest</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111113"><xliff:source>Fishing Contest</xliff:source><xliff:target state="translated">釣りコンテスト</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111114"><xliff:source>Gain access to White Wolf Mountain Pass.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111115"><xliff:source>Forgettable Tale...</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111115"><xliff:source>Forgettable Tale...</xliff:source><xliff:target state="translated">忘れがちな物語</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111116"><xliff:source>Forsaken Tower, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111116"><xliff:source>Forsaken Tower, The</xliff:source><xliff:target state="translated">放棄された塔</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111117"><xliff:source>The Forsaken Tower</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111117"><xliff:source>The Forsaken Tower</xliff:source><xliff:target state="translated">放棄された塔</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111118"><xliff:source>Gain the Lovakengj Memoirs teleport.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111119"><xliff:source>Fremennik Exiles, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111119"><xliff:source>Fremennik Exiles, The</xliff:source><xliff:target state="translated">フレメニックの追放者</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111120"><xliff:source>The Fremennik Exiles</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111120"><xliff:source>The Fremennik Exiles</xliff:source><xliff:target state="translated">フレメニックの追放者</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111121"><xliff:source>Gain a V's Shield.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111122"><xliff:source>Fremennik Isles, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111122"><xliff:source>Fremennik Isles, The</xliff:source><xliff:target state="translated">フレメニックの島々</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111123"><xliff:source>The Fremennik Isles</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111123"><xliff:source>The Fremennik Isles</xliff:source><xliff:target state="translated">フレメニックの島々</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111124"><xliff:source>Gain a Helm of Neitiznot.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111125"><xliff:source>Fremennik Trials, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111125"><xliff:source>Fremennik Trials, The</xliff:source><xliff:target state="translated">フレメニックの試験</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111126"><xliff:source>The Fremennik Trials</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111126"><xliff:source>The Fremennik Trials</xliff:source><xliff:target state="translated">フレメニックの試験</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111127"><xliff:source>Gain great XP in several skills.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111128"><xliff:source>Garden of Tranquillity</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111128"><xliff:source>Garden of Tranquillity</xliff:source><xliff:target state="translated">静寂の庭</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111129"><xliff:source>Gain an Activated Ring of Charos.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111130"><xliff:source>General's Shadow, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111130"><xliff:source>General's Shadow, The</xliff:source><xliff:target state="translated">将軍の影</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111131"><xliff:source>The General's Shadow</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111131"><xliff:source>The General's Shadow</xliff:source><xliff:target state="translated">将軍の影</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111132"><xliff:source>Gain the Shadow Sword.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111133"><xliff:source>Gertrude's Cat</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111133"><xliff:source>Gertrude's Cat</xliff:source><xliff:target state="translated">ゲートルードのネコ</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111134"><xliff:source>Gain a pet Kitten.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111135"><xliff:source>Getting Ahead</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111135"><xliff:source>Getting Ahead</xliff:source><xliff:target state="translated">先頭に立つ</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111136"><xliff:source>Help Gordon protect his farm.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111137"><xliff:source>Ghosts Ahoy</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111137"><xliff:source>Ghosts Ahoy</xliff:source><xliff:target state="translated">幽霊さんヤッホー</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111138"><xliff:source>Gain access to Ectophial teleportation.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111139"><xliff:source>Giant Dwarf, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111139"><xliff:source>Giant Dwarf, The</xliff:source><xliff:target state="translated">巨大なドワーフ</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111140"><xliff:source>The Giant Dwarf</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111140"><xliff:source>The Giant Dwarf</xliff:source><xliff:target state="translated">巨大なドワーフ</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111141"><xliff:source>Learn how to travel by minecart.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111142"><xliff:source>Goblin Diplomacy</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111142"><xliff:source>Goblin Diplomacy</xliff:source><xliff:target state="translated">ゴブリンとの外交</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111143"><xliff:source>Investigate the disturbance in Goblin Village.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111144"><xliff:source>Golem, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111144"><xliff:source>Golem, The</xliff:source><xliff:target state="translated">ザ・ゴーレム</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111145"><xliff:source>The Golem</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111145"><xliff:source>The Golem</xliff:source><xliff:target state="translated">ザ・ゴーレム</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111146"><xliff:source>Gain access to the Carpet rides to Uzer.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111147"><xliff:source>Grand Tree, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111147"><xliff:source>Grand Tree, The</xliff:source><xliff:target state="translated">グランド・ツリー</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111148"><xliff:source>The Grand Tree</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111148"><xliff:source>The Grand Tree</xliff:source><xliff:target state="translated">グランド・ツリー</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111149"><xliff:source>Gain access to the Gnome Glider transportation.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111150"><xliff:source>Great Brain Robbery, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111150"><xliff:source>Great Brain Robbery, The</xliff:source><xliff:target state="translated">大脳みそ大泥棒</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111151"><xliff:source>The Great Brain Robbery</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111151"><xliff:source>The Great Brain Robbery</xliff:source><xliff:target state="translated">大脳みそ大泥棒</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111152"><xliff:source>Gain a Barrelchest Anchor.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111153"><xliff:source>Grim Tales</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111153"><xliff:source>Grim Tales</xliff:source><xliff:target state="translated">残酷な物語</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111154"><xliff:source>Hand in the Sand, The</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111155"><xliff:source>The Hand in the Sand</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111155"><xliff:source>The Hand in the Sand</xliff:source><xliff:target state="translated">砂の中の手</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111156"><xliff:source>Gain access to the Wizards' Guild Rune Shop.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111157"><xliff:source>Haunted Mine</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111157"><xliff:source>Haunted Mine</xliff:source><xliff:target state="translated">呪われた採掘現場</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111158"><xliff:source>Gain a Salve Amulet.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111159"><xliff:source>Hazeel Cult</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111159"><xliff:source>Hazeel Cult</xliff:source><xliff:target state="translated">ヘーゼル・カルト</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111160"><xliff:source>Gain the Carnillean armour.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111161"><xliff:source>Heroes' Quest</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111161"><xliff:source>Heroes' Quest</xliff:source><xliff:target state="translated">ヒーロー・クエスト</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111162"><xliff:source>Learn how to wield Dragon Battleaxes and Maces.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111163"><xliff:source>Holy Grail</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111163"><xliff:source>Holy Grail</xliff:source><xliff:target state="translated">聖杯</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111164"><xliff:source>Gain great Prayer and Defence XP.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111165"><xliff:source>Horror from the Deep</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111165"><xliff:source>Horror from the Deep</xliff:source><xliff:target state="translated">深淵の恐怖</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111166"><xliff:source>Gain a God book.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
