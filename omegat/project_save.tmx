@@ -74326,6 +74326,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Reanimates a medium levelled creature</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T134942Z" creationid="yumas" creationdate="20240828T134942Z">
+        <seg>中級モンスターを蘇生する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Reap</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240828T111751Z" creationid="yumas" creationdate="20240828T111751Z">
@@ -74418,6 +74426,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T211433Z" creationid="yumas" creationdate="20240730T211433Z">
         <seg>笛をチャージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Recharges enchanted dragonstone jewellery</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T134740Z" creationid="yumas" creationdate="20240828T134740Z">
+        <seg>竜石の宝石をチャージ</seg>
       </tuv>
     </tu>
     <tu>
