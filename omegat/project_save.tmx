@@ -19960,8 +19960,8 @@
       <tuv lang="en-GB">
         <seg>Circular hide</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240828T080741Z" creationid="2008l" creationdate="20240828T080741Z">
-        <seg>円形の皮</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T080821Z" creationid="2008l" creationdate="20240828T080741Z">
+        <seg>円形皮</seg>
       </tuv>
     </tu>
     <tu>
@@ -35474,6 +35474,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T053717Z" creationid="yumas" creationdate="20240811T053717Z">
         <seg>平たい石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Flattened hide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T080850Z" creationid="2008l" creationdate="20240828T080850Z">
+        <seg>扁平皮</seg>
       </tuv>
     </tu>
     <tu>
@@ -89114,6 +89122,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T070610Z" creationid="2008l" creationdate="20240720T070610Z">
         <seg>腕力増強薬（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stretched hide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T080914Z" creationid="2008l" creationdate="20240828T080914Z">
+        <seg>伸び皮</seg>
       </tuv>
     </tu>
     <tu>
