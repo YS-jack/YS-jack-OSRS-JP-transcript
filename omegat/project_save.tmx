@@ -12374,6 +12374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Boss Log</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T140351Z" creationid="yumas" creationdate="20240828T140351Z">
+        <seg>ボスログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Boss Spawn</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T030738Z" creationid="yumas" creationdate="20240815T030738Z">
@@ -21290,6 +21298,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240730T070535Z" creationid="2008l" creationdate="20240730T070535Z">
         <seg>コイフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Coin Collection</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T140419Z" creationid="yumas" creationdate="20240828T140419Z">
+        <seg>コイン回収</seg>
       </tuv>
     </tu>
     <tu>
@@ -106804,6 +106820,17 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240828T135042Z" creationid="yumas" creationdate="20240828T135042Z">
         <seg>ジャティゾ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41340</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Tip</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T140632Z" creationid="yumas" creationdate="20240828T140632Z">
+        <seg>傾ける</seg>
       </tuv>
     </tu>
     <tu>
