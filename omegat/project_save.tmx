@@ -44582,6 +44582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Haunted Mine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T123250Z" creationid="yumas" creationdate="20240828T123250Z">
+        <seg>呪われた採掘現場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hawk Eye</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T140945Z" creationid="yumas" creationdate="20240827T140945Z">
@@ -44640,32 +44648,40 @@
       <tuv lang="en-GB">
         <seg>Hazeel</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T072912Z" creationid="yumas" creationdate="20240805T072912Z">
-        <seg>ハジール</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T123441Z" creationid="yumas" creationdate="20240805T072912Z">
+        <seg>ヘーゼル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hazeel Cult</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T123407Z" creationid="yumas" creationdate="20240828T123407Z">
+        <seg>ヘーゼル・カルト</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Hazeel Cultist</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T072938Z" creationid="yumas" creationdate="20240805T072938Z">
-        <seg>ハジール信者</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T123445Z" creationid="yumas" creationdate="20240805T072938Z">
+        <seg>ヘーゼル信者</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Hazeel scroll</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240811T110509Z" creationid="2008l" creationdate="20240811T073512Z">
-        <seg>はジールの巻物</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T123422Z" creationid="2008l" creationdate="20240811T073512Z">
+        <seg>ヘーゼルの巻物</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Hazeel's mark</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240811T073645Z" creationid="2008l" creationdate="20240811T073645Z">
-        <seg>はジールのマーク</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T123428Z" creationid="2008l" creationdate="20240811T073645Z">
+        <seg>ヘーゼルのマーク</seg>
       </tuv>
     </tu>
     <tu>
@@ -94036,6 +94052,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T111939Z" creationid="yumas" creationdate="20240813T111939Z">
         <seg>グロテスク・ガーディアンの展示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Hand in the Sand</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T123235Z" creationid="yumas" creationdate="20240828T123235Z">
+        <seg>砂の中の手</seg>
       </tuv>
     </tu>
     <tu>
