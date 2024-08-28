@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>A chair</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075330Z" creationid="2008l" creationdate="20240828T075330Z">
+        <seg>椅子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>A chasm</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T042935Z" creationid="yumas" creationdate="20240812T042935Z">
@@ -31934,6 +31942,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Enchanted lyre(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075334Z" creationid="2008l" creationdate="20240828T075334Z">
+        <seg>魔法のたて琴（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Enchanted lyre(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075335Z" creationid="2008l" creationdate="20240828T075335Z">
+        <seg>魔法のたて琴（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Enchanted lyre(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075337Z" creationid="2008l" creationdate="20240828T075337Z">
+        <seg>魔法のたて琴（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Enchanted rat</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T061933Z" creationid="2008l" creationdate="20240725T061845Z">
@@ -38466,6 +38498,38 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240828T075106Z" creationid="2008l" creationdate="20240828T075106Z">
         <seg>幽霊の靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ghostly cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075123Z" creationid="2008l" creationdate="20240828T075123Z">
+        <seg>幽霊のマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ghostly gloves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075120Z" creationid="2008l" creationdate="20240828T075120Z">
+        <seg>幽霊の手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ghostly hood</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075117Z" creationid="2008l" creationdate="20240828T075117Z">
+        <seg>幽霊のフッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ghostly robe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075111Z" creationid="2008l" creationdate="20240828T075111Z">
+        <seg>幽霊のローブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -50201,6 +50265,30 @@
         <seg>Kelda Stout</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T124125Z" creationid="yumas" creationdate="20240811T124125Z">
+        <seg>ケルダのスタウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kelda hops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075301Z" creationid="2008l" creationdate="20240828T075301Z">
+        <seg>ケルダ・ホップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kelda seed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075300Z" creationid="2008l" creationdate="20240828T075300Z">
+        <seg>ケルダの種</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kelda stout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075304Z" creationid="2008l" creationdate="20240828T075304Z">
         <seg>ケルダのスタウト</seg>
       </tuv>
     </tu>
@@ -76566,6 +76654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rock-shell helm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075405Z" creationid="2008l" creationdate="20240828T075405Z">
+        <seg>岩殻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rockery</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T024136Z" creationid="yumas" creationdate="20240811T024136Z">
@@ -86146,6 +86242,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T022610Z" creationid="yumas" creationdate="20240812T022610Z">
         <seg>角盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Square stone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075329Z" creationid="2008l" creationdate="20240828T075329Z">
+        <seg>四角い石</seg>
       </tuv>
     </tu>
     <tu>
