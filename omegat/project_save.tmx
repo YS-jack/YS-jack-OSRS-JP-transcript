@@ -11112,8 +11112,8 @@
       <tuv lang="en-GB">
         <seg>Bloody mourner top</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240828T073737Z" creationid="2008l" creationdate="20240828T073737Z">
-        <seg>血だらけの哀悼者トップ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T073826Z" creationid="2008l" creationdate="20240828T073737Z">
+        <seg>血だらけの哀悼者のトップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -30386,6 +30386,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T043908Z" creationid="yumas" creationdate="20240815T043908Z">
         <seg>イースターの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Eastern discovery</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T074115Z" creationid="2008l" creationdate="20240828T074115Z">
+        <seg>東部の発見</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Eastern settlement</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T074227Z" creationid="2008l" creationdate="20240828T074227Z">
+        <seg>東部の定住</seg>
       </tuv>
     </tu>
     <tu>
@@ -61350,10 +61366,50 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mourner boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T073839Z" creationid="2008l" creationdate="20240828T073839Z">
+        <seg>哀悼者の靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mourner cloak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T073842Z" creationid="2008l" creationdate="20240828T073842Z">
+        <seg>哀悼者のマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mourner gloves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T073836Z" creationid="2008l" creationdate="20240828T073836Z">
+        <seg>哀悼者の手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mourner letter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T073847Z" creationid="2008l" creationdate="20240828T073847Z">
+        <seg>哀悼者の手紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mourner top</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240828T073747Z" creationid="2008l" creationdate="20240828T073747Z">
         <seg>哀悼者のトップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mourner trousers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T073832Z" creationid="2008l" creationdate="20240828T073832Z">
+        <seg>哀悼者のズボン</seg>
       </tuv>
     </tu>
     <tu>
@@ -70794,6 +70850,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T035047Z" creationid="yumas" creationdate="20240809T035047Z">
         <seg>プリフディナスの衛兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Prifddinas' history</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T073922Z" creationid="2008l" creationdate="20240828T073922Z">
+        <seg>プリフディナスの歴史</seg>
       </tuv>
     </tu>
     <tu>
@@ -91812,6 +91876,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T223254Z" creationid="yumas" creationdate="20240808T223254Z">
         <seg>テギド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tegid's soap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T073914Z" creationid="2008l" creationdate="20240828T073914Z">
+        <seg>テギドの石鹸</seg>
       </tuv>
     </tu>
     <tu>
