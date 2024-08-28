@@ -106718,6 +106718,39 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41288</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Rellekka</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T135003Z" creationid="yumas" creationdate="20240828T135003Z">
+        <seg>レレカ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41290</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Neitiznot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T135028Z" creationid="yumas" creationdate="20240828T135028Z">
+        <seg>ネイチズノット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41291</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Jatiszo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240828T135042Z" creationid="yumas" creationdate="20240828T135042Z">
+        <seg>ジャティゾ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">transcript_ja_name_item.xliff</prop>
       <prop type="id">1550</prop>
       <prop type="path">//transcript.db</prop>
