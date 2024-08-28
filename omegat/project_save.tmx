@@ -76656,8 +76656,24 @@
       <tuv lang="en-GB">
         <seg>Rock-shell helm</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240828T075405Z" creationid="2008l" creationdate="20240828T075405Z">
-        <seg>岩殻</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075413Z" creationid="2008l" creationdate="20240828T075405Z">
+        <seg>岩殻の鉄兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rock-shell legs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075500Z" creationid="2008l" creationdate="20240828T075448Z">
+        <seg>岩殻の脚甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rock-shell plate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075435Z" creationid="2008l" creationdate="20240828T075407Z">
+        <seg>岩殻の胸甲</seg>
       </tuv>
     </tu>
     <tu>
@@ -83214,10 +83230,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Skeletal bottoms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075714Z" creationid="2008l" creationdate="20240828T075714Z">
+        <seg>骨のズボン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Skeletal helm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075634Z" creationid="2008l" creationdate="20240828T075634Z">
+        <seg>骨の兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Skeletal miner</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T212007Z" creationid="yumas" creationdate="20240807T212007Z">
         <seg>骨の鉱夫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Skeletal top</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075639Z" creationid="2008l" creationdate="20240828T075639Z">
+        <seg>骨のトップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -85698,6 +85738,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T091641Z" creationid="yumas" creationdate="20240813T091641Z">
         <seg>トゲキノコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spined body</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075606Z" creationid="2008l" creationdate="20240828T075606Z">
+        <seg>トゲのボディ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spined chaps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075613Z" creationid="2008l" creationdate="20240828T075613Z">
+        <seg>トゲのチャップス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spined helm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240828T075559Z" creationid="2008l" creationdate="20240828T075559Z">
+        <seg>トゲの兜</seg>
       </tuv>
     </tu>
     <tu>
