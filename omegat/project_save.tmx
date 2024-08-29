@@ -27294,6 +27294,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Desert top</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T064106Z" creationid="2008l" creationdate="20240829T064106Z">
+        <seg>砂漠のトップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Desk</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T035440Z" creationid="yumas" creationdate="20240811T035440Z">
@@ -35018,6 +35026,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053839Z" creationid="yumas" creationdate="20240805T053839Z">
         <seg>熱病グモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fez</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T064100Z" creationid="2008l" creationdate="20240829T064100Z">
+        <seg>フェズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -57770,6 +57786,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T121556Z" creationid="yumas" creationdate="20240812T121556Z">
         <seg>マホガニーの家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mahogany logs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T063846Z" creationid="2008l" creationdate="20240829T063846Z">
+        <seg>マホガニーの丸太</seg>
       </tuv>
     </tu>
     <tu>
@@ -85934,10 +85958,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Snakeskin bandana</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T063823Z" creationid="2008l" creationdate="20240829T063823Z">
+        <seg>蛇革のバンダナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Snakeskin body</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240829T063805Z" creationid="2008l" creationdate="20240829T063805Z">
         <seg>蛇革のボディ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Snakeskin boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T063826Z" creationid="2008l" creationdate="20240829T063826Z">
+        <seg>蛇革の靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Snakeskin chaps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T063812Z" creationid="2008l" creationdate="20240829T063812Z">
+        <seg>蛇革のチャップス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Snakeskin vambraces</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T063834Z" creationid="2008l" creationdate="20240829T063834Z">
+        <seg>蛇革の腕甲</seg>
       </tuv>
     </tu>
     <tu>
@@ -92976,6 +93032,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Teak logs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T063859Z" creationid="2008l" creationdate="20240829T063859Z">
+        <seg>チークの丸太</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Teak prize chest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T020121Z" creationid="yumas" creationdate="20240812T020121Z">
@@ -97480,10 +97544,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tribal mask</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T063920Z" creationid="2008l" creationdate="20240829T063920Z">
+        <seg>トライバルマスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tribal statue</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T081055Z" creationid="yumas" creationdate="20240810T081055Z">
         <seg>部族の像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tribal top</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T063924Z" creationid="2008l" creationdate="20240829T063924Z">
+        <seg>トライバルトップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -100908,6 +100988,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T205730Z" creationid="yumas" creationdate="20240807T205730Z">
         <seg>村人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Villager armband</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T064028Z" creationid="2008l" creationdate="20240829T064028Z">
+        <seg>村人の腕章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Villager hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T063949Z" creationid="2008l" creationdate="20240829T063949Z">
+        <seg>村人のハット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Villager robe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T063944Z" creationid="2008l" creationdate="20240829T063944Z">
+        <seg>村人のローブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Villager sandals</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T064041Z" creationid="2008l" creationdate="20240829T064041Z">
+        <seg>腕章のサンダル</seg>
       </tuv>
     </tu>
     <tu>
