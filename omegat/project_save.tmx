@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>A Dark Disposition</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124214Z" creationid="yumas" creationdate="20240829T124214Z">
+        <seg>暗黒の気質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>A Doubt</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T203503Z" creationid="yumas" creationdate="20240807T203503Z">
@@ -1170,6 +1178,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T025704Z" creationid="yumas" creationdate="20240810T025704Z">
         <seg>学術者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Accept trick-or-treat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124949Z" creationid="yumas" creationdate="20240829T124949Z">
+        <seg>トリック・オア・トリートを受け取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -2658,6 +2674,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240826T070735Z" creationid="2008l" creationdate="20240826T070735Z">
         <seg>アリムの杖75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Air Altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124335Z" creationid="yumas" creationdate="20240829T124335Z">
+        <seg>大気の祭壇</seg>
       </tuv>
     </tu>
     <tu>
@@ -12642,6 +12666,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T114856Z" creationid="yumas" creationdate="20240808T114856Z">
         <seg>ボロカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Boss Emote</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124324Z" creationid="yumas" creationdate="20240829T124324Z">
+        <seg>ボスのエモート</seg>
       </tuv>
     </tu>
     <tu>
@@ -31342,6 +31374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Earth Altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124340Z" creationid="yumas" creationdate="20240829T124340Z">
+        <seg>土の祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Earth Blast</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T220751Z" creationid="yumas" creationdate="20240827T215325Z">
@@ -34678,6 +34718,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fairy-Ring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124314Z" creationid="yumas" creationdate="20240829T124314Z">
+        <seg>妖精の輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fairy-ring</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T041309Z" creationid="yumas" creationdate="20240805T041309Z">
@@ -35922,6 +35970,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T053358Z" creationid="yumas" creationdate="20240730T211522Z">
         <seg>火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fire Altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124343Z" creationid="yumas" creationdate="20240829T124343Z">
+        <seg>火の祭壇</seg>
       </tuv>
     </tu>
     <tu>
@@ -37786,6 +37842,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240829T071757Z" creationid="2008l" creationdate="20240829T071757Z">
         <seg>割れた水晶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fragment Emote</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124331Z" creationid="yumas" creationdate="20240829T124331Z">
+        <seg>破片のエモート</seg>
       </tuv>
     </tu>
     <tu>
@@ -46622,6 +46686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>History and Hearsay</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124138Z" creationid="yumas" creationdate="20240829T124138Z">
+        <seg>歴史と伝聞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>History of iban</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T075651Z" creationid="2008l" creationdate="20240805T071835Z">
@@ -50190,6 +50262,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jaldraocht</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124358Z" creationid="yumas" creationdate="20240829T124358Z">
+        <seg>ジャルドラオッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jaleustrophos</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124353Z" creationid="yumas" creationdate="20240829T124353Z">
+        <seg>ジャルストロフォス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jalsavrah</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124347Z" creationid="yumas" creationdate="20240829T124347Z">
+        <seg>ジャルサヴラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jaltevas</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124401Z" creationid="yumas" creationdate="20240829T124401Z">
+        <seg>ジャルテヴァス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>James</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T065720Z" creationid="yumas" creationdate="20240809T065720Z">
@@ -50530,6 +50634,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T040941Z" creationid="yumas" creationdate="20240815T040941Z">
         <seg>宝石ケース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jewellery of Jubilation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124206Z" creationid="yumas" creationdate="20240829T124206Z">
+        <seg>歓喜の宝石</seg>
       </tuv>
     </tu>
     <tu>
@@ -68190,6 +68302,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Open-All</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124237Z" creationid="yumas" creationdate="20240829T124237Z">
+        <seg>全て開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Open-all</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T052526Z" creationid="yumas" creationdate="20240804T052526Z">
@@ -74666,6 +74786,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T113246Z" creationid="yumas" creationdate="20240803T113203Z">
         <seg>速く冷ます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Quest Emote</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124327Z" creationid="yumas" creationdate="20240829T124327Z">
+        <seg>クエストのエモート</seg>
       </tuv>
     </tu>
     <tu>
@@ -86822,6 +86950,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Skill Emote</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124320Z" creationid="yumas" creationdate="20240829T124320Z">
+        <seg>スキルのエモート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Skills</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T051331Z" creationid="yumas" creationdate="20240824T051331Z">
@@ -96880,6 +97016,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The Fisher's Flute</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124128Z" creationid="yumas" creationdate="20240829T124128Z">
+        <seg>釣り人のフルート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The Font of Consumption</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T130209Z" creationid="yumas" creationdate="20240812T130209Z">
@@ -98344,6 +98488,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Toggle absorption</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124215Z" creationid="yumas" creationdate="20240829T124215Z">
+        <seg>吸収の切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Toggle skull prevention</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T054926Z" creationid="yumas" creationdate="20240824T054926Z">
@@ -98644,6 +98796,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T031719Z" creationid="yumas" creationdate="20240812T031719Z">
         <seg>道具のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tool-leprechauns</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124316Z" creationid="yumas" creationdate="20240829T124316Z">
+        <seg>農具のレプラコーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -99520,10 +99680,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Trailblazer Area Emote</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124313Z" creationid="yumas" creationdate="20240829T124313Z">
+        <seg>トレールブレイザー区域のエモート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Trailblazer League Display</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T152151Z" creationid="yumas" creationdate="20240814T152151Z">
         <seg>トレールブレイザー・リーグの展示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trailblazer Relic Emote</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124248Z" creationid="yumas" creationdate="20240829T124248Z">
+        <seg>トレールブレイザー・リーグのエモート</seg>
       </tuv>
     </tu>
     <tu>
@@ -100344,6 +100520,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Trophy Emote</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124222Z" creationid="yumas" creationdate="20240829T124222Z">
+        <seg>トロフィーのエモート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Trophy case space</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T124119Z" creationid="yumas" creationdate="20240814T124119Z">
@@ -100748,6 +100932,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T151635Z" creationid="yumas" creationdate="20240814T151635Z">
         <seg>ツイステッド・リーグの展示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Twisted Relic Emote</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124234Z" creationid="yumas" creationdate="20240829T124234Z">
+        <seg>ツイステッド・リーグのエモート</seg>
       </tuv>
     </tu>
     <tu>
@@ -104748,6 +104940,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T132921Z" creationid="yumas" creationdate="20240730T132921Z">
         <seg>水をあげる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Water Altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124337Z" creationid="yumas" creationdate="20240829T124337Z">
+        <seg>水の祭壇</seg>
       </tuv>
     </tu>
     <tu>
