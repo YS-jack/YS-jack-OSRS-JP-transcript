@@ -77792,7 +77792,7 @@
       <tuv lang="en-GB">
         <seg>Remove</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240824T042613Z" creationid="yumas" creationdate="20240730T092334Z">
+      <tuv lang="ja" changeid="yumas" changedate="20240829T145822Z" creationid="yumas" creationdate="20240730T092334Z">
         <seg>取り除く</seg>
       </tuv>
     </tu>
@@ -110555,6 +110555,28 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240821T135705Z" creationid="yumas" creationdate="20240821T135705Z">
         <seg>発動を切り替える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41261</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T145926Z" creationid="yumas" creationdate="20240829T145926Z">
+        <seg>取り外す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_inventoryActions.xliff</prop>
+      <prop type="id">41268</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T145831Z" creationid="yumas" creationdate="20240829T145831Z">
+        <seg>脱ぐ</seg>
       </tuv>
     </tu>
     <tu>
