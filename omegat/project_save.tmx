@@ -85846,6 +85846,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Snake hide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T063023Z" creationid="2008l" creationdate="20240829T063023Z">
+        <seg>蛇皮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Snake weed</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T074601Z" creationid="2008l" creationdate="20240805T074601Z">
@@ -94176,10 +94184,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Thatch spar dense</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T062744Z" creationid="2008l" creationdate="20240829T062744Z">
+        <seg>草ぶきの重いスパー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Thatch spar light</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240829T062729Z" creationid="2008l" creationdate="20240829T062729Z">
         <seg>草ぶきの軽いスパー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Thatch spar med</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T062736Z" creationid="2008l" creationdate="20240829T062736Z">
+        <seg>草ぶきの普通のスパー</seg>
       </tuv>
     </tu>
     <tu>
