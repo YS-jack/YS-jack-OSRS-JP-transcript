@@ -7422,6 +7422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bandit Camp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124005Z" creationid="yumas" creationdate="20240829T124005Z">
+        <seg>盗賊のキャンプ地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bandit Leader</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T054926Z" creationid="yumas" creationdate="20240805T054926Z">
@@ -19066,6 +19074,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T093533Z" creationid="yumas" creationdate="20240809T093533Z">
         <seg>混沌ゴーレム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chaos Temple</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124015Z" creationid="yumas" creationdate="20240829T124015Z">
+        <seg>混沌の寺院</seg>
       </tuv>
     </tu>
     <tu>
@@ -54990,6 +55006,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lava Maze</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124009Z" creationid="yumas" creationdate="20240829T124009Z">
+        <seg>溶岩の迷路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lava Monster</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T105112Z" creationid="yumas" creationdate="20240813T105112Z">
@@ -57962,6 +57986,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T111830Z" creationid="yumas" creationdate="20240731T110630Z">
         <seg>ルーナ魔法の書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lunch by the Lancalliums</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124123Z" creationid="yumas" creationdate="20240829T124123Z">
+        <seg>ランカリウムの隣で昼食</seg>
       </tuv>
     </tu>
     <tu>
@@ -76378,6 +76410,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T041033Z" creationid="yumas" creationdate="20240811T041033Z">
         <seg>くぼみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Recharge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124046Z" creationid="yumas" creationdate="20240829T124046Z">
+        <seg>チャージ</seg>
       </tuv>
     </tu>
     <tu>
@@ -97664,6 +97704,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Throw-water east</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124037Z" creationid="yumas" creationdate="20240829T124037Z">
+        <seg>東に水を投げる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Throw-water north</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124034Z" creationid="yumas" creationdate="20240829T124034Z">
+        <seg>北に水を投げる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Throw-water south</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124040Z" creationid="yumas" creationdate="20240829T124040Z">
+        <seg>南に水を投げる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Throw-water west</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124043Z" creationid="yumas" creationdate="20240829T124043Z">
+        <seg>西に水を投げる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Thrower Troll</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T065321Z" creationid="yumas" creationdate="20240805T065321Z">
@@ -107396,6 +107468,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T010619Z" creationid="yumas" creationdate="20240812T010619Z">
         <seg>魔法使いの精神爆弾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wizards' Tower</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T124000Z" creationid="yumas" creationdate="20240829T124000Z">
+        <seg>魔法使いの塔</seg>
       </tuv>
     </tu>
     <tu>
