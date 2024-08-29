@@ -2246,10 +2246,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Agility balance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T065912Z" creationid="2008l" creationdate="20240829T065906Z">
+        <seg>運動神経のバランス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Agility contortion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T065937Z" creationid="2008l" creationdate="20240829T065937Z">
+        <seg>運動神経のゆがみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Agility dispenser</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T044046Z" creationid="yumas" creationdate="20240815T044046Z">
         <seg>トレーニング・ディスペンサー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Agility jump</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T065900Z" creationid="2008l" creationdate="20240829T065900Z">
+        <seg>運動神経のジャンプ</seg>
       </tuv>
     </tu>
     <tu>
@@ -21858,6 +21882,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T051649Z" creationid="yumas" creationdate="20240810T051649Z">
         <seg>堆肥の山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Compost potion(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T065823Z" creationid="2008l" creationdate="20240829T065823Z">
+        <seg>堆肥の薬液（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Compost potion(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T065821Z" creationid="2008l" creationdate="20240829T065821Z">
+        <seg>堆肥の薬液（２）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Compost potion(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T065820Z" creationid="2008l" creationdate="20240829T065820Z">
+        <seg>堆肥の薬液（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Compost potion(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T065819Z" creationid="2008l" creationdate="20240829T065819Z">
+        <seg>堆肥の薬液（４）</seg>
       </tuv>
     </tu>
     <tu>
@@ -55430,6 +55486,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>List</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T065828Z" creationid="2008l" creationdate="20240829T065828Z">
+        <seg>リスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Listen</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T095939Z" creationid="yumas" creationdate="20240730T095939Z">
@@ -79438,6 +79502,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rune dust</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T065802Z" creationid="2008l" creationdate="20240829T065802Z">
+        <seg>ルーンの塵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rune essence</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T071316Z" creationid="2008l" creationdate="20240731T071316Z">
@@ -79714,6 +79786,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240731T065114Z" creationid="2008l" creationdate="20240731T065114Z">
         <seg>ルーンの三日月刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rune shards</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T065754Z" creationid="2008l" creationdate="20240829T065754Z">
+        <seg>ルーンの破片</seg>
       </tuv>
     </tu>
     <tu>
@@ -103612,6 +103692,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T113750Z" creationid="yumas" creationdate="20240812T113750Z">
         <seg>白い木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>White tree fruit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T065809Z" creationid="2008l" creationdate="20240829T065809Z">
+        <seg>白い木の果実</seg>
       </tuv>
     </tu>
     <tu>
