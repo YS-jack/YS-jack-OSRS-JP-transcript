@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>A Kingdom Divided</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T113157Z" creationid="yumas" creationdate="20240829T113157Z">
+        <seg>分裂した王国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>A Kingdom Divided Display</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T153246Z" creationid="yumas" creationdate="20240814T153246Z">
@@ -47750,6 +47758,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>In Aid of the Myreque</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T113125Z" creationid="yumas" creationdate="20240829T113125Z">
+        <seg>マイラークを助けるために</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>In Search of Knowledge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T113130Z" creationid="yumas" creationdate="20240829T113130Z">
+        <seg>知識を求めて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>In Search of the Myreque</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T113140Z" creationid="yumas" creationdate="20240829T113140Z">
+        <seg>マイラークを探せ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Inactive Symbol</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T101124Z" creationid="yumas" creationdate="20240814T101050Z">
@@ -50486,6 +50518,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jungle Potion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T113150Z" creationid="yumas" creationdate="20240829T113150Z">
+        <seg>ジャングル・ポーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jungle Wolf</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T043859Z" creationid="yumas" creationdate="20240805T043859Z">
@@ -52174,10 +52214,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>King's Ransom</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T113202Z" creationid="yumas" creationdate="20240829T113202Z">
+        <seg>王の身代金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>King's message</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240820T065420Z" creationid="2008l" creationdate="20240820T065420Z">
         <seg>王様からの手紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kingdom Divided, A</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T113156Z" creationid="yumas" creationdate="20240829T113156Z">
+        <seg>分裂した王国</seg>
       </tuv>
     </tu>
     <tu>
@@ -52394,6 +52450,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T085042Z" creationid="yumas" creationdate="20240809T085042Z">
         <seg>オオカミの騎士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Knight's Sword, The</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T113206Z" creationid="yumas" creationdate="20240829T113206Z">
+        <seg>騎士の剣</seg>
       </tuv>
     </tu>
     <tu>
@@ -52994,6 +53058,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240825T021011Z" creationid="yumas" creationdate="20240825T021011Z">
         <seg>ラジー・ノノック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lair of Tarn Razorlor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T113229Z" creationid="yumas" creationdate="20240829T113229Z">
+        <seg>ターン・ラゾローの隠れ家</seg>
       </tuv>
     </tu>
     <tu>
@@ -54922,6 +54994,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T115114Z" creationid="yumas" creationdate="20240808T115114Z">
         <seg>伝説ギルドの衛兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Legends' Quest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T113235Z" creationid="yumas" creationdate="20240829T113235Z">
+        <seg>レジェンド・クエスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -95268,6 +95348,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T024116Z" creationid="yumas" creationdate="20240809T024116Z">
         <seg>ザ・ケンダル（上級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The Knight's Sword</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T113207Z" creationid="yumas" creationdate="20240829T113207Z">
+        <seg>騎士の剣</seg>
       </tuv>
     </tu>
     <tu>
