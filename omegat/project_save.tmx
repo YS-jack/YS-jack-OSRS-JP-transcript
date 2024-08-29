@@ -2382,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ahab's beer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T070541Z" creationid="2008l" creationdate="20240829T070541Z">
+        <seg>アハブのビール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ahrim the Blighted</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T094616Z" creationid="yumas" creationdate="20240805T094616Z">
@@ -17688,8 +17696,8 @@
       <tuv lang="en-GB">
         <seg>Catspeak amulet(e)</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240829T070304Z" creationid="2008l" creationdate="20240829T070304Z">
-        <seg>ネコ話のアミュレット（）</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T070339Z" creationid="2008l" creationdate="20240829T070304Z">
+        <seg>ネコ話のアミュレット（魔法）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20058,6 +20066,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T092523Z" creationid="yumas" creationdate="20240812T092523Z">
         <seg>調理台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chores</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T070355Z" creationid="2008l" creationdate="20240829T070355Z">
+        <seg>家事</seg>
       </tuv>
     </tu>
     <tu>
@@ -28762,6 +28778,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T115514Z" creationid="yumas" creationdate="20240808T115514Z">
         <seg>オーボン先生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Doctor's hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T070414Z" creationid="2008l" creationdate="20240829T070414Z">
+        <seg>医者の帽子</seg>
       </tuv>
     </tu>
     <tu>
@@ -54264,8 +54288,8 @@
       <tuv lang="en-GB">
         <seg>Lazy cat</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240805T093431Z" creationid="yumas" creationdate="20240805T093431Z">
-        <seg>怠惰なネコ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T070525Z" creationid="yumas" creationdate="20240805T093431Z">
+        <seg>怠惰ネコ</seg>
       </tuv>
     </tu>
     <tu>
@@ -64990,6 +65014,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Nurse hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T070425Z" creationid="2008l" creationdate="20240829T070425Z">
+        <seg>ナースの帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Nylocas</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T103912Z" creationid="yumas" creationdate="20240809T103912Z">
@@ -75018,6 +75050,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240828T134740Z" creationid="yumas" creationdate="20240828T134740Z">
         <seg>竜石の宝石をチャージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Recipe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T070403Z" creationid="2008l" creationdate="20240829T070403Z">
+        <seg>レシピ</seg>
       </tuv>
     </tu>
     <tu>
