@@ -26862,6 +26862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Delphinium seed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T064920Z" creationid="2008l" creationdate="20240829T064920Z">
+        <seg>デルフィニウムの種</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Delphiniums</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T132430Z" creationid="yumas" creationdate="20240811T132430Z">
@@ -50694,6 +50702,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Kandarin headgear</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T064805Z" creationid="2008l" creationdate="20240829T064805Z">
+        <seg>カンダリンのヘッドギア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Kanel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T203727Z" creationid="yumas" creationdate="20240807T203727Z">
@@ -57130,6 +57146,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T092701Z" creationid="yumas" creationdate="20240805T092701Z">
         <seg>魔術師（初級）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mage arena cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T064836Z" creationid="2008l" creationdate="20240829T064836Z">
+        <seg>魔法アリーナのマント</seg>
       </tuv>
     </tu>
     <tu>
@@ -67102,6 +67126,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Orchid seed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T064938Z" creationid="2008l" creationdate="20240829T064938Z">
+        <seg>ランの種</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Orchids</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T132528Z" creationid="yumas" creationdate="20240811T132528Z">
@@ -70194,6 +70226,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T132446Z" creationid="yumas" creationdate="20240811T132446Z">
         <seg>ピンクのバラの小区画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pink rose seed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T064908Z" creationid="2008l" creationdate="20240829T064908Z">
+        <seg>ピンクのバラの種</seg>
       </tuv>
     </tu>
     <tu>
@@ -75290,6 +75330,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T132506Z" creationid="yumas" creationdate="20240811T132506Z">
         <seg>赤いバラの小区画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Red rose seed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T064853Z" creationid="2008l" creationdate="20240829T064853Z">
+        <seg>赤いバラの種</seg>
       </tuv>
     </tu>
     <tu>
@@ -86258,6 +86306,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T132700Z" creationid="yumas" creationdate="20240811T132700Z">
         <seg>スノードロップの小区画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Snowdrop seed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T064943Z" creationid="2008l" creationdate="20240829T064943Z">
+        <seg>スノードロップの種</seg>
       </tuv>
     </tu>
     <tu>
@@ -101184,6 +101240,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Vine seed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T064914Z" creationid="2008l" creationdate="20240829T064914Z">
+        <seg>ツルの種</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Vines</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T132831Z" creationid="yumas" creationdate="20240811T132831Z">
@@ -103504,6 +103568,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>White rose seed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T064845Z" creationid="2008l" creationdate="20240829T064845Z">
+        <seg>白いバラの種</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>White roses</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T230418Z" creationid="yumas" creationdate="20240811T230418Z">
@@ -103532,6 +103604,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T113750Z" creationid="yumas" creationdate="20240812T113750Z">
         <seg>白い木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>White tree shoot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T065005Z" creationid="2008l" creationdate="20240829T065005Z">
+        <seg>白い木のシュート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>White tree shoot (w)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240829T065017Z" creationid="2008l" creationdate="20240829T065017Z">
+        <seg>白い木のシュート（水）</seg>
       </tuv>
     </tu>
     <tu>
