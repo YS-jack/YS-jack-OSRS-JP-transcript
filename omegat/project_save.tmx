@@ -11486,6 +11486,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bloom</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T123603Z" creationid="yumas" creationdate="20240829T123603Z">
+        <seg>咲かせる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blooming Hespori sprout</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T083137Z" creationid="yumas" creationdate="20240814T083137Z">
@@ -19538,6 +19546,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T095946Z" creationid="yumas" creationdate="20240730T095946Z">
         <seg>確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Check Charges</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T123807Z" creationid="yumas" creationdate="20240829T123807Z">
+        <seg>チャージ確認</seg>
       </tuv>
     </tu>
     <tu>
@@ -31282,6 +31298,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T051256Z" creationid="yumas" creationdate="20240812T051256Z">
         <seg>ワシのレバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Eagles' Eyrie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T123956Z" creationid="yumas" creationdate="20240829T123956Z">
+        <seg>ワシの巣</seg>
       </tuv>
     </tu>
     <tu>
@@ -50254,6 +50278,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jatiszo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T123622Z" creationid="yumas" creationdate="20240829T123622Z">
+        <seg>ジャティスゾ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jatix</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T071726Z" creationid="yumas" creationdate="20240809T071726Z">
@@ -55762,6 +55794,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T010554Z" creationid="yumas" creationdate="20240809T010554Z">
         <seg>下位の狂信者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lesser Nagua</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T123532Z" creationid="yumas" creationdate="20240829T123532Z">
+        <seg>下位のナーガ</seg>
       </tuv>
     </tu>
     <tu>
@@ -76574,6 +76614,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Recoil Settings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T123810Z" creationid="yumas" creationdate="20240829T123810Z">
+        <seg>反射の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Recoil settings</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240804T050116Z" creationid="yumas" creationdate="20240804T050116Z">
@@ -97088,6 +97136,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The Outpost</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T123815Z" creationid="yumas" creationdate="20240829T123815Z">
+        <seg>前哨基地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The Overseer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T130303Z" creationid="yumas" creationdate="20240812T130303Z">
@@ -97988,6 +98044,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T082947Z" creationid="yumas" creationdate="20240813T082652Z">
         <seg>極小な収納ユニット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tip</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T123647Z" creationid="yumas" creationdate="20240829T123647Z">
+        <seg>傾ける</seg>
       </tuv>
     </tu>
     <tu>
@@ -107992,10 +108056,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Xeric's Glade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T123737Z" creationid="yumas" creationdate="20240829T123737Z">
+        <seg>ゼリックの空地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Xeric's Heart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T123801Z" creationid="yumas" creationdate="20240829T123801Z">
+        <seg>ゼリックの中心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Xeric's Honour</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T123806Z" creationid="yumas" creationdate="20240829T123806Z">
+        <seg>ゼリックの名誉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Xeric's Inferno</seg>
+      </tuv>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T123754Z" creationid="yumas" creationdate="20240829T123754Z">
+        <seg>ゼリックの猛火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Xeric's Lookout</seg>
       </tuv>
-      <tuv lang="ja" changeid="yumas" changedate="20240828T141654Z" creationid="yumas" creationdate="20240828T141654Z">
-        <seg>ゼリックの</seg>
+      <tuv lang="ja" changeid="yumas" changedate="20240829T123700Z" creationid="yumas" creationdate="20240828T141654Z">
+        <seg>ゼリックの見張り</seg>
       </tuv>
     </tu>
     <tu>
