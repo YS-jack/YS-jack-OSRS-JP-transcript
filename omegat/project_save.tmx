@@ -7110,6 +7110,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Baked potato</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T063504Z" creationid="2008l" creationdate="20240830T063504Z">
+        <seg>ベークドポテト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Baker</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134247Z" creationid="yumas" creationdate="20240807T134247Z">
@@ -10958,10 +10966,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blindweed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T063718Z" creationid="2008l" creationdate="20240830T063718Z">
+        <seg>ブラインドウィード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blindweed Patch</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T225007Z" creationid="yumas" creationdate="20240811T225007Z">
         <seg>ブラインドウィードの小区画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blindweed seed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T063715Z" creationid="2008l" creationdate="20240830T063715Z">
+        <seg>ブラインドウィードの種</seg>
       </tuv>
     </tu>
     <tu>
@@ -15790,6 +15814,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Burnt potato</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T063447Z" creationid="2008l" creationdate="20240830T063447Z">
+        <seg>焦げたジャガイモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Burnt rock</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T125432Z" creationid="yumas" creationdate="20240812T125432Z">
@@ -16770,6 +16802,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T032014Z" creationid="yumas" creationdate="20240811T032014Z">
         <seg>キャンプのベッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Camulet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T063646Z" creationid="2008l" creationdate="20240830T063646Z">
+        <seg>カミュレット</seg>
       </tuv>
     </tu>
     <tu>
@@ -47086,6 +47126,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Holy wrench</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T063725Z" creationid="2008l" creationdate="20240830T063725Z">
+        <seg>聖なるレンチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Home</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T123305Z" creationid="yumas" creationdate="20240731T123305Z">
@@ -73214,6 +73262,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Potato with butter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T063618Z" creationid="2008l" creationdate="20240830T063618Z">
+        <seg>ジャガイモのバター風味</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Potato with cheese</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T063632Z" creationid="2008l" creationdate="20240830T063632Z">
+        <seg>ジャガイモのチーズ風味</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Potatoes</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T223551Z" creationid="yumas" creationdate="20240811T223551Z">
@@ -87478,6 +87542,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Slayer gloves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T063655Z" creationid="2008l" creationdate="20240830T063655Z">
+        <seg>討伐の手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Slayer's Respite</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T011112Z" creationid="yumas" creationdate="20240812T010932Z">
@@ -87810,6 +87882,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T110405Z" creationid="yumas" creationdate="20240812T045742Z">
         <seg>ナメクジの粘液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sluglings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T063852Z" creationid="2008l" creationdate="20240830T063852Z">
+        <seg>小ナメクジ</seg>
       </tuv>
     </tu>
     <tu>
@@ -108492,6 +108572,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T125551Z" creationid="yumas" creationdate="20240813T125551Z">
         <seg>沈没船</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wrench</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T063721Z" creationid="2008l" creationdate="20240830T063721Z">
+        <seg>レンチ</seg>
       </tuv>
     </tu>
     <tu>
