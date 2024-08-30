@@ -10206,6 +10206,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Black desert robe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T065140Z" creationid="2008l" creationdate="20240830T065140Z">
+        <seg>黒色の砂漠のローブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black desert shirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T065132Z" creationid="2008l" creationdate="20240830T065132Z">
+        <seg>黒色の砂漠のシャツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Black dragon</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T044126Z" creationid="yumas" creationdate="20240805T044126Z">
@@ -17930,6 +17946,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T130551Z" creationid="yumas" creationdate="20240814T130551Z">
         <seg>ネコの聖堂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cat antipoison</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T065236Z" creationid="2008l" creationdate="20240830T065236Z">
+        <seg>ネコの解毒剤</seg>
       </tuv>
     </tu>
     <tu>
@@ -27582,10 +27606,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Demonic sigil</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T065051Z" creationid="2008l" creationdate="20240830T065051Z">
+        <seg>悪魔の魔法印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Demonic sigil mould</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240830T065039Z" creationid="2008l" creationdate="20240830T065039Z">
         <seg>悪魔の魔法印の鋳型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Demonic tome</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T065120Z" creationid="2008l" creationdate="20240830T065120Z">
+        <seg>悪魔の書物</seg>
       </tuv>
     </tu>
     <tu>
@@ -33298,6 +33338,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T075746Z" creationid="2008l" creationdate="20240822T075746Z">
         <seg>魔法の宝石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Enchanted key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T065143Z" creationid="2008l" creationdate="20240830T065143Z">
+        <seg>魔法のカギ</seg>
       </tuv>
     </tu>
     <tu>
@@ -44714,6 +44762,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240818T181938Z" creationid="2008l" creationdate="20240818T181938Z">
         <seg>ガシックスのタコ盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guthix mjolnir</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T065217Z" creationid="2008l" creationdate="20240830T065217Z">
+        <seg>がシックスのミョルニル</seg>
       </tuv>
     </tu>
     <tu>
@@ -64782,6 +64838,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Music scroll</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T065312Z" creationid="2008l" creationdate="20240830T065312Z">
+        <seg>音楽の巻物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Musical space</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T030516Z" creationid="yumas" creationdate="20240812T030516Z">
@@ -72698,6 +72762,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T131838Z" creationid="yumas" creationdate="20240807T131838Z">
         <seg>毒グモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Poisoned cheese</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T065250Z" creationid="2008l" creationdate="20240830T065250Z">
+        <seg>毒のチーズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -83130,6 +83202,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240818T181858Z" creationid="2008l" creationdate="20240818T181858Z">
         <seg>サラドミンのタコ盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Saradomin mjolnir</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T065221Z" creationid="2008l" creationdate="20240830T065221Z">
+        <seg>サラドミンのミョルニル</seg>
       </tuv>
     </tu>
     <tu>
@@ -109684,6 +109764,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T052141Z" creationid="yumas" creationdate="20240809T052141Z">
         <seg>ザモラックの魔術師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak mjolnir</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240830T065224Z" creationid="2008l" creationdate="20240830T065224Z">
+        <seg>ザモラックのミョルニル</seg>
       </tuv>
     </tu>
     <tu>
