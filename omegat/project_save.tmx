@@ -16838,6 +16838,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Camel mask</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065758Z" creationid="2008l" creationdate="20240831T065758Z">
+        <seg>ラクダのマスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Camel mould (p)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240831T065748Z" creationid="2008l" creationdate="20240831T065748Z">
@@ -57290,6 +57298,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240729T131214Z" creationid="2008l" creationdate="20240716T075502Z">
         <seg>火のついた黒いロウソク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lit bug lantern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T070033Z" creationid="2008l" creationdate="20240831T070033Z">
+        <seg>火のついた虫ランタン</seg>
       </tuv>
     </tu>
     <tu>
@@ -103292,6 +103308,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T043704Z" creationid="yumas" creationdate="20240815T043704Z">
         <seg>未点火の火鉢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Unlit bug lantern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065906Z" creationid="2008l" creationdate="20240831T065906Z">
+        <seg>火のない虫ランタン</seg>
       </tuv>
     </tu>
     <tu>
