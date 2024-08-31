@@ -12678,6 +12678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Book o' piracy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T071853Z" creationid="2008l" creationdate="20240831T071853Z">
+        <seg>海賊の本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Book of 'h.a.m'</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240826T070049Z" creationid="2008l" creationdate="20240826T070049Z">
@@ -112310,6 +112318,17 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240827T064934Z" creationid="2008l" creationdate="20240827T064934Z">
         <seg>歯車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_item.xliff</prop>
+      <prop type="id">3408</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Plunder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T071809Z" creationid="2008l" creationdate="20240831T071809Z">
+        <seg>略奪品</seg>
       </tuv>
     </tu>
     <tu>
