@@ -36950,6 +36950,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fish pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T072707Z" creationid="2008l" creationdate="20240831T072707Z">
+        <seg>魚パイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fish shoal</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T061439Z" creationid="yumas" creationdate="20240809T061439Z">
@@ -39826,6 +39834,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240828T122055Z" creationid="yumas" creationdate="20240828T122055Z">
         <seg>静寂の庭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Garden pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T072546Z" creationid="2008l" creationdate="20240831T072516Z">
+        <seg>ガーデンパイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -45546,6 +45562,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T072022Z" creationid="yumas" creationdate="20240809T072022Z">
         <seg>ハルドー・クォ・ケラン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Half a fish pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T072713Z" creationid="2008l" creationdate="20240831T072713Z">
+        <seg>1/2魚パイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Half a garden pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T072540Z" creationid="2008l" creationdate="20240831T072540Z">
+        <seg>1/2ガーデンパイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -65128,8 +65160,8 @@
       <tuv lang="en-GB">
         <seg>Mud pie</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240831T072431Z" creationid="2008l" creationdate="20240831T072431Z">
-        <seg>泥のパイ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T072552Z" creationid="2008l" creationdate="20240831T072431Z">
+        <seg>泥パイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -70678,18 +70710,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Part admiral pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T072740Z" creationid="2008l" creationdate="20240831T072740Z">
+        <seg>パートの提督パイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Part fish pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T072658Z" creationid="2008l" creationdate="20240831T072658Z">
+        <seg>パートの魚パイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Part garden pie</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240831T072500Z" creationid="2008l" creationdate="20240831T072500Z">
-        <seg>パートガーデンのパイ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T072629Z" creationid="2008l" creationdate="20240831T072500Z">
+        <seg>パートのガーデンパイ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Part mud pie</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240831T072417Z" creationid="2008l" creationdate="20240831T072417Z">
-        <seg>パート泥のパイ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T072634Z" creationid="2008l" creationdate="20240831T072417Z">
+        <seg>パートの泥パイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -77126,10 +77174,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Raw fish pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T072704Z" creationid="2008l" creationdate="20240831T072704Z">
+        <seg>生の魚パイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Raw fishlike thing</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240829T062248Z" creationid="2008l" creationdate="20240829T062248Z">
         <seg>生の魚っぽいなにか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raw garden pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T072548Z" creationid="2008l" creationdate="20240831T072511Z">
+        <seg>生のガーデンパイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -77208,8 +77272,8 @@
       <tuv lang="en-GB">
         <seg>Raw mud pie</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240831T072424Z" creationid="2008l" creationdate="20240831T072424Z">
-        <seg>生の泥のパイ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T072624Z" creationid="2008l" creationdate="20240831T072424Z">
+        <seg>生の泥パイ</seg>
       </tuv>
     </tu>
     <tu>
