@@ -16838,6 +16838,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Camel mould (p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065748Z" creationid="2008l" creationdate="20240831T065748Z">
+        <seg>ラクダの鋳型（ポジティブ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Camel's statue</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T003605Z" creationid="yumas" creationdate="20240812T003605Z">
@@ -42894,6 +42902,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Granite (5kg)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065100Z" creationid="2008l" creationdate="20240831T065100Z">
+        <seg>花崗岩（5kg）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Granite legs</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240830T070559Z" creationid="2008l" creationdate="20240830T070509Z">
@@ -52094,6 +52110,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>K sigil</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065311Z" creationid="2008l" creationdate="20240831T065311Z">
+        <seg>Kの紋章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>K'klik</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T114516Z" creationid="yumas" creationdate="20240805T114516Z">
@@ -58882,6 +58906,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240821T065014Z" creationid="2008l" creationdate="20240821T065014Z">
         <seg>たて琴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>M sigil</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065303Z" creationid="2008l" creationdate="20240831T065303Z">
+        <seg>Mの紋章</seg>
       </tuv>
     </tu>
     <tu>
@@ -75894,6 +75926,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>R sigil</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065307Z" creationid="2008l" creationdate="20240831T065307Z">
+        <seg>Rの紋章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>R0ck 5masher</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T132000Z" creationid="yumas" creationdate="20240806T132000Z">
@@ -83430,6 +83470,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sandstone (20kg)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065107Z" creationid="2008l" creationdate="20240831T065107Z">
+        <seg>砂岩（20kg）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sandstone (2kg)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240831T064942Z" creationid="2008l" creationdate="20240831T064942Z">
@@ -83438,10 +83486,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sandstone (32kg)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065109Z" creationid="2008l" creationdate="20240831T065109Z">
+        <seg>砂岩（32kg）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sandstone (5kg)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240831T064944Z" creationid="2008l" creationdate="20240831T064944Z">
         <seg>砂岩（5kg）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sandstone base</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065144Z" creationid="2008l" creationdate="20240831T065144Z">
+        <seg>砂岩のベース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sandstone body</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065130Z" creationid="2008l" creationdate="20240831T065130Z">
+        <seg>砂岩ののボディ</seg>
       </tuv>
     </tu>
     <tu>
@@ -93054,10 +93126,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stone head</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065232Z" creationid="2008l" creationdate="20240831T065232Z">
+        <seg>石の頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stone ladder</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T093212Z" creationid="yumas" creationdate="20240812T093212Z">
         <seg>石のハシゴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stone left arm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065319Z" creationid="2008l" creationdate="20240831T065319Z">
+        <seg>石の左手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stone left leg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065331Z" creationid="2008l" creationdate="20240831T065331Z">
+        <seg>石の左足</seg>
       </tuv>
     </tu>
     <tu>
@@ -93074,6 +93170,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T110603Z" creationid="yumas" creationdate="20240814T110603Z">
         <seg>石製の飲み場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stone right arm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065324Z" creationid="2008l" creationdate="20240831T065324Z">
+        <seg>石の右手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stone right leg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065343Z" creationid="2008l" creationdate="20240831T065343Z">
+        <seg>石の右足</seg>
       </tuv>
     </tu>
     <tu>
@@ -110332,6 +110444,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T064805Z" creationid="yumas" creationdate="20240809T064805Z">
         <seg>ユスフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Z sigil</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T065259Z" creationid="2008l" creationdate="20240831T065259Z">
+        <seg>Zの紋章</seg>
       </tuv>
     </tu>
     <tu>
