@@ -1472,8 +1472,8 @@
       <tuv lang="en-GB">
         <seg>Adamant claws</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240819T070408Z" creationid="2008l" creationdate="20240819T070408Z">
-        <seg>アダマントのクローズ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T074746Z" creationid="2008l" creationdate="20240819T070408Z">
+        <seg>アダマントのかぎ爪</seg>
       </tuv>
     </tu>
     <tu>
@@ -10192,8 +10192,8 @@
       <tuv lang="en-GB">
         <seg>Black claws</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240819T070403Z" creationid="2008l" creationdate="20240819T070403Z">
-        <seg>黒鉄のクローズ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T074742Z" creationid="2008l" creationdate="20240819T070403Z">
+        <seg>黒鉄のかぎ爪</seg>
       </tuv>
     </tu>
     <tu>
@@ -14784,8 +14784,8 @@
       <tuv lang="en-GB">
         <seg>Bronze claws</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240819T070348Z" creationid="2008l" creationdate="20240819T070348Z">
-        <seg>銅のクローズ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T074735Z" creationid="2008l" creationdate="20240819T070348Z">
+        <seg>銅のかぎ爪</seg>
       </tuv>
     </tu>
     <tu>
@@ -39566,6 +39566,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fungicide spray 10</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T075010Z" creationid="2008l" creationdate="20240831T075010Z">
+        <seg>殺菌剤のスプレー 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fungus</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T023924Z" creationid="yumas" creationdate="20240811T023924Z">
@@ -50448,8 +50456,8 @@
       <tuv lang="en-GB">
         <seg>Iron claws</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240819T070350Z" creationid="2008l" creationdate="20240819T070350Z">
-        <seg>鉄のクローズ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T074737Z" creationid="2008l" creationdate="20240819T070350Z">
+        <seg>鉄のかぎ爪</seg>
       </tuv>
     </tu>
     <tu>
@@ -63176,8 +63184,8 @@
       <tuv lang="en-GB">
         <seg>Mithril claws</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240819T070406Z" creationid="2008l" creationdate="20240819T070406Z">
-        <seg>ミスリルのクローズ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T074744Z" creationid="2008l" creationdate="20240819T070406Z">
+        <seg>ミスリルのかぎ爪</seg>
       </tuv>
     </tu>
     <tu>
@@ -65873,6 +65881,14 @@
         <seg>Mutated Zygomites</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240829T123031Z" creationid="yumas" creationdate="20240829T123031Z">
+        <seg>変異ジゴマイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mutated zygomite</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T074716Z" creationid="2008l" creationdate="20240831T074716Z">
         <seg>変異ジゴマイト</seg>
       </tuv>
     </tu>
@@ -82968,8 +82984,8 @@
       <tuv lang="en-GB">
         <seg>Rune claws</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240819T070415Z" creationid="2008l" creationdate="20240819T070415Z">
-        <seg>ルーンのクローズ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T074754Z" creationid="2008l" creationdate="20240819T070415Z">
+        <seg>ルーンのかぎ爪</seg>
       </tuv>
     </tu>
     <tu>
@@ -93072,8 +93088,8 @@
       <tuv lang="en-GB">
         <seg>Steel claws</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240819T070400Z" creationid="2008l" creationdate="20240819T070400Z">
-        <seg>鋼鉄のクローズ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T074739Z" creationid="2008l" creationdate="20240819T070400Z">
+        <seg>鋼鉄のかぎ爪</seg>
       </tuv>
     </tu>
     <tu>
@@ -108434,8 +108450,8 @@
       <tuv lang="en-GB">
         <seg>White claws</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240829T071143Z" creationid="2008l" creationdate="20240829T071143Z">
-        <seg>白鉄のクローズ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240831T074758Z" creationid="2008l" creationdate="20240829T071143Z">
+        <seg>白鉄のかぎ爪</seg>
       </tuv>
     </tu>
     <tu>
