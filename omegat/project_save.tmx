@@ -2478,6 +2478,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Agility tome</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T080429Z" creationid="2008l" creationdate="20240901T080429Z">
+        <seg>運動神経の書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Agitated bees</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T083925Z" creationid="yumas" creationdate="20240809T083925Z">
@@ -37422,6 +37430,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Firemaking tome</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T080500Z" creationid="2008l" creationdate="20240901T080431Z">
+        <seg>火起こしの書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Firepit</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T021146Z" creationid="yumas" creationdate="20240812T021146Z">
@@ -63634,6 +63650,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240826T071322Z" creationid="2008l" creationdate="20240826T071322Z">
         <seg>採掘用のヘルメット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mining tome</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T080453Z" creationid="2008l" creationdate="20240901T080431Z">
+        <seg>採掘の書</seg>
       </tuv>
     </tu>
     <tu>
@@ -90286,6 +90310,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Slayer tome</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T080448Z" creationid="2008l" creationdate="20240901T080430Z">
+        <seg>討伐の書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Slayer's Respite</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T011112Z" creationid="yumas" creationdate="20240812T010932Z">
@@ -100888,6 +100920,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Thieving tome</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T080443Z" creationid="2008l" creationdate="20240901T080429Z">
+        <seg>盗みの書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Thin snail</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240820T071753Z" creationid="2008l" creationdate="20240820T071753Z">
@@ -102866,8 +102906,8 @@
       <tuv lang="en-GB">
         <seg>Toy doll (wound)</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240901T075943Z" creationid="2008l" creationdate="20240901T075943Z">
-        <seg>おもちゃの人形</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T080548Z" creationid="2008l" creationdate="20240901T075943Z">
+        <seg>おもちゃの人形（巻かれた）</seg>
       </tuv>
     </tu>
     <tu>
@@ -102882,8 +102922,8 @@
       <tuv lang="en-GB">
         <seg>Toy mouse (wound)</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240901T075949Z" creationid="2008l" creationdate="20240901T075949Z">
-        <seg>おもちゃのネズミ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T080550Z" creationid="2008l" creationdate="20240901T075949Z">
+        <seg>おもちゃのネズミ（巻かれた）</seg>
       </tuv>
     </tu>
     <tu>
@@ -102922,8 +102962,8 @@
       <tuv lang="en-GB">
         <seg>Toy soldier (wound)</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240901T080304Z" creationid="2008l" creationdate="20240901T075829Z">
-        <seg>おもちゃの兵隊</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T080545Z" creationid="2008l" creationdate="20240901T075829Z">
+        <seg>おもちゃの兵隊（巻かれた）</seg>
       </tuv>
     </tu>
     <tu>
@@ -111436,6 +111476,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T092400Z" creationid="yumas" creationdate="20240812T092400Z">
         <seg>木こりの切り株</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Woodcutting tome</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T080509Z" creationid="2008l" creationdate="20240901T080432Z">
+        <seg>木こりの書</seg>
       </tuv>
     </tu>
     <tu>
