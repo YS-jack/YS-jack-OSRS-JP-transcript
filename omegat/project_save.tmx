@@ -16238,6 +16238,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Burnt fishcake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T072523Z" creationid="2008l" creationdate="20240901T072523Z">
+        <seg>焦げた魚ケーキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Burnt gnomebowl</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T064744Z" creationid="2008l" creationdate="20240810T064711Z">
@@ -23398,6 +23406,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cooked crab meat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T072433Z" creationid="2008l" creationdate="20240901T072433Z">
+        <seg>カニ肉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cooked fishcake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T072518Z" creationid="2008l" creationdate="20240901T072518Z">
+        <seg>魚ケーキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cooked karambwan</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240819T071418Z" creationid="2008l" creationdate="20240819T071204Z">
@@ -24272,8 +24296,8 @@
       <tuv lang="en-GB">
         <seg>Crab meat</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240901T072347Z" creationid="2008l" creationdate="20240901T072347Z">
-        <seg>カニ肉</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T072429Z" creationid="2008l" creationdate="20240901T072347Z">
+        <seg>生のカニ肉</seg>
       </tuv>
     </tu>
     <tu>
@@ -30018,6 +30042,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T043745Z" creationid="yumas" creationdate="20240731T131010Z">
         <seg>飛び込む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Diving apparatus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T072647Z" creationid="2008l" creationdate="20240901T072647Z">
+        <seg>潜水器</seg>
       </tuv>
     </tu>
     <tu>
@@ -37462,6 +37494,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fishbowl helmet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T072550Z" creationid="2008l" creationdate="20240901T072550Z">
+        <seg>金魚鉢のヘルメット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fisher</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T025426Z" creationid="yumas" creationdate="20240810T025426Z">
@@ -39378,6 +39418,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T014328Z" creationid="yumas" creationdate="20240809T014328Z">
         <seg>逆上した氷トロールの子供</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fresh crab claw</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T072715Z" creationid="2008l" creationdate="20240901T072715Z">
+        <seg>新鮮なカニのかぎ爪</seg>
       </tuv>
     </tu>
     <tu>
@@ -44794,6 +44842,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T070847Z" creationid="2008l" creationdate="20240726T063724Z">
         <seg>ひかれた炭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ground cod</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T072459Z" creationid="2008l" creationdate="20240901T072459Z">
+        <seg>ひかれたタラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ground crab meat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T072439Z" creationid="2008l" creationdate="20240901T072439Z">
+        <seg>ひかれたカニ肉</seg>
       </tuv>
     </tu>
     <tu>
@@ -65966,6 +66030,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mudskipper hide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T072541Z" creationid="2008l" creationdate="20240901T072541Z">
+        <seg>マッドスキッパーの皮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mugger</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T052954Z" creationid="yumas" creationdate="20240805T052954Z">
@@ -77994,6 +78066,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240831T072704Z" creationid="2008l" creationdate="20240831T072704Z">
         <seg>生の魚パイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Raw fishcake</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T072507Z" creationid="2008l" creationdate="20240901T072507Z">
+        <seg>生の魚ケーキ</seg>
       </tuv>
     </tu>
     <tu>
