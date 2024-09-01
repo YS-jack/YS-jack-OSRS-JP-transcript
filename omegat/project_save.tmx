@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>A Twisted Bow.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T073638Z" creationid="2008l" creationdate="20240901T073638Z">
+        <seg>歪みの弓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>A barrel of rainwater</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T044839Z" creationid="yumas" creationdate="20240812T044839Z">
@@ -15746,6 +15754,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240809T064728Z" creationid="2008l" creationdate="20240809T064728Z">
         <seg>ミルクのバケツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bucket of rubble</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T073814Z" creationid="2008l" creationdate="20240901T073814Z">
+        <seg>がれきのバケツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -51550,6 +51566,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Item</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T073735Z" creationid="2008l" creationdate="20240901T073735Z">
+        <seg>アイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Item Chest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T114830Z" creationid="yumas" creationdate="20240813T114830Z">
@@ -74298,6 +74322,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T021425Z" creationid="yumas" creationdate="20240811T021425Z">
         <seg>銘板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Plaster fragment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T074110Z" creationid="2008l" creationdate="20240901T074110Z">
+        <seg>プラスターの欠片</seg>
       </tuv>
     </tu>
     <tu>
@@ -104008,6 +104040,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Twisted bow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T073654Z" creationid="2008l" creationdate="20240901T073654Z">
+        <seg>歪みの弓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Twisted bush</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T083201Z" creationid="yumas" creationdate="20240814T083201Z">
@@ -112824,6 +112864,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Zombie boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T073734Z" creationid="2008l" creationdate="20240901T073734Z">
+        <seg>ゾンビの靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Zombie champion scroll</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240830T070423Z" creationid="2008l" creationdate="20240830T070423Z">
@@ -112832,10 +112880,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Zombie gloves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T073730Z" creationid="2008l" creationdate="20240901T073730Z">
+        <seg>ゾンビの手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Zombie head</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240830T064338Z" creationid="2008l" creationdate="20240830T064338Z">
         <seg>ゾンビの頭部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zombie mask</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T073725Z" creationid="2008l" creationdate="20240901T073725Z">
+        <seg>ゾンビのマスク</seg>
       </tuv>
     </tu>
     <tu>
@@ -112880,10 +112944,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Zombie shirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T073716Z" creationid="2008l" creationdate="20240901T073716Z">
+        <seg>ゾンビのシャツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Zombie swab</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T053757Z" creationid="yumas" creationdate="20240805T053757Z">
         <seg>ゾンビのスワブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zombie trousers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240901T073721Z" creationid="2008l" creationdate="20240901T073721Z">
+        <seg>ゾンビのズボン</seg>
       </tuv>
     </tu>
     <tu>
