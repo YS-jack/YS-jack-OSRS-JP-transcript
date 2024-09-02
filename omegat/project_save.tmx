@@ -7118,6 +7118,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Baby dragon bone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T051900Z" creationid="2008l" creationdate="20240902T051900Z">
+        <seg>幼竜の骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Baby dragon bonemeal</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T082254Z" creationid="2008l" creationdate="20240822T082254Z">
@@ -8730,6 +8738,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240724T070825Z" creationid="2008l" creationdate="20240724T070825Z">
         <seg>コウモリの骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bat wing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T051844Z" creationid="2008l" creationdate="20240902T051844Z">
+        <seg>コウモリの翼</seg>
       </tuv>
     </tu>
     <tu>
@@ -26534,6 +26550,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dagannoth ribs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T051957Z" creationid="2008l" creationdate="20240902T051957Z">
+        <seg>ダガノスのあばら骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dagannoth spawn</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T114216Z" creationid="yumas" creationdate="20240807T133851Z">
@@ -41814,6 +41838,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Giant bat wing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T051830Z" creationid="2008l" creationdate="20240902T051830Z">
+        <seg>巨大なコウモリの翼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Giant boulder</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T062808Z" creationid="yumas" creationdate="20240809T062754Z">
@@ -52666,6 +52698,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T195239Z" creationid="yumas" creationdate="20240807T195239Z">
         <seg>ジョーガのチャンピオン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jogre bone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T051912Z" creationid="2008l" creationdate="20240902T051912Z">
+        <seg>ジョーガの骨</seg>
       </tuv>
     </tu>
     <tu>
@@ -64526,6 +64566,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mogre bone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T051922Z" creationid="2008l" creationdate="20240902T051922Z">
+        <seg>モーガの骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mogres</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240829T122931Z" creationid="yumas" creationdate="20240829T122931Z">
@@ -64866,6 +64914,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T092612Z" creationid="yumas" creationdate="20240809T092612Z">
         <seg>ユニコーンにまたがるサル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Monkey paw</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T051941Z" creationid="2008l" creationdate="20240902T051941Z">
+        <seg>サルの足</seg>
       </tuv>
     </tu>
     <tu>
@@ -69442,6 +69498,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T071605Z" creationid="2008l" creationdate="20240810T071605Z">
         <seg>オーガの遺物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ogre ribs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T051908Z" creationid="2008l" creationdate="20240902T051908Z">
+        <seg>オーガのあばら骨</seg>
       </tuv>
     </tu>
     <tu>
@@ -78274,6 +78338,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T230251Z" creationid="yumas" creationdate="20240811T230251Z">
         <seg>ネズミの樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rat bone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T051854Z" creationid="2008l" creationdate="20240902T051854Z">
+        <seg>ネズミの骨</seg>
       </tuv>
     </tu>
     <tu>
@@ -91482,6 +91554,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240901T073452Z" creationid="2008l" creationdate="20240901T073452Z">
         <seg>蛇の焼き過ぎ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Snake spine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T052049Z" creationid="2008l" creationdate="20240902T052049Z">
+        <seg>ヘビの背骨</seg>
       </tuv>
     </tu>
     <tu>
@@ -111472,6 +111552,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wolf bone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T051831Z" creationid="2008l" creationdate="20240902T051831Z">
+        <seg>オオカミの骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Wolf bonemeal</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T082320Z" creationid="2008l" creationdate="20240822T082320Z">
@@ -113408,6 +113496,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Zogre bone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T051913Z" creationid="2008l" creationdate="20240902T051913Z">
+        <seg>ゾーガの骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Zogre bonemeal</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240826T070643Z" creationid="2008l" creationdate="20240826T070643Z">
@@ -113452,6 +113548,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T043931Z" creationid="yumas" creationdate="20240815T043931Z">
         <seg>海賊ゾンビのロッカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zombie bone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T052059Z" creationid="2008l" creationdate="20240902T052059Z">
+        <seg>ゾンビの骨</seg>
       </tuv>
     </tu>
     <tu>
