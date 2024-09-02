@@ -49366,6 +49366,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Hoop and stick</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T082829Z" creationid="2008l" creationdate="20240902T082829Z">
+        <seg>フープ＆スティック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hope bridge</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T022931Z" creationid="yumas" creationdate="20240812T022931Z">
@@ -53006,6 +53014,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Jester</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T082729Z" creationid="2008l" creationdate="20240902T082729Z">
+        <seg>道化師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Jester hat</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240830T071114Z" creationid="2008l" creationdate="20240830T071114Z">
@@ -54146,6 +54162,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T105050Z" creationid="yumas" creationdate="20240812T105050Z">
         <seg>女王カルファイトの足</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kalphite soldier</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T082547Z" creationid="2008l" creationdate="20240902T082547Z">
+        <seg>兵隊カルファイト</seg>
       </tuv>
     </tu>
     <tu>
@@ -61582,6 +61606,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Magical balance 1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T082724Z" creationid="2008l" creationdate="20240902T082724Z">
+        <seg>魔法の平衡1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magical balance 2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T082725Z" creationid="2008l" creationdate="20240902T082725Z">
+        <seg>魔法の平衡2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magical balance 3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T082726Z" creationid="2008l" creationdate="20240902T082726Z">
+        <seg>魔法の平衡3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Magical fire</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T084159Z" creationid="yumas" creationdate="20240813T084159Z">
@@ -62458,6 +62506,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T080438Z" creationid="2008l" creationdate="20240822T080438Z">
         <seg>大理石のアミュレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Marble att.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T082703Z" creationid="2008l" creationdate="20240902T082703Z">
+        <seg>大理石の攻撃石</seg>
       </tuv>
     </tu>
     <tu>
@@ -103320,6 +103376,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tok-xil</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T082548Z" creationid="2008l" creationdate="20240902T082548Z">
+        <seg>トク・ジル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tokkul</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240830T062152Z" creationid="2008l" creationdate="20240830T062152Z">
@@ -104888,6 +104952,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Treasure hunt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T082743Z" creationid="2008l" creationdate="20240902T082743Z">
+        <seg>宝探し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Treasure map</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T082550Z" creationid="2008l" creationdate="20240822T082550Z">
@@ -105324,6 +105396,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120657Z" creationid="yumas" creationdate="20240808T120657Z">
         <seg>トロールの将軍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Troll guard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T082545Z" creationid="2008l" creationdate="20240902T082545Z">
+        <seg>トロールの衛兵</seg>
       </tuv>
     </tu>
     <tu>
@@ -115220,6 +115300,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T214748Z" creationid="yumas" creationdate="20240730T214748Z">
         <seg>探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>stone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T082707Z" creationid="2008l" creationdate="20240902T082707Z">
+        <seg>石</seg>
       </tuv>
     </tu>
     <tu>
