@@ -34454,6 +34454,54 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Enchant diamond</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075406Z" creationid="2008l" creationdate="20240902T075406Z">
+        <seg>ダイヤを魔法付与</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Enchant dragonstone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075423Z" creationid="2008l" creationdate="20240902T075423Z">
+        <seg>竜石を魔法付与</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Enchant emerald or jade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075337Z" creationid="2008l" creationdate="20240902T075337Z">
+        <seg>エメラルドやヒスイを魔法付与</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Enchant onyx</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075431Z" creationid="2008l" creationdate="20240902T075431Z">
+        <seg>オニキスを魔法付与</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Enchant ruby or topaz</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075354Z" creationid="2008l" creationdate="20240902T075354Z">
+        <seg>ルビーやトパーズを魔法付与</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Enchant sapphire or opal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075322Z" creationid="2008l" creationdate="20240902T075322Z">
+        <seg>サファイアやオパールを魔法付与</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Enchant-Vials</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T122821Z" creationid="yumas" creationdate="20240803T122821Z">
@@ -100284,6 +100332,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T105747Z" creationid="yumas" creationdate="20240812T105637Z">
         <seg>念力ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Telekinetic grab</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075658Z" creationid="2008l" creationdate="20240902T075658Z">
+        <seg>掌握</seg>
       </tuv>
     </tu>
     <tu>
