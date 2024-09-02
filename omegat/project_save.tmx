@@ -5486,6 +5486,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ardougne teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075139Z" creationid="2008l" creationdate="20240902T075139Z">
+        <seg>アルドイン・ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ardougne teleport scroll</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240805T073107Z" creationid="2008l" creationdate="20240805T073107Z">
@@ -6026,6 +6034,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T123003Z" creationid="yumas" creationdate="20240808T123003Z">
         <seg>アーサー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Arthur portrait</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T074926Z" creationid="2008l" creationdate="20240902T074926Z">
+        <seg>アーサーの肖像画</seg>
       </tuv>
     </tu>
     <tu>
@@ -9870,10 +9886,18 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Big shark</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T074907Z" creationid="2008l" creationdate="20240902T074907Z">
+        <seg>でかいサメ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Big swordfish</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240902T074842Z" creationid="2008l" creationdate="20240902T074842Z">
-        <seg>でかい</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T074852Z" creationid="2008l" creationdate="20240902T074842Z">
+        <seg>でかいカジキ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12994,6 +13018,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T215513Z" creationid="yumas" creationdate="20240827T215513Z">
         <seg>骨からモモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bones to bananas</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075141Z" creationid="2008l" creationdate="20240902T075141Z">
+        <seg>骨からバナナ</seg>
       </tuv>
     </tu>
     <tu>
@@ -17489,6 +17521,14 @@
         <seg>Camelot Teleport</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240827T215204Z" creationid="yumas" creationdate="20240827T215204Z">
+        <seg>カメロット・ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Camelot teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075138Z" creationid="2008l" creationdate="20240902T075138Z">
         <seg>カメロット・ワープ</seg>
       </tuv>
     </tu>
@@ -33430,6 +33470,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Elena portrait</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T074939Z" creationid="2008l" creationdate="20240902T074939Z">
+        <seg>エレナの肖像画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Elenwe</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T080141Z" creationid="yumas" creationdate="20240809T080141Z">
@@ -36258,6 +36306,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T073024Z" creationid="2008l" creationdate="20240727T070253Z">
         <seg>ファラドーの盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Falador teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075138Z" creationid="2008l" creationdate="20240902T075138Z">
+        <seg>ファラドー・ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -54542,6 +54598,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Keldagrim portrait</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075036Z" creationid="2008l" creationdate="20240902T075036Z">
+        <seg>ケルダグリムの肖像画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Kelp</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T013146Z" creationid="yumas" creationdate="20240812T013146Z">
@@ -56522,6 +56586,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T083318Z" creationid="yumas" creationdate="20240813T083318Z">
         <seg>大きな穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Large map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075135Z" creationid="2008l" creationdate="20240902T075135Z">
+        <seg>大きな地図</seg>
       </tuv>
     </tu>
     <tu>
@@ -60278,6 +60350,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lumbridge teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075137Z" creationid="2008l" creationdate="20240902T075137Z">
+        <seg>ランブリッジ・ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lumdo</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T085744Z" creationid="yumas" creationdate="20240805T085744Z">
@@ -62974,6 +63054,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Medium map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075129Z" creationid="2008l" creationdate="20240902T075129Z">
+        <seg>普通の地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Medium ninja bonemeal</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T082339Z" creationid="2008l" creationdate="20240822T082339Z">
@@ -64138,6 +64226,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T075752Z" creationid="2008l" creationdate="20240822T075752Z">
         <seg>鏡の盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Misc.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075112Z" creationid="2008l" creationdate="20240902T075112Z">
+        <seg>雑多の肖像画</seg>
       </tuv>
     </tu>
     <tu>
@@ -91374,6 +91470,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Small map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075124Z" creationid="2008l" creationdate="20240902T075124Z">
+        <seg>小さな地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Small ninja bonemeal</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T082330Z" creationid="2008l" creationdate="20240822T082330Z">
@@ -96846,6 +96950,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Stuffed big shark</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T074912Z" creationid="2008l" creationdate="20240902T074912Z">
+        <seg>でかいサメの剝製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Stuffed big swordfish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T074901Z" creationid="2008l" creationdate="20240902T074901Z">
+        <seg>でかいカジキの剝製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Stuffed cockatrice head</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240902T074712Z" creationid="2008l" creationdate="20240902T074712Z">
@@ -100308,6 +100428,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T004230Z" creationid="yumas" creationdate="20240803T004230Z">
         <seg>目的地へワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teleport to house</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075140Z" creationid="2008l" creationdate="20240902T075140Z">
+        <seg>家ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -107040,6 +107168,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Varrock teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075136Z" creationid="2008l" creationdate="20240902T075136Z">
+        <seg>ヴァロック・ワープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Vasa Minirio</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T065748Z" creationid="yumas" creationdate="20240809T065748Z">
@@ -109196,6 +109332,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T123230Z" creationid="yumas" creationdate="20240808T123230Z">
         <seg>監視塔の魔法使い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Watchtower teleport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075139Z" creationid="2008l" creationdate="20240902T075139Z">
+        <seg>監視塔ワープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -114388,6 +114532,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T010044Z" creationid="yumas" creationdate="20240812T010006Z">
         <seg>ロープを結んだパイプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>portrait</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T075115Z" creationid="2008l" creationdate="20240902T075115Z">
+        <seg>肖像画</seg>
       </tuv>
     </tu>
     <tu>
