@@ -28438,6 +28438,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Decorative rock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T082854Z" creationid="2008l" creationdate="20240902T082854Z">
+        <seg>装飾の石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Decorative shield</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T073615Z" creationid="2008l" creationdate="20240822T073615Z">
@@ -30473,6 +30481,14 @@
         <seg>Dock Leaf</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T051746Z" creationid="yumas" creationdate="20240811T051746Z">
+        <seg>エゾノギシギシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dock leaf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T083028Z" creationid="2008l" creationdate="20240902T083028Z">
         <seg>エゾノギシギシ</seg>
       </tuv>
     </tu>
@@ -50718,6 +50734,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Imp statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T082902Z" creationid="2008l" creationdate="20240902T082902Z">
+        <seg>小悪魔の像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Impale</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240828T111327Z" creationid="yumas" creationdate="20240824T051810Z">
@@ -68850,6 +68874,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T082436Z" creationid="yumas" creationdate="20240809T082436Z">
         <seg>ニア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nice tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T082917Z" creationid="2008l" creationdate="20240902T082917Z">
+        <seg>すてきな木</seg>
       </tuv>
     </tu>
     <tu>
@@ -116001,6 +116033,17 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240831T071809Z" creationid="2008l" creationdate="20240831T071809Z">
         <seg>略奪品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_item.xliff</prop>
+      <prop type="id">3963</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Plant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T082940Z" creationid="2008l" creationdate="20240902T082940Z">
+        <seg>植物</seg>
       </tuv>
     </tu>
     <tu>
