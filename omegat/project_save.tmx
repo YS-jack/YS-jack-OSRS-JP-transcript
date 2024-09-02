@@ -12654,6 +12654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bob icon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T080825Z" creationid="2008l" creationdate="20240902T080825Z">
+        <seg>ボブの肖像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bob's barrel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T033800Z" creationid="yumas" creationdate="20240811T033800Z">
@@ -22522,6 +22530,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T052933Z" creationid="yumas" creationdate="20240812T052933Z">
         <seg>布が掛けられたテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cloth-covered altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T080913Z" creationid="2008l" creationdate="20240902T080913Z">
+        <seg>布が掛けられた祭壇</seg>
       </tuv>
     </tu>
     <tu>
@@ -42422,6 +42438,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Gilded altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T080951Z" creationid="2008l" creationdate="20240902T080951Z">
+        <seg>黄金の祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gilded bench</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T015105Z" creationid="yumas" creationdate="20240812T015105Z">
@@ -46570,6 +46594,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240818T181924Z" creationid="2008l" creationdate="20240818T181924Z">
         <seg>ガシックスの全頭甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guthix icon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T080805Z" creationid="2008l" creationdate="20240902T080805Z">
+        <seg>がシックスの肖像</seg>
       </tuv>
     </tu>
     <tu>
@@ -58918,6 +58950,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Limestone altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T080933Z" creationid="2008l" creationdate="20240902T080933Z">
+        <seg>石灰岩の祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Limestone brick</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240820T072647Z" creationid="2008l" creationdate="20240820T072647Z">
@@ -61542,6 +61582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mahogany altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T080925Z" creationid="2008l" creationdate="20240902T080925Z">
+        <seg>マホガニーの祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mahogany bench</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T015101Z" creationid="yumas" creationdate="20240812T015101Z">
@@ -62266,6 +62314,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T071348Z" creationid="yumas" creationdate="20240813T071348Z">
         <seg>大理石の冒険家ログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Marble altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T080945Z" creationid="2008l" creationdate="20240902T080945Z">
+        <seg>大理石の祭壇</seg>
       </tuv>
     </tu>
     <tu>
@@ -69178,6 +69234,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T224027Z" creationid="yumas" creationdate="20240808T224027Z">
         <seg>オーニアル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Oak altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T080855Z" creationid="2008l" creationdate="20240902T080846Z">
+        <seg>樫の祭壇</seg>
       </tuv>
     </tu>
     <tu>
@@ -86496,8 +86560,8 @@
       <tuv lang="en-GB">
         <seg>Saradomin icon</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240902T080735Z" creationid="2008l" creationdate="20240902T080735Z">
-        <seg>サラドミンの偶像</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T080753Z" creationid="2008l" creationdate="20240902T080735Z">
+        <seg>サラドミンの肖像</seg>
       </tuv>
     </tu>
     <tu>
@@ -99688,6 +99752,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Teak altar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T080900Z" creationid="2008l" creationdate="20240902T080900Z">
+        <seg>チークの祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Teak bed</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240902T080237Z" creationid="2008l" creationdate="20240902T080237Z">
@@ -112712,6 +112784,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wooden torches</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T081113Z" creationid="2008l" creationdate="20240902T081113Z">
+        <seg>木製の松明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Woodsman tutor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T134902Z" creationid="yumas" creationdate="20240807T134902Z">
@@ -113988,6 +114068,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240818T181803Z" creationid="2008l" creationdate="20240818T181803Z">
         <seg>ザモラックの全頭甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak icon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240902T080801Z" creationid="2008l" creationdate="20240902T080801Z">
+        <seg>ザモラックの肖像</seg>
       </tuv>
     </tu>
     <tu>
