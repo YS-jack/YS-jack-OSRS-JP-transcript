@@ -9534,6 +9534,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bench with lathe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T125409Z" creationid="2008l" creationdate="20240903T125409Z">
+        <seg>旋盤付き作業台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bench with vice</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240903T125300Z" creationid="2008l" creationdate="20240903T125300Z">
@@ -24818,6 +24826,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T094753Z" creationid="yumas" creationdate="20240811T094753Z">
         <seg>工作道具の屋台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crafting table 1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T125452Z" creationid="2008l" creationdate="20240903T125452Z">
+        <seg>クラフトテーブル1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crafting table 2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T125452Z" creationid="2008l" creationdate="20240903T125452Z">
+        <seg>クラフトテーブル2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crafting table 3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T125453Z" creationid="2008l" creationdate="20240903T125453Z">
+        <seg>クラフトテーブル3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crafting table 4</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T125453Z" creationid="2008l" creationdate="20240903T125453Z">
+        <seg>クラフトテーブル4</seg>
       </tuv>
     </tu>
     <tu>
@@ -104372,6 +104412,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T031719Z" creationid="yumas" creationdate="20240812T031719Z">
         <seg>道具のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tool store 1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T125713Z" creationid="2008l" creationdate="20240903T125713Z">
+        <seg>道具の置き場1</seg>
       </tuv>
     </tu>
     <tu>
