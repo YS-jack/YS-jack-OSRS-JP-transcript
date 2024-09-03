@@ -36606,6 +36606,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fancy hedge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T050804Z" creationid="2008l" creationdate="20240903T050804Z">
+        <seg>おしゃれな生垣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fancy pool of Rejuvenation</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T074049Z" creationid="yumas" creationdate="20240813T074049Z">
@@ -69790,6 +69798,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Oak shelves 1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T050958Z" creationid="2008l" creationdate="20240903T050958Z">
+        <seg>樫の棚1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Oak shelves 2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T050959Z" creationid="2008l" creationdate="20240903T050959Z">
+        <seg>樫の棚2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Oak shortbow</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T063153Z" creationid="2008l" creationdate="20240728T055754Z">
@@ -90558,6 +90582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sink</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T051011Z" creationid="2008l" creationdate="20240903T051011Z">
+        <seg>シンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sink space</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T031207Z" creationid="yumas" creationdate="20240812T031207Z">
@@ -92024,8 +92056,8 @@
       <tuv lang="en-GB">
         <seg>Small box hedge</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240903T050743Z" creationid="2008l" creationdate="20240903T050743Z">
-        <seg>小さな箱の生垣</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T050913Z" creationid="2008l" creationdate="20240903T050743Z">
+        <seg>小さな箱型の生垣</seg>
       </tuv>
     </tu>
     <tu>
@@ -99656,6 +99688,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Tall box hedge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T050906Z" creationid="2008l" creationdate="20240903T050906Z">
+        <seg>高い箱型の生垣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tall fancy hedge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T050811Z" creationid="2008l" creationdate="20240903T050811Z">
+        <seg>高いおしゃれな生垣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Tall mirror</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T040733Z" creationid="yumas" creationdate="20240812T040733Z">
@@ -100316,6 +100364,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T125714Z" creationid="yumas" creationdate="20240812T125714Z">
         <seg>チークの爪かきポスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teak shelves 1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T051007Z" creationid="2008l" creationdate="20240903T051007Z">
+        <seg>チークの棚1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teak shelves 2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T051008Z" creationid="2008l" creationdate="20240903T051008Z">
+        <seg>チークの棚2</seg>
       </tuv>
     </tu>
     <tu>
@@ -113244,6 +113308,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T053818Z" creationid="yumas" creationdate="20240812T053818Z">
         <seg>木製のプラットホーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wooden shelves 1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T050944Z" creationid="2008l" creationdate="20240903T050938Z">
+        <seg>木製の棚1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wooden shelves 2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T050946Z" creationid="2008l" creationdate="20240903T050940Z">
+        <seg>木製の棚2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Wooden shelves 3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T050947Z" creationid="2008l" creationdate="20240903T050947Z">
+        <seg>木製の棚3</seg>
       </tuv>
     </tu>
     <tu>
