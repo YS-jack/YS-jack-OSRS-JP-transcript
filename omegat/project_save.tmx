@@ -18854,6 +18854,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cat blanket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T051243Z" creationid="2008l" creationdate="20240903T051243Z">
+        <seg>ネコの毛布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cat training medal</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240806T063747Z" creationid="2008l" creationdate="20240806T063747Z">
@@ -26338,6 +26346,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T133627Z" creationid="yumas" creationdate="20240814T133627Z">
         <seg>クッション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cushioned basket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T051304Z" creationid="2008l" creationdate="20240903T051304Z">
+        <seg>クッション付きバスケット</seg>
       </tuv>
     </tu>
     <tu>
@@ -69694,6 +69710,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Oak kitchen table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T051346Z" creationid="2008l" creationdate="20240903T051346Z">
+        <seg>樫の台所のテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Oak larder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T051225Z" creationid="2008l" creationdate="20240903T051225Z">
+        <seg>樫の貯蔵庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Oak leaves</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240828T072941Z" creationid="2008l" creationdate="20240828T072941Z">
@@ -69826,6 +69858,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T063058Z" creationid="2008l" creationdate="20240718T071853Z">
         <seg>楓の短弓（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Oak staircase</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T051418Z" creationid="2008l" creationdate="20240903T051418Z">
+        <seg>樫の階段</seg>
       </tuv>
     </tu>
     <tu>
@@ -100336,6 +100376,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Teak kitchen table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T051354Z" creationid="2008l" creationdate="20240903T051354Z">
+        <seg>チークの台所のテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teak larder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T051234Z" creationid="2008l" creationdate="20240903T051234Z">
+        <seg>チークの貯蔵庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Teak logs</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240829T063859Z" creationid="2008l" creationdate="20240829T063859Z">
@@ -113128,6 +113184,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wood kitchen table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T051334Z" creationid="2008l" creationdate="20240903T051334Z">
+        <seg>木の台所のテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Woodcutting</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T055832Z" creationid="yumas" creationdate="20240824T055832Z">
@@ -113304,6 +113368,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Wooden larder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T051220Z" creationid="2008l" creationdate="20240903T051220Z">
+        <seg>木の貯蔵庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Wooden platform</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T053818Z" creationid="yumas" creationdate="20240812T053818Z">
@@ -113314,24 +113386,24 @@
       <tuv lang="en-GB">
         <seg>Wooden shelves 1</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240903T050944Z" creationid="2008l" creationdate="20240903T050938Z">
-        <seg>木製の棚1</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T051115Z" creationid="2008l" creationdate="20240903T050938Z">
+        <seg>木の棚1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Wooden shelves 2</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240903T050946Z" creationid="2008l" creationdate="20240903T050940Z">
-        <seg>木製の棚2</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T051117Z" creationid="2008l" creationdate="20240903T050940Z">
+        <seg>木の棚2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Wooden shelves 3</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240903T050947Z" creationid="2008l" creationdate="20240903T050947Z">
-        <seg>木製の棚3</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T051118Z" creationid="2008l" creationdate="20240903T050947Z">
+        <seg>木の棚3</seg>
       </tuv>
     </tu>
     <tu>
