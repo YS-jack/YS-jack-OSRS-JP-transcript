@@ -31651,7 +31651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3957">
         <xliff:source>Nice tree</xliff:source>
-        <xliff:target state="translated">すてきな木</xliff:target>
+        <xliff:target state="translated">ステキな木</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Nice tree
@@ -32211,7 +32211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4027">
         <xliff:source>Spiral staircase</xliff:source>
-        <xliff:target state="translated">螺旋階段</xliff:target>
+        <xliff:target state="translated">らせん階段</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Spiral staircase
@@ -32219,7 +32219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4028">
         <xliff:source>Marble spiral</xliff:source>
-        <xliff:target state="translated">大理石の螺旋階段</xliff:target>
+        <xliff:target state="translated">大理石のらせん階段</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Marble spiral
@@ -32699,7 +32699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4088">
         <xliff:source>Eagle lectern</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ワシの詠唱台</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Eagle lectern
@@ -32707,7 +32707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4089">
         <xliff:source>Demon lectern</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">悪魔の詠唱台</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Demon lectern
@@ -32715,7 +32715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4090">
         <xliff:source>Teak eagle lectern</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チークのワシの詠唱台</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Teak eagle lectern
@@ -32723,7 +32723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4091">
         <xliff:source>Teak demon lectern</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チークの悪魔の詠唱台</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Teak demon lectern
@@ -32731,7 +32731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4092">
         <xliff:source>Mahogany eagle</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーのワシの詠唱台</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mahogany eagle
@@ -32739,7 +32739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4093">
         <xliff:source>Mahogany demon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーの悪魔の詠唱台</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mahogany demon
@@ -32803,7 +32803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4101">
         <xliff:source>Oak telescope</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫の望遠鏡</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak telescope
@@ -32811,7 +32811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4102">
         <xliff:source>Teak telescope</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チークの望遠鏡</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Teak telescope
@@ -32819,7 +32819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4103">
         <xliff:source>Mahogany telescope</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーの望遠鏡</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mahogany telescope
@@ -32875,7 +32875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4110">
         <xliff:source>Oak throne</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫の王座</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak throne
@@ -32883,7 +32883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4111">
         <xliff:source>Teak throne</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チークの王座</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Teak throne
@@ -32891,7 +32891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4112">
         <xliff:source>Mahogany throne</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーの王座</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mahogany throne
@@ -32899,7 +32899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4113">
         <xliff:source>Gilded throne</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">黄金の王座</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Gilded throne
@@ -32907,7 +32907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4114">
         <xliff:source>Skeleton throne</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">スケルトンの王座</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Skeleton throne
@@ -32915,7 +32915,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4115">
         <xliff:source>Crystal throne</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">水晶の王座</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Crystal throne
@@ -32923,7 +32923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4116">
         <xliff:source>Demonic throne</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">悪魔の王座</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Demonic throne
@@ -32931,7 +32931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4117">
         <xliff:source>Oak lever</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫のレバー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak lever
@@ -32939,7 +32939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4118">
         <xliff:source>Teak lever</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チークのレバー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Teak lever
@@ -32947,7 +32947,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4119">
         <xliff:source>Mahogany lever</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーのレバー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mahogany lever
@@ -32971,7 +32971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4122">
         <xliff:source>Lesser magic cage</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">下位の魔法のケージ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Lesser magic cage
@@ -32979,7 +32979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4123">
         <xliff:source>Greater magic cage</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">上位の魔法のケージ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Greater magic cage
@@ -32987,7 +32987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4124">
         <xliff:source>Wooden workbench</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">木製の作業台</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Wooden workbench
@@ -32995,7 +32995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4125">
         <xliff:source>Oak workbench</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫の作業台</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak workbench
@@ -33003,7 +33003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4126">
         <xliff:source>Steel framed bench</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">鋼鉄のフレームの作業台</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Steel framed bench
@@ -33011,7 +33011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4127">
         <xliff:source>Bench with vice</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">万力付き作業台</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bench with vice
@@ -33019,7 +33019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4128">
         <xliff:source>Bench with lathe</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">旋盤付き作業台</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bench with lathe
@@ -33027,7 +33027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4129">
         <xliff:source>Crafting table 1</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クラフトテーブル1</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Crafting table 1
@@ -33035,7 +33035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4130">
         <xliff:source>Crafting table 2</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クラフトテーブル2</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Crafting table 2
@@ -33043,7 +33043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4131">
         <xliff:source>Crafting table 3</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クラフトテーブル3</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Crafting table 3
@@ -33051,7 +33051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4132">
         <xliff:source>Crafting table 4</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クラフトテーブル4</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Crafting table 4
@@ -33059,7 +33059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4133">
         <xliff:source>Tool store 1</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">道具の置き場1</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Tool store 1
@@ -33067,7 +33067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4134">
         <xliff:source>Tool store 2</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">道具の置き場2</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Tool store 2
@@ -33075,7 +33075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4135">
         <xliff:source>Tool store 3</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">道具の置き場3</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Tool store 3
@@ -33083,7 +33083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4136">
         <xliff:source>Tool store 4</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">道具の置き場4</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Tool store 4
@@ -33091,7 +33091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4137">
         <xliff:source>Tool store 5</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">道具の置き場5</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Tool store 5
@@ -33123,7 +33123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4141">
         <xliff:source>Pluming stand</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">改造スタンド</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Pluming stand
@@ -33131,7 +33131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4142">
         <xliff:source>Shield easel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">盾のイーゼル</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Shield easel
@@ -33139,7 +33139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4143">
         <xliff:source>Banner easel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">バナーのイーゼル</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Banner easel
@@ -33147,7 +33147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4144">
         <xliff:source>Parlour</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">パーラー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Parlour
@@ -33155,7 +33155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4145">
         <xliff:source>Kitchen</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">台所</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Kitchen
@@ -33163,7 +33163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4146">
         <xliff:source>Dining room</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ダイニングルーム</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dining room
@@ -33171,7 +33171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4147">
         <xliff:source>Bedroom</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">寝室</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bedroom
@@ -33179,7 +33179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4148">
         <xliff:source>Games room</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ゲーム部屋</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Games room
@@ -33187,7 +33187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4149">
         <xliff:source>Combat room</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">戦闘部屋</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Combat room
@@ -33195,7 +33195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4150">
         <xliff:source>Hall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ホール</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Hall
@@ -33203,7 +33203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4151">
         <xliff:source>Chapel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チャペル</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Chapel
@@ -33211,7 +33211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4152">
         <xliff:source>Workshop</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">工房</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Workshop
@@ -33219,7 +33219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4153">
         <xliff:source>Study</xliff:source>
-        <xliff:target state="translated">調べる</xliff:target>
+        <xliff:target state="translated">勉強部屋</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Study
@@ -33227,7 +33227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4154">
         <xliff:source>Portal chamber</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ポータル部屋</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Portal chamber
@@ -33235,7 +33235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4155">
         <xliff:source>Throne room</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">王座部屋</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Throne room
@@ -33243,7 +33243,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4156">
         <xliff:source>Oubliette</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">オブリエット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oubliette
@@ -33251,7 +33251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4157">
         <xliff:source>Dungeon corridor</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ダンジョンの廊下</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dungeon corridor
@@ -33259,7 +33259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4158">
         <xliff:source>Dungeon cross</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ダンジョンのクロス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dungeon cross
@@ -33267,7 +33267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4159">
         <xliff:source>Dungeon stairs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ダンジョンの階段</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dungeon stairs
@@ -33283,7 +33283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4161">
         <xliff:source>Garden</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">庭</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Garden
@@ -33291,7 +33291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4162">
         <xliff:source>Formal garden</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">正式な庭</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Formal garden
@@ -33299,7 +33299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4163">
         <xliff:source>Bagged dead tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">死んだ木の袋</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bagged dead tree
