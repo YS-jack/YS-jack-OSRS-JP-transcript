@@ -6174,6 +6174,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Asgarnian Ale barrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130738Z" creationid="2008l" creationdate="20240903T130738Z">
+        <seg>アスガルニアン・エールの樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Asgarnian Hops</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T121104Z" creationid="yumas" creationdate="20240811T120315Z">
@@ -7266,6 +7274,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T075857Z" creationid="2008l" creationdate="20240822T075857Z">
         <seg>塩の袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bagged dead tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130640Z" creationid="2008l" creationdate="20240903T130640Z">
+        <seg>死んだ木の袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bagged nice tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130649Z" creationid="2008l" creationdate="20240903T130649Z">
+        <seg>ステキな木の</seg>
       </tuv>
     </tu>
     <tu>
@@ -20982,6 +21006,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Chef's Delight barrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130758Z" creationid="2008l" creationdate="20240903T130758Z">
+        <seg>シェフの歓喜の樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Chef's delight</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240827T071046Z" creationid="2008l" creationdate="20240827T071046Z">
@@ -26478,6 +26510,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cushioned cat basket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130717Z" creationid="2008l" creationdate="20240903T130717Z">
+        <seg>クッション付きのネコのバスケット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Custom bow string</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240821T065626Z" creationid="2008l" creationdate="20240821T065626Z">
@@ -31222,6 +31262,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dragon bitter barrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130751Z" creationid="2008l" creationdate="20240903T130751Z">
+        <seg>ドラゴン・ビターの樽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dragon bitter(1)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240827T071400Z" creationid="2008l" creationdate="20240827T071400Z">
@@ -32386,6 +32434,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T134114Z" creationid="yumas" creationdate="20240806T134114Z">
         <seg>ダンジョン・ネズミ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dungeon stairs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130505Z" creationid="2008l" creationdate="20240903T130505Z">
+        <seg>ダンジョンの階段</seg>
       </tuv>
     </tu>
     <tu>
@@ -39534,6 +39590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Formal garden</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130537Z" creationid="2008l" creationdate="20240903T130537Z">
+        <seg>正式な庭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Former Vampyre</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T214149Z" creationid="yumas" creationdate="20240807T214149Z">
@@ -45338,6 +45402,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T055750Z" creationid="yumas" creationdate="20240805T055750Z">
         <seg>八百屋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Greenman's Ale barrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130745Z" creationid="2008l" creationdate="20240903T130745Z">
+        <seg>グリーンマンズ・エールの樽</seg>
       </tuv>
     </tu>
     <tu>
@@ -69328,8 +69400,8 @@
       <tuv lang="en-GB">
         <seg>Nice tree</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240902T082917Z" creationid="2008l" creationdate="20240902T082917Z">
-        <seg>すてきな木</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130655Z" creationid="2008l" creationdate="20240902T082917Z">
+        <seg>ステキな木</seg>
       </tuv>
     </tu>
     <tu>
@@ -92578,6 +92650,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T102156Z" creationid="yumas" creationdate="20240813T102156Z">
         <seg>小さな岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Small Fern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130658Z" creationid="2008l" creationdate="20240903T130658Z">
+        <seg>小さなシダ</seg>
       </tuv>
     </tu>
     <tu>
@@ -117063,6 +117143,17 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240903T130319Z" creationid="2008l" creationdate="20240903T130319Z">
         <seg>勉強部屋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_item.xliff</prop>
+      <prop type="id">4161</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Garden</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130517Z" creationid="2008l" creationdate="20240903T130517Z">
+        <seg>庭</seg>
       </tuv>
     </tu>
     <tu>
