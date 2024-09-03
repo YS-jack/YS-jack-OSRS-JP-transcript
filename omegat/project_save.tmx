@@ -32350,6 +32350,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dungeon corridor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130443Z" creationid="2008l" creationdate="20240903T130443Z">
+        <seg>ダンジョンの廊下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dungeon cross</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130456Z" creationid="2008l" creationdate="20240903T130456Z">
+        <seg>ダンジョンのクロス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dungeon door</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T024952Z" creationid="yumas" creationdate="20240811T024952Z">
@@ -72878,6 +72894,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Oubliette</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130421Z" creationid="2008l" creationdate="20240903T130421Z">
+        <seg>オブリエット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ouditor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T043649Z" creationid="yumas" creationdate="20240809T043649Z">
@@ -76722,6 +76746,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T130721Z" creationid="yumas" creationdate="20240813T130721Z">
         <seg>ポータル・ネクサスのスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Portal chamber</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130328Z" creationid="2008l" creationdate="20240903T130328Z">
+        <seg>ポータル部屋</seg>
       </tuv>
     </tu>
     <tu>
@@ -103448,6 +103480,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Throne room</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130333Z" creationid="2008l" creationdate="20240903T130333Z">
+        <seg>王座部屋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Throne space</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T031647Z" creationid="yumas" creationdate="20240812T031647Z">
@@ -114272,6 +114312,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Workshop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130303Z" creationid="2008l" creationdate="20240903T130303Z">
+        <seg>工房</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>World Switcher</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240825T121649Z" creationid="yumas" creationdate="20240824T120107Z">
@@ -117004,6 +117052,17 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240902T082940Z" creationid="2008l" creationdate="20240902T082940Z">
         <seg>植物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_item.xliff</prop>
+      <prop type="id">4153</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Study</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240903T130319Z" creationid="2008l" creationdate="20240903T130319Z">
+        <seg>勉強部屋</seg>
       </tuv>
     </tu>
     <tu>
