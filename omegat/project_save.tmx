@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>A special tiara</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134724Z" creationid="2008l" creationdate="20240905T134724Z">
+        <seg>特別なティアラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>A stone bowl</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240818T183245Z" creationid="2008l" creationdate="20240818T183245Z">
@@ -6490,6 +6498,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240905T052942Z" creationid="2008l" creationdate="20240905T052942Z">
         <seg>霊のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Astral tiara</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134753Z" creationid="2008l" creationdate="20240905T134753Z">
+        <seg>霊のティアラ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12906,6 +12922,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T063023Z" creationid="2008l" creationdate="20240810T063023Z">
         <seg>ブラーベリースペシャル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blurite bolts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134808Z" creationid="2008l" creationdate="20240905T134808Z">
+        <seg> ブルライトのボルト</seg>
       </tuv>
     </tu>
     <tu>
@@ -52854,6 +52878,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Iron bolts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134812Z" creationid="2008l" creationdate="20240905T134812Z">
+        <seg>鉄のボルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Iron boots</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T074359Z" creationid="2008l" creationdate="20240822T074359Z">
@@ -61990,10 +62022,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lunar amulet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134716Z" creationid="2008l" creationdate="20240905T134716Z">
+        <seg>ルーナのアミュレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lunar bar</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240905T053010Z" creationid="2008l" creationdate="20240905T053010Z">
         <seg>ルーナの延べ棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lunar boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134710Z" creationid="2008l" creationdate="20240905T134710Z">
+        <seg>ルーナの靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lunar cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134713Z" creationid="2008l" creationdate="20240905T134713Z">
+        <seg>ルーナのマント</seg>
       </tuv>
     </tu>
     <tu>
@@ -62006,10 +62062,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lunar gloves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134705Z" creationid="2008l" creationdate="20240905T134705Z">
+        <seg>ルーナの手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lunar helm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134529Z" creationid="2008l" creationdate="20240905T134529Z">
+        <seg>ルーナのヘルメット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lunar legs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134652Z" creationid="2008l" creationdate="20240905T134616Z">
+        <seg>ルーナの脚甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lunar ore</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240905T052958Z" creationid="2008l" creationdate="20240905T052958Z">
         <seg>ルーナの鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lunar ring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134729Z" creationid="2008l" creationdate="20240905T134729Z">
+        <seg>ルーナの指輪</seg>
       </tuv>
     </tu>
     <tu>
@@ -62050,6 +62138,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240905T053241Z" creationid="2008l" creationdate="20240905T053241Z">
         <seg>ルーナの杖・パート３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lunar torso</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134604Z" creationid="2008l" creationdate="20240905T134535Z">
+        <seg>ルーナの胴体</seg>
       </tuv>
     </tu>
     <tu>
@@ -97558,6 +97654,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Steel bolts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134816Z" creationid="2008l" creationdate="20240905T134816Z">
+        <seg>鋼鉄のボルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Steel boots</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T074403Z" creationid="2008l" creationdate="20240822T074403Z">
@@ -100426,6 +100530,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240905T053058Z" creationid="2008l" creationdate="20240905T053058Z">
         <seg>スーカアの革</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Suqah monster</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134743Z" creationid="2008l" creationdate="20240905T134743Z">
+        <seg>スーカア</seg>
       </tuv>
     </tu>
     <tu>
