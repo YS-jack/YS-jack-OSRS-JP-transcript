@@ -6486,6 +6486,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Astral rune</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052942Z" creationid="2008l" creationdate="20240905T052942Z">
+        <seg>霊のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Astronomical chart</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T022401Z" creationid="yumas" creationdate="20240812T022401Z">
@@ -10858,6 +10866,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240831T084929Z" creationid="2008l" creationdate="20240831T084929Z">
         <seg>黒鉄の籠手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Black goblin mail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052612Z" creationid="2008l" creationdate="20240905T052612Z">
+        <seg>黒色のゴブリンの帷子</seg>
       </tuv>
     </tu>
     <tu>
@@ -32374,6 +32390,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dream log</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052659Z" creationid="2008l" creationdate="20240905T052659Z">
+        <seg>夢の丸太</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dream puff</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T040224Z" creationid="yumas" creationdate="20240812T040224Z">
@@ -34818,6 +34842,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240807T195727Z" creationid="2008l" creationdate="20240807T195727Z">
         <seg>エメラルドのアミュレット（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Emerald lantern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052646Z" creationid="2008l" creationdate="20240905T052646Z">
+        <seg>エメラルドのランタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Emerald lens</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052652Z" creationid="2008l" creationdate="20240905T052652Z">
+        <seg>エメラルドのレンズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -45882,6 +45922,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T134505Z" creationid="yumas" creationdate="20240814T134505Z">
         <seg>緑の花</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Green goblin mail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052620Z" creationid="2008l" creationdate="20240905T052620Z">
+        <seg>緑色のゴブリンの帷子</seg>
       </tuv>
     </tu>
     <tu>
@@ -67166,6 +67214,62 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Moonclan armour</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052819Z" creationid="2008l" creationdate="20240905T052819Z">
+        <seg>ムーンクランのアーマー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Moonclan boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052829Z" creationid="2008l" creationdate="20240905T052829Z">
+        <seg>ムーンクランの靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Moonclan cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052832Z" creationid="2008l" creationdate="20240905T052832Z">
+        <seg>ムーンクランのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Moonclan gloves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052826Z" creationid="2008l" creationdate="20240905T052826Z">
+        <seg>ムーンクランの手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Moonclan hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052747Z" creationid="2008l" creationdate="20240905T052747Z">
+        <seg>ムーンクランの帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Moonclan helm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052739Z" creationid="2008l" creationdate="20240905T052739Z">
+        <seg>ムーンクランのヘルメット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Moonclan skirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052823Z" creationid="2008l" creationdate="20240905T052823Z">
+        <seg>ムーンクランのスカート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Moonfire</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240815T035255Z" creationid="yumas" creationdate="20240815T035255Z">
@@ -76558,6 +76662,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pink goblin mail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052631Z" creationid="2008l" creationdate="20240905T052631Z">
+        <seg>ピンク色のゴブリンの帷子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pink hat</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T070416Z" creationid="2008l" creationdate="20240725T070416Z">
@@ -79554,6 +79666,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240818T184249Z" creationid="2008l" creationdate="20240818T184249Z">
         <seg>紫色の手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Purple goblin mail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052627Z" creationid="2008l" creationdate="20240905T052623Z">
+        <seg>紫色のゴブリンの帷子</seg>
       </tuv>
     </tu>
     <tu>
@@ -116164,6 +116284,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240818T183642Z" creationid="2008l" creationdate="20240818T183642Z">
         <seg>黄色の手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yellow goblin mail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052616Z" creationid="2008l" creationdate="20240905T052616Z">
+        <seg>黄色のゴブリンの帷子</seg>
       </tuv>
     </tu>
     <tu>
