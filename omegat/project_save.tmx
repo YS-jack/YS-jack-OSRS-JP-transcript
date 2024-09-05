@@ -46670,6 +46670,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ground tooth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T053102Z" creationid="2008l" creationdate="20240905T053102Z">
+        <seg>ひかれた歯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Group</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T130158Z" creationid="yumas" creationdate="20240803T130158Z">
@@ -46922,6 +46930,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240826T072945Z" creationid="2008l" creationdate="20240826T072945Z">
         <seg>グアムの種</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guam vial</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T053207Z" creationid="2008l" creationdate="20240905T053207Z">
+        <seg>グアムの試薬瓶</seg>
       </tuv>
     </tu>
     <tu>
@@ -61958,6 +61974,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lunar bar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T053010Z" creationid="2008l" creationdate="20240905T053010Z">
+        <seg>ルーナの延べ棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lunar globe</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T021915Z" creationid="yumas" creationdate="20240812T021915Z">
@@ -61966,10 +61990,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Lunar ore</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T052958Z" creationid="2008l" creationdate="20240905T052958Z">
+        <seg>ルーナの鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Lunar spellbook</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240731T111830Z" creationid="yumas" creationdate="20240731T110630Z">
         <seg>ルーナ魔法の書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lunar staff</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T053127Z" creationid="2008l" creationdate="20240905T053127Z">
+        <seg>ルーナの杖</seg>
       </tuv>
     </tu>
     <tu>
@@ -67258,6 +67298,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240905T052739Z" creationid="2008l" creationdate="20240905T052739Z">
         <seg>ムーンクランのヘルメット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Moonclan manual</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T053028Z" creationid="2008l" creationdate="20240905T053028Z">
+        <seg>ムーンクランの説明書</seg>
       </tuv>
     </tu>
     <tu>
@@ -89702,6 +89750,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Seal of passage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T053119Z" creationid="2008l" creationdate="20240905T053119Z">
+        <seg>通過の証印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Seal of the Forgotten</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T090009Z" creationid="yumas" creationdate="20240814T090009Z">
@@ -100298,6 +100354,30 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T060047Z" creationid="yumas" creationdate="20240805T060047Z">
         <seg>スーカア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Suqah hide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T053046Z" creationid="2008l" creationdate="20240905T053046Z">
+        <seg>スーカアの皮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Suqah leather</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T053058Z" creationid="2008l" creationdate="20240905T053058Z">
+        <seg>スーカアの革</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Suqah tooth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T053040Z" creationid="2008l" creationdate="20240905T053040Z">
+        <seg>スーカアの歯</seg>
       </tuv>
     </tu>
     <tu>
@@ -111716,6 +111796,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240805T040450Z" creationid="yumas" creationdate="20240805T040450Z">
         <seg>霊を呼び覚ます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Waking sleep vial</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T053202Z" creationid="2008l" creationdate="20240905T053202Z">
+        <seg>目覚めの睡眠の試薬瓶</seg>
       </tuv>
     </tu>
     <tu>
