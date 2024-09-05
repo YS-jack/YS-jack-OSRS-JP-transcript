@@ -1518,6 +1518,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Adamant bolts (p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135432Z" creationid="2008l" creationdate="20240905T135432Z">
+        <seg>アダマントのボルト（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Adamant bolts(unf)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135615Z" creationid="2008l" creationdate="20240905T135615Z">
+        <seg>アダマントのボルト（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Adamant boots</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T074425Z" creationid="2008l" creationdate="20240822T074425Z">
@@ -12990,6 +13006,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blurite bolts (unf)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135600Z" creationid="2008l" creationdate="20240905T135600Z">
+        <seg>ブルライトのボルト（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blurite crossbow</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240905T134912Z" creationid="2008l" creationdate="20240905T134912Z">
@@ -15690,6 +15714,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240828T073553Z" creationid="2008l" creationdate="20240828T073553Z">
         <seg>銅のボルト（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Bronze bolts (unf)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135548Z" creationid="2008l" creationdate="20240905T135548Z">
+        <seg>銅のボルト（未）</seg>
       </tuv>
     </tu>
     <tu>
@@ -30342,6 +30374,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Diamond bolts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135520Z" creationid="2008l" creationdate="20240905T135520Z">
+        <seg>ダイヤのボルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Diamond necklace</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240807T195647Z" creationid="2008l" creationdate="20240807T195647Z">
@@ -32306,6 +32346,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240905T135030Z" creationid="2008l" creationdate="20240905T135030Z">
         <seg>竜石のボルト先端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragonstone bolts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135530Z" creationid="2008l" creationdate="20240905T135530Z">
+        <seg>竜石のボルト</seg>
       </tuv>
     </tu>
     <tu>
@@ -34962,6 +35010,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240905T135010Z" creationid="2008l" creationdate="20240905T135010Z">
         <seg>エメラルドのボルト先端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Emerald bolts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135504Z" creationid="2008l" creationdate="20240905T135504Z">
+        <seg>エメラルドのボルト</seg>
       </tuv>
     </tu>
     <tu>
@@ -53006,6 +53062,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Iron bolts (unf)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135606Z" creationid="2008l" creationdate="20240905T135606Z">
+        <seg>鉄のボルト（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Iron boots</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T074359Z" creationid="2008l" creationdate="20240822T074359Z">
@@ -53794,6 +53858,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240905T134951Z" creationid="2008l" creationdate="20240905T134951Z">
         <seg>ヒスイのボルト先端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Jade bolts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135442Z" creationid="2008l" creationdate="20240905T135442Z">
+        <seg>ヒスイのボルト</seg>
       </tuv>
     </tu>
     <tu>
@@ -66542,6 +66614,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mithril bolts (p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135431Z" creationid="2008l" creationdate="20240905T135431Z">
+        <seg>ミスリルのボルト（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mithril bolts (unf)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135612Z" creationid="2008l" creationdate="20240905T135612Z">
+        <seg>ミスリルのボルト（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mithril boots</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T074420Z" creationid="2008l" creationdate="20240822T074420Z">
@@ -73058,6 +73146,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240905T135034Z" creationid="2008l" creationdate="20240905T135034Z">
         <seg>オニキスのボルト先端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Onyx bolts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135535Z" creationid="2008l" creationdate="20240905T135535Z">
+        <seg>オニキスのボルト</seg>
       </tuv>
     </tu>
     <tu>
@@ -86998,6 +87094,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ruby bolts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135512Z" creationid="2008l" creationdate="20240905T135512Z">
+        <seg>ルビーのボルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ruby harvest</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T012251Z" creationid="yumas" creationdate="20240809T012251Z">
@@ -87982,6 +88086,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Runite bolts (p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135435Z" creationid="2008l" creationdate="20240905T135435Z">
+        <seg>ルーンのボルト（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Runite bolts (unf)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135620Z" creationid="2008l" creationdate="20240905T135620Z">
+        <seg>ルーンのボルト（未）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Runite ore</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T035155Z" creationid="2008l" creationdate="20240724T064955Z">
@@ -88930,6 +89050,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240905T135004Z" creationid="2008l" creationdate="20240905T135004Z">
         <seg>サファイアのボルト先端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sapphire bolts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135456Z" creationid="2008l" creationdate="20240905T135456Z">
+        <seg>サファイアのボルト</seg>
       </tuv>
     </tu>
     <tu>
@@ -92458,6 +92586,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240905T135417Z" creationid="2008l" creationdate="20240905T135417Z">
         <seg>銀のボルト（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Silver bolts (p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135437Z" creationid="2008l" creationdate="20240905T135437Z">
+        <seg>銀のボルト（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Silver bolts (unf)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135644Z" creationid="2008l" creationdate="20240905T135644Z">
+        <seg>銀のボルト（未）</seg>
       </tuv>
     </tu>
     <tu>
@@ -97936,8 +98080,16 @@
       <tuv lang="en-GB">
         <seg>Steel bolts (p++)</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240905T135421Z" creationid="2008l" creationdate="20240905T135421Z">
-        <seg>鋼鉄のボルト（毒＋）</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135429Z" creationid="2008l" creationdate="20240905T135421Z">
+        <seg>鋼鉄のボルト（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Steel bolts (unf)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135609Z" creationid="2008l" creationdate="20240905T135609Z">
+        <seg>鋼鉄のボルト（未）</seg>
       </tuv>
     </tu>
     <tu>
@@ -106492,6 +106644,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240905T134959Z" creationid="2008l" creationdate="20240905T134959Z">
         <seg>トパーズのボルト先端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Topaz bolts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T135448Z" creationid="2008l" creationdate="20240905T135448Z">
+        <seg>トパーズのボルト</seg>
       </tuv>
     </tu>
     <tu>
