@@ -56454,6 +56454,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Kindling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134401Z" creationid="2008l" creationdate="20240905T134401Z">
+        <seg>焚き付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Kineer</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T044154Z" creationid="yumas" creationdate="20240809T044154Z">
@@ -61752,8 +61760,8 @@
       <tuv lang="en-GB">
         <seg>Lumber patch</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240904T153153Z" creationid="2008l" creationdate="20240904T153153Z">
-        <seg>材木の継切れ</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134318Z" creationid="2008l" creationdate="20240904T153153Z">
+        <seg>材木のパッチ</seg>
       </tuv>
     </tu>
     <tu>
@@ -94890,6 +94898,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T012229Z" creationid="yumas" creationdate="20240809T012229Z">
         <seg>雪の騎士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Soaked kindling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240905T134517Z" creationid="2008l" creationdate="20240905T134517Z">
+        <seg>びしょびしょの焚き付け</seg>
       </tuv>
     </tu>
     <tu>
