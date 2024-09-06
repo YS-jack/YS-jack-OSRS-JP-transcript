@@ -9422,6 +9422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Beaten book</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071452Z" creationid="2008l" creationdate="20240906T071452Z">
+        <seg>敗れた本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Beaver</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T010515Z" creationid="yumas" creationdate="20240810T010515Z">
@@ -25754,6 +25762,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T032751Z" creationid="yumas" creationdate="20240811T032751Z">
         <seg>クレーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crane claw</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071535Z" creationid="2008l" creationdate="20240906T071535Z">
+        <seg>クレーンのクロー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Crane schematic</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071502Z" creationid="2008l" creationdate="20240906T071502Z">
+        <seg>クレーンの設計図</seg>
       </tuv>
     </tu>
     <tu>
@@ -58622,6 +58646,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Large cog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071542Z" creationid="2008l" creationdate="20240906T071542Z">
+        <seg>大きな歯車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Large crystals</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T084920Z" creationid="yumas" creationdate="20240813T084920Z">
@@ -60586,6 +60618,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T050931Z" creationid="yumas" creationdate="20240810T050931Z">
         <seg>レバーの装着口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Lever schematic</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071508Z" creationid="2008l" creationdate="20240906T071508Z">
+        <seg>レバーの設計図</seg>
       </tuv>
     </tu>
     <tu>
@@ -65658,6 +65698,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T132832Z" creationid="yumas" creationdate="20240814T132832Z">
         <seg>普通のセルのタイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Medium cog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071547Z" creationid="2008l" creationdate="20240906T071547Z">
+        <seg>普通の歯車</seg>
       </tuv>
     </tu>
     <tu>
@@ -80090,6 +80138,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240828T073922Z" creationid="2008l" creationdate="20240828T073922Z">
         <seg>プリフディナスの歴史</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Primed bar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071828Z" creationid="2008l" creationdate="20240906T071828Z">
+        <seg>プライムド延べ棒</seg>
       </tuv>
     </tu>
     <tu>
@@ -95290,6 +95346,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T032920Z" creationid="yumas" creationdate="20240812T032920Z">
         <seg>小さな宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Small cog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071552Z" creationid="2008l" creationdate="20240906T071552Z">
+        <seg>小さな歯車</seg>
       </tuv>
     </tu>
     <tu>
