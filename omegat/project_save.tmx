@@ -24862,10 +24862,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Cooking cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072731Z" creationid="2008l" creationdate="20240906T072731Z">
+        <seg>料理マント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cooking cape(t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072734Z" creationid="2008l" creationdate="20240906T072734Z">
+        <seg>料理マント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cooking gauntlets</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240730T074123Z" creationid="2008l" creationdate="20240727T072234Z">
         <seg>料理用手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cooking hood</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072737Z" creationid="2008l" creationdate="20240906T072737Z">
+        <seg>料理フッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -38206,6 +38230,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Farming cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072812Z" creationid="2008l" creationdate="20240906T072812Z">
+        <seg>農業マント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Farming cape(t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072816Z" creationid="2008l" creationdate="20240906T072816Z">
+        <seg>農業マント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Farming hood</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072819Z" creationid="2008l" creationdate="20240906T072819Z">
+        <seg>農業フッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Farming patch</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T090057Z" creationid="yumas" creationdate="20240814T090057Z">
@@ -39350,6 +39398,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Firemaking cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072742Z" creationid="2008l" creationdate="20240906T072742Z">
+        <seg>火起こしマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Firemaking cape(t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072745Z" creationid="2008l" creationdate="20240906T072745Z">
+        <seg>火起こしマント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Firemaking hood</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072751Z" creationid="2008l" creationdate="20240906T072751Z">
+        <seg>火起こしフッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Firemaking tome</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240901T080500Z" creationid="2008l" creationdate="20240901T080431Z">
@@ -39686,10 +39758,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fishing cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072717Z" creationid="2008l" creationdate="20240906T072717Z">
+        <seg>釣りマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fishing cape(t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072723Z" creationid="2008l" creationdate="20240906T072723Z">
+        <seg>釣りマント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fishing explosive</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240829T072624Z" creationid="2008l" creationdate="20240829T072624Z">
         <seg>釣り爆弾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fishing hood</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072727Z" creationid="2008l" creationdate="20240906T072727Z">
+        <seg>釣りフッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -64014,6 +64110,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Magical cape rack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072843Z" creationid="2008l" creationdate="20240906T072843Z">
+        <seg>魔法のマントかけ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Magical fire</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T084159Z" creationid="yumas" creationdate="20240813T084159Z">
@@ -67102,10 +67206,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mining cape(t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072701Z" creationid="2008l" creationdate="20240906T072701Z">
+        <seg>採掘マント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mining helmet</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240826T071322Z" creationid="2008l" creationdate="20240826T071322Z">
         <seg>採掘用のヘルメット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mining hood</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072703Z" creationid="2008l" creationdate="20240906T072703Z">
+        <seg>採掘フッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -81554,6 +81674,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T071106Z" creationid="yumas" creationdate="20240813T071106Z">
         <seg>クエスト一覧のスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Quest point cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072830Z" creationid="2008l" creationdate="20240906T072830Z">
+        <seg>クエストマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Quest point hood</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072837Z" creationid="2008l" creationdate="20240906T072837Z">
+        <seg>クエストフッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -96094,10 +96230,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Smithing cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072707Z" creationid="2008l" creationdate="20240906T072707Z">
+        <seg>鍛冶マント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Smithing cape(t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072710Z" creationid="2008l" creationdate="20240906T072710Z">
+        <seg>鍛冶マント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Smithing catalyst</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T112250Z" creationid="yumas" creationdate="20240809T112250Z">
         <seg>鍛冶の触媒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Smithing hood</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072714Z" creationid="2008l" creationdate="20240906T072714Z">
+        <seg>鍛冶フッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -117528,6 +117688,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Woodcut.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072800Z" creationid="2008l" creationdate="20240906T072800Z">
+        <seg>木こり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Woodcutting</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T055832Z" creationid="yumas" creationdate="20240824T055832Z">
@@ -117548,6 +117716,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T010249Z" creationid="yumas" creationdate="20240810T010249Z">
         <seg>木こりのレプラコーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Woodcutting cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072756Z" creationid="2008l" creationdate="20240906T072756Z">
+        <seg>木こりマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Woodcutting hood</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072806Z" creationid="2008l" creationdate="20240906T072806Z">
+        <seg>木こりフッド</seg>
       </tuv>
     </tu>
     <tu>
