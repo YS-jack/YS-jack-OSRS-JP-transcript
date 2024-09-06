@@ -21355,7 +21355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2670">
         <xliff:source>Initiate sallet</xliff:source>
-        <xliff:target state="translated">入門者のサレット</xliff:target>
+        <xliff:target state="translated">新信者のサレット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Initiate sallet
@@ -21363,7 +21363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2671">
         <xliff:source>Initiate hauberk</xliff:source>
-        <xliff:target state="translated">入門者のホーバーク</xliff:target>
+        <xliff:target state="translated">新信者のホーバーク</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Initiate hauberk
@@ -21371,7 +21371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2672">
         <xliff:source>Initiate cuisse</xliff:source>
-        <xliff:target state="translated">入門者のもも当て</xliff:target>
+        <xliff:target state="translated">新信者のもも当て</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Initiate cuisse
@@ -35107,7 +35107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4389">
         <xliff:source>Opal bolts (e)</xliff:source>
-        <xliff:target state="translated">オパールのボルト先端（魔法）</xliff:target>
+        <xliff:target state="translated">オパールのボルト（魔）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Opal bolts (e)
@@ -35115,7 +35115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4390">
         <xliff:source>Jade bolts (e)</xliff:source>
-        <xliff:target state="translated">ヒスイのボルト（魔法）</xliff:target>
+        <xliff:target state="translated">ヒスイのボルト（魔）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Jade bolts (e)
@@ -35123,7 +35123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4391">
         <xliff:source>Pearl bolts (e)</xliff:source>
-        <xliff:target state="translated">パールのボルト（魔法）</xliff:target>
+        <xliff:target state="translated">パールのボルト（魔）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Pearl bolts (e)
@@ -35131,7 +35131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4392">
         <xliff:source>Topaz bolts (e)</xliff:source>
-        <xliff:target state="translated">トパーズのボルト（魔法）</xliff:target>
+        <xliff:target state="translated">トパーズのボルト（魔）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Topaz bolts (e)
@@ -35139,7 +35139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4393">
         <xliff:source>Sapphire bolts (e)</xliff:source>
-        <xliff:target state="translated">サファイアのボルト（魔法）</xliff:target>
+        <xliff:target state="translated">サファイアのボルト（魔）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Sapphire bolts (e)
@@ -35147,7 +35147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4394">
         <xliff:source>Emerald bolts (e)</xliff:source>
-        <xliff:target state="translated">エメラルドのボルト（魔法）</xliff:target>
+        <xliff:target state="translated">エメラルドのボルト（魔）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Emerald bolts (e)
@@ -35155,7 +35155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4395">
         <xliff:source>Ruby bolts (e)</xliff:source>
-        <xliff:target state="translated">ルビーのボルト（魔法）</xliff:target>
+        <xliff:target state="translated">ルビーのボルト（魔）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ruby bolts (e)
@@ -35163,7 +35163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4396">
         <xliff:source>Diamond bolts (e)</xliff:source>
-        <xliff:target state="translated">ダイヤのボルト（魔法）</xliff:target>
+        <xliff:target state="translated">ダイヤのボルト（魔）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Diamond bolts (e)
@@ -35171,7 +35171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4397">
         <xliff:source>Dragonstone bolts (e)</xliff:source>
-        <xliff:target state="translated">竜石のボルト（魔法）</xliff:target>
+        <xliff:target state="translated">竜石のボルト（魔）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dragonstone bolts (e)
@@ -35179,7 +35179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4398">
         <xliff:source>Onyx bolts (e)</xliff:source>
-        <xliff:target state="translated">オニキスのボルト（魔法）</xliff:target>
+        <xliff:target state="translated">オニキスのボルト（魔）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Onyx bolts (e)
@@ -35491,7 +35491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4437">
         <xliff:source>Mith grapple tip</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ミスリルのグラップル先端</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mith grapple tip
@@ -35499,7 +35499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4438">
         <xliff:source>Mith grapple</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ミスリルのグラップル</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mith grapple
@@ -35507,7 +35507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4439">
         <xliff:source>Bronze limbs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">銅のリム</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bronze limbs
@@ -35515,7 +35515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4440">
         <xliff:source>Blurite limbs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ブルライトのリム</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blurite limbs
@@ -35523,7 +35523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4441">
         <xliff:source>Iron limbs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">鉄のリム</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Iron limbs
@@ -35531,7 +35531,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4442">
         <xliff:source>Steel limbs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">鋼鉄のリム</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Steel limbs
@@ -35539,7 +35539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4443">
         <xliff:source>Mithril limbs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ミスリルのリム</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mithril limbs
@@ -35547,7 +35547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4444">
         <xliff:source>Adamantite limbs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アダマントのリム</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Adamantite limbs
@@ -35555,7 +35555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4445">
         <xliff:source>Runite limbs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ルーンのリム</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Runite limbs
@@ -36315,7 +36315,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4540">
         <xliff:source>Initiate harness m</xliff:source>
-        <xliff:target state="translated">入門者のハーネス（男）</xliff:target>
+        <xliff:target state="translated">新信者のハーネス（男）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Initiate harness m
@@ -37267,7 +37267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4659">
         <xliff:source>Oak costume box</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫の衣装の箱</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak costume box
@@ -37275,7 +37275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4660">
         <xliff:source>Teak costume box</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チークの衣装の箱</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Teak costume box
@@ -37283,7 +37283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4661">
         <xliff:source>Mahogany costume box</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーの衣装の箱</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mahogany costume box
@@ -37291,7 +37291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4662">
         <xliff:source>Oak armour case</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫の鎧ケース</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak armour case
@@ -37299,7 +37299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4663">
         <xliff:source>Teak armour case</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チークの鎧ケース</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Teak armour case
@@ -37307,7 +37307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4664">
         <xliff:source>Mahogany armour case</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーの鎧ケース</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mahogany armour case
@@ -37315,7 +37315,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4665">
         <xliff:source>Carved oak wardrobe</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">彫刻された樫のタンス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Carved oak wardrobe
@@ -37323,7 +37323,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4666">
         <xliff:source>Carved teak wardrobe</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">彫刻されたチークのタンス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Carved teak wardrobe
@@ -37331,7 +37331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4667">
         <xliff:source>Marble wardrobe</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">大理石のタンス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Marble wardrobe
@@ -37339,7 +37339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4668">
         <xliff:source>Oak toy box</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫のおもちゃ箱</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak toy box
@@ -37347,7 +37347,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4669">
         <xliff:source>Teak toy box</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チークのおもちゃ箱</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Teak toy box
@@ -37355,7 +37355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4670">
         <xliff:source>Mahogany toy box</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーのおもちゃ箱</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mahogany toy box
@@ -37363,7 +37363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4671">
         <xliff:source>Oak treasure chest</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫の宝箱</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak treasure chest
@@ -37371,7 +37371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4672">
         <xliff:source>Teak treasure chest</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チークの宝箱</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Teak treasure chest
@@ -37379,7 +37379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4673">
         <xliff:source>Mahogany treasure chest</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーの宝箱</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mahogany treasure chest
@@ -37387,7 +37387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4674">
         <xliff:source>Costume room</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">衣装部屋</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Costume room
@@ -37403,7 +37403,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4676">
         <xliff:source>Oak magic wardrobe</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫の魔法のタンス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak magic wardrobe
@@ -37411,7 +37411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4677">
         <xliff:source>Carved oak magic wardrobe</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">彫刻された樫の魔法のタンス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Carved oak magic wardrobe
@@ -37419,7 +37419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4678">
         <xliff:source>Teak magic wardrobe</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チークの魔法のタンス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Teak magic wardrobe
@@ -37427,7 +37427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4679">
         <xliff:source>Carved teak magic wardrobe</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">彫刻されたチークの魔法のタンス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Carved teak magic wardrobe
@@ -37435,7 +37435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4680">
         <xliff:source>Mahogany magic wardrobe</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーの魔法のタンス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mahogany magic wardrobe
@@ -37443,7 +37443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4681">
         <xliff:source>Gilded magic wardrobe</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">黄金の魔法のタンス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Gilded magic wardrobe
@@ -37451,7 +37451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4682">
         <xliff:source>Marble magic wardrobe</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">大理石の魔法のタンス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Marble magic wardrobe
@@ -37459,7 +37459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4683">
         <xliff:source>M. treasure chest</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーの宝箱</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: M. treasure chest
@@ -37467,7 +37467,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4684">
         <xliff:source>Oak fancy dress box</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫の仮装衣装ボックス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Oak fancy dress box
@@ -37475,7 +37475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4685">
         <xliff:source>Teak fancy dress box</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チークの仮装衣装ボックス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Teak fancy dress box
@@ -37483,7 +37483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4686">
         <xliff:source>Mahogany fancy dress box</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーの仮装衣装ボックス</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mahogany fancy dress box
@@ -37491,7 +37491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4687">
         <xliff:source>Goutweedy lump</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">グート草っぽい塊</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Goutweedy lump
@@ -37499,7 +37499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4688">
         <xliff:source>Hardy gout tubers</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">頑健なガウト・チューバー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Hardy gout tubers
@@ -37507,7 +37507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4689">
         <xliff:source>Farming manual</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">農業のマニュアル</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Farming manual
@@ -37515,7 +37515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4690">
         <xliff:source>Sailing book</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">船旅の本</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Sailing book
@@ -37523,7 +37523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4691">
         <xliff:source>Ghost buster 500</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ゴーストバスター500</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ghost buster 500
