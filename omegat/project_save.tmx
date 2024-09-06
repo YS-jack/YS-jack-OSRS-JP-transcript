@@ -48510,6 +48510,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Half made batta</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T063212Z" creationid="2008l" creationdate="20240906T063119Z">
+        <seg>半完成のバッタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Half made bowl</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T063208Z" creationid="2008l" creationdate="20240906T063208Z">
+        <seg>半完成のボール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Half-Zombie</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T012530Z" creationid="yumas" creationdate="20240809T012530Z">
@@ -67234,6 +67250,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T123039Z" creationid="yumas" creationdate="20240803T123039Z">
         <seg>カクテルを混ぜる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mixed blizzard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T063246Z" creationid="2008l" creationdate="20240906T063246Z">
+        <seg>ミックスブリザード</seg>
       </tuv>
     </tu>
     <tu>
@@ -102659,6 +102683,14 @@
         <seg>Tangled toad's legs</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240810T065625Z" creationid="2008l" creationdate="20240810T065036Z">
+        <seg>絡まったアマガエル足</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tangled toads' legs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T063137Z" creationid="2008l" creationdate="20240906T063137Z">
         <seg>絡まったアマガエル足</seg>
       </tuv>
     </tu>
