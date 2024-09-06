@@ -12144,8 +12144,8 @@
       <tuv lang="en-GB">
         <seg>Blood tithe pouch</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240906T065342Z" creationid="2008l" creationdate="20240906T065342Z">
-        <seg>血の税収</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T065755Z" creationid="2008l" creationdate="20240906T065342Z">
+        <seg>血の税収のポーチ</seg>
       </tuv>
     </tu>
     <tu>
@@ -58634,6 +58634,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T053556Z" creationid="yumas" creationdate="20240810T053556Z">
         <seg>開いた大きな戸棚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Large ornate key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T065807Z" creationid="2008l" creationdate="20240906T065807Z">
+        <seg>大きな華麗な鍵</seg>
       </tuv>
     </tu>
     <tu>
