@@ -11694,6 +11694,46 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blank air rune</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071243Z" creationid="2008l" creationdate="20240906T071243Z">
+        <seg>空白の大気のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blank earth rune</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071247Z" creationid="2008l" creationdate="20240906T071247Z">
+        <seg>空白の土のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blank fire rune</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071331Z" creationid="2008l" creationdate="20240906T071331Z">
+        <seg>空白の火のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blank mind rune</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071253Z" creationid="2008l" creationdate="20240906T071253Z">
+        <seg>空白の心のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blank water rune</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071233Z" creationid="2008l" creationdate="20240906T071233Z">
+        <seg>空白の水のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blasidar the sculptor</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T115140Z" creationid="yumas" creationdate="20240806T115140Z">
@@ -40826,6 +40866,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240906T071124Z" creationid="2008l" creationdate="20240906T071124Z">
         <seg>欠片2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fragment 3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071126Z" creationid="2008l" creationdate="20240906T071126Z">
+        <seg>欠片3</seg>
       </tuv>
     </tu>
     <tu>
@@ -94638,6 +94686,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Slashed book</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071434Z" creationid="2008l" creationdate="20240906T071434Z">
+        <seg>切られた本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Slashed bush</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T035412Z" creationid="yumas" creationdate="20240811T035412Z">
@@ -108472,10 +108528,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Training arrows</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071422Z" creationid="2008l" creationdate="20240906T071422Z">
+        <seg>訓練の矢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Training bow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071411Z" creationid="2008l" creationdate="20240906T071411Z">
+        <seg>訓練の弓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Training dummy</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T130953Z" creationid="yumas" creationdate="20240812T130953Z">
         <seg>練習用サンドバッグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Training shield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071407Z" creationid="2008l" creationdate="20240906T071407Z">
+        <seg>訓練の盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Training sword</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071402Z" creationid="2008l" creationdate="20240906T071402Z">
+        <seg>訓練の剣</seg>
       </tuv>
     </tu>
     <tu>
