@@ -24078,6 +24078,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Combat potion(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072040Z" creationid="2008l" creationdate="20240906T072023Z">
+        <seg>戦闘の増強薬（３）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Combat potion(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072033Z" creationid="2008l" creationdate="20240906T072021Z">
+        <seg>戦闘の増強薬（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Combat ring</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T013728Z" creationid="yumas" creationdate="20240812T013718Z">
@@ -30182,6 +30198,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Desert goat horn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071940Z" creationid="2008l" creationdate="20240906T071940Z">
+        <seg>砂漠ヤギの角</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Desert legs</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240829T064129Z" creationid="2008l" creationdate="20240829T064129Z">
@@ -34730,6 +34754,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T132951Z" creationid="yumas" creationdate="20240814T132951Z">
         <seg>エレメンタルのガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Elemental helmet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071846Z" creationid="2008l" creationdate="20240906T071846Z">
+        <seg>エレメンタルの兜</seg>
       </tuv>
     </tu>
     <tu>
@@ -44906,6 +44938,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T071147Z" creationid="yumas" creationdate="20240809T071147Z">
         <seg>ヤギのフン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Goat horn dust</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071948Z" creationid="2008l" creationdate="20240906T071948Z">
+        <seg>砂漠ヤギの角の塵</seg>
       </tuv>
     </tu>
     <tu>
@@ -66638,6 +66678,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mind helmet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071912Z" creationid="2008l" creationdate="20240906T071912Z">
+        <seg>心の兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mind rift</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T115037Z" creationid="yumas" creationdate="20240812T115037Z">
@@ -66650,6 +66698,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240725T062758Z" creationid="2008l" creationdate="20240725T062758Z">
         <seg>心のルーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mind shield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071906Z" creationid="2008l" creationdate="20240906T071906Z">
+        <seg>心の盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -80146,6 +80202,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240906T071828Z" creationid="2008l" creationdate="20240906T071828Z">
         <seg>プライムド延べ棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Primed mind bar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T071838Z" creationid="2008l" creationdate="20240906T071838Z">
+        <seg>プライムド心の延べ棒</seg>
       </tuv>
     </tu>
     <tu>
