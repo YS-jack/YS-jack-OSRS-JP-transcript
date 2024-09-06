@@ -6678,6 +6678,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Attack cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072312Z" creationid="2008l" creationdate="20240906T072312Z">
+        <seg>攻撃力マント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Attack cape(t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072319Z" creationid="2008l" creationdate="20240906T072319Z">
+        <seg>攻撃力マント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Attack hood</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072332Z" creationid="2008l" creationdate="20240906T072332Z">
+        <seg>攻撃力フッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Attack potion(1)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240720T070710Z" creationid="2008l" creationdate="20240720T070710Z">
@@ -24074,6 +24098,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T074842Z" creationid="yumas" creationdate="20240813T074842Z">
         <seg>戦闘サンドバッグのスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Combat potion(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072225Z" creationid="2008l" creationdate="20240906T072215Z">
+        <seg>戦闘の増強薬（１）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Combat potion(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072219Z" creationid="2008l" creationdate="20240906T072043Z">
+        <seg>戦闘の増強薬（２）</seg>
       </tuv>
     </tu>
     <tu>
@@ -100842,6 +100882,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240824T055728Z" creationid="yumas" creationdate="20240824T055728Z">
         <seg>腕力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strength cape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072342Z" creationid="2008l" creationdate="20240906T072342Z">
+        <seg>腕力マント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Strength cape(t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T072345Z" creationid="2008l" creationdate="20240906T072345Z">
+        <seg>腕力マント（縁）</seg>
       </tuv>
     </tu>
     <tu>
