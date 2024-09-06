@@ -19486,6 +19486,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Carved oak wardrobe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T161548Z" creationid="2008l" creationdate="20240906T161548Z">
+        <seg>彫刻された樫のタンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Carved redwood</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240813T081647Z" creationid="yumas" creationdate="20240813T081647Z">
@@ -19514,6 +19522,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240902T082136Z" creationid="2008l" creationdate="20240902T082136Z">
         <seg>彫刻されたチークのテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Carved teak wardrobe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T161609Z" creationid="2008l" creationdate="20240906T161609Z">
+        <seg>彫刻されたチークのタンス</seg>
       </tuv>
     </tu>
     <tu>
@@ -25490,6 +25506,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240827T064321Z" creationid="2008l" creationdate="20240827T064321Z">
         <seg>宇宙のティアラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Costume room</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T161717Z" creationid="2008l" creationdate="20240906T161717Z">
+        <seg>衣装部屋</seg>
       </tuv>
     </tu>
     <tu>
@@ -64278,6 +64302,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Mahogany armour case</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T161534Z" creationid="2008l" creationdate="20240906T161534Z">
+        <seg>マホガニーの鎧ケース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Mahogany bench</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T015101Z" creationid="yumas" creationdate="20240812T015101Z">
@@ -64330,6 +64362,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T014925Z" creationid="yumas" creationdate="20240812T014925Z">
         <seg>マホガニーの宝箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mahogany costume box</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T161515Z" creationid="2008l" creationdate="20240906T161515Z">
+        <seg>マホガニーの衣装の箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -64482,6 +64522,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240903T124624Z" creationid="2008l" creationdate="20240903T124624Z">
         <seg>マホガニーの王座</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mahogany toy box</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T161637Z" creationid="2008l" creationdate="20240906T161637Z">
+        <seg>マホガニーのおもちゃ箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Mahogany treasure chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T161707Z" creationid="2008l" creationdate="20240906T161707Z">
+        <seg>マホガニーの宝箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -65234,6 +65290,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T054509Z" creationid="yumas" creationdate="20240811T054509Z">
         <seg>大理石の壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Marble wardrobe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T161614Z" creationid="2008l" creationdate="20240906T161614Z">
+        <seg>大理石のタンス</seg>
       </tuv>
     </tu>
     <tu>
@@ -72470,6 +72534,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Oak armour case</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T161523Z" creationid="2008l" creationdate="20240906T161523Z">
+        <seg>樫の鎧ケース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Oak bed</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240902T080221Z" creationid="2008l" creationdate="20240902T080221Z">
@@ -72576,8 +72648,8 @@
       <tuv lang="en-GB">
         <seg>Oak costume box</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240906T161430Z" creationid="2008l" creationdate="20240906T161430Z">
-        <seg>樫の衣装のボックス</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T161456Z" creationid="2008l" creationdate="20240906T161430Z">
+        <seg>樫の衣装の箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -72858,6 +72930,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240903T124517Z" creationid="2008l" creationdate="20240903T124517Z">
         <seg>樫の王座</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Oak toy box</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T161631Z" creationid="2008l" creationdate="20240906T161631Z">
+        <seg>樫のおもちゃ箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Oak treasure chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T161644Z" creationid="2008l" creationdate="20240906T161644Z">
+        <seg>樫の宝箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -104392,6 +104480,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Teak armour case</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T161527Z" creationid="2008l" creationdate="20240906T161527Z">
+        <seg>チークの鎧ケース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Teak bed</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240902T080237Z" creationid="2008l" creationdate="20240902T080237Z">
@@ -104444,6 +104540,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240902T080631Z" creationid="2008l" creationdate="20240902T080631Z">
         <seg>チークの時計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teak costume box</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T161508Z" creationid="2008l" creationdate="20240906T161508Z">
+        <seg>チークの衣装の箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -104644,6 +104748,22 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240903T124620Z" creationid="2008l" creationdate="20240903T124620Z">
         <seg>チークの王座</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teak toy box</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T161634Z" creationid="2008l" creationdate="20240906T161634Z">
+        <seg>チークのおもちゃ箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Teak treasure chest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T161652Z" creationid="2008l" creationdate="20240906T161652Z">
+        <seg>チークの宝箱</seg>
       </tuv>
     </tu>
     <tu>
