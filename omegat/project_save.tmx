@@ -52936,8 +52936,8 @@
       <tuv lang="en-GB">
         <seg>Initiate cuisse</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240828T072330Z" creationid="2008l" creationdate="20240828T072330Z">
-        <seg>原始のもも当て</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T070530Z" creationid="2008l" creationdate="20240828T072330Z">
+        <seg>入門者のもも当て</seg>
       </tuv>
     </tu>
     <tu>
@@ -52952,16 +52952,16 @@
       <tuv lang="en-GB">
         <seg>Initiate hauberk</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240828T072305Z" creationid="2008l" creationdate="20240828T072305Z">
-        <seg>原始のホーバーク</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T070528Z" creationid="2008l" creationdate="20240828T072305Z">
+        <seg>入門者のホーバーク</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Initiate sallet</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240828T072247Z" creationid="2008l" creationdate="20240828T072247Z">
-        <seg>原始のサレット</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T070524Z" creationid="2008l" creationdate="20240828T072247Z">
+        <seg>入門者のサレット</seg>
       </tuv>
     </tu>
     <tu>
@@ -80286,10 +80286,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Proselyte harness f</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T070814Z" creationid="2008l" creationdate="20240906T070814Z">
+        <seg>改宗者のハーネス（女）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Proselyte harness m</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240906T070322Z" creationid="2008l" creationdate="20240906T070322Z">
         <seg>改宗者のハーネス（男）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Proselyte sallet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240906T070823Z" creationid="2008l" creationdate="20240906T070823Z">
+        <seg>改宗者のサレット</seg>
       </tuv>
     </tu>
     <tu>
