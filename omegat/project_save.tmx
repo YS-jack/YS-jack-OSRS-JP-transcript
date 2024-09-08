@@ -24576,8 +24576,8 @@
       <tuv lang="en-GB">
         <seg>Collection bag</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240908T070137Z" creationid="2008l" creationdate="20240908T070104Z">
-        <seg>回収者の袋</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070727Z" creationid="2008l" creationdate="20240908T070104Z">
+        <seg>回収役の袋</seg>
       </tuv>
     </tu>
     <tu>
@@ -24586,6 +24586,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T092059Z" creationid="yumas" creationdate="20240812T092059Z">
         <seg>回収役の変換機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Collector horn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070818Z" creationid="2008l" creationdate="20240908T070818Z">
+        <seg>回収役の角笛</seg>
       </tuv>
     </tu>
     <tu>
@@ -51194,6 +51202,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240908T070114Z" creationid="2008l" creationdate="20240908T070114Z">
         <seg>回復者の角笛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Healer icon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070653Z" creationid="2008l" creationdate="20240908T070653Z">
+        <seg>回復者のアイコン</seg>
       </tuv>
     </tu>
     <tu>
@@ -83322,6 +83338,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T095113Z" creationid="yumas" creationdate="20240809T095113Z">
         <seg>ジアニー・アーカン女王</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Queen help book</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070943Z" creationid="2008l" creationdate="20240908T070943Z">
+        <seg>王女との戦い方の説明書</seg>
       </tuv>
     </tu>
     <tu>
