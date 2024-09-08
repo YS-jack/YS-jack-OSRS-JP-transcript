@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>A container</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T065404Z" creationid="2008l" creationdate="20240908T065404Z">
+        <seg>容器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>A crack</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T053822Z" creationid="yumas" creationdate="20240812T053822Z">
@@ -898,6 +906,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240830T072154Z" creationid="2008l" creationdate="20240830T072154Z">
         <seg>魔法の巻物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>A pattern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T065350Z" creationid="2008l" creationdate="20240908T065350Z">
+        <seg>パターン</seg>
       </tuv>
     </tu>
     <tu>
@@ -8606,6 +8622,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bar magnet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T065257Z" creationid="2008l" creationdate="20240908T065257Z">
+        <seg>棒磁石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bar pumps</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T021022Z" creationid="yumas" creationdate="20240811T021022Z">
@@ -12130,6 +12154,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240803T121617Z" creationid="yumas" creationdate="20240803T121617Z">
         <seg>祝福</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Blessed axe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T065323Z" creationid="2008l" creationdate="20240908T065323Z">
+        <seg>恵まれた斧</seg>
       </tuv>
     </tu>
     <tu>
@@ -49574,6 +49606,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Guthix stole</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T065109Z" creationid="2008l" creationdate="20240908T065109Z">
+        <seg>がシックスのストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Guthix symbol</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240902T080654Z" creationid="2008l" creationdate="20240902T080654Z">
@@ -80454,6 +80494,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Polished buttons</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T065419Z" creationid="2008l" creationdate="20240908T065419Z">
+        <seg>磨かれたボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Polishing wheel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T133853Z" creationid="yumas" creationdate="20240814T133853Z">
@@ -93666,6 +93714,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240825T080307Z" creationid="yumas" creationdate="20240825T080307Z">
         <seg>選ぶ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Selected iron</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T065133Z" creationid="2008l" creationdate="20240908T065133Z">
+        <seg>選ばれた鉄</seg>
       </tuv>
     </tu>
     <tu>
@@ -111200,6 +111256,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Translated notes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T065330Z" creationid="2008l" creationdate="20240908T065330Z">
+        <seg>翻訳されたメモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Translation</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240825T072727Z" creationid="2008l" creationdate="20240825T072727Z">
@@ -113228,6 +113292,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T124843Z" creationid="yumas" creationdate="20240808T124843Z">
         <seg>アンデッドの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Undead twigs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T065313Z" creationid="2008l" creationdate="20240908T065308Z">
+        <seg>アンデッドの小枝</seg>
       </tuv>
     </tu>
     <tu>
@@ -121556,6 +121628,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T074120Z" creationid="2008l" creationdate="20240811T074120Z">
         <seg>ザモラックの杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak stole</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T065111Z" creationid="2008l" creationdate="20240908T065111Z">
+        <seg>ザモラックのストール</seg>
       </tuv>
     </tu>
     <tu>
