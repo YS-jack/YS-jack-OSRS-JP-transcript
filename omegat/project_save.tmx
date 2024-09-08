@@ -49270,10 +49270,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Guthix bracers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T063522Z" creationid="2008l" creationdate="20240908T063522Z">
+        <seg>がシックスの腕甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Guthix cape</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T074101Z" creationid="2008l" creationdate="20240811T074101Z">
         <seg>がシックスのマント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Guthix d'hide body</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T063529Z" creationid="2008l" creationdate="20240908T063529Z">
+        <seg>の竜革のボディ</seg>
       </tuv>
     </tu>
     <tu>
@@ -120970,8 +120986,8 @@
       <tuv lang="en-GB">
         <seg>Zamorak bracers</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240908T063325Z" creationid="2008l" creationdate="20240908T063325Z">
-        <seg>ザモラックの</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T063331Z" creationid="2008l" creationdate="20240908T063325Z">
+        <seg>ザモラックの腕甲</seg>
       </tuv>
     </tu>
     <tu>
@@ -121016,10 +121032,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Zamorak chaps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T063508Z" creationid="2008l" creationdate="20240908T063508Z">
+        <seg>ザモラックのチャップス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak coif</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T063514Z" creationid="2008l" creationdate="20240908T063514Z">
+        <seg>ザモラックのコイフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Zamorak crafter</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T052229Z" creationid="yumas" creationdate="20240809T052205Z">
         <seg>ザモラックの職人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Zamorak d'hide body</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T063452Z" creationid="2008l" creationdate="20240908T063452Z">
+        <seg>ザモラックの竜革のボディ</seg>
       </tuv>
     </tu>
     <tu>
