@@ -312,8 +312,16 @@
       <tuv lang="en-GB">
         <seg>3rd age full helmet</seg>
       </tuv>
-      <tuv lang="ja" changeid="2008l" changedate="20240908T063038Z" creationid="2008l" creationdate="20240908T063038Z">
-        <seg>第3期の</seg>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T063044Z" creationid="2008l" creationdate="20240908T063038Z">
+        <seg>第3期の全頭甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>3rd age kiteshield</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T063052Z" creationid="2008l" creationdate="20240908T063052Z">
+        <seg>第3期のタコ盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -4030,6 +4038,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Amulet of glory (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T063125Z" creationid="2008l" creationdate="20240908T063125Z">
+        <seg>栄光のアミュレット（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Amulet of glory (t1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T063118Z" creationid="2008l" creationdate="20240908T063118Z">
+        <seg>栄光のアミュレット（縁1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Amulet of glory (t2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T063115Z" creationid="2008l" creationdate="20240908T063115Z">
+        <seg>栄光のアミュレット（縁2）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Amulet of glory (t3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T063114Z" creationid="2008l" creationdate="20240908T063114Z">
+        <seg>栄光のアミュレット（縁3）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Amulet of glory(1)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240807T200046Z" creationid="2008l" creationdate="20240807T200046Z">
@@ -4074,6 +4114,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240808T063737Z" creationid="2008l" creationdate="20240808T063737Z">
         <seg>魔法のアミュレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Amulet of magic (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T063151Z" creationid="2008l" creationdate="20240908T063151Z">
+        <seg>魔法のアミュレット（縁）</seg>
       </tuv>
     </tu>
     <tu>
@@ -102782,6 +102830,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Strength amulet (t)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T063142Z" creationid="2008l" creationdate="20240908T063142Z">
+        <seg>腕力のアミュレット（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Strength cape</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240906T072342Z" creationid="2008l" creationdate="20240906T072342Z">
@@ -120912,6 +120968,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Zamorak bracers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T063325Z" creationid="2008l" creationdate="20240908T063325Z">
+        <seg>ザモラックの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Zamorak brew(1)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240721T065118Z" creationid="2008l" creationdate="20240721T065118Z">
@@ -122578,6 +122642,17 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240903T130517Z" creationid="2008l" creationdate="20240903T130517Z">
         <seg>庭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_item.xliff</prop>
+      <prop type="id">4880</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Amulet of glory (t4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T063113Z" creationid="2008l" creationdate="20240908T063113Z">
+        <seg>栄光のアミュレット（縁4）</seg>
       </tuv>
     </tu>
     <tu>
