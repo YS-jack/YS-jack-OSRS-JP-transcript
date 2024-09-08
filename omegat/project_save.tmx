@@ -6982,6 +6982,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Attacker icon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070553Z" creationid="2008l" creationdate="20240908T070553Z">
+        <seg>攻撃者のアイコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Attacker item machine</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T052615Z" creationid="yumas" creationdate="20240812T052615Z">
@@ -24582,6 +24590,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Collector icon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070559Z" creationid="2008l" creationdate="20240908T070559Z">
+        <seg>回収役のアイコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Colonel Grimsson</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T120318Z" creationid="yumas" creationdate="20240806T120318Z">
@@ -30434,6 +30450,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240908T070301Z" creationid="2008l" creationdate="20240908T070301Z">
         <seg>守護者の角笛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Defender icon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070635Z" creationid="2008l" creationdate="20240908T070635Z">
+        <seg>守護者のアイコン</seg>
       </tuv>
     </tu>
     <tu>
@@ -39626,6 +39650,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T113523Z" creationid="yumas" creationdate="20240809T113519Z">
         <seg>ファイター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fighter hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070524Z" creationid="2008l" creationdate="20240908T070355Z">
+        <seg>ファイターの帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fighter torso</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070520Z" creationid="2008l" creationdate="20240908T070520Z">
+        <seg>ファイターの胴体</seg>
       </tuv>
     </tu>
     <tu>
@@ -51142,6 +51182,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Healer hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070349Z" creationid="2008l" creationdate="20240908T070349Z">
+        <seg>回復者の帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Healer horn</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240908T070114Z" creationid="2008l" creationdate="20240908T070114Z">
@@ -51178,6 +51226,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T022229Z" creationid="yumas" creationdate="20240810T022229Z">
         <seg>回復トーテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Healing vial</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070343Z" creationid="2008l" creationdate="20240908T070343Z">
+        <seg>回復の試薬瓶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Healing vial(1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070341Z" creationid="2008l" creationdate="20240908T070341Z">
+        <seg>回復の試薬瓶（1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Healing vial(2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070340Z" creationid="2008l" creationdate="20240908T070340Z">
+        <seg>回復の試薬瓶（2）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Healing vial(3)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070339Z" creationid="2008l" creationdate="20240908T070339Z">
+        <seg>回復の試薬瓶（3）</seg>
       </tuv>
     </tu>
     <tu>
@@ -78318,6 +78398,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Penance gloves</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070543Z" creationid="2008l" creationdate="20240908T070543Z">
+        <seg>ペナンスの手袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Penance skirt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070547Z" creationid="2008l" creationdate="20240908T070547Z">
+        <seg>ペナンスのスカート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Penda</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T120619Z" creationid="yumas" creationdate="20240808T120619Z">
@@ -84066,6 +84162,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T081522Z" creationid="2008l" creationdate="20240811T081522Z">
         <seg>射手の靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ranger hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070502Z" creationid="2008l" creationdate="20240908T070502Z">
+        <seg>射手の帽子</seg>
       </tuv>
     </tu>
     <tu>
@@ -91234,6 +91338,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T035246Z" creationid="yumas" creationdate="20240809T035133Z">
         <seg>ルーナイトの岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Runner boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070535Z" creationid="2008l" creationdate="20240908T070535Z">
+        <seg>ランナーの靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Runner hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070423Z" creationid="2008l" creationdate="20240908T070423Z">
+        <seg>ランナーの帽子</seg>
       </tuv>
     </tu>
     <tu>
