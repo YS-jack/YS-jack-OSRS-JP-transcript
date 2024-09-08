@@ -24750,6 +24750,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Combat lamp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T071128Z" creationid="2008l" creationdate="20240908T071128Z">
+        <seg>戦闘の経験値ランプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Combat potion(1)</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240906T072225Z" creationid="2008l" creationdate="20240906T072215Z">
@@ -47070,6 +47078,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Granite body</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T071035Z" creationid="2008l" creationdate="20240908T071035Z">
+        <seg>花崗岩のボディ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Granite helm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T071157Z" creationid="2008l" creationdate="20240908T071157Z">
+        <seg>花崗岩の兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Granite legs</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240830T070559Z" creationid="2008l" creationdate="20240830T070509Z">
@@ -58410,6 +58434,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T120146Z" creationid="yumas" creationdate="20240809T120146Z">
         <seg>ケフリティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Keris</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T071057Z" creationid="2008l" creationdate="20240908T071057Z">
+        <seg>ケリス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Keris(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T071103Z" creationid="2008l" creationdate="20240908T071103Z">
+        <seg>ケリス（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Keris(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T071106Z" creationid="2008l" creationdate="20240908T071106Z">
+        <seg>ケリス（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Keris(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T071108Z" creationid="2008l" creationdate="20240908T071108Z">
+        <seg>ケリス（毒＋＋）</seg>
       </tuv>
     </tu>
     <tu>
@@ -73482,6 +73538,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T222725Z" creationid="yumas" creationdate="20240808T222725Z">
         <seg>ンクク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>No eggs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T071001Z" creationid="2008l" creationdate="20240908T071001Z">
+        <seg>卵なし</seg>
       </tuv>
     </tu>
     <tu>
@@ -91926,6 +91990,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Salve amulet (e)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T071150Z" creationid="2008l" creationdate="20240908T071150Z">
+        <seg>サルヴのアミュレット（魔）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Salve shard</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240822T073829Z" creationid="2008l" creationdate="20240822T073829Z">
@@ -106292,6 +106364,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T025149Z" creationid="yumas" creationdate="20240809T025149Z">
         <seg>ターン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tarn's diary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T071136Z" creationid="2008l" creationdate="20240908T071136Z">
+        <seg>ターンの日記</seg>
       </tuv>
     </tu>
     <tu>
