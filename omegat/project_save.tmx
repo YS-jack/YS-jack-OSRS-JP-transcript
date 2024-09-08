@@ -13222,6 +13222,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Blue egg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070157Z" creationid="2008l" creationdate="20240908T070157Z">
+        <seg>青色の卵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Blue elegant blouse</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240908T064515Z" creationid="2008l" creationdate="20240908T064515Z">
@@ -24558,6 +24566,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Collection bag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070137Z" creationid="2008l" creationdate="20240908T070104Z">
+        <seg>回収者の袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Collector Converter</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T092059Z" creationid="yumas" creationdate="20240812T092059Z">
@@ -30410,6 +30426,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240811T075151Z" creationid="2008l" creationdate="20240811T075151Z">
         <seg>守備力増強薬（４）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Defender horn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070301Z" creationid="2008l" creationdate="20240908T070301Z">
+        <seg>守護者の角笛</seg>
       </tuv>
     </tu>
     <tu>
@@ -47558,6 +47582,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Green egg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070145Z" creationid="2008l" creationdate="20240908T070145Z">
+        <seg>緑色の卵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Green elegant blouse</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240908T064520Z" creationid="2008l" creationdate="20240908T064520Z">
@@ -51110,6 +51142,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Healer horn</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070114Z" creationid="2008l" creationdate="20240908T070114Z">
+        <seg>回復者の角笛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Healer item machine</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T052731Z" creationid="yumas" creationdate="20240812T052731Z">
@@ -51138,6 +51178,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240810T022229Z" creationid="yumas" creationdate="20240810T022229Z">
         <seg>回復トーテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Healing vial(4)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070338Z" creationid="2008l" creationdate="20240908T070338Z">
+        <seg>回復の試薬瓶（4）</seg>
       </tuv>
     </tu>
     <tu>
@@ -75374,6 +75422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Omega egg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070253Z" creationid="2008l" creationdate="20240908T070253Z">
+        <seg>オメガの卵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Ominous Fishing Spot</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T224822Z" creationid="yumas" creationdate="20240811T224822Z">
@@ -80470,10 +80526,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Poisoned egg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070209Z" creationid="2008l" creationdate="20240908T070209Z">
+        <seg>毒の卵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Poisoned fish food</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240722T062657Z" creationid="2008l" creationdate="20240722T062657Z">
         <seg>毒された魚の餌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Poisoned meat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070323Z" creationid="2008l" creationdate="20240908T070323Z">
+        <seg>毒の肉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Poisoned tofu</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070310Z" creationid="2008l" creationdate="20240908T070310Z">
+        <seg>毒の豆腐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Poisoned worms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070318Z" creationid="2008l" creationdate="20240908T070318Z">
+        <seg>毒の虫</seg>
       </tuv>
     </tu>
     <tu>
@@ -85762,6 +85850,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240828T074620Z" creationid="2008l" creationdate="20240828T074620Z">
         <seg>赤色染料のふいご</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Red egg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070150Z" creationid="2008l" creationdate="20240908T070150Z">
+        <seg>赤色の卵</seg>
       </tuv>
     </tu>
     <tu>
@@ -99634,6 +99730,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T234138Z" creationid="yumas" creationdate="20240808T234138Z">
         <seg>トゲの落とし穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Spiked/pois.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070234Z" creationid="2008l" creationdate="20240908T070234Z">
+        <seg>トゲと毒</seg>
       </tuv>
     </tu>
     <tu>
@@ -120848,6 +120952,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Yellow egg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070203Z" creationid="2008l" creationdate="20240908T070203Z">
+        <seg>黄色の卵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Yellow feather</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240907T071531Z" creationid="2008l" creationdate="20240907T071531Z">
@@ -122364,6 +122476,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240906T072646Z" creationid="2008l" creationdate="20240906T072646Z">
         <seg>マント（縁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>egg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240908T070239Z" creationid="2008l" creationdate="20240908T070239Z">
+        <seg>の卵</seg>
       </tuv>
     </tu>
     <tu>
