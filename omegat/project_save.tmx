@@ -9454,6 +9454,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Bat shish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240909T063105Z" creationid="2008l" creationdate="20240909T063105Z">
+        <seg>コウモリシシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Bat wing</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240902T051844Z" creationid="2008l" creationdate="20240902T051844Z">
@@ -24450,6 +24458,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240811T223230Z" creationid="yumas" creationdate="20240811T223230Z">
         <seg>コート掛け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Coated frogs' legs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240909T063038Z" creationid="2008l" creationdate="20240909T063038Z">
+        <seg>コーティングされたカエルの足</seg>
       </tuv>
     </tu>
     <tu>
@@ -42934,10 +42950,26 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Frogburger</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240909T063017Z" creationid="2008l" creationdate="20240909T063017Z">
+        <seg>フロッグバーガー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Frogeel</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T211801Z" creationid="yumas" creationdate="20240807T211801Z">
         <seg>フロギール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Frogspawn gumbo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240909T063005Z" creationid="2008l" creationdate="20240909T063005Z">
+        <seg>フロッグスポーン・ガンボ</seg>
       </tuv>
     </tu>
     <tu>
@@ -48906,6 +48938,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240808T235351Z" creationid="yumas" creationdate="20240808T235351Z">
         <seg>グルボー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Grubs à la mode</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240909T063219Z" creationid="2008l" creationdate="20240909T063219Z">
+        <seg>グラブ・ア・ラ・モード</seg>
       </tuv>
     </tu>
     <tu>
@@ -89382,6 +89422,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Roast frog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240909T063239Z" creationid="2008l" creationdate="20240909T063239Z">
+        <seg>焼きカエル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Roast rabbit</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240831T073021Z" creationid="2008l" creationdate="20240831T073021Z">
@@ -124373,6 +124421,17 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240908T063113Z" creationid="2008l" creationdate="20240908T063113Z">
         <seg>栄光のアミュレット（縁4）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">transcript_ja_name_item.xliff</prop>
+      <prop type="id">5111</prop>
+      <prop type="path">//transcript.db</prop>
+      <tuv lang="en-GB">
+        <seg>Fingers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240909T063200Z" creationid="2008l" creationdate="20240909T063200Z">
+        <seg>指</seg>
       </tuv>
     </tu>
     <tu>
