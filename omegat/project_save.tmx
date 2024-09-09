@@ -902,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>A jester stick</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240909T060400Z" creationid="2008l" creationdate="20240909T060400Z">
+        <seg>道化師の棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>A magic scroll</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240830T072154Z" creationid="2008l" creationdate="20240830T072154Z">
@@ -5554,6 +5562,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240807T135246Z" creationid="yumas" creationdate="20240807T135246Z">
         <seg>弟子の作業員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Apricot cream pie</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240909T060514Z" creationid="2008l" creationdate="20240909T060514Z">
+        <seg>アプリコットクリームパイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -96162,6 +96178,38 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240806T134420Z" creationid="yumas" creationdate="20240806T134420Z">
         <seg>絹の商人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Silly jester boots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240909T060349Z" creationid="2008l" creationdate="20240909T060349Z">
+        <seg>バカバカしい道化師の靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Silly jester hat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240909T060246Z" creationid="2008l" creationdate="20240909T060246Z">
+        <seg>バカバカしい道化師の帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Silly jester tights</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240909T060345Z" creationid="2008l" creationdate="20240909T060345Z">
+        <seg>バカバカしい道化師のタイツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Silly jester top</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240909T060249Z" creationid="2008l" creationdate="20240909T060249Z">
+        <seg>バカバカしい道化師のトップ</seg>
       </tuv>
     </tu>
     <tu>
