@@ -33662,6 +33662,38 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dragon arrow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240910T064621Z" creationid="2008l" creationdate="20240910T064621Z">
+        <seg>竜鉄の矢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragon arrow(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240910T064648Z" creationid="2008l" creationdate="20240910T064648Z">
+        <seg>竜鉄の矢（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragon arrow(p+)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240910T064654Z" creationid="2008l" creationdate="20240910T064654Z">
+        <seg>竜鉄の矢（毒＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragon arrow(p++)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240910T064657Z" creationid="2008l" creationdate="20240910T064657Z">
+        <seg>竜鉄の矢（毒＋＋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dragon axe</seg>
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240830T064749Z" creationid="2008l" creationdate="20240830T064749Z">
@@ -33846,6 +33878,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dragon dart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240910T064713Z" creationid="2008l" creationdate="20240910T064713Z">
+        <seg>竜鉄のダーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragon dart(p)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240910T064722Z" creationid="2008l" creationdate="20240910T064722Z">
+        <seg>竜鉄のダーツ（毒）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dragon display</seg>
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240809T021509Z" creationid="yumas" creationdate="20240809T021509Z">
@@ -33858,6 +33906,22 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T012653Z" creationid="yumas" creationdate="20240812T012653Z">
         <seg>竜の卵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragon fire arrow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240910T064630Z" creationid="2008l" creationdate="20240910T064630Z">
+        <seg>竜鉄の火矢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dragon fire arrow (lit)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240910T064639Z" creationid="2008l" creationdate="20240910T064639Z">
+        <seg>竜鉄の火矢（点火）</seg>
       </tuv>
     </tu>
     <tu>
@@ -47178,6 +47242,14 @@
       </tuv>
       <tuv lang="ja" changeid="2008l" changedate="20240821T065110Z" creationid="2008l" creationdate="20240821T065110Z">
         <seg>黄金のフリース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Golden goblin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240910T064548Z" creationid="2008l" creationdate="20240910T064548Z">
+        <seg>金のゴブリン</seg>
       </tuv>
     </tu>
     <tu>
@@ -66050,6 +66122,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240812T003633Z" creationid="yumas" creationdate="20240812T003633Z">
         <seg>魔法のバリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Magic beans</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240910T064609Z" creationid="2008l" creationdate="20240910T064609Z">
+        <seg>魔法の豆</seg>
       </tuv>
     </tu>
     <tu>
@@ -97210,6 +97290,14 @@
       </tuv>
       <tuv lang="ja" changeid="yumas" changedate="20240814T083157Z" creationid="yumas" creationdate="20240814T083157Z">
         <seg>しなびた植物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shrunk ogleroot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="2008l" changedate="20240910T064540Z" creationid="2008l" creationdate="20240910T064540Z">
+        <seg>縮んだオーグルルート</seg>
       </tuv>
     </tu>
     <tu>
