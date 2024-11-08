@@ -26595,7 +26595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22222">
         <xliff:source>Spiked cage</xliff:source>
-        <xliff:target state="translated">トゲのケージ</xliff:target>
+        <xliff:target state="translated">トゲのある檻</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Spiked cage
@@ -26611,7 +26611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22224">
         <xliff:source>Oubliette spikes</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">忘れ牢のトゲ</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Spikes
@@ -26627,7 +26627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22226">
         <xliff:source>Oubliette Flame pit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">忘れ牢の火炎坑</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Flame pit
@@ -26643,7 +26643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22228">
         <xliff:source>Oak oubliette ladder</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫の忘れ牢へのハシゴ</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Oak ladder
@@ -26651,7 +26651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22229">
         <xliff:source>Teak oubliette ladder</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チークの忘れ牢へのハシゴ</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Teak ladder
@@ -26659,7 +26659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22230">
         <xliff:source>Mahogany oubliette ladder</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーの忘れ牢へのハシゴ</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Mahogany ladder
@@ -26819,7 +26819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22250">
         <xliff:source>Teak portal frame</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チークのポータルフレーム</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Teak portal
@@ -26827,7 +26827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22251">
         <xliff:source>Mahogany portal frame</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーのポータルフレーム</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Mahogany portal
@@ -26835,7 +26835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22252">
         <xliff:source>Marble portal frame</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">大理石のポータルフレーム</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Marble portal
@@ -26875,7 +26875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22257">
         <xliff:source>Oak eagle lectern</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫のワシの詠唱台</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Eagle lectern
@@ -26883,7 +26883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22258">
         <xliff:source>Oak demon lectern</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫の悪魔の詠唱台</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Demon lectern
@@ -26907,7 +26907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22261">
         <xliff:source>Mahogany eagle lectern</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーのワシの詠唱台</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Mahogany eagle
@@ -26915,7 +26915,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22262">
         <xliff:source>Mahogany demon lectern</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マホガニーの悪魔の詠唱台</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Mahogany demon
@@ -26923,7 +26923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22263">
         <xliff:source>Globe</xliff:source>
-        <xliff:target state="translated">グローブ</xliff:target>
+        <xliff:target state="translated">球体儀</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Globe
@@ -26931,7 +26931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22264">
         <xliff:source>Ornamental globe</xliff:source>
-        <xliff:target state="translated">装飾されたグローブ</xliff:target>
+        <xliff:target state="translated">装飾された球体儀</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Ornamental globe
@@ -26939,7 +26939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22265">
         <xliff:source>Lunar globe</xliff:source>
-        <xliff:target state="translated">ルーナ・グローブ</xliff:target>
+        <xliff:target state="translated">月儀</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Lunar globe
@@ -26947,7 +26947,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22266">
         <xliff:source>Celestial globe</xliff:source>
-        <xliff:target state="translated">天体グローブ</xliff:target>
+        <xliff:target state="translated">天体儀</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Celestial globe
@@ -26979,7 +26979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22270">
         <xliff:source>Oak Telescope</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫の望遠鏡</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Oak telescope
@@ -26987,7 +26987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22271">
         <xliff:source>Teak Telescope</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チークの望遠鏡</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Teak telescope
