@@ -219,7 +219,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109290">
         <xliff:source>No</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">いいえ</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -10130,7 +10130,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110550"><xliff:source>Yes</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110551"><xliff:source>No</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110551"><xliff:source>No</xliff:source><xliff:target state="translated">いいえ</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110552"><xliff:source>Bow</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
