@@ -72,7 +72,7 @@ OSRSの和訳プラグインのデータを作成するためのプロジェク�
 
    ![image5-1](./readme_images/OmegaT%205-1.png)
 
-## データのアップロード
+## 翻訳後のデータアップロード
 終了する前は必ず
  1. メニューの「プロジェクト」を選択
  2. 「訳文ファイルをコミット」を選択
@@ -94,15 +94,26 @@ OSRSの和訳プラグインのデータを作成するためのプロジェク�
 
    2. 漢字は新聞の常用漢字までにしてください。確認するには先ず[総合漢字チェッカー](http://attosoft.info/tools/kanji-checker/)にアクセスします。
    そして、常用漢字か確認したい漢字を上の記入欄に入力し、「設定」の「新聞常用漢字」を選択したら「チェック」ボタンを押します。すると「チェック結果」に漢字が表示されます。ここで赤くなっていたら常用漢字ではないので、カタカナかひらがなで書きましょう。
+      - もし非常用漢字を使用する場合はその文字が表示できるよう漢字の画像を生成する必要があります。
+         - 簡単に言うと[RuneLingual Transcript](https://github.com/YS-jack/Runelingual-Transcripts/blob/original-main/README.md)の「updater/char_lists/all_char_ja.txt」にその漢字を書き加え、「updater/update_char_images.py」を実行する必要があります。
+      - 詳しくは[連絡](#連絡)よりご相談ください。
 
-   ![rule_jouyou_kanji](./readme_images/OmegaT%206.png)
+<img src="./readme_images/OmegaT%206.png" alt="rule_jouyou_kanji" style="width:450px;"/>
 
 
 ## 原文データの準備・更新
 
-詳細なデータの準備方法については、[RuneLingual Transcript](https://github.com/IaKee/Runelingual-Transcripts)をご覧ください。
+- 詳細なデータの準備方法については、[RuneLingual Transcript](https://github.com/YS-jack/Runelingual-Transcripts/blob/original-main/README.md)をご覧ください。
+- もしくは[RuneLingualのDiscord]((https://discord.gg/ehwKcVdBGS))までご連絡ください。
+- 必要なのは「.xliff」で終わるファイルなので、このファイル形式のファイルを生成するように上記のプログラムを実行してください。
+- XLIFFファイルを入手したら、
+   1. 本チームプロジェクトを開く
+   2. ファイルエクスプローラーから、生成したXLIFFファイルをプロジェクトフォルダの「sources」のフォルダに入れる
+   3. OmegaTの左上より「プロジェクト」＞「原文ファイルをコミット」を押す
+   4. しばらく待つと、リモート（Gitのサイト側）にアップされて他の人も確認できるようになります。
+
 
 
 ## 連絡
 
-困ったことがあったら[ルーンスケープ日本語サーバー](https://discord.gg/DpS9kgxCSJ)で声をかけてください。
+困ったことがあったら[Discordのルーンスケープ日本語サーバー](https://discord.gg/DpS9kgxCSJ)もしくは[RuneLingualのサーバー]((https://discord.gg/ehwKcVdBGS))で声をかけてください。
