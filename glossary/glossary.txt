@@ -203,7 +203,6 @@ hardleather	硬革	硬い革、弓系防具の材料として使われている
 Nugget	一塊	貴金属の塊
 talisman	タリスマン	air talismanなどに使われる単語
 cowl	頭巾	弓系防具名
-shield	盾	アイテム名でしよう
 Arcenia	アルセニア
 sq shield	角盾	（かくたて）
 black	黒鉄	結構弱い武器や防具の材料
@@ -663,7 +662,6 @@ Chinchompa	チンチョンパ
 Brutal	残酷な
 Blast Furnace	ブラスト・ファーネス
 Nail	爪
-unholy	けがれ	アイテム名でしよう
 diamond	ダイヤ	宝石名
 ruby	ルビー	宝石名
 emerald	エメラルド	宝石名
@@ -689,7 +687,6 @@ Ghoul	グール
 Surgeon	外科医
 Hobgoblin	ホブゴブリン
 Jogre	ジョーガ
-uncut	原石	アイテム名でしよう
 Iorwerth	イオワース
 Archer	アーチャー
 wisp	ウィスプ
@@ -710,8 +707,6 @@ Shadowy	謎めいた
 figure	存在	人間以外の場合、人間なら「人物」も可
 Sirsalis	シルサリス	月面のクレータの名前らしい
 Cabin boy	キャビンボーイ
-unstrung	紐無し	アイテム名でしよう
-unblessed	未祝福	アイテム名でしよう
 symbol	シンボル	ジュエリー系
 emblem	エンブレム	ジュエリー系
 woad leaf	ウォード葉	ハーブ系
@@ -1336,7 +1331,6 @@ Old One	古いモノ	絶滅した生物の種
 Fang	牙
 Emperor	皇帝
 Zombie Pirate	海賊ゾンビ
-(g)	（金）	アイテム名でしよう
 toadflax	トードフラックス	ハーブ系
 snapdragon	スナップドラゴン	ハーブ系
 Guest Clan	見学クラン
@@ -1501,3 +1495,9 @@ Keris	ケリス
 Purging	浄化
 Anchor	碇	読み：いかり
 defender	副刀	melee系の左手で持つ防具
+shield	盾	アイテム名で使用
+unholy	けがれ	アイテム名で使用
+uncut	原石	アイテム名で使用
+unstrung	紐無し	アイテム名で使用
+unblessed	神聖な	アイテム名で使用
+(g)	（金）	アイテム名で使用
