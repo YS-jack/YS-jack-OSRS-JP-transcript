@@ -6203,7 +6203,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113794">
         <xliff:source>Potions - Members Only</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">薬液：会員限定</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6211,7 +6211,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113795">
         <xliff:source>You must complete the Druidic Ritual quest before you can use Herblore.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クエスト「ドルイドの儀式」完了で調合スキルは解放されます。</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6219,7 +6219,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113796">
         <xliff:source>Attack potion Guam leaf &amp; eye of newt</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">攻撃力の増強薬：グアム＆イモリの目</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6227,7 +6227,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113797">
         <xliff:source>Anti-poison potion Marrentill &amp; ground unicorn horn</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">解毒剤：マレンテル＆ひかれたユニコーンの角</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6235,7 +6235,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113798">
         <xliff:source>Relicym's balm</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">レリシムの香油</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6243,7 +6243,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113799">
         <xliff:source>Strength potion Tarromin &amp; limpwurt root</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">腕力の増強薬：タロミン＆リンプワートの根</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6251,7 +6251,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113800">
         <xliff:source>Serum 207 Tarromin &amp; ashes</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血清２０７：タロミン＆灰</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6259,7 +6259,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113801">
         <xliff:source>Guam tar Guam leaf &amp; swamp tar</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">グアムのタール：グアム＆沼タール</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6267,7 +6267,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113802">
         <xliff:source>Compost potion Harralander &amp; volcanic ash</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">堆肥の薬液：ハラランダー＆火山灰</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6275,7 +6275,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113803">
         <xliff:source>Stat restore potion Harralander &amp; red spiders' eggs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">回復薬：ハラランダー＆赤いクモの卵</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6283,7 +6283,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113804">
         <xliff:source>Guthix balance potion Restore potion, garlic &amp; silver dust</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ガシックスの平衡：回復薬＆ニンニク＆銀の粉</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6291,7 +6291,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113805">
         <xliff:source>Energy potion Harralander &amp; chocolate dust</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エネルギーの薬液：ハラランダー＆チョコの粉</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6299,7 +6299,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113806">
         <xliff:source>Defence potion Ranarr weed &amp; white berries</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">守備力の増強薬：ラナー＆白いベリー</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6307,7 +6307,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113807">
         <xliff:source>Marrentill tar Marrentill &amp; swamp tar</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マレンテルのタール：マレンテル＆沼タール</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6315,7 +6315,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113808">
         <xliff:source>Agility potion Toadflax &amp; toad legs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">運動神経の増強薬：トードフラックス＆カエルの足</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6323,7 +6323,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113809">
         <xliff:source>Combat potion Harralander &amp; ground desert goat horn</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">戦闘の増強薬：ハラランダー＆ひかれた砂漠ヤギの角</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6331,7 +6331,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113810">
         <xliff:source>Prayer restore potion Ranarr weed &amp; snape grass</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">祈祷の薬液：ラナー＆スネイプ草</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6339,7 +6339,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113811">
         <xliff:source>Moonlight Potion Vial of water &amp; Moonlight grub paste</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">月光の薬液：水入り試薬瓶＆月光のうじ虫のペースト</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6347,7 +6347,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113812">
         <xliff:source>Tarromin tar Tarromin &amp; swamp tar</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">タロミンのタール：タロミン＆沼タール</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6355,7 +6355,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113813">
         <xliff:source>Harralander tar Harralander &amp; swamp tar</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ハラランダーのタール：ハラランダー＆沼タール</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6363,7 +6363,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113814">
         <xliff:source>Super attack potion Irit leaf &amp; eye of newt</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">攻撃力の超増強薬：アイリット＆イモリの目</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6371,7 +6371,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113815">
         <xliff:source>Super anti-poison potion Irit leaf &amp; ground unicorn horn</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">超解毒剤：アイリット＆ひかれたユニコーンの角</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6379,7 +6379,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113816">
         <xliff:source>Fishing potion Avantoe &amp; snape grass</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">釣り増強薬：アバントー＆スネイプ草</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6387,7 +6387,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113817">
         <xliff:source>Super energy potion Avantoe &amp; Mort Myre fungi</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">超エネルギーの薬液：アバントー＆モート・マイヤーのキノコ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6395,7 +6395,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113818">
         <xliff:source>Hunting potion - Avantoe &amp; ground sabre-toothed kebbit teeth</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">狩人の薬液：アバントー＆ひかれた剣歯ケビットの歯</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6403,7 +6403,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113819">
         <xliff:source>Goading potion Harralander &amp; aldarium</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">挑発の薬液：ハラランダー＆アルダリウム</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6411,7 +6411,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113820">
         <xliff:source>Super strength potion Kwuarm &amp; limpwurt root</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">腕力の超増強薬：クワーム＆リンプワートの根</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6419,7 +6419,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113821">
         <xliff:source>Irit tar Irit leaf &amp; swamp tar</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アイリットのタール：アイリット＆沼タール</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6427,7 +6427,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113822">
         <xliff:source>Magic essence potion Star flower &amp; ground gorak's claw</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魔法のエッセンス：星の花＆ひかれたゴラクの鉤爪</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6435,7 +6435,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113823">
         <xliff:source>Prayer regeneration potion Huasca &amp; aldarium</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">祈り回復の薬液：フアスカ＆アルダリウム</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6443,7 +6443,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113824">
         <xliff:source>Weapon poison Kwuarm &amp; ground blue dragon scale</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">武器用の毒：クワーム＆ひかれた青竜の鱗</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6451,7 +6451,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113825">
         <xliff:source>Super restore potion Snapdragon &amp; red spiders' eggs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">超回復薬：スナップドラゴン＆赤いクモの卵</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6459,7 +6459,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113826">
         <xliff:source>Sanfew serum cure all Super restore potion, snake weed, ground unicorn horn and nail beast nails.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">サンフューの血清は全回復薬です：超回復薬＆スネーク草＆ひかれたユニコーンの角＆爪の獣の爪</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6467,7 +6467,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113827">
         <xliff:source>Super defence potion Cadantine &amp; white berries</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">守備力の超増強薬：カンダタイン＆白いベリー</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6475,7 +6475,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113828">
         <xliff:source>Antidote+ Coconut milk, toadflax &amp; yew roots</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">解毒剤＋：ココナッツミルク＆トードフラックス＆イチイの根</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6483,7 +6483,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113829">
         <xliff:source>Anti-firebreath potion Lantadyme &amp; ground blue dragon scale</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">火耐性の薬液：ランタダイム＆ひかれた青竜の鱗</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6491,7 +6491,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113830">
         <xliff:source>Divine super attack potion Crystal dust &amp; super attack potion</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神聖な攻撃力の超増強薬：水晶の粉＆攻撃力の超増強薬</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6499,7 +6499,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113831">
         <xliff:source>Divine super strength potion Crystal dust &amp; super strength potion</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神聖な腕力の超増強薬：水晶の粉＆腕力の超増強薬</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6507,7 +6507,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113832">
         <xliff:source>Divine super defence potion Crystal dust &amp; super defence potion</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神聖な守備力の超増強薬：水晶の粉＆守備力の超増強薬</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6515,7 +6515,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113833">
         <xliff:source>Ranging potion Dwarf weed &amp; wine of Zamorak</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">弓の増強薬：ドワーフ草＆ザモラックのワイン</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6523,7 +6523,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113834">
         <xliff:source>Weapon poison(+) Coconut milk, cactus spine &amp; red spiders' eggs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">武器用の毒＋：ココナッツミルク＆サボテンのトゲ＆赤いクモの卵</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6531,7 +6531,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113835">
         <xliff:source>Divine ranging potion Crystal dust &amp; ranging potion</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神聖な弓の増強薬：水晶の粉＆弓の増強薬</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6539,7 +6539,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113836">
         <xliff:source>Magic potion Lantadyme &amp; potato cactus</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魔法の増強薬：ランタダイム＆ジャガイモサボテン</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6547,7 +6547,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113837">
         <xliff:source>Stamina potion Amylase &amp; super energy potion</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">スタミナの薬液：アミラーゼ水晶＆超エネルギーの薬液</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6555,7 +6555,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113838">
         <xliff:source>Zamorak brew Torstol &amp; jangerberries</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ザモラックの秘薬：トーストル＆ジャンガベリー</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6563,7 +6563,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113839">
         <xliff:source>Divine magic potion Crystal dust &amp; magic potion</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神聖な魔法の増強薬：水晶の粉＆魔法の増強薬</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6571,7 +6571,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113840">
         <xliff:source>Antidote++ Coconut milk, irit leaf &amp; magic tree roots</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">解毒剤++：ココナッツミルク＆アイリット＆魔法の根</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
