@@ -5691,7 +5691,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113730">
         <xliff:source>Members: Mixed Hide body, cape, and boots  (with 60 Ranged)</xliff:source>
-        <xliff:target state="translated">会員：ミックス革のボディ、マント、靴（遠射60も）</xliff:target>
+        <xliff:target state="translated">会員：ミックス革のトップ、マント、靴（遠射60も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7955,7 +7955,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114013">
         <xliff:source>Members: Dark bows  Ammo: Arrows up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：暗黒弓：竜鉄の矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7963,7 +7963,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114014">
         <xliff:source>Members: Craw's bow  Ammo: None</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：クロウの弓：矢は不要</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7971,7 +7971,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114015">
         <xliff:source>Members: 3rd age bow  Ammo: Arrows up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：第3紀の弓：竜鉄の矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7979,7 +7979,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114016">
         <xliff:source>Members: Crystal bows (with 50 Agility)  Ammo: None</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：水晶の弓（運動神経50も）：矢は不要</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7987,7 +7987,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114017">
         <xliff:source>Members: Webweaver bow  Ammo: None</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ウェブウィーバーの弓：矢は不要</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7995,7 +7995,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114018">
         <xliff:source>Members: Scorching bows  Ammo: Arrows up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：灼熱の弓：竜鉄の矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8003,7 +8003,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114019">
         <xliff:source>Members: Bow of Faerdhinen (with 70 Agility)  Ammo: None</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：フェルディネンの弓（運動神経70も）：矢は不要</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8011,7 +8011,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114020">
         <xliff:source>Members: Venator bow  Ammo: Arrows up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ベネターの弓：竜鉄の矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8019,7 +8019,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114021">
         <xliff:source>Members: Twisted bow  Ammo: Arrows up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：歪みの弓：ドラゴンまでの矢</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8027,7 +8027,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114022">
         <xliff:source>Thrown</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">投げ物</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8035,7 +8035,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114023">
         <xliff:source>Crossbows</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">洋弓銃</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8043,7 +8043,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114024">
         <xliff:source>Miscellaneous</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">雑多</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8051,7 +8051,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114025">
         <xliff:source>Thrown - Members Only</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">投げ物：会員限定</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8059,7 +8059,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114026">
         <xliff:source>Bronze items</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">青銅のアイテム</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8067,7 +8067,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114027">
         <xliff:source>Iron items</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">鉄のアイテム</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8075,7 +8075,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114028">
         <xliff:source>Steel items</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">鋼鉄のアイテム</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8083,7 +8083,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114029">
         <xliff:source>Black items</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">黒鉄のアイテム</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8091,7 +8091,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114030">
         <xliff:source>Mithril items</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ミスリルのアイテム</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8099,7 +8099,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114031">
         <xliff:source>Adamantite items</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アダマンタイトのアイテム</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8107,7 +8107,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114032">
         <xliff:source>Rune items</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ルーンのアイテム</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8115,7 +8115,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114033">
         <xliff:source>Chinchompas</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チンチョンパ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8123,7 +8123,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114034">
         <xliff:source>Amethyst darts</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アメシストのダーツ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8131,7 +8131,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114035">
         <xliff:source>Carnivorous chinchompas</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">肉食チンチョンパ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8139,7 +8139,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114036">
         <xliff:source>Hunter's Spears  (with 30 Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：狩人の槍（腕力30も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8147,7 +8147,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114037">
         <xliff:source>Dragon darts</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">竜鉄のダーツ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8155,7 +8155,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114038">
         <xliff:source>Dragon knives</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">竜鉄のナイフ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8163,7 +8163,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114039">
         <xliff:source>TokTz-Xil-Ul</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">トクツ・ジル・ウル</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8171,7 +8171,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114040">
         <xliff:source>Dragon thrownaxes</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">竜鉄の投げ斧</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8179,7 +8179,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114041">
         <xliff:source>Black chinchompas</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">黒チンチョンパ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8187,7 +8187,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114042">
         <xliff:source>Eclipse Atlatl (With 50 Strength and 50 Attack)  Ammo: Atlatl darts</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エクリプスのアトラトル（腕力50と攻撃力50）：アトラトルのダーツ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8203,7 +8203,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114044">
         <xliff:source>Tonalztics of Ralos</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ラロスのトナルスチックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8211,7 +8211,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114045">
         <xliff:source>Crossbow  Ammo: Bronze crossbow bolts</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">洋弓銃：青銅のボルト</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8219,7 +8219,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114046">
         <xliff:source>Phoenix crossbow  Ammo: Bronze crossbow bolts</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フェニックスの洋弓銃：青銅のボルト</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8227,7 +8227,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114047">
         <xliff:source>Members: Bronze crossbow  Ammo: Bronze crossbow bolts</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：青銅の洋弓銃：青銅のボルト</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8235,7 +8235,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114048">
         <xliff:source>Members: Blurite crossbow  Ammo: Bolts up to blurite</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ブルライトの洋弓銃：ブルライトのボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8243,7 +8243,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114049">
         <xliff:source>Members: Iron crossbow  Ammo: Bolts up to iron</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：鉄の洋弓銃：鉄のボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8251,7 +8251,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114050">
         <xliff:source>Members: Dorgeshuun crossbow  Ammo: Bolts up to iron</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ドーゲシューンの洋弓銃：鉄のボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8259,7 +8259,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114051">
         <xliff:source>Members: Steel crossbow  Ammo: Bolts up to steel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：鋼鉄の洋弓銃：鋼鉄のボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8267,7 +8267,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114052">
         <xliff:source>Members: Mithril crossbow  Ammo: Bolts up to mithril</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ミスリルの洋弓銃：ミスリルのボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8275,7 +8275,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114053">
         <xliff:source>Members: Adamantite crossbow  Ammo: Bolts up to adamant</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：アダマンタイトの洋弓銃：アダマントのボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8283,7 +8283,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114054">
         <xliff:source>Members: Hunters' crossbow  Ammo: Kebbit bolts</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：狩人の洋弓銃：ケビットのボルト</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8291,7 +8291,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114055">
         <xliff:source>Members: Runite crossbow  Ammo: Bolts up to runite</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ルーナイトの洋弓銃：ルーナイトのボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8299,7 +8299,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114056">
         <xliff:source>Members: Dragon crossbow  Ammo: Bolts up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：竜鉄の洋弓銃：竜鉄のボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8307,7 +8307,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114057">
         <xliff:source>Members: Sunlight hunters' crossbow  Ammo: Antler bolts.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：狩人の日光の洋弓銃：枝角ボルト</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8315,7 +8315,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114058">
         <xliff:source>Members: Dragon hunter crossbow  Ammo: Bolts up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：竜狩りの洋弓銃：竜鉄のボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8323,7 +8323,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114059">
         <xliff:source>Members: Armadyl crossbow  Ammo: Bolts up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：アーマディルの洋弓銃：竜鉄のボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8331,7 +8331,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114060">
         <xliff:source>Members: Karil's crossbow</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：カリルの洋弓銃</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8339,7 +8339,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114061">
         <xliff:source>Members: Zaryte crossbow  Ammo: Bolts up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ザーライトの洋弓銃：竜鉄のボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8347,7 +8347,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114062">
         <xliff:source>Plain leather items</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">普通の革のアイテム</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8355,7 +8355,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114063">
         <xliff:source>Hard leather body  (with 10 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">硬革のボディ（守備力10も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8363,7 +8363,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114064">
         <xliff:source>Studded leather body  (with 20 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">トゲ付きのボディ（守備力20）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8371,7 +8371,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114065">
         <xliff:source>Studded leather chaps</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">トゲ付きチャップス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8387,7 +8387,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114067">
         <xliff:source>Members: Hard leather shield   (with 10 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：硬革の盾（守備力10も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8395,7 +8395,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114068">
         <xliff:source>Members: Frog-leather   (with 25 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：カエル革（守備力25も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8403,7 +8403,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114069">
         <xliff:source>Members: Snakeskin armour  (with 30 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：蛇革の防具（守備力30も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8411,7 +8411,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114070">
         <xliff:source>Members: Snakeskin shield   (with 30 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：蛇革の盾（守備力30）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8419,7 +8419,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114071">
         <xliff:source>Members: Ava's attractor  (after Animal Magnetism)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：アヴァのアトラクター（「動物の磁性」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8427,7 +8427,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114072">
         <xliff:source>Members: Ranger boots</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：射手の靴</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8435,7 +8435,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114073">
         <xliff:source>Members: Robin Hood hat</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ロビン・フッドの帽子</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8443,7 +8443,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114074">
         <xliff:source>Members: Rangers' tunic</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：射手のチュニック</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8451,7 +8451,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114075">
         <xliff:source>Members: Ranger gloves</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：射手の手袋</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8459,7 +8459,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114076">
         <xliff:source>Members: Rangers' tights</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：射手のタイツ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8467,7 +8467,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114077">
         <xliff:source>Members: Spined armour  (after The Fremennik Trials, with 40 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：トゲの防具（「フレメニックの試練」後、守備力40も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8475,7 +8475,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114078">
         <xliff:source>Green dragonhide vambraces</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">緑竜革の腕甲</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8483,7 +8483,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114079">
         <xliff:source>Green dragonhide chaps</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">緑竜革のチャップス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8491,7 +8491,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114080">
         <xliff:source>Green dragonhide body  (with 40 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">緑竜革のボディ（守備力40も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8499,7 +8499,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114081">
         <xliff:source>Members: Green dragonhide shield   (with 40 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：緑竜革の盾（守備力40も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8507,7 +8507,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114082">
         <xliff:source>Members: Ava's accumulator  (after Animal Magnetism)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：アヴァのアキュムレータ（「動物の磁性」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8515,7 +8515,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114083">
         <xliff:source>Members: Blue dragonhide vambraces</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：青竜革の腕甲</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8523,7 +8523,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114084">
         <xliff:source>Members: Blue dragonhide chaps</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：青竜革のチャップス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8531,7 +8531,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114085">
         <xliff:source>Members: Blue dragonhide body  (with 40 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：青竜革のボディ（守備力40も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8539,7 +8539,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114086">
         <xliff:source>Members: Blue dragonhide shield   (with 40 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：青竜革の盾（守備力40も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8547,7 +8547,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114087">
         <xliff:source>Members: Penance skirt  (with 40 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ペナンスのスカート（守備力40も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8555,7 +8555,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114088">
         <xliff:source>Members: Red dragonhide vambraces</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：赤竜革の腕甲</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8563,7 +8563,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114089">
         <xliff:source>Members: Red dragonhide chaps</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：赤竜革のチャップス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8571,7 +8571,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114090">
         <xliff:source>Members: Red dragonhide body  (with 40 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：赤竜革のボディ（守備力40も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8579,7 +8579,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114091">
         <xliff:source>Members: Red dragonhide shield   (with 40 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：赤竜革の盾（守備力40も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8587,7 +8587,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114092">
         <xliff:source>Members: Mixed hide legs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：混合革のレッグ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8595,7 +8595,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114093">
         <xliff:source>Members: Mixed hide top, cape, and boots  (with 50 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ミックス革のトップ、マント、靴（守備力50も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8603,7 +8603,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114094">
         <xliff:source>Members: 3rd age range armour  (with 45 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：第3紀の射手の防具（守備力45も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8611,7 +8611,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114095">
         <xliff:source>Members: Ava's Assembler  (after Dragon Slayer II)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：アヴァのアセンブラ（「ドラゴン・スレイヤー２」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8619,7 +8619,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114096">
         <xliff:source>Members: Black dragonhide vambraces</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：黒竜革の腕甲</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8627,7 +8627,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114097">
         <xliff:source>Members: Black dragonhide chaps</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：黒竜革のチャップス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8635,7 +8635,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114098">
         <xliff:source>Members: Black dragonhide body  (with 40 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：黒竜革のボディ（守備力40も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8643,7 +8643,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114099">
         <xliff:source>Members: Black dragonhide shield  (with 40 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：黒竜革の盾（守備力40も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8651,7 +8651,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114100">
         <xliff:source>Members: God dragonhide shields  (with 40 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：神の革の盾（守備力40も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8659,7 +8659,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114101">
         <xliff:source>Members: God dragonhide armour  (with 40 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：神の革の防具（守備力40も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8667,7 +8667,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114102">
         <xliff:source>Members: Hueycoatl hide vambraces</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：フエコアトル革の腕甲</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8675,7 +8675,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114103">
         <xliff:source>Members: Hueycoatl hide chaps</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：フエコアトル革のチャップス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8683,7 +8683,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114104">
         <xliff:source>Members: Hueycoatl hide body  (with 40 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：フエコアトル革のボディ（守備力40も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8691,7 +8691,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114105">
         <xliff:source>Members: Hueycoatl hide coif  (with 40 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：フエコアトル革のコイフ（守備力40も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8699,7 +8699,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114106">
         <xliff:source>Members: Armadyl armour  (with 70 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：アーマディルの防具（守備力70も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8707,7 +8707,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114107">
         <xliff:source>Members: Karil's leather armour  (with 70 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：カリルの防具（守備力70も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8715,7 +8715,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114108">
         <xliff:source>Members: Dragonfire ward (with 75 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：竜炎のワード（守備力75も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8723,7 +8723,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114109">
         <xliff:source>Members: Boots of brimstone (with 70 Defence and Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ブリムストーンの靴（守備力と魔法70も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8731,7 +8731,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114110">
         <xliff:source>Dizana's Quiver Ammo storage: Bolts or Arrows</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ディザナの矢筒：ボルトか矢の装備枠</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8739,7 +8739,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114111">
         <xliff:source>Members: Eclipse set  (with 50 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：エクリプス装備セット（守備力50も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8747,7 +8747,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114112">
         <xliff:source>Members: Pegasian boots  (with 75 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ペガサスの靴（守備力75も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8755,7 +8755,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114113">
         <xliff:source>Members: Twisted buckler  (with 75 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：歪みのバックラー（守備力75も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8763,7 +8763,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114114">
         <xliff:source>Members: Zaryte vambraces  (with 45 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ザーライトの腕甲（守備力45も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8771,7 +8771,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114115">
         <xliff:source>Members: Masori armour  (with 30 Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：マゾーリの防具（守備力30も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8779,7 +8779,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114116">
         <xliff:source>Scale Falador wall (with 11 Agility and 37 Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ファラドーの壁を登る（運動神経11と腕力37も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8787,7 +8787,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114117">
         <xliff:source>Scale Yanille wall (with 39 Agility and 38 Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ヤニルの壁を登る（運動神経39と腕力38も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8795,7 +8795,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114118">
         <xliff:source>Scale Observatory cliff (after Observatory quest) (with 23 Agility and 28 Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">天文台の崖を登る（運動神経23と腕力28、「天文台クエスト」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8803,7 +8803,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114119">
         <xliff:source>Scale the Catherby cliff (with 32 Agility and 35 Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">カサビーの崖を登る（運動神経32と腕力35も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8811,7 +8811,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114120">
         <xliff:source>Cross the River Lum to Al Kharid (with 8 Agility and 19 Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ラム川を渡ってアル・カリッドへ（運動神経8と腕力19も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8819,7 +8819,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114121">
         <xliff:source>Escape from the water obelisk island (with 36 Agility and 22 Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">水オベリスクの島から脱出（運動神経36と腕力22も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8827,7 +8827,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114122">
         <xliff:source>Karamja, south of the volcano (with 53 Agility and 21 Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">カラムジャ横断、火山の南（腕力53と腕力21も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8835,7 +8835,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114123">
         <xliff:source>Hallowed Sepulchre - Grapple swing</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">聖なるセプルカ：グラップルのスウィング</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8843,7 +8843,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114124">
         <xliff:source>Cross cave south of Dorgesh-Kaan (with 70 Agility and 70 Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">南ドーゲシュ・カーン洞窟通過（運動神経・腕力70）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8851,7 +8851,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114125">
         <xliff:source>Miscellaneous - Members Only</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">雑多：会員限定</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8859,7 +8859,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114126">
         <xliff:source>Light ballista  Ammo: All Javelins</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">軽量バリスタ：投槍に全種対応</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8867,7 +8867,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114127">
         <xliff:source>Heavy ballista (after Monkey Madness II)  Ammo: All Javelins</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">重量バリスタ（「サルの狂気２」後）：投槍に全種対応</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8883,7 +8883,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114129">
         <xliff:source>Pickpocket - Members Only</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">スリ：会員限定</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8907,7 +8907,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114132">
         <xliff:source>H.A.M. follower</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">H.A.M.の従者</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8963,7 +8963,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114139">
         <xliff:source>Bearded Pollnivnian bandit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ヒゲを生やしたポルニヴネッチの盗賊</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8979,7 +8979,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114141">
         <xliff:source>Desert bandit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">砂漠の盗賊</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8995,7 +8995,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114143">
         <xliff:source>Pollnivnian bandit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ポルニヴネッチの盗賊</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9075,7 +9075,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114153">
         <xliff:source>Stalls</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">屋台</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9083,7 +9083,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114154">
         <xliff:source>Chests</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">宝箱</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9091,7 +9091,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114155">
         <xliff:source>Stalls - Members Only</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">屋台：会員限定</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9099,7 +9099,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114156">
         <xliff:source>Vegetable stall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">野菜の屋台</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9107,7 +9107,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114157">
         <xliff:source>Cake stall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ケーキの屋台</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9131,7 +9131,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114160">
         <xliff:source>Monkey food stall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">サルの食べ物の屋台</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9147,7 +9147,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114162">
         <xliff:source>Wine stall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ワインの屋台</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9155,7 +9155,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114163">
         <xliff:source>Fruit stall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">果物の屋台</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9163,7 +9163,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114164">
         <xliff:source>Seed stall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">種の屋台</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9203,7 +9203,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114169">
         <xliff:source>Magic stall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魔法用品の屋台</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9211,7 +9211,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114170">
         <xliff:source>Scimitar stall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">三日月刀の屋台</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9219,7 +9219,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114171">
         <xliff:source>Spices stall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">香辛料の屋台</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9227,7 +9227,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114172">
         <xliff:source>Gems stall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">宝石の屋台</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9235,7 +9235,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114173">
         <xliff:source>Ore stall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">鉱石の屋台</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9243,7 +9243,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114174">
         <xliff:source>Chests - Members Only</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">宝箱：会員限定</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9251,7 +9251,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114175">
         <xliff:source>Ardougne, Rellekka and the Wilderness</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アルドイン、レレカ、ウィルダネス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9259,7 +9259,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114176">
         <xliff:source>Upstairs in Ardougne and Rellekka</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アルドインとレレカの建物２階</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9267,7 +9267,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114177">
         <xliff:source>The Isle of Souls</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魂島</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9275,7 +9275,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114178">
         <xliff:source>Aldarin Villas</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アルダリンの別荘</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9283,7 +9283,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114179">
         <xliff:source>Upstairs in Ardougne</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アルドインの２階</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9291,7 +9291,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114180">
         <xliff:source>Hemenster and Rellekka</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ヘメンスター＆レレカ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9299,7 +9299,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114181">
         <xliff:source>Dorgesh-Kaan (average chests)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ドーゲシュ・カーン（普通の宝箱）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9307,7 +9307,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114182">
         <xliff:source>Chaos druid tower north of Ardougne</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">混沌ドルイドの塔、アルドインの北</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9315,7 +9315,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114183">
         <xliff:source>Lizardman Temple beneath Molch</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">リザードマンの寺院、モルチの地下</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9323,7 +9323,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114184">
         <xliff:source>Ardougne Castle</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アルドイン城</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9331,7 +9331,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114185">
         <xliff:source>Dorgesh-Kaan (rich chests)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ドーゲシュ・カーン（豊な宝箱）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9339,7 +9339,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114186">
         <xliff:source>Wilderness Rogues' Castle</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ウィルダネスのローグの城</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9347,7 +9347,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114187">
         <xliff:source>Sorceress's Garden minigame - Winter Al Kharid region</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ソーサーレスの庭：冬（アル・カリッド地域）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9355,7 +9355,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114188">
         <xliff:source>Can steal cowbells from dairy cows</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">乳牛から鈴を盗むことができる</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9363,7 +9363,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114189">
         <xliff:source>Pyramid Plunder minigame - Room 1 In the Jalsavrah Pyramid in Sophanem</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">略奪のピラミッド：部屋1（ソファネム）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9371,7 +9371,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114190">
         <xliff:source>Sorceress's Garden minigame - Spring Al Kharid region</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ソーサーレスの庭：春（アル・カリッド地域）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9379,7 +9379,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114191">
         <xliff:source>Pyramid Plunder - Room 2</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">略奪のピラミッド：部屋2</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9387,7 +9387,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114192">
         <xliff:source>Pyramid Plunder - Room 3</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">略奪のピラミッド：部屋3</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9395,7 +9395,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114193">
         <xliff:source>Can steal wire from the Dorgeshuun wire machine</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ドーゲシューンのワイヤー製作器から盗める</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9403,7 +9403,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114194">
         <xliff:source>Sorceress's Garden minigame - Autumn Al Kharid region</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ソーサーレスの庭：秋（アル・カリッド地域）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9411,7 +9411,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114195">
         <xliff:source>Can pick locks in Port Piscarilius.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ピスカリリウス港でピッキング</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9419,7 +9419,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114196">
         <xliff:source>Can crack the wall safes in Rogues' Den</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ローグの住処で壁面金庫をピッキング</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9427,7 +9427,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114197">
         <xliff:source>Can rob houses in Civitas illa Fortis</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">シビリタス・イラ・フォーチスで空き巣</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9435,7 +9435,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114198">
         <xliff:source>Pyramid Plunder - Room 4</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">略奪のピラミッド：部屋4</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9443,7 +9443,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114199">
         <xliff:source>Can pick-lock the door to the Grubby Chest in the Forthos Dungeon.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フォーソスダンジョンの汚い宝箱への扉</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9451,7 +9451,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114200">
         <xliff:source>Pyramid Plunder - Room 5</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">略奪のピラミッド：部屋5</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9459,7 +9459,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114201">
         <xliff:source>Sorceress's Garden minigame - Summer Al Kharid region</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ソーサーレスの庭：夏（アル・カリッド地域）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9467,7 +9467,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114202">
         <xliff:source>Hallowed Sepulchre - Can pick-lock the coffins found on each floor.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">聖なるセプルカの棺をピッキング</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9475,7 +9475,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114203">
         <xliff:source>Pyramid Plunder - Room 6</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">略奪のピラミッド：部屋6</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9483,7 +9483,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114204">
         <xliff:source>Pyramid Plunder - Room 7</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">略奪のピラミッド：部屋7</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9491,7 +9491,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114205">
         <xliff:source>Pyramid Plunder - Room 8</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">略奪のピラミッド：部屋8</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9507,7 +9507,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114207">
         <xliff:source>Meats</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">肉</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9515,7 +9515,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114208">
         <xliff:source>Meat</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">肉</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9523,7 +9523,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114209">
         <xliff:source>Members: Sinew (made by drying beef or bear meat on a range)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ケン（コンロで焼けた肉を乾かす）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9531,7 +9531,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114210">
         <xliff:source>Shrimp</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エビ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9547,7 +9547,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114212">
         <xliff:source>Members: Rabbit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ウサギ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9571,7 +9571,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114215">
         <xliff:source>Members: Karambwan</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員:カラムワン</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9579,7 +9579,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114216">
         <xliff:source>Members: Ugthanki kebab</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ウグタンキのケバブ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9595,7 +9595,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114218">
         <xliff:source>Members: Mackerel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：サバ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9603,7 +9603,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114219">
         <xliff:source>Members: Roasted bird meat</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ローストの鶏肉</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9611,7 +9611,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114220">
         <xliff:source>Members: Thin snail</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：うすいカタツムリ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9627,7 +9627,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114222">
         <xliff:source>Members: Spider</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：クモ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9635,7 +9635,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114223">
         <xliff:source>Members: Roasted rabbit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ローストウサギ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9643,7 +9643,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114224">
         <xliff:source>Members: Lean snail</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：やせたカタツムリ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9651,7 +9651,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114225">
         <xliff:source>Members: Cod</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員:タラ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9667,7 +9667,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114227">
         <xliff:source>Members: Roasted beast meat</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ローストの獣肉</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9675,7 +9675,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114228">
         <xliff:source>Members: Giant crab meat</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：巨大なカニ肉</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9683,7 +9683,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114229">
         <xliff:source>Members: Fat snail</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：太ったカタツムリ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9691,7 +9691,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114230">
         <xliff:source>Members: Wild kebbit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：野生ケビット</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9707,7 +9707,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114232">
         <xliff:source>Members: Slimy eel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員:滑りウナギ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9723,7 +9723,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114234">
         <xliff:source>Members: Roasted chompy</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ローストされたチョンピー</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9731,7 +9731,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114235">
         <xliff:source>Members: Mossy Lizard</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：コケトカゲ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9739,7 +9739,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114236">
         <xliff:source>Members: Bream</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：タイ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9747,7 +9747,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114237">
         <xliff:source>Members: Fishcakes</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員:フィッシュケーキ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9755,7 +9755,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114238">
         <xliff:source>Members: Larupia</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ラルピア</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9763,7 +9763,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114239">
         <xliff:source>Members: Barb-tailed kebbit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：とげ尾のケビット</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9771,7 +9771,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114240">
         <xliff:source>Members: Rainbow fish</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：虹色の魚</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9779,7 +9779,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114241">
         <xliff:source>Members: Forester's ration (with 35 Woodcutting)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：森林官の配給（木こり35も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9787,7 +9787,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114242">
         <xliff:source>Members: Cave eel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員:洞窟ウナギ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9803,7 +9803,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114244">
         <xliff:source>Members: Jubbly</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ジャブリー</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9811,7 +9811,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114245">
         <xliff:source>Members: Graahk</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：グラーク</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9819,7 +9819,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114246">
         <xliff:source>Members: Bass</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：バス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9835,7 +9835,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114248">
         <xliff:source>Members: Kyatt</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：カイヤット</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9843,7 +9843,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114249">
         <xliff:source>Members: Lava eel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：溶岩ウナギ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9851,7 +9851,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114250">
         <xliff:source>Members: Pyre fox</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員:炎ギツネ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9859,7 +9859,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114251">
         <xliff:source>Members: Monkfish</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：アンコウ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9867,7 +9867,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114252">
         <xliff:source>Members: Sunlight antelope</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：日光アンテロープ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9875,7 +9875,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114253">
         <xliff:source>Members: Dissect sacred eels</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：神聖なウナギを解剖</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9883,7 +9883,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114254">
         <xliff:source>Members: Shark</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：サメ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9891,7 +9891,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114255">
         <xliff:source>Members: Sea turtle</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ウミガメ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9899,7 +9899,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114256">
         <xliff:source>Members: Dashing kebbit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員:素早いケビット</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9907,7 +9907,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114257">
         <xliff:source>Members: Anglerfish</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ペリカンアンコウ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9915,7 +9915,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114258">
         <xliff:source>Members: Dark crab</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：暗黒のカニ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9923,7 +9923,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114259">
         <xliff:source>Members: Manta ray</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：マンタ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9931,7 +9931,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114260">
         <xliff:source>Members: Moonlight antelope</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：月光アンテロープ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9947,7 +9947,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114262">
         <xliff:source>Pies</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">パイ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9955,7 +9955,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114263">
         <xliff:source>Stews</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">シチュー</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9963,7 +9963,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114264">
         <xliff:source>Pizzas</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ピザ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9971,7 +9971,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114265">
         <xliff:source>Cakes</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ケーキ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9979,7 +9979,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114266">
         <xliff:source>Wine</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ワイン</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9987,7 +9987,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114267">
         <xliff:source>Hot Drinks</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ホットドリンク</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -9995,7 +9995,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114268">
         <xliff:source>Brewing</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">醸造酒</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10003,7 +10003,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114269">
         <xliff:source>Vegetable</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">野菜</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10011,7 +10011,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114270">
         <xliff:source>Dairy</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">乳牛</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10019,7 +10019,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114271">
         <xliff:source>Offerings</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">お供え物</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10027,7 +10027,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114272">
         <xliff:source>Members: Pitta bread</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ピッタパン</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10035,7 +10035,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114273">
         <xliff:source>1. Pick some grain and take it to a windmill to make flour.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">1. 穀物を摘んで風車でそれを小麦粉にします。</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10043,7 +10043,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114274">
         <xliff:source>2. Use a pot to collect the flour you have made.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">2. 土鍋に小麦粉を入れます。</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10051,7 +10051,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114275">
         <xliff:source>3. Fill a bucket or jug with water from a sink or fountain.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">3. シンクか噴水でバケツか水差しに水を入れます。</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10059,7 +10059,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114276">
         <xliff:source>4. Mix the flour and water to make some bread dough.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">4. 小麦粉に水を混ぜてパン生地を作ります。</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10067,7 +10067,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114277">
         <xliff:source>5. Cook the dough by using it with a stove.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">5. パン生地をストーブで焼きます。</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10091,7 +10091,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114280">
         <xliff:source>Members: Mud pie</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：マッドパイ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10107,7 +10107,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114282">
         <xliff:source>Members: Garden pie</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ガーデンパイ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10115,7 +10115,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114283">
         <xliff:source>Members: Fish pie</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：フィッシュパイ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10123,7 +10123,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114284">
         <xliff:source>Members: Botanical pie</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10179,7 +10179,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114291">
         <xliff:source>1. Mix flour and water to make pastry dough.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">1. Mix flour and water to make pastry dough.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10187,7 +10187,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114292">
         <xliff:source>2. Place the dough in an empty pie dish.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">2. Place the dough in an empty pie dish.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10195,7 +10195,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114293">
         <xliff:source>3. Use your choice of filling with the empty pie (refer to pie recipe book).</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">3. Use your choice of filling with the empty pie (refer to pie recipe book).</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10203,7 +10203,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114294">
         <xliff:source>4. Cook the pie by using it with a stove.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">4. Cook the pie by using it with a stove.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10235,7 +10235,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114298">
         <xliff:source>1. Obtain a bowl and fill it with water from a sink or fountain.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">1. Obtain a bowl and fill it with water from a sink or fountain.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10243,7 +10243,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114299">
         <xliff:source>2. Pick a potato and place it in the bowl.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">2. Pick a potato and place it in the bowl.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10251,7 +10251,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114300">
         <xliff:source>3. Cook some meat and place it in the bowl.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">3. Cook some meat and place it in the bowl.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10259,7 +10259,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114301">
         <xliff:source>4. Cook the stew by using it with a stove or fire.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">4. Cook the stew by using it with a stove or fire.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10323,7 +10323,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114309">
         <xliff:source>1. Mix flour and water to make a pizza base.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">1. Mix flour and water to make a pizza base.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10331,7 +10331,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114310">
         <xliff:source>2. Add a tomato to the pizza.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">2. Add a tomato to the pizza.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10339,7 +10339,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114311">
         <xliff:source>3. Add some cheese to the pizza.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">3. Add some cheese to the pizza.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10347,7 +10347,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114312">
         <xliff:source>4. Cook the pizza by using it with a stove.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">4. Cook the pizza by using it with a stove.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10355,7 +10355,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114313">
         <xliff:source>5. Add your choice of topping to the pizza.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">5. Add your choice of topping to the pizza.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10387,7 +10387,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114317">
         <xliff:source>1. Mix flour, eggs and milk together in a cake tin.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">1. Mix flour, eggs and milk together in a cake tin.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10395,7 +10395,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114318">
         <xliff:source>2. Cook the cake by using it with a stove.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">2. Cook the cake by using it with a stove.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10403,7 +10403,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114319">
         <xliff:source>3. Optional: Buy some chocolate and add it to the cake to make a chocolate cake.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">3. Optional: Buy some chocolate and add it to the cake to make a chocolate cake.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10427,7 +10427,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114322">
         <xliff:source>1. Fill a jug with water.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">1. Fill a jug with water.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10435,7 +10435,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114323">
         <xliff:source>2. Use grapes with the jug of water.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">2. Use grapes with the jug of water.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10443,7 +10443,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114324">
         <xliff:source>3. Wait until the wine ferments.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">3. Wait until the wine ferments.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10483,7 +10483,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114329">
         <xliff:source>1. Fill a bowl with water.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">1. Fill a bowl with water.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10491,7 +10491,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114330">
         <xliff:source>2. Put some picked nettles into the bowl of water.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">2. Put some picked nettles into the bowl of water.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10499,7 +10499,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114331">
         <xliff:source>3. Boil the nettle-water by using it with a range or a fire.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">3. Boil the nettle-water by using it with a range or a fire.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10507,7 +10507,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114332">
         <xliff:source>4. Use the bowl of nettle tea with a cup.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">4. Use the bowl of nettle tea with a cup.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10515,7 +10515,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114333">
         <xliff:source>5. If you take milk, use a bucket of milk on the nettle tea.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">5. If you take milk, use a bucket of milk on the nettle tea.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10755,7 +10755,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114363">
         <xliff:source>1. Bake the potato on a range.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">1. Bake the potato on a range.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10763,7 +10763,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114364">
         <xliff:source>2. Add some butter.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">2. Add some butter.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10771,7 +10771,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114365">
         <xliff:source>3. If needed, combine topping ingredients by chopping them into a bowl.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">3. If needed, combine topping ingredients by chopping them into a bowl.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10787,7 +10787,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114367">
         <xliff:source>1. Chilli con carne: meat &amp; spicy sauce (made from garlic and gnome spice)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">1. Chilli con carne: meat &amp; spicy sauce (made from garlic and gnome spice)</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10795,7 +10795,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114368">
         <xliff:source>2. Egg and tomato: scrambled egg &amp; tomato</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">2. Egg and tomato: scrambled egg &amp; tomato</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10803,7 +10803,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114369">
         <xliff:source>3. Mushroom and onion: fried bittercap mushroom &amp; fried onion</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">3. Mushroom and onion: fried bittercap mushroom &amp; fried onion</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10811,7 +10811,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114370">
         <xliff:source>4. Tuna and sweetcorn: tuna &amp; cooked sweetcorn</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">4. Tuna and sweetcorn: tuna &amp; cooked sweetcorn</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10859,7 +10859,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114376">
         <xliff:source>1. Get a bucket of milk, a pot of cream or a pot of butter.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">1. Get a bucket of milk, a pot of cream or a pot of butter.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10867,7 +10867,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114377">
         <xliff:source>2. Use the milk, cream or butter in a churn.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">2. Use the milk, cream or butter in a churn.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -10875,7 +10875,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114378">
         <xliff:source>3. Milk can be churned into cream, then into butter, then into cheese.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">3. Milk can be churned into cream, then into butter, then into cheese.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -16291,7 +16291,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115055">
         <xliff:source>Webweaver bow</xliff:source>
-        <xliff:target state="translated">ウェブウィーバー弓</xliff:target>
+        <xliff:target state="translated">ウェブウィーバーの弓</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -19291,7 +19291,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115430">
         <xliff:source>1. Fill an empty sack with straw from a bale.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">1. Fill an empty sack with straw from a bale.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -19299,7 +19299,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115431">
         <xliff:source>2. Drive the hay sack onto a bronze spear.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">2. Drive the hay sack onto a bronze spear.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -19307,7 +19307,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115432">
         <xliff:source>3. Place a watermelon on top as a head.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">3. Place a watermelon on top as a head.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -19315,7 +19315,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115433">
         <xliff:source>4. Stand the scarecrow in an empty flower patch.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">4. Stand the scarecrow in an empty flower patch.</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
