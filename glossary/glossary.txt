@@ -117,7 +117,6 @@ trousers	ズボン	アイテム名で使用
 mail	帷子	長い衣類のアイテム名。読み：かたびら
 glarial	グラリアル	NPC名
 fishing net	漁網	アイテム名で使用
-harpoon	もり	アイテム名で使用
 burnt	焦げた	料理の失敗
 seaweed	海藻	アイテム名で使用
 priest	司祭	教会でいろんなことをする者
@@ -1578,3 +1577,5 @@ Tithe Farm	タイス農場
 Mixology	ミクソロジー
 Mastering Mixology	ミクソルジ・マスター
 Aerial	空中釣り
+harpoon	銛	読み：もり、アイテム名で使用
+drift net fishing	流し網漁
