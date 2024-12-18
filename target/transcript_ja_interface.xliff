@@ -5403,7 +5403,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113694">
         <xliff:source>Crystal harpoon (with 76 Crafting)</xliff:source>
-        <xliff:target state="translated">水晶のもり（工作76も）</xliff:target>
+        <xliff:target state="translated">水晶の銛（工作76も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6323,7 +6323,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113809">
         <xliff:source>Combat potion Harralander &amp; ground desert goat horn</xliff:source>
-        <xliff:target state="translated">戦闘の増強薬：ハラランダー＆ひかれた砂漠ヤギの角</xliff:target>
+        <xliff:target state="translated">戦闘力の増強薬：ハラランダー＆ひかれた砂漠ヤギの角</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6539,7 +6539,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113836">
         <xliff:source>Magic potion Lantadyme &amp; potato cactus</xliff:source>
-        <xliff:target state="translated">魔法の増強薬：ランタダイム＆ジャガイモサボテン</xliff:target>
+        <xliff:target state="translated">魔力の増強薬：ランタダイム＆ジャガイモサボテン</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6563,7 +6563,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113839">
         <xliff:source>Divine magic potion Crystal dust &amp; magic potion</xliff:source>
-        <xliff:target state="translated">神聖な魔法の増強薬：水晶の粉＆魔法の増強薬</xliff:target>
+        <xliff:target state="translated">神聖な魔力の増強薬：水晶の粉＆魔力の増強薬</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6579,7 +6579,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113841">
         <xliff:source>Bastion potion Cadantine &amp; wine of Zamorak mixed in a vial of blood</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">要塞の薬液：カンダタイン＆ザモラックのワイン＆血の試薬瓶</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6587,7 +6587,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113842">
         <xliff:source>Battlemage potion Cadantine &amp; potato cactus mixed in a vial of blood</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">バトルメイジの薬液：カンダタイン＆ジャガイモサボテン＆血の試薬瓶</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6595,7 +6595,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113843">
         <xliff:source>Saradomin brew Toadflax &amp; crushed birdnest</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">サラドミンの秘薬：トードフラックス＆潰れた巣</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6603,7 +6603,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113844">
         <xliff:source>Weapon poison(++) Coconut milk, nightshade &amp; poison ivy berries</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">武器用の毒＋：ココナッツミルク＆ナイトシェード＆ツタウルシの実</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6611,7 +6611,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113845">
         <xliff:source>Extended antifire potion Antifire potion &amp; lava scale shards</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">長効な火耐性の薬液：火耐性の薬液＆溶岩の鱗の破片</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6619,7 +6619,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113846">
         <xliff:source>Ancient brew Dwarf weed &amp; nihil dust</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">古代の秘薬：ドワーフ草＆ナイヒルの粉</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6627,7 +6627,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113847">
         <xliff:source>Divine bastion potion Crystal dust &amp; bastion potion</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神聖な要塞の薬液：水晶の粉＆要塞の薬液</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6635,7 +6635,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113848">
         <xliff:source>Divine battlemage potion Crystal dust &amp; battlemage potion</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神聖なバトルメイジの薬液：水晶の粉＆バトルメイジの薬液</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6643,7 +6643,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113849">
         <xliff:source>Anti-venom Antidote++ &amp; Zulrah's scales</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">抗毒素：解毒剤＋＋＆ズルラの鱗</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6651,7 +6651,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113850">
         <xliff:source>Menaphite remedy Dwarf weed &amp; Lily of the sands</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">メナファイトの療法：ドワーフ草＆砂の百合</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6659,7 +6659,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113851">
         <xliff:source>Super combat potion Super attack potion, super defence potion, super strength potion &amp; torstol</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">戦闘力の超増強薬：攻撃力の超増強薬＆守備力の超増強薬＆腕力の超増強薬＆トーストル</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6667,7 +6667,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113852">
         <xliff:source>Forgotten brew Ancient brew &amp; ancient essence</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">忘れられた酒：古代の秘薬＆古代のエッセンス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6675,7 +6675,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113853">
         <xliff:source>Super antifire potion Antifire potion &amp; crushed superior dragon bones (after Dragon Slayer II)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">超火耐性の薬液：火耐性の薬液＆ひかれた優れた竜の骨（「ドラゴンス・レイヤー２」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6683,7 +6683,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113854">
         <xliff:source>Anti-venom+ Anti-venom &amp; Torstol</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">抗毒素＋：抗毒素＆トーストル</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6691,7 +6691,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113855">
         <xliff:source>Extended anti-venom+ Anti-venom+ &amp; Araxyte venom sack</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">長効な抗毒素＋：抗毒素＋＆アラキサイトの猛毒袋</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6699,7 +6699,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113856">
         <xliff:source>Divine super combat potion Crystal dust &amp; super combat potion</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神聖な戦闘の超増強薬：水晶の粉＆戦闘の超増強薬</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6707,7 +6707,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113857">
         <xliff:source>Extended super antifires Super antifire potion &amp; lava scale shards (after Dragon Slayer II)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">長効な超火耐性の薬液：超火耐性の薬液＆溶岩の鱗の破片（「ドラゴン・スレイヤー２」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6731,7 +6731,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113860">
         <xliff:source>Barbarian Potions</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">蛮族の薬液</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6739,7 +6739,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113861">
         <xliff:source>Raids</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">レイド</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6747,7 +6747,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113862">
         <xliff:source>Herbs - Members Only</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">薬草：会員限定</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6755,7 +6755,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113863">
         <xliff:source>You must complete the Druidic Ritual quest before you can use Herblore</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クエスト「ドルイドの儀式」完了で調合スキルは解放されます。</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6899,7 +6899,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113881">
         <xliff:source>Barbarian Potions - Members Only</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">蛮族の薬液：会員限定</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6907,7 +6907,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113882">
         <xliff:source>You must complete barbarian herblore training before you can make these potions.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">蛮族の調合の講習を受けるとこれら薬液を調合できるようになります。</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6915,7 +6915,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113883">
         <xliff:source>Attack mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">攻撃力のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6923,7 +6923,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113884">
         <xliff:source>Antipoison mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">解毒剤のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6931,7 +6931,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113885">
         <xliff:source>Relicym's mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">レリシムのミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6939,7 +6939,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113886">
         <xliff:source>Strength mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">腕力のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6947,7 +6947,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113887">
         <xliff:source>Restore mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">回復のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6955,7 +6955,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113888">
         <xliff:source>Energy mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エネルギーのミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6963,7 +6963,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113889">
         <xliff:source>Defence mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">守備力のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6971,7 +6971,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113890">
         <xliff:source>Agility mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">運動神経のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6979,7 +6979,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113891">
         <xliff:source>Combat mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">戦闘のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6987,7 +6987,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113892">
         <xliff:source>Prayer mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">祈力のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6995,7 +6995,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113893">
         <xliff:source>Super attack mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">超攻撃力ミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7003,7 +7003,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113894">
         <xliff:source>Anti-poison supermix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">超解毒剤のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7011,7 +7011,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113895">
         <xliff:source>Fishing mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">釣りのミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7019,7 +7019,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113896">
         <xliff:source>Super energy mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">超エネルギーのミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7027,7 +7027,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113897">
         <xliff:source>Hunting mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">狩人のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7035,7 +7035,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113898">
         <xliff:source>Super strength mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">超腕力のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7043,7 +7043,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113899">
         <xliff:source>Magic essence mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魔法のエッセンスのミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7051,7 +7051,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113900">
         <xliff:source>Super restore mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">超回復のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7059,7 +7059,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113901">
         <xliff:source>Super defence mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">超守備力のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7067,7 +7067,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113902">
         <xliff:source>Antidote+ mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">解毒剤＋のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7075,7 +7075,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113903">
         <xliff:source>Antifire mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">火耐性のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7083,7 +7083,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113904">
         <xliff:source>Ranging mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">弓のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7091,7 +7091,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113905">
         <xliff:source>Magic mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魔法のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7099,7 +7099,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113906">
         <xliff:source>Zamorak mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ザモラックのミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7107,7 +7107,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113907">
         <xliff:source>Stamina mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">スタミナのミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7115,7 +7115,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113908">
         <xliff:source>Extended antifire mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">長効な火耐性のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7123,7 +7123,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113909">
         <xliff:source>Ancient mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">古代のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7131,7 +7131,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113910">
         <xliff:source>Super antifire mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">超火耐性のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7139,7 +7139,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113911">
         <xliff:source>Extended super antifire mix</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">長効な超火耐性のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7147,7 +7147,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113912">
         <xliff:source>Harvest herbs from the &lt;colNum0&gt;Herbiboar&lt;/col&gt; on &lt;colNum1&gt;Fossil Island&lt;/col&gt; (with 80 Hunter).</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">&lt;colNum1&gt;化石島&lt;/col&gt;に生息する&lt;colNum0&gt;ハービボア&lt;/col&gt;から薬草を採る（狩人80も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7155,7 +7155,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113913">
         <xliff:source>Use the Herb Sack reward item, purchased from the Tithe Farm or Slayer Masters.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">薬草袋の使用：タイス農場か討伐の達人から購入可能なアイテム</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7163,7 +7163,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113914">
         <xliff:source>Mammoth-might mix (Mastering Mixology).</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マンモス・マイト・ミックス（ミクソロジ・マスター）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7171,7 +7171,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113915">
         <xliff:source>Alco-augmentator (Mastering Mixology).</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アルコ拡張薬（ミクソルジ・マスター）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7179,7 +7179,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113916">
         <xliff:source>Liplack liquor (Mastering Mixology).</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">リップラック・リカー（ミクソルジ・マスター）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7187,7 +7187,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113917">
         <xliff:source>Mystic mana amalgam (Mastering Mixology).</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">秘伝マナ・アマルガム（ミクソルジ・マスター）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7195,7 +7195,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113918">
         <xliff:source>Marley's moonlight (Mastering Mixology).</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マーリーの月光（ミクソルジ・マスター）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7203,7 +7203,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113919">
         <xliff:source>Azure aura mix (Mastering Mixology).</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アズール・オーラ・ミックス（ミクソロジ・マスター）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7211,7 +7211,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113920">
         <xliff:source>Aqualux amalgam (Mastering Mixology).</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アクアラックス・アマルガム（ミクソルジ・マスター）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7219,7 +7219,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113921">
         <xliff:source>Megalite liquid (Mastering Mixology).</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">メガライト・リキッド（ミクソルジ・マスター）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7227,7 +7227,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113922">
         <xliff:source>Anti-leech lotion (Mastering Mixology).</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">寄生防止ローション（ミクソルジ・マスター）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7235,7 +7235,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113923">
         <xliff:source>Mixalot (Mastering Mixology).</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ミクサロット（ミクソロジ・マスター）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7243,7 +7243,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113924">
         <xliff:source>Use the Secondary Pouch reward item, purchased from the Mastering Mixology activity.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">試薬ポーチを使用：ミクスロジ・マスターで購入できるアイテム。</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7259,7 +7259,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113926">
         <xliff:source>Small Net</xliff:source>
-        <xliff:target state="translated">小さい漁網で釣る</xliff:target>
+        <xliff:target state="translated">小さい漁網</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7267,7 +7267,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113927">
         <xliff:source>Shrimp - Small fishing net</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エビ：小さい漁網</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7275,7 +7275,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113928">
         <xliff:source>Members: Karambwanji - Small fishing net</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：カラムワンジ：小さい漁網</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7283,7 +7283,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113929">
         <xliff:source>Guppy - Small fishing net (After Below Ice Mountain)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">グッピー：小さい漁網（「氷山の地下」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7291,7 +7291,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113930">
         <xliff:source>Anchovies - Small fishing net</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アンチョビ：小さい漁網</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7299,7 +7299,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113931">
         <xliff:source>Cavefish - Small fishing net (After Below Ice Mountain)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">洞窟魚：小さい漁網（「氷山の地下」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7307,7 +7307,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113932">
         <xliff:source>Members: Giant frogspawn - Small fishing net</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7315,7 +7315,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113933">
         <xliff:source>Tetra - Small fishing net (After Below Ice Mountain)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">テトラ：小さい漁網（「氷山の地下」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7323,7 +7323,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113934">
         <xliff:source>Members: Monkfish - Small fishing net</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：アンコウ：小さい漁網</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7331,7 +7331,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113935">
         <xliff:source>Members: Minnow - Small fishing net (after Fishing Contest)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ハヤ：小さい漁網（「釣りコンテスト」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7339,7 +7339,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113936">
         <xliff:source>Big Net</xliff:source>
-        <xliff:target state="translated">大きな魚網で釣る</xliff:target>
+        <xliff:target state="translated">大きな魚網</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7347,7 +7347,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113937">
         <xliff:source>Rod</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">竿</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7355,7 +7355,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113938">
         <xliff:source>Harpoon</xliff:source>
-        <xliff:target state="translated">もり</xliff:target>
+        <xliff:target state="translated">銛</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7363,7 +7363,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113939">
         <xliff:source>Aerial</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">空中釣り</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7371,7 +7371,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113940">
         <xliff:source>Cage</xliff:source>
-        <xliff:target state="translated">カゴで釣る</xliff:target>
+        <xliff:target state="translated">カゴ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7379,7 +7379,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113941">
         <xliff:source>Members: Mackerel - Big fishing net</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：サバ：大きな魚網</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7387,7 +7387,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113942">
         <xliff:source>Members: Oyster - Big fishing net</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：カキ：大きな魚網</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7395,7 +7395,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113943">
         <xliff:source>Members: Caskets - Big fishing net</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：木箱：大きな魚網</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7403,7 +7403,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113944">
         <xliff:source>Members: Bream - Big fishing net</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：タイ：大きな魚網</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7411,7 +7411,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113945">
         <xliff:source>Members: Cod - Big fishing net</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：タラ：大きな魚網</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7419,7 +7419,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113946">
         <xliff:source>Members: Bass - Big fishing net</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：バス：大きな魚網</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7427,7 +7427,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113947">
         <xliff:source>Members: Catfish - Big fishing net (After Below Ice Mountain)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ナマズ：大きな魚網（「氷山の地下」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7435,7 +7435,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113948">
         <xliff:source>Sardine - Fishing rod &amp; Fishing bait</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">イワシ：釣り竿＆釣り餌</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7443,7 +7443,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113949">
         <xliff:source>Herring - Fishing rod &amp; Fishing bait</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ニシン：釣り竿＆釣り餌</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7451,7 +7451,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113950">
         <xliff:source>Trout - Fly fishing rod &amp; Feathers</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マス：フライロッド＆羽</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7459,7 +7459,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113951">
         <xliff:source>Pike - Fishing rod &amp; Fishing bait</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">パイク：釣り竿＆釣り餌</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7467,7 +7467,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113952">
         <xliff:source>Members: Slimy eel - Fishing rod &amp; Fishing bait</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：滑りウナギ：釣り竿＆釣り餌</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7475,7 +7475,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113953">
         <xliff:source>Salmon - Fly fishing rod &amp; feathers</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">サケ：フライロッド＆羽</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7483,7 +7483,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113954">
         <xliff:source>Members: Rainbow fish - Fly fishing rod &amp; Stripy feathers</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：虹色の魚：フライロッド＆羽</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7491,7 +7491,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113955">
         <xliff:source>Members: Cave eel - Fishing rod &amp; Fishing bait</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：洞窟ウナギ：釣り竿＆釣り餌</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7499,7 +7499,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113956">
         <xliff:source>Members: Lava eel - Oily fishing rod &amp; Fishing bait</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：溶岩ウナギ：釣り竿＆釣り餌</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7507,7 +7507,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113957">
         <xliff:source>Members: Infernal eel - Oily fishing rod &amp; Fishing bait</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：獄炎のウナギ：釣り竿＆釣り餌</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7515,7 +7515,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113958">
         <xliff:source>Members: Anglerfish - Fishing rod &amp; Sandworms</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ペリカンアンコウ：釣り竿＆ゴカイ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7523,7 +7523,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113959">
         <xliff:source>Members: Sacred eel - Fishing rod &amp; Fishing bait</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：神聖なウナギ：釣り竿＆釣り餌</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7531,7 +7531,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113960">
         <xliff:source>Tuna - Harpoon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マグロ：銛</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7539,7 +7539,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113961">
         <xliff:source>Swordfish - Harpoon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">カジキ：銛</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7547,7 +7547,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113962">
         <xliff:source>Members: Shark - Harpoon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：サメ：銛</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7555,7 +7555,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113963">
         <xliff:source>Aerial - Members Only</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">空中釣り：会員限定</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7563,7 +7563,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113964">
         <xliff:source>Members: Bluegill - Aerial fishing (With 35 hunter)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ブルーギル：空中釣り（狩人35も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7571,7 +7571,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113965">
         <xliff:source>Members: Common tench - Aerial fishing (With 51 hunter)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：コモンテンチ：空中釣り（狩人51も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7579,7 +7579,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113966">
         <xliff:source>Members: Mottled eel - Aerial fishing (With 68 hunter)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：まだらウナギ：空中釣り（狩人68も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7587,7 +7587,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113967">
         <xliff:source>Members: Greater siren - Aerial fishing (With 87 hunter)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：オオサイレン：空中釣り（狩人87も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7595,7 +7595,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113968">
         <xliff:source>Lobster - Lobster pot</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ロブスター：ロブスターのカゴ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7603,7 +7603,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113969">
         <xliff:source>Members: Dark crab - Lobster pot &amp; Dark fishing bait</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：暗黒のカニ：ロブスターのカゴ＆暗黒の釣り餌</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7611,7 +7611,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113970">
         <xliff:source>Leaping trout - Barbarian rod &amp; most bait types  (with 15 Agility &amp; 15 Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">飛びマス：蛮族の釣り竿＆大半の餌（運動神経15と腕力15も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7619,7 +7619,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113971">
         <xliff:source>Tuna  (with 35 Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マグロ（腕力35も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7627,7 +7627,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113972">
         <xliff:source>Harpoonfish  (with 35 Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">銛魚（腕力35）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7635,7 +7635,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113973">
         <xliff:source>Leaping salmon - Barbarian rod &amp; most bait types  (with 30 Agility &amp; 30 Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">飛びサケ：蛮族の釣り竿＆大半の餌（運動神経30と腕力30も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7643,7 +7643,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113974">
         <xliff:source>Leaping sturgeon - Barbarian rod &amp; most bait types  (with 45 Agility &amp; 45 Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">飛びチョウザメ：蛮族の釣り竿＆大半の餌（運動神経45と腕力45も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7651,7 +7651,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113975">
         <xliff:source>Swordfish  (with 50 Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">カジキ（腕力50も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7659,7 +7659,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113976">
         <xliff:source>Shark  (with 76 Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">サメ（腕力76も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7675,7 +7675,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113978">
         <xliff:source>Fishing rod</xliff:source>
-        <xliff:target state="translated">釣竿</xliff:target>
+        <xliff:target state="translated">釣り竿</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7683,7 +7683,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113979">
         <xliff:source>Members: Big fishing net</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：大きな魚網</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7699,7 +7699,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113981">
         <xliff:source>Lobster pot</xliff:source>
-        <xliff:target state="translated">ロブスターカゴ</xliff:target>
+        <xliff:target state="translated">ロブスターのカゴ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7707,7 +7707,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113982">
         <xliff:source>Members: Karambwan vessel (after Tai Bwo Wannai Trio)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：カラムワンの器（「タイ・ブオ・ワナイ・トリオ」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7715,7 +7715,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113983">
         <xliff:source>Members: Angler's outfit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：釣り師の装備</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7723,7 +7723,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113984">
         <xliff:source>Members: Cormorant's glove (with 35 hunter)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ウの手袋（狩人35も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7731,7 +7731,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113985">
         <xliff:source>Members: Barbarian rod (with 15 strength &amp; 15 agility)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：蛮族の釣り竿（腕力15＆運動神経15も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7739,7 +7739,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113986">
         <xliff:source>Members: Dragon harpoon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：竜鉄の銛</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7747,7 +7747,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113987">
         <xliff:source>Members: Crystal harpoon (after Song of the Elves)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：水晶の銛（「エルフの歌」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7755,7 +7755,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113988">
         <xliff:source>Members: Infernal harpoon (with 85 Cooking)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：獄炎の銛（料理85も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7763,7 +7763,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113989">
         <xliff:source>Raids - Members Only</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">レイド：会員限定</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7771,7 +7771,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113990">
         <xliff:source>Pysk fish</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ピスク魚</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7779,7 +7779,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113991">
         <xliff:source>Suphi fish</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">スフィ魚</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7787,7 +7787,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113992">
         <xliff:source>Leckish fish</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">レキッシュ魚</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7795,7 +7795,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113993">
         <xliff:source>Brawk fish</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ブローク魚</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7803,7 +7803,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113994">
         <xliff:source>Mycil fish</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マイシル魚</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7811,7 +7811,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113995">
         <xliff:source>Roqed fish</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ロクエ魚</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7819,7 +7819,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113996">
         <xliff:source>Kyren fish</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">キレン魚</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7827,7 +7827,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113997">
         <xliff:source>Members: Fighting Tempoross</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：テンポロスに挑戦</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7835,7 +7835,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113998">
         <xliff:source>Members: Accessing drift net fishing on Fossil Island (with 44 hunter)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：化石島で流し網漁（狩人44も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7843,7 +7843,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113999">
         <xliff:source>Members: Karambwan - Karambwan vessel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：カラムワン：カラムワンの器</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7851,7 +7851,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114000">
         <xliff:source>Members: Sea turtle - Trawler &amp; Tempoross</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：ウミガメ：トローラー＆テンポロス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7859,7 +7859,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114001">
         <xliff:source>Members: Manta ray - Trawler &amp; Tempoross</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：マンタ：トローラー＆テンポロス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
