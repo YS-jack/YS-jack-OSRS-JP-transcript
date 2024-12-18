@@ -619,7 +619,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113096">
         <xliff:source>Swamp lizard  (with 30 Attack, 30 Ranged &amp; 30 Magic)</xliff:source>
-        <xliff:target state="translated">沼トカゲ（攻撃力・弓・魔法が全て30）</xliff:target>
+        <xliff:target state="translated">沼トカゲ（攻撃力・遠射・魔法が全て30）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -627,7 +627,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113097">
         <xliff:source>Orange salamander  (with 50 Attack, 50 Ranged &amp; 50 Magic)</xliff:source>
-        <xliff:target state="translated">オレンジ・サラマンダ（攻撃力・弓・魔法が全て50）</xliff:target>
+        <xliff:target state="translated">オレンジ・サラマンダ（攻撃力・遠射・魔法が全て50）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -635,7 +635,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113098">
         <xliff:source>Red salamander  (with 60 Attack, 60 Ranged &amp; 60 Magic)</xliff:source>
-        <xliff:target state="translated">赤サラマンダ（攻撃力・弓・魔法が全て60）</xliff:target>
+        <xliff:target state="translated">赤サラマンダ（攻撃力・遠射・魔法が全て60）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -643,7 +643,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113099">
         <xliff:source>Black salamander  (with 70 Attack, 70 Ranged &amp; 70 Magic)</xliff:source>
-        <xliff:target state="translated">黒サラマンダ（攻撃力・弓・魔法が全て70）</xliff:target>
+        <xliff:target state="translated">黒サラマンダ（攻撃力・遠射・魔法が全て70）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -651,7 +651,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113100">
         <xliff:source>Tecu salamander  (with 80 Attack, 80 Ranged &amp; 80 Magic)</xliff:source>
-        <xliff:target state="translated">テク・サラマンダ（攻撃力・弓・魔法が全て80）</xliff:target>
+        <xliff:target state="translated">テク・サラマンダ（攻撃力・遠射・魔法が全て80）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -1947,7 +1947,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113262">
         <xliff:source>Members: Hunter's spears  (with 55 Ranged)</xliff:source>
-        <xliff:target state="translated">会員：狩人の槍（弓55も）</xliff:target>
+        <xliff:target state="translated">会員：狩人の槍（遠射55も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2139,7 +2139,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113286">
         <xliff:source>Cross the River Lum to Al Kharid  (with 8 Agility and 37 Ranged)</xliff:source>
-        <xliff:target state="translated">ラム川を渡ってアル・カリッドへ（運動神経8と弓37も）</xliff:target>
+        <xliff:target state="translated">ラム川を渡ってアル・カリッドへ（運動神経8と遠射37も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2147,7 +2147,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113287">
         <xliff:source>Karamja  (with 53 Agility and 42 Ranged)</xliff:source>
-        <xliff:target state="translated">カラムジャ（運動神経53と弓42も）</xliff:target>
+        <xliff:target state="translated">カラムジャ（運動神経53と遠射42も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2155,7 +2155,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113288">
         <xliff:source>Escape from the water obelisk island  (with 36 Agility and 39 Ranged)</xliff:source>
-        <xliff:target state="translated">水オベリスクの島から脱出（運動神経36と弓39も）</xliff:target>
+        <xliff:target state="translated">水オベリスクの島から脱出（運動神経36と遠射39も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2163,7 +2163,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113289">
         <xliff:source>Scale the Observatory cliff  (with 23 Agility and 24 Ranged, after completing the Observatory quest)</xliff:source>
-        <xliff:target state="translated">天文台の崖を登る（運動神経23と弓24と「天文台クエスト」後）</xliff:target>
+        <xliff:target state="translated">天文台の崖を登る（運動神経23と遠射24と「天文台クエスト」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2171,7 +2171,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113290">
         <xliff:source>Scale the Catherby cliff  (with 32 Agility and 35 Ranged)</xliff:source>
-        <xliff:target state="translated">カサビーの崖を登る（運動神経32と弓35も）</xliff:target>
+        <xliff:target state="translated">カサビーの崖を登る（運動神経32と遠射35も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2179,7 +2179,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113291">
         <xliff:source>Scale Falador wall  (with 11 Agility and 19 Ranged)</xliff:source>
-        <xliff:target state="translated">ファラドーの壁を登る（運動神経11と弓19も）</xliff:target>
+        <xliff:target state="translated">ファラドーの壁を登る（運動神経11と遠射19も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2187,7 +2187,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113292">
         <xliff:source>Scale Yanille wall  (with 39 Agility and 21 Ranged)</xliff:source>
-        <xliff:target state="translated">ヤニルの壁を登る（運動神経39と弓21も）</xliff:target>
+        <xliff:target state="translated">ヤニルの壁を登る（運動神経39と遠射21も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2635,7 +2635,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113348">
         <xliff:source>Cross the River Lum to Al Kharid  (with 19 Strength and 37 Ranged)</xliff:source>
-        <xliff:target state="translated">ラム川を渡ってアル・カリッドへ（腕力19と弓37も）</xliff:target>
+        <xliff:target state="translated">ラム川を渡ってアル・カリッドへ（腕力19と遠射37も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2651,7 +2651,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113350">
         <xliff:source>Scale Falador wall  (with 37 Strength and 19 Ranged)</xliff:source>
-        <xliff:target state="translated">ファラドーの壁を登る（腕力37と弓19も）</xliff:target>
+        <xliff:target state="translated">ファラドーの壁を登る（腕力37と遠射19も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2715,7 +2715,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113358">
         <xliff:source>Scale the Observatory cliff  (with 28 Strength and 24 Ranged, after completing the Observatory quest)</xliff:source>
-        <xliff:target state="translated">天文台の崖を登る（腕力28と弓24と「天文台クエスト」後）</xliff:target>
+        <xliff:target state="translated">天文台の崖を登る（腕力28と遠射24と「天文台クエスト」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2763,7 +2763,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113364">
         <xliff:source>Scale the Catherby cliff  (with 35 Strength and 35 Ranged)</xliff:source>
-        <xliff:target state="translated">カサビーの崖を登る（腕力35と弓35も）</xliff:target>
+        <xliff:target state="translated">カサビーの崖を登る（腕力35と遠射35も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2787,7 +2787,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113367">
         <xliff:source>Escape from the water obelisk island  (with 22 Strength and 39 Ranged)</xliff:source>
-        <xliff:target state="translated">水オベリスクの島から脱出（腕力22と弓39も）</xliff:target>
+        <xliff:target state="translated">水オベリスクの島から脱出（腕力22と遠射39も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2811,7 +2811,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113370">
         <xliff:source>Scale Yanille wall  (with 38 Strength and 21 Ranged)</xliff:source>
-        <xliff:target state="translated">ヤニルの壁を登る（腕力38と弓21も）</xliff:target>
+        <xliff:target state="translated">ヤニルの壁を登る（腕力38と遠射21も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2955,7 +2955,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113388">
         <xliff:source>Karamja crossing, south of volcano  (with 21 Strength and 42 Ranged)</xliff:source>
-        <xliff:target state="translated">カラムジャ横断、火山の南（腕力21と弓42も）</xliff:target>
+        <xliff:target state="translated">カラムジャ横断、火山の南（腕力21と遠射42も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -3547,7 +3547,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113462">
         <xliff:source>Bow of Faerdhinen  (with 80 Ranged)</xliff:source>
-        <xliff:target state="translated">フェルディネンの弓（弓80も）</xliff:target>
+        <xliff:target state="translated">フェルディネンの弓（遠射80も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5619,7 +5619,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113721">
         <xliff:source>Members: Masori armour  (With 80 Ranged)</xliff:source>
-        <xliff:target state="translated">会員：マゾーリの防具（弓80も）</xliff:target>
+        <xliff:target state="translated">会員：マゾーリの防具（遠射80も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5667,7 +5667,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113727">
         <xliff:source>Members: Zaryte vambraces  (with 80 Ranged)</xliff:source>
-        <xliff:target state="translated">会員：ザーライトの腕甲（弓80も）</xliff:target>
+        <xliff:target state="translated">会員：ザーライトの腕甲（遠射80も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5691,7 +5691,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113730">
         <xliff:source>Members: Mixed Hide body, cape, and boots  (with 60 Ranged)</xliff:source>
-        <xliff:target state="translated">会員：ミックス革のボディ、マント、靴（弓60も）</xliff:target>
+        <xliff:target state="translated">会員：ミックス革のボディ、マント、靴（遠射60も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5715,7 +5715,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113733">
         <xliff:source>Members: Eclipse set  (with 75 Ranged)</xliff:source>
-        <xliff:target state="translated">会員：エクリプス装備セット（弓75も）</xliff:target>
+        <xliff:target state="translated">会員：エクリプス装備セット（遠射75も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5779,7 +5779,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113741">
         <xliff:source>Members: Armadyl armour (with 70 Ranged)</xliff:source>
-        <xliff:target state="translated">会員：アーマディルの防具（弓70も）</xliff:target>
+        <xliff:target state="translated">会員：アーマディルの防具（遠射70も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5787,7 +5787,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113742">
         <xliff:source>Members: Boots of brimstone (with 70 Ranged and Magic)</xliff:source>
-        <xliff:target state="translated">会員：ブリムストーンの靴（弓と魔法70も）</xliff:target>
+        <xliff:target state="translated">会員：ブリムストーンの靴（遠射と魔法70も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5859,7 +5859,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113751">
         <xliff:source>Members: Pegasian boots  (with 75 Ranged)</xliff:source>
-        <xliff:target state="translated">会員：ペガサスの靴（弓75も）</xliff:target>
+        <xliff:target state="translated">会員：ペガサスの靴（遠射75も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5891,7 +5891,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113755">
         <xliff:source>Members: Fortified Masori armour (with 80 Ranged)</xliff:source>
-        <xliff:target state="translated">会員：強化されたマゾーリの防具（弓80も）</xliff:target>
+        <xliff:target state="translated">会員：強化されたマゾーリの防具（遠射80も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5955,7 +5955,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113763">
         <xliff:source>Penance skirt  (with 60 Ranged)</xliff:source>
-        <xliff:target state="translated">ペナンスのスカート（弓60も）</xliff:target>
+        <xliff:target state="translated">ペナンスのスカート（遠射60も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6139,7 +6139,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113786">
         <xliff:source>Members: Dragonfire ward (with 70 Ranged)</xliff:source>
-        <xliff:target state="translated">会員：竜炎のワード（弓70も）</xliff:target>
+        <xliff:target state="translated">会員：竜炎のワード（遠射70も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6171,7 +6171,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113790">
         <xliff:source>Members: Twisted buckler  (with 75 Ranged)</xliff:source>
-        <xliff:target state="translated">会員：歪みのバックラー（弓75も）</xliff:target>
+        <xliff:target state="translated">会員：歪みのバックラー（遠射75も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6531,7 +6531,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113835">
         <xliff:source>Divine ranging potion Crystal dust &amp; ranging potion</xliff:source>
-        <xliff:target state="translated">神聖な弓の増強薬：水晶の粉＆弓の増強薬</xliff:target>
+        <xliff:target state="translated">神聖な弓の増強薬：水晶の粉＆遠射の増強薬</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7083,7 +7083,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="113904">
         <xliff:source>Ranging mix</xliff:source>
-        <xliff:target state="translated">弓のミックス</xliff:target>
+        <xliff:target state="translated">遠射のミックス</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7867,7 +7867,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114002">
         <xliff:source>Ranged</xliff:source>
-        <xliff:target state="translated">弓</xliff:target>
+        <xliff:target state="translated">遠射</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7875,7 +7875,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114003">
         <xliff:source>Bows</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">弓</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7883,7 +7883,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114004">
         <xliff:source>Standard bows  Ammo: Arrows up to iron</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">普通の弓：鉄の矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7891,7 +7891,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114005">
         <xliff:source>Oak bows  Ammo: Arrows up to steel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">樫の弓：鋼鉄の矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7899,7 +7899,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114006">
         <xliff:source>Willow bows  Ammo: Arrows up to mithril</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">柳の弓：ミスリルの矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7907,7 +7907,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114007">
         <xliff:source>Maple bows  Ammo: Arrows up to adamant</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">楓の弓：アダマントの矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7915,7 +7915,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114008">
         <xliff:source>Members: Ogre composite bows  Ammo: 'Brutal' arrows up to rune</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：オルグのコンプ弓：「残酷な」ルーンの矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7923,7 +7923,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114009">
         <xliff:source>Members: Yew bows  Ammo: Arrows up to rune</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：イチイの弓：ルーンの矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7931,7 +7931,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114010">
         <xliff:source>Members: Magic bows  Ammo: Arrows up to amethyst</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：魔法樹の弓：アメシストの矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7939,7 +7939,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114011">
         <xliff:source>Members: Bone shortbow  Ammo: Arrows up to amethyst</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：骨の短弓：アメシストの矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7947,7 +7947,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114012">
         <xliff:source>Members: Seerculls  Ammo: Arrows up to amethyst</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">会員：シールカル：アメシストの矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -21963,7 +21963,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115764">
         <xliff:source>Ranging pedestals</xliff:source>
-        <xliff:target state="translated">弓のペデスタル</xliff:target>
+        <xliff:target state="translated">遠射のペデスタル</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
