@@ -219,7 +219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41285">
         <xliff:source>Bait</xliff:source>
-        <xliff:target state="translated">餌を落とす</xliff:target>
+        <xliff:target state="translated">エサを落とす</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Rod Fishing spot
@@ -1739,7 +1739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41475">
         <xliff:source>Feed</xliff:source>
-        <xliff:target state="translated">餌を与える</xliff:target>
+        <xliff:target state="translated">エサを与える</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Lux grub
@@ -4667,7 +4667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41841">
         <xliff:source>Bait</xliff:source>
-        <xliff:target state="translated">餌を落とす</xliff:target>
+        <xliff:target state="translated">エサを落とす</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Ominous Fishing Spot
@@ -6571,7 +6571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42079">
         <xliff:source>Feed</xliff:source>
-        <xliff:target state="translated">餌を与える</xliff:target>
+        <xliff:target state="translated">エサを与える</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Burning brazier

@@ -9827,7 +9827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15586">
         <xliff:source>Light Jungle</xliff:source>
-        <xliff:target state="translated">軽いジャングル</xliff:target>
+        <xliff:target state="translated">低密度なジャングル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Light Jungle
@@ -9835,7 +9835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15587">
         <xliff:source>Medium Jungle</xliff:source>
-        <xliff:target state="translated">中程度のジャングル</xliff:target>
+        <xliff:target state="translated">中密度なジャングル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Medium Jungle
@@ -9843,7 +9843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15588">
         <xliff:source>Dense Jungle</xliff:source>
-        <xliff:target state="translated">密なジャングル</xliff:target>
+        <xliff:target state="translated">高密度なジャングル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Dense Jungle
@@ -11067,7 +11067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15741">
         <xliff:source>Food chute</xliff:source>
-        <xliff:target state="translated">餌落とし</xliff:target>
+        <xliff:target state="translated">エサ落とし</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Food chute
@@ -18059,7 +18059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16615">
         <xliff:source>Birdseed holder</xliff:source>
-        <xliff:target state="translated">鳥餌の種ホルダー</xliff:target>
+        <xliff:target state="translated">鳥エサの種ホルダー</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Birdseed holder
@@ -21307,7 +21307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17021">
         <xliff:source>Oak house</xliff:source>
-        <xliff:target state="translated">樫の家</xliff:target>
+        <xliff:target state="translated">樫のハウス</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Oak house
@@ -21315,7 +21315,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17022">
         <xliff:source>Teak house</xliff:source>
-        <xliff:target state="translated">チークの家</xliff:target>
+        <xliff:target state="translated">チークのハウス</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Teak house
@@ -21323,7 +21323,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17023">
         <xliff:source>Mahogany house</xliff:source>
-        <xliff:target state="translated">マホガニーの家</xliff:target>
+        <xliff:target state="translated">マホガニーのハウス</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Mahogany house
@@ -21723,7 +21723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17073">
         <xliff:source>Consecrated house</xliff:source>
-        <xliff:target state="translated">聖別された家</xliff:target>
+        <xliff:target state="translated">聖別されたハウス</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Consecrated house
@@ -21731,7 +21731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17074">
         <xliff:source>Desecrated house</xliff:source>
-        <xliff:target state="translated">冒涜された家</xliff:target>
+        <xliff:target state="translated">冒涜されたハウス</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Desecrated house
@@ -21739,7 +21739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17075">
         <xliff:source>Nature house</xliff:source>
-        <xliff:target state="translated">自然の家</xliff:target>
+        <xliff:target state="translated">自然のハウス</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Nature house

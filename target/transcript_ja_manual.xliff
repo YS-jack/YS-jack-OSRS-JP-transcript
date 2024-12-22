@@ -147,7 +147,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109279">
         <xliff:source>Tithe Farm</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">タイス農場</xliff:target>
         <xliff:note>category: manual
 sub_category: activity
 source: None
@@ -7819,7 +7819,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110245">
         <xliff:source>Suqahs</xliff:source>
-        <xliff:target state="translated">スーカア</xliff:target>
+        <xliff:target state="translated">スーカ</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_mob
 source: None
@@ -10103,7 +10103,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110541"><xliff:source>Player Owned Houses</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110542"><xliff:source>Tithe Farm</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110542"><xliff:source>Tithe Farm</xliff:source><xliff:target state="translated">タイス農場</xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110543"><xliff:source>Last Man Standing</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -12980,7 +12980,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111500"><xliff:source>Goraks</xliff:source><xliff:target state="translated">ゴラク</xliff:target><xliff:note>category: manual
 sub_category: slayer_mob
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111501"><xliff:source>Suqahs</xliff:source><xliff:target state="translated">スーカア</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111501"><xliff:source>Suqahs</xliff:source><xliff:target state="translated">スーカ</xliff:target><xliff:note>category: manual
 sub_category: slayer_mob
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111502"><xliff:source>Brine Rats</xliff:source><xliff:target state="translated">塩水ネズミ</xliff:target><xliff:note>category: manual
