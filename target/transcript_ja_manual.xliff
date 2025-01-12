@@ -1211,7 +1211,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109414">
         <xliff:source>Rimmington</xliff:source>
-        <xliff:target state="translated">リミングトンへ移動</xliff:target>
+        <xliff:target state="translated">リミングトン</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1235,7 +1235,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109417">
         <xliff:source>Rellekka</xliff:source>
-        <xliff:target state="translated">レレカへ移動</xliff:target>
+        <xliff:target state="translated">レレカ</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1243,7 +1243,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109418">
         <xliff:source>Brimhaven</xliff:source>
-        <xliff:target state="translated">ブリムヘブンへ移動</xliff:target>
+        <xliff:target state="translated">ブリムヘブン</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1275,7 +1275,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109422">
         <xliff:source>Ardougne</xliff:source>
-        <xliff:target state="translated">アルドインへ移動</xliff:target>
+        <xliff:target state="translated">アルドイン</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1283,7 +1283,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109423">
         <xliff:source>Desert</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">砂漠</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1307,7 +1307,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109426">
         <xliff:source>Kandarin</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">カンダリン</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1323,7 +1323,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109428">
         <xliff:source>Lumbridge &amp; Draynor</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ランブリッジとドレイナー</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1347,7 +1347,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109431">
         <xliff:source>Western Provinces</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">西部地方</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1363,7 +1363,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109433">
         <xliff:source>Kourend &amp; Kebos</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クーレンドとケボス</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1595,7 +1595,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109462">
         <xliff:source>Port Piscarilius</xliff:source>
-        <xliff:target state="translated">ピスカリリウス港へ移動</xliff:target>
+        <xliff:target state="translated">ピスカリリウス港</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1611,7 +1611,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109464">
         <xliff:source>Port Sarim</xliff:source>
-        <xliff:target state="translated">サリム港へ移動</xliff:target>
+        <xliff:target state="translated">サリム港</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -2459,7 +2459,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109570">
         <xliff:source>Edgeville</xliff:source>
-        <xliff:target state="translated">エッジビルへ移動</xliff:target>
+        <xliff:target state="translated">エッジビル</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -10502,7 +10502,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110674"><xliff:source>Vizier</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: hair_beard
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110675"><xliff:source>Rimmington</xliff:source><xliff:target state="translated">リミングトンへ移動</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110675"><xliff:source>Rimmington</xliff:source><xliff:target state="translated">リミングトン</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110676"><xliff:source>Taverley</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -10511,10 +10511,10 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110677"><xliff:source>Pollnivneach</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110678"><xliff:source>Rellekka</xliff:source><xliff:target state="translated">レレカへ移動</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110678"><xliff:source>Rellekka</xliff:source><xliff:target state="translated">レレカ</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110679"><xliff:source>Brimhaven</xliff:source><xliff:target state="translated">ブリムヘブンへ移動</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110679"><xliff:source>Brimhaven</xliff:source><xliff:target state="translated">ブリムヘブン</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110680"><xliff:source>Yanille</xliff:source><xliff:target state="translated">ヤニル</xliff:target><xliff:note>category: manual
@@ -10526,10 +10526,10 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110682"><xliff:source>Prifddinas</xliff:source><xliff:target state="translated">プリフディナス</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110683"><xliff:source>Ardougne</xliff:source><xliff:target state="translated">アルドインへ移動</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110683"><xliff:source>Ardougne</xliff:source><xliff:target state="translated">アルドイン</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110684"><xliff:source>Desert</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110684"><xliff:source>Desert</xliff:source><xliff:target state="translated">砂漠</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110685"><xliff:source>Falador</xliff:source><xliff:target state="translated">ファラドー</xliff:target><xliff:note>category: manual
@@ -10538,13 +10538,13 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110686"><xliff:source>Fremennik</xliff:source><xliff:target state="translated">フレメニック</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110687"><xliff:source>Kandarin</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110687"><xliff:source>Kandarin</xliff:source><xliff:target state="translated">カンダリン</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110688"><xliff:source>Karamja</xliff:source><xliff:target state="translated">カラムジャ</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110689"><xliff:source>Lumbridge &amp; Draynor</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110689"><xliff:source>Lumbridge &amp; Draynor</xliff:source><xliff:target state="translated">ランブリッジとドレイナー</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110690"><xliff:source>Morytania</xliff:source><xliff:target state="translated">モリタニア</xliff:target><xliff:note>category: manual
@@ -10553,13 +10553,13 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110691"><xliff:source>Varrock</xliff:source><xliff:target state="translated">ヴァロック</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110692"><xliff:source>Western Provinces</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110692"><xliff:source>Western Provinces</xliff:source><xliff:target state="translated">西部地方</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110693"><xliff:source>Wilderness</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110694"><xliff:source>Kourend &amp; Kebos</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110694"><xliff:source>Kourend &amp; Kebos</xliff:source><xliff:target state="translated">クーレンドとケボス</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110695"><xliff:source>Shayzien</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -10646,13 +10646,13 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110722"><xliff:source>Port Phasmatys</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110723"><xliff:source>Port Piscarilius</xliff:source><xliff:target state="translated">ピスカリリウス港へ移動</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110723"><xliff:source>Port Piscarilius</xliff:source><xliff:target state="translated">ピスカリリウス港</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110724"><xliff:source>Piscatoris</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110725"><xliff:source>Port Sarim</xliff:source><xliff:target state="translated">サリム港へ移動</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110725"><xliff:source>Port Sarim</xliff:source><xliff:target state="translated">サリム港</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110726"><xliff:source>Seers' Village</xliff:source><xliff:target state="translated">シアーズ村</xliff:target><xliff:note>category: manual
@@ -10970,7 +10970,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110830"><xliff:source>Farming Guild</xliff:source><xliff:target state="translated">農業ギルド</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110831"><xliff:source>Edgeville</xliff:source><xliff:target state="translated">エッジビルへ移動</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110831"><xliff:source>Edgeville</xliff:source><xliff:target state="translated">エッジビル</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110832"><xliff:source>Vision</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
