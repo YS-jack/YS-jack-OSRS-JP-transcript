@@ -130,16 +130,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114943">
-        <xliff:source>Members: Granite maul(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Granite maul (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：花崗岩の大槌（腕力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114944">
-        <xliff:source>Members: Granite longsword(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Granite longsword (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：花崗岩の長剣（腕力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -162,24 +162,24 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114947">
-        <xliff:source>Members: Ancient staff(requires Desert Treasure I and &lt;Num0&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Ancient staff (requires Desert Treasure I and &lt;Num0&gt; Magic)</xliff:source>
+        <xliff:target state="translated">会員：古代の杖（「砂漠の宝１」と魔法&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114948">
-        <xliff:source>Members: Ancient sceptre(requires Secrets of the North, &lt;Num0&gt; Strength and &lt;Num1&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Ancient sceptre (requires Secrets of the North, &lt;Num0&gt; Strength and &lt;Num1&gt; Magic)</xliff:source>
+        <xliff:target state="translated">会員：古代の笏（「北陸の秘密」と腕力&lt;Num0&gt;と魔法&lt;Num1&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114949">
-        <xliff:source>Members: Purging staves(with &lt;Num0&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Purging staves (with &lt;Num0&gt; Magic)</xliff:source>
+        <xliff:target state="translated">会員：浄化の杖（魔法&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -226,8 +226,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114955">
-        <xliff:source>Members: Barrelchest Anchor(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Barrelchest Anchor (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：バレルチェストの碇（腕力40も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -290,8 +290,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114963">
-        <xliff:source>Members: Crystal weaponry(with &lt;Num0&gt; Agility)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Crystal weaponry (with &lt;Num0&gt; Agility)</xliff:source>
+        <xliff:target state="translated">会員：水晶の武器（運動神経&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -322,32 +322,32 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114967">
-        <xliff:source>Members: Abyssal bludgeon(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Abyssal bludgeon (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：深淵の棍棒（腕力70も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114968">
-        <xliff:source>Members: Ahrim's staff(with &lt;Num0&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Ahrim's staff (with &lt;Num0&gt; Magic)</xliff:source>
+        <xliff:target state="translated">会員：アリムの杖（魔法&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114969">
-        <xliff:source>Members: Dharok's greataxe(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Dharok's greataxe (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：ダロックの大斧（腕力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114970">
-        <xliff:source>Members: Torag's hammers(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Torag's hammers (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：トラグのハンマー（腕力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -378,16 +378,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114974">
-        <xliff:source>Members: Avernic defender(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Avernic defender (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：アバーニックの副刀（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114975">
-        <xliff:source>Members: Dual Macuahuitl(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Dual Macuahuitl (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：二刀流マクアヒートル（腕力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -418,24 +418,24 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114979">
-        <xliff:source>Members: Staff of the Dead(with &lt;Num0&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Staff of the Dead (with &lt;Num0&gt; Magic)</xliff:source>
+        <xliff:target state="translated">会員：死者の杖（魔法&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114980">
-        <xliff:source>Members: Staff of Light(with &lt;Num0&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Staff of Light (with &lt;Num0&gt; Magic)</xliff:source>
+        <xliff:target state="translated">会員：光の杖（魔法&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114981">
-        <xliff:source>Members: Staff of Balance(with &lt;Num0&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Staff of Balance (with &lt;Num0&gt; Magic)</xliff:source>
+        <xliff:target state="translated">会員：平衡の杖（魔法&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -458,16 +458,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114984">
-        <xliff:source>Members: Elder maul(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Elder maul (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：エルダーの大槌（腕力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114985">
-        <xliff:source>Members: Dinh's bulwark(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Dinh's bulwark (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：ディンの防壁（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -538,16 +538,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114994">
-        <xliff:source>Members: Scythe of Vitur(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Scythe of Vitur (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：ヴァーチャーの大鎌（腕力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="114995">
-        <xliff:source>Members: Soulreaper axe(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Soulreaper axe (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：ソウルリーパーの斧（腕力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -602,8 +602,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115002">
-        <xliff:source>Members: Ferocious Gloves(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Ferocious Gloves (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：残忍な手袋（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -618,40 +618,40 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115004">
-        <xliff:source>Swamp lizard(with &lt;Num0&gt; Attack, &lt;Num1&gt; Ranged &amp; &lt;Num2&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Swamp lizard (with &lt;Num0&gt; Attack, &lt;Num1&gt; Ranged &amp; &lt;Num2&gt; Magic)</xliff:source>
+        <xliff:target state="translated">沼トカゲ（攻撃力&lt;Num0&gt;・遠射&lt;Num1&gt;・魔法が全て&lt;Num2&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115005">
-        <xliff:source>Orange salamander(with &lt;Num0&gt; Attack, &lt;Num1&gt; Ranged &amp; &lt;Num2&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Orange salamander (with &lt;Num0&gt; Attack, &lt;Num1&gt; Ranged &amp; &lt;Num2&gt; Magic)</xliff:source>
+        <xliff:target state="translated">オレンジ・サラマンダ（攻撃力&lt;Num0&gt;・遠射&lt;Num1&gt;・魔法&lt;Num2&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115006">
-        <xliff:source>Red salamander(with &lt;Num0&gt; Attack, &lt;Num1&gt; Ranged &amp; &lt;Num2&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Red salamander (with &lt;Num0&gt; Attack, &lt;Num1&gt; Ranged &amp; &lt;Num2&gt; Magic)</xliff:source>
+        <xliff:target state="translated">赤サラマンダ（攻撃力&lt;Num0&gt;・遠射&lt;Num1&gt;・魔法&lt;Num2&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115007">
-        <xliff:source>Black salamander(with &lt;Num0&gt; Attack, &lt;Num1&gt; Ranged &amp; &lt;Num2&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Black salamander (with &lt;Num0&gt; Attack, &lt;Num1&gt; Ranged &amp; &lt;Num2&gt; Magic)</xliff:source>
+        <xliff:target state="translated">黒サラマンダ（攻撃力&lt;Num0&gt;・遠射&lt;Num1&gt;・魔法&lt;Num2&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115008">
-        <xliff:source>Tecu salamander(with &lt;Num0&gt; Attack, &lt;Num1&gt; Ranged &amp; &lt;Num2&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Tecu salamander (with &lt;Num0&gt; Attack, &lt;Num1&gt; Ranged &amp; &lt;Num2&gt; Magic)</xliff:source>
+        <xliff:target state="translated">テク・サラマンダ（攻撃力&lt;Num0&gt;・遠射&lt;Num1&gt;・魔法&lt;Num2&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -1274,16 +1274,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115086">
-        <xliff:source>Nightmare Staff (without orb)(with &lt;Num0&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Nightmare Staff (without orb) (with &lt;Num0&gt; Magic)</xliff:source>
+        <xliff:target state="translated">悪夢の杖（オーブ無）（魔法&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115087">
-        <xliff:source>Nightmare Staff (with orb)(with &lt;Num0&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Nightmare Staff (with orb) (with &lt;Num0&gt; Magic)</xliff:source>
+        <xliff:target state="translated">悪夢の杖（オーブ有）（魔法&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -1810,16 +1810,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115153">
-        <xliff:source>Members: Black halberd(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Black halberd (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：黒鉄の矛槍（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115154">
-        <xliff:source>Members: White halberd(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: White halberd (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：白鉄の矛槍（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -1834,24 +1834,24 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115156">
-        <xliff:source>Members: White warhammer(with &lt;Num0&gt; Prayer)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: White warhammer (with &lt;Num0&gt; Prayer)</xliff:source>
+        <xliff:target state="translated">会員：白鉄の戦鎚（祈り&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115157">
-        <xliff:source>Members: Mithril halberd(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Mithril halberd (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：ミスリルの矛槍（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115158">
-        <xliff:source>Members: Adamant halberd(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Adamant halberd (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：アダマントの矛槍（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -1866,8 +1866,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115160">
-        <xliff:source>Members: Rune halberd(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Rune halberd (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：ルーンの矛槍（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -1882,16 +1882,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115162">
-        <xliff:source>Members: Hunter's spears(with &lt;Num0&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Hunter's spears (with &lt;Num0&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">会員：狩人の槍（遠射&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115163">
-        <xliff:source>Members: Dragon halberd(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Dragon halberd (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：竜鉄の矛槍（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -1906,24 +1906,24 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115165">
-        <xliff:source>Members: Barrelchest Anchor(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Barrelchest Anchor (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：バレルチェストの碇（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115166">
-        <xliff:source>Members: Granite maul(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Granite maul (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：花崗岩の大槌（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115167">
-        <xliff:source>Members: Granite longsword(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Granite longsword (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：花崗岩の長剣（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -1946,64 +1946,64 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115170">
-        <xliff:source>Members: Ancient sceptre(requires Secrets of the North, &lt;Num0&gt; Attack and &lt;Num1&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Ancient sceptre (requires Secrets of the North, &lt;Num0&gt; Attack and &lt;Num1&gt; Magic)</xliff:source>
+        <xliff:target state="translated">会員：古代の笏（「北陸の秘密」と攻撃力&lt;Num0&gt;と魔法&lt;Num1&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115171">
-        <xliff:source>Members: Dharok's greataxe(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Dharok's greataxe (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：ダロックの大斧（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115172">
-        <xliff:source>Members: Torag's hammers(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Torag's hammers (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：トラグのハンマー（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115173">
-        <xliff:source>Members: Abyssal bludgeon(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Abyssal bludgeon (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：深淵の棍棒（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115174">
-        <xliff:source>Members: Elder maul(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Elder maul (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：エルダーの大槌（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115175">
-        <xliff:source>Members: Dual Macuahuitl(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Dual Macuahuitl (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：二刀流マクアヒートル（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115176">
-        <xliff:source>Members: Soulreaper axe(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Soulreaper axe (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：ソウルリーパーの斧（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115177">
-        <xliff:source>Members: Scythe of Vitur(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Scythe of Vitur (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：ヴァーチャーの大鎌（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2026,40 +2026,40 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115180">
-        <xliff:source>Granite armour(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Granite armour (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">花崗岩の防具（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115181">
-        <xliff:source>Members: Zombie helmet(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Zombie helmet (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：ゾンビの兜（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115182">
-        <xliff:source>Members: Inquisitor's armour(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Inquisitor's armour (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：異端審問官の防具（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115183">
-        <xliff:source>Primordial boots(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Primordial boots (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">原初の靴（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115184">
-        <xliff:source>Members: Bloodrager set(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Bloodrager set (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：ブラッド・ムーン装備セット（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2074,64 +2074,64 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115186">
-        <xliff:source>Cross the River Lum to Al Kharid(with &lt;Num0&gt; Agility and &lt;Num1&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Cross the River Lum to Al Kharid (with &lt;Num0&gt; Agility and &lt;Num1&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">ラム川を渡ってアル・カリッドへ（運動神経&lt;Num0&gt;と遠射&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115187">
-        <xliff:source>Karamja(with &lt;Num0&gt; Agility and &lt;Num1&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Karamja (with &lt;Num0&gt; Agility and &lt;Num1&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">カラムジャ（運動神経&lt;Num0&gt;と遠射&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115188">
-        <xliff:source>Escape from the water obelisk island(with &lt;Num0&gt; Agility and &lt;Num1&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Escape from the water obelisk island (with &lt;Num0&gt; Agility and &lt;Num1&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">カラムジャ（運動神経&lt;Num0&gt;と遠射&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115189">
-        <xliff:source>Scale the Observatory cliff(with &lt;Num0&gt; Agility and &lt;Num1&gt; Ranged, after completing the Observatory quest)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Scale the Observatory cliff (with &lt;Num0&gt; Agility and &lt;Num1&gt; Ranged, after completing the Observatory quest)</xliff:source>
+        <xliff:target state="translated">水オベリスクの島から脱出（運動神経&lt;Num0&gt;と遠射&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115190">
-        <xliff:source>Scale the Catherby cliff(with &lt;Num0&gt; Agility and &lt;Num1&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Scale the Catherby cliff (with &lt;Num0&gt; Agility and &lt;Num1&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">天文台の崖を登る（運動神経&lt;Num0&gt;と遠射&lt;Num1&gt;と「天文台クエスト」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115191">
-        <xliff:source>Scale Falador wall(with &lt;Num0&gt; Agility and &lt;Num1&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Scale Falador wall (with &lt;Num0&gt; Agility and &lt;Num1&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">カサビーの崖を登る（運動神経&lt;Num0&gt;と遠射&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115192">
-        <xliff:source>Scale Yanille wall(with &lt;Num0&gt; Agility and &lt;Num1&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Scale Yanille wall (with &lt;Num0&gt; Agility and &lt;Num1&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">ファラドーの壁を登る（運動神経&lt;Num0&gt;と遠射&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115193">
-        <xliff:source>Cross cave, south of Dorgesh-Kaan (with &lt;Num0&gt; Agility and &lt;Num1&gt; Strength, after completing Death to the Dorgeshuun)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Cross cave, south of Dorgesh-Kaan  (with &lt;Num0&gt; Agility and &lt;Num1&gt; Strength, after completing Death to the Dorgeshuun)</xliff:source>
+        <xliff:target state="translated">ヤニルの壁を登る（運動神経&lt;Num0&gt;と遠射&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2178,56 +2178,56 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115199">
-        <xliff:source>Leaping trout(with &lt;Num0&gt; Agility &amp; &lt;Num1&gt; Fishing)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Leaping trout (with &lt;Num0&gt; Agility &amp; &lt;Num1&gt; Fishing)</xliff:source>
+        <xliff:target state="translated">南ドーゲシュ・カーン洞窟通過（運動神経&lt;Num0&gt;・腕力&lt;Num1&gt;と「ドーゲシューンに死を」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115200">
-        <xliff:source>Leaping salmon(with &lt;Num0&gt; Agility &amp; &lt;Num1&gt; Fishing)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Leaping salmon (with &lt;Num0&gt; Agility &amp; &lt;Num1&gt; Fishing)</xliff:source>
+        <xliff:target state="translated">飛びサケ（運動神経&lt;Num0&gt;と釣り&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115201">
-        <xliff:source>Tuna(with &lt;Num0&gt; Fishing)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Tuna (with &lt;Num0&gt; Fishing)</xliff:source>
+        <xliff:target state="translated">マグロ（釣り&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115202">
-        <xliff:source>Harpoonfish(with &lt;Num0&gt; Fishing)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Harpoonfish (with &lt;Num0&gt; Fishing)</xliff:source>
+        <xliff:target state="translated">銛魚（釣り&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115203">
-        <xliff:source>Leaping sturgeon(with &lt;Num0&gt; Agility &amp; &lt;Num1&gt; Fishing)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Leaping sturgeon (with &lt;Num0&gt; Agility &amp; &lt;Num1&gt; Fishing)</xliff:source>
+        <xliff:target state="translated">飛びチョウザメ（運動神経&lt;Num0&gt;と釣り&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115204">
-        <xliff:source>Swordfish(with &lt;Num0&gt; Fishing)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Swordfish (with &lt;Num0&gt; Fishing)</xliff:source>
+        <xliff:target state="translated">カジキ（釣り&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115205">
-        <xliff:source>Shark(with &lt;Num0&gt; Fishing)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Shark (with &lt;Num0&gt; Fishing)</xliff:source>
+        <xliff:target state="translated">サメ（釣り&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2570,8 +2570,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115248">
-        <xliff:source>Cross the River Lum to Al Kharid(with &lt;Num0&gt; Strength and &lt;Num1&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Cross the River Lum to Al Kharid (with &lt;Num0&gt; Strength and &lt;Num1&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">ラム川を渡ってアル・カリッドへ（腕力&lt;Num0&gt;と遠射&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2586,8 +2586,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115250">
-        <xliff:source>Scale Falador wall(with &lt;Num0&gt; Strength and &lt;Num1&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Scale Falador wall (with &lt;Num0&gt; Strength and &lt;Num1&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">ファラドーの壁を登る（腕力&lt;Num0&gt;と遠射&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2610,8 +2610,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115253">
-        <xliff:source>Corsair Cove Dungeon shortcut(after Dragon Slayer)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Corsair Cove Dungeon shortcut (after Dragon Slayer)</xliff:source>
+        <xliff:target state="translated">私掠船の隠れ家ダンジョンの近道（「ドラゴン・スレイヤー」後</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2650,8 +2650,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115258">
-        <xliff:source>Scale the Observatory cliff(with &lt;Num0&gt; Strength and &lt;Num1&gt; Ranged, after completing the Observatory quest)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Scale the Observatory cliff (with &lt;Num0&gt; Strength and &lt;Num1&gt; Ranged, after completing the Observatory quest)</xliff:source>
+        <xliff:target state="translated">天文台の崖を登る（腕力&lt;Num0&gt;と遠射&lt;Num1&gt;と「天文台クエスト」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2682,8 +2682,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115262">
-        <xliff:source>Corsair Cove Resource Area shortcut(after Dragon Slayer)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Corsair Cove Resource Area shortcut (after Dragon Slayer)</xliff:source>
+        <xliff:target state="translated">私掠船の隠れ家の資源エリアの近道（「ドラゴン・スレイヤー」後</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2698,8 +2698,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115264">
-        <xliff:source>Scale the Catherby cliff(with &lt;Num0&gt; Strength and &lt;Num1&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Scale the Catherby cliff (with &lt;Num0&gt; Strength and &lt;Num1&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">カサビーの崖を登る（腕力&lt;Num0&gt;と遠射&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2722,8 +2722,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115267">
-        <xliff:source>Escape from the water obelisk island(with &lt;Num0&gt; Strength and &lt;Num1&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Escape from the water obelisk island (with &lt;Num0&gt; Strength and &lt;Num1&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">水オベリスクの島から脱出（腕力&lt;Num0&gt;と遠射&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2746,8 +2746,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115270">
-        <xliff:source>Scale Yanille wall(with &lt;Num0&gt; Strength and &lt;Num1&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Scale Yanille wall (with &lt;Num0&gt; Strength and &lt;Num1&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">ヤニルの壁を登る（腕力&lt;Num0&gt;と遠射&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -2890,8 +2890,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115288">
-        <xliff:source>Karamja crossing, south of volcano(with &lt;Num0&gt; Strength and &lt;Num1&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Karamja crossing, south of volcano (with &lt;Num0&gt; Strength and &lt;Num1&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">カラムジャ横断、火山の南（腕力&lt;Num0&gt;と遠射&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -3170,8 +3170,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115323">
-        <xliff:source>Gu'Tanoth wall climb(after completing the Watchtower quest)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Gu'Tanoth wall climb (after completing the Watchtower quest)</xliff:source>
+        <xliff:target state="translated">グタノスの壁よじ登り（「監視塔」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -3179,7 +3179,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115324">
         <xliff:source>Pollnivneach stepping stone</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ポルニヴィーチの踏み石</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -3290,8 +3290,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115338">
-        <xliff:source>Kharazi Jungle vine climb(with Legends' Guild access)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Kharazi Jungle vine climb (with Legends' Guild access)</xliff:source>
+        <xliff:target state="translated">カラジージャングルのツル登り（伝説ギルドへのアクセス要）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -3418,24 +3418,24 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115354">
-        <xliff:source>Leaping trout(with &lt;Num0&gt; Strength &amp; &lt;Num1&gt; Fishing)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Leaping trout (with &lt;Num0&gt; Strength &amp; &lt;Num1&gt; Fishing)</xliff:source>
+        <xliff:target state="translated">飛びマス（腕力&lt;Num0&gt;と釣り&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115355">
-        <xliff:source>Leaping salmon(with &lt;Num0&gt; Strength &amp; &lt;Num1&gt; Fishing)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Leaping salmon (with &lt;Num0&gt; Strength &amp; &lt;Num1&gt; Fishing)</xliff:source>
+        <xliff:target state="translated">飛びサケ（腕力&lt;Num0&gt;と釣り&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115356">
-        <xliff:source>Leaping sturgeon(with &lt;Num0&gt; Strength &amp; &lt;Num1&gt; Fishing)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Leaping sturgeon (with &lt;Num0&gt; Strength &amp; &lt;Num1&gt; Fishing)</xliff:source>
+        <xliff:target state="translated">飛びチョウザメ（腕力&lt;Num0&gt;と釣り&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -3450,8 +3450,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115358">
-        <xliff:source>Crystal weaponry(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Crystal weaponry (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：水晶の武器（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -3474,8 +3474,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115361">
-        <xliff:source>Bow of Faerdhinen(with &lt;Num0&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Bow of Faerdhinen (with &lt;Num0&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">フェルディネンの弓（遠射&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5306,8 +5306,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115590">
-        <xliff:source>Members: Xerician armour(with &lt;Num0&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Xerician armour (with &lt;Num0&gt; Magic)</xliff:source>
+        <xliff:target state="translated">会員：ゼリックの防具（魔法&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5322,8 +5322,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115592">
-        <xliff:source>Members: Initiate armour(after Recruitment Drive, with &lt;Num0&gt; Prayer)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Initiate armour (after Recruitment Drive, with &lt;Num0&gt; Prayer)</xliff:source>
+        <xliff:target state="translated">会員：新信者の防具（「採用活動」と祈り&lt;Num0&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5346,24 +5346,24 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115595">
-        <xliff:source>Members: Inquisitor's armour(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Inquisitor's armour (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：異端審問官の防具（腕力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115596">
-        <xliff:source>Members: Proselyte armour(after Slug Menace, with &lt;Num0&gt; Prayer)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Proselyte armour (after Slug Menace, with &lt;Num0&gt; Prayer)</xliff:source>
+        <xliff:target state="translated">会員：改宗者の防具（「ナメクジの脅威」と祈り&lt;Num0&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115597">
-        <xliff:source>Members: Masori armour(With &lt;Num0&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Masori armour (With &lt;Num0&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">会員：マゾーリの防具（遠射&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5378,96 +5378,96 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115599">
-        <xliff:source>Members: Rock-shell armour(after Fremennik Trials)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Rock-shell armour (after Fremennik Trials)</xliff:source>
+        <xliff:target state="translated">会員：岩殻の防具（「フレメニックの試験」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115600">
-        <xliff:source>Members: Dagon'hai robes(with &lt;Num0&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Dagon'hai robes (with &lt;Num0&gt; Magic)</xliff:source>
+        <xliff:target state="translated">会員：ダゴンハイローブ（魔法&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115601">
-        <xliff:source>Members: Sunfire Fanatic armour(with &lt;Num0&gt; Prayer)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Sunfire Fanatic armour (with &lt;Num0&gt; Prayer)</xliff:source>
+        <xliff:target state="translated">会員：陽炎狂信者の防具（祈り&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115602">
-        <xliff:source>Members: Fremennik helmets(after Fremennik Trials)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Fremennik helmets (after Fremennik Trials)</xliff:source>
+        <xliff:target state="translated">会員：フレメニックの兜（「フレメニックの試験」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115603">
-        <xliff:source>Members: Zaryte vambraces(with &lt;Num0&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Zaryte vambraces (with &lt;Num0&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">会員：ザーライトの腕甲（遠射&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115604">
-        <xliff:source>Members: Granite(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Granite (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：花崗岩（腕力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115605">
-        <xliff:source>Members: Zombie helmet(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Zombie helmet (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：ゾンビの兜（腕力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115606">
-        <xliff:source>Members: Mixed Hide body, cape, and boots(with &lt;Num0&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Mixed Hide body, cape, and boots (with &lt;Num0&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">会員：ミックス革のトップ、マント、靴（遠射&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115607">
-        <xliff:source>Members: Bloodrager set(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Bloodrager set (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：ブラッド・ムーン装備セット（腕力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115608">
-        <xliff:source>Members: Frostmoon set(with &lt;Num0&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Frostmoon set (with &lt;Num0&gt; Magic)</xliff:source>
+        <xliff:target state="translated">会員：ブルームーン装備セット（魔法&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115609">
-        <xliff:source>Members: Eclipse set(with &lt;Num0&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Eclipse set (with &lt;Num0&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">会員：エクリプス装備セット（遠射&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115610">
-        <xliff:source>Members: Helm of neitiznot(after Fremennik Isles)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Helm of neitiznot (after Fremennik Isles)</xliff:source>
+        <xliff:target state="translated">会員：ネイチズノットのヘルム（「フレメニックの試験」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5498,16 +5498,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115614">
-        <xliff:source>Members: Ancestral robes(with &lt;Num0&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Ancestral robes (with &lt;Num0&gt; Magic)</xliff:source>
+        <xliff:target state="translated">会員：祖先のローブ（魔法&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115615">
-        <xliff:source>Members: Avernic defender(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Avernic defender (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：アバーニックの副刀（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5546,8 +5546,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115620">
-        <xliff:source>Members: Neitiznot faceguard(after The Fremennik Exiles)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Neitiznot faceguard (after The Fremennik Exiles)</xliff:source>
+        <xliff:target state="translated">会員：ネイチズノットのフェイスガード（「フレメニックの追放者」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5586,40 +5586,40 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115625">
-        <xliff:source>Members: Primordial boots(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Primordial boots (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：原初の靴（腕力&lt;Num0&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115626">
-        <xliff:source>Members: Eternal boots(with &lt;Num0&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Eternal boots (with &lt;Num0&gt; Magic)</xliff:source>
+        <xliff:target state="translated">会員：不朽の靴（魔法&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115627">
-        <xliff:source>Members: Pegasian boots(with &lt;Num0&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Pegasian boots (with &lt;Num0&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">会員：ペガサスの靴（遠射&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115628">
-        <xliff:source>Members: Virtus robes(with &lt;Num0&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Virtus robes (with &lt;Num0&gt; Magic)</xliff:source>
+        <xliff:target state="translated">会員：ヴァータスのローブ（魔法&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115629">
-        <xliff:source>Members: Ferocious Gloves(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Ferocious Gloves (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：残忍な手袋（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5698,8 +5698,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115639">
-        <xliff:source>Penance skirt(with &lt;Num0&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Penance skirt (with &lt;Num0&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">ペナンスのスカート（遠射&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5746,32 +5746,32 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115645">
-        <xliff:source>Chivalry(with &lt;Num0&gt; Prayer, after King's Ransom)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Chivalry (with &lt;Num0&gt; Prayer, after King's Ransom)</xliff:source>
+        <xliff:target state="translated">騎士道（祈り&lt;Num0&gt;と「王の身代金」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115646">
-        <xliff:source>Piety(with &lt;Num0&gt; Prayer, after King's Ransom)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Piety (with &lt;Num0&gt; Prayer, after King's Ransom)</xliff:source>
+        <xliff:target state="translated">敬神（祈り&lt;Num0&gt;と「王の身代金」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115647">
-        <xliff:source>Rigour(with &lt;Num0&gt; Prayer, from Chambers of Xeric)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Rigour (with &lt;Num0&gt; Prayer, from Chambers of Xeric)</xliff:source>
+        <xliff:target state="translated">困苦（祈り&lt;Num0&gt;、ゼリックの部屋から入手）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115648">
-        <xliff:source>Augury(with &lt;Num0&gt; Prayer, from Chambers of Xeric)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Augury (with &lt;Num0&gt; Prayer, from Chambers of Xeric)</xliff:source>
+        <xliff:target state="translated">前兆（祈り&lt;Num0&gt;、ゼリックの部屋から入手）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -5914,24 +5914,24 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115666">
-        <xliff:source>Members: Twisted buckler(with &lt;Num0&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Twisted buckler (with &lt;Num0&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">会員：歪みのバックラー（遠射&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115667">
-        <xliff:source>Members: Dinh's bulwark(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Dinh's bulwark (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：ディンの防壁（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115668">
-        <xliff:source>Members: Elidinis' Ward(with &lt;Num0&gt; Prayer and &lt;Num1&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Elidinis' Ward (with &lt;Num0&gt; Prayer and &lt;Num1&gt; Magic)</xliff:source>
+        <xliff:target state="translated">会員：エリディニスの盾（祈り&lt;Num0&gt;と魔法&lt;Num1&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6930,24 +6930,24 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115793">
-        <xliff:source>Elder potionswith Stinkhorn mushroom</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Elder potions with Stinkhorn mushroom</xliff:source>
+        <xliff:target state="translated">エルダーの増強薬：クサトゲキノコで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115794">
-        <xliff:source>Kodai potionswith Endarkened juice</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Kodai potions with Endarkened juice</xliff:source>
+        <xliff:target state="translated">コダイ増強薬：黒く染まった汁で</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115795">
-        <xliff:source>Twisted potionswith Cicely</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Twisted potions with Cicely</xliff:source>
+        <xliff:target state="translated">歪んだ増強薬：チチェリで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -6978,24 +6978,24 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115799">
-        <xliff:source>Revitalisation potionswith Stinkhorn mushroom</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Revitalisation potions with Stinkhorn mushroom</xliff:source>
+        <xliff:target state="translated">活性化の薬液：クサトゲキノコで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115800">
-        <xliff:source>Xeric's Aid potionswith Endarkened juice</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Xeric's Aid potions with Endarkened juice</xliff:source>
+        <xliff:target state="translated">ゼリックの援助：黒く染まった汁で</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115801">
-        <xliff:source>Prayer enhance potionswith Cicely</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Prayer enhance potions with Cicely</xliff:source>
+        <xliff:target state="translated">祈祷強化：チチェリで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7026,16 +7026,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115805">
-        <xliff:source>Antipoison potionswith Cicely</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Antipoison potions with Cicely</xliff:source>
+        <xliff:target state="translated">解毒剤：チチェリで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115806">
-        <xliff:source>Overloadwith Elder, Kodai &amp; Twisted potions</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Overload with Elder, Kodai &amp; Twisted potions</xliff:source>
+        <xliff:target state="translated">限界突破の薬液：エルダー、コダイ、歪んだ薬液で</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7514,56 +7514,56 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115866">
-        <xliff:source>Leaping trout - Barbarian rod &amp; most bait types(with &lt;Num0&gt; Agility &amp; &lt;Num1&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Leaping trout - Barbarian rod &amp; most bait types (with &lt;Num0&gt; Agility &amp; &lt;Num1&gt; Strength)</xliff:source>
+        <xliff:target state="translated">飛びマス：蛮族の釣り竿＆大半のエサ（運動神経&lt;Num0&gt;と腕力&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115867">
-        <xliff:source>Tuna(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Tuna (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">マグロ（腕力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115868">
-        <xliff:source>Harpoonfish(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Harpoonfish (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">銛魚（腕力&lt;Num0&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115869">
-        <xliff:source>Leaping salmon - Barbarian rod &amp; most bait types(with &lt;Num0&gt; Agility &amp; &lt;Num1&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Leaping salmon - Barbarian rod &amp; most bait types (with &lt;Num0&gt; Agility &amp; &lt;Num1&gt; Strength)</xliff:source>
+        <xliff:target state="translated">飛びサケ：蛮族の釣り竿＆大半のエサ（運動神経&lt;Num0&gt;と腕力&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115870">
-        <xliff:source>Leaping sturgeon - Barbarian rod &amp; most bait types(with &lt;Num0&gt; Agility &amp; &lt;Num1&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Leaping sturgeon - Barbarian rod &amp; most bait types (with &lt;Num0&gt; Agility &amp; &lt;Num1&gt; Strength)</xliff:source>
+        <xliff:target state="translated">飛びチョウザメ：蛮族の釣り竿＆大半のエサ（運動神経&lt;Num0&gt;と腕力&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115871">
-        <xliff:source>Swordfish(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Swordfish (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">カジキ（腕力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115872">
-        <xliff:source>Shark(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Shark (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">サメ（腕力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -7778,144 +7778,144 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115899">
-        <xliff:source>Standard bowsAmmo: Arrows up to iron</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Standard bows Ammo: Arrows up to iron</xliff:source>
+        <xliff:target state="translated">普通の弓：鉄の矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115900">
-        <xliff:source>Oak bowsAmmo: Arrows up to steel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Oak bows Ammo: Arrows up to steel</xliff:source>
+        <xliff:target state="translated">樫の弓：鋼鉄の矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115901">
-        <xliff:source>Willow bowsAmmo: Arrows up to mithril</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Willow bows Ammo: Arrows up to mithril</xliff:source>
+        <xliff:target state="translated">柳の弓：ミスリルの矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115902">
-        <xliff:source>Maple bowsAmmo: Arrows up to adamant</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Maple bows Ammo: Arrows up to adamant</xliff:source>
+        <xliff:target state="translated">楓の弓：アダマントの矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115903">
-        <xliff:source>Members: Ogre composite bowsAmmo: 'Brutal' arrows up to rune</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Ogre composite bows Ammo: 'Brutal' arrows up to rune</xliff:source>
+        <xliff:target state="translated">会員：オルグのコンプ弓：「残酷な」ルーンの矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115904">
-        <xliff:source>Members: Yew bowsAmmo: Arrows up to rune</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Yew bows Ammo: Arrows up to rune</xliff:source>
+        <xliff:target state="translated">会員：イチイの弓：ルーンの矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115905">
-        <xliff:source>Members: Magic bowsAmmo: Arrows up to amethyst</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Magic bows Ammo: Arrows up to amethyst</xliff:source>
+        <xliff:target state="translated">会員：魔法樹の弓：アメシストの矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115906">
-        <xliff:source>Members: Bone shortbowAmmo: Arrows up to amethyst</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Bone shortbow Ammo: Arrows up to amethyst</xliff:source>
+        <xliff:target state="translated">会員：骨の短弓：アメシストの矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115907">
-        <xliff:source>Members: SeercullsAmmo: Arrows up to amethyst</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Seerculls Ammo: Arrows up to amethyst</xliff:source>
+        <xliff:target state="translated">会員：シールカル：アメシストの矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115908">
-        <xliff:source>Members: Dark bowsAmmo: Arrows up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Dark bows Ammo: Arrows up to dragon</xliff:source>
+        <xliff:target state="translated">会員：暗黒弓：竜鉄の矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115909">
-        <xliff:source>Members: Craw's bowAmmo: None</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Craw's bow Ammo: None</xliff:source>
+        <xliff:target state="translated">会員：クロウの弓：矢は不要</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115910">
-        <xliff:source>Members: &lt;Num0&gt;rd age bowAmmo: Arrows up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: &lt;Num0&gt;rd age bow Ammo: Arrows up to dragon</xliff:source>
+        <xliff:target state="translated">会員：第&lt;Num0&gt;紀の弓：竜鉄の矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115911">
-        <xliff:source>Members: Crystal bows (with &lt;Num0&gt; Agility)Ammo: None</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Crystal bows (with &lt;Num0&gt; Agility) Ammo: None</xliff:source>
+        <xliff:target state="translated">会員：水晶の弓（運動神経&lt;Num0&gt;も）：矢は不要</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115912">
-        <xliff:source>Members: Webweaver bowAmmo: None</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Webweaver bow Ammo: None</xliff:source>
+        <xliff:target state="translated">会員：ウェブウィーバーの弓：矢は不要</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115913">
-        <xliff:source>Members: Scorching bowsAmmo: Arrows up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Scorching bows Ammo: Arrows up to dragon</xliff:source>
+        <xliff:target state="translated">会員：灼熱の弓：竜鉄の矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115914">
-        <xliff:source>Members: Bow of Faerdhinen (with &lt;Num0&gt; Agility)Ammo: None</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Bow of Faerdhinen (with &lt;Num0&gt; Agility) Ammo: None</xliff:source>
+        <xliff:target state="translated">会員：フェルディネンの弓（運動神経&lt;Num0&gt;も）：矢は不要</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115915">
-        <xliff:source>Members: Venator bowAmmo: Arrows up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Venator bow Ammo: Arrows up to dragon</xliff:source>
+        <xliff:target state="translated">会員：ベネターの弓：竜鉄の矢まで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115916">
-        <xliff:source>Members: Twisted bowAmmo: Arrows up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Twisted bow Ammo: Arrows up to dragon</xliff:source>
+        <xliff:target state="translated">会員：歪みの弓：ドラゴンまでの矢</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8034,8 +8034,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115931">
-        <xliff:source>Hunter's Spears(with &lt;Num0&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Hunter's Spears (with &lt;Num0&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：狩人の槍（腕力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8082,8 +8082,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115937">
-        <xliff:source>Eclipse Atlatl (With &lt;Num0&gt; Strength and &lt;Num1&gt; Attack)Ammo: Atlatl darts</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Eclipse Atlatl (With &lt;Num0&gt; Strength and &lt;Num1&gt; Attack) Ammo: Atlatl darts</xliff:source>
+        <xliff:target state="translated">エクリプスのアトラトル（腕力&lt;Num0&gt;と攻撃力&lt;Num1&gt;）：アトラトルのダーツ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8106,120 +8106,120 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115940">
-        <xliff:source>CrossbowAmmo: Bronze crossbow bolts</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Crossbow Ammo: Bronze crossbow bolts</xliff:source>
+        <xliff:target state="translated">洋弓銃：青銅のボルト</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115941">
-        <xliff:source>Phoenix crossbowAmmo: Bronze crossbow bolts</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Phoenix crossbow Ammo: Bronze crossbow bolts</xliff:source>
+        <xliff:target state="translated">フェニックスの洋弓銃：青銅のボルト</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115942">
-        <xliff:source>Members: Bronze crossbowAmmo: Bronze crossbow bolts</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Bronze crossbow Ammo: Bronze crossbow bolts</xliff:source>
+        <xliff:target state="translated">会員：青銅の洋弓銃：青銅のボルト</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115943">
-        <xliff:source>Members: Blurite crossbowAmmo: Bolts up to blurite</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Blurite crossbow Ammo: Bolts up to blurite</xliff:source>
+        <xliff:target state="translated">会員：ブルライトの洋弓銃：ブルライトのボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115944">
-        <xliff:source>Members: Iron crossbowAmmo: Bolts up to iron</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Iron crossbow Ammo: Bolts up to iron</xliff:source>
+        <xliff:target state="translated">会員：鉄の洋弓銃：鉄のボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115945">
-        <xliff:source>Members: Dorgeshuun crossbowAmmo: Bolts up to iron</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Dorgeshuun crossbow Ammo: Bolts up to iron</xliff:source>
+        <xliff:target state="translated">会員：ドーゲシューンの洋弓銃：鉄のボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115946">
-        <xliff:source>Members: Steel crossbowAmmo: Bolts up to steel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Steel crossbow Ammo: Bolts up to steel</xliff:source>
+        <xliff:target state="translated">会員：鋼鉄の洋弓銃：鋼鉄のボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115947">
-        <xliff:source>Members: Mithril crossbowAmmo: Bolts up to mithril</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Mithril crossbow Ammo: Bolts up to mithril</xliff:source>
+        <xliff:target state="translated">会員：ミスリルの洋弓銃：ミスリルのボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115948">
-        <xliff:source>Members: Adamantite crossbowAmmo: Bolts up to adamant</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Adamantite crossbow Ammo: Bolts up to adamant</xliff:source>
+        <xliff:target state="translated">会員：アダマンタイトの洋弓銃：アダマントのボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115949">
-        <xliff:source>Members: Hunters' crossbowAmmo: Kebbit bolts</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Hunters' crossbow Ammo: Kebbit bolts</xliff:source>
+        <xliff:target state="translated">会員：狩人の洋弓銃：ケビットのボルト</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115950">
-        <xliff:source>Members: Runite crossbowAmmo: Bolts up to runite</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Runite crossbow Ammo: Bolts up to runite</xliff:source>
+        <xliff:target state="translated">会員：ルーナイトの洋弓銃：ルーナイトのボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115951">
-        <xliff:source>Members: Dragon crossbowAmmo: Bolts up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Dragon crossbow Ammo: Bolts up to dragon</xliff:source>
+        <xliff:target state="translated">会員：竜鉄の洋弓銃：竜鉄のボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115952">
-        <xliff:source>Members: Sunlight hunters' crossbowAmmo: Antler bolts.</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Sunlight hunters' crossbow Ammo: Antler bolts.</xliff:source>
+        <xliff:target state="translated">会員：狩人の日光の洋弓銃：枝角ボルト</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115953">
-        <xliff:source>Members: Dragon hunter crossbowAmmo: Bolts up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Dragon hunter crossbow Ammo: Bolts up to dragon</xliff:source>
+        <xliff:target state="translated">会員：竜狩りの洋弓銃：竜鉄のボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115954">
-        <xliff:source>Members: Armadyl crossbowAmmo: Bolts up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Armadyl crossbow Ammo: Bolts up to dragon</xliff:source>
+        <xliff:target state="translated">会員：アーマディルの洋弓銃：竜鉄のボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8234,8 +8234,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115956">
-        <xliff:source>Members: Zaryte crossbowAmmo: Bolts up to dragon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Zaryte crossbow Ammo: Bolts up to dragon</xliff:source>
+        <xliff:target state="translated">会員：ザーライトの洋弓銃：竜鉄のボルトまで</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8250,16 +8250,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115958">
-        <xliff:source>Hard leather body(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Hard leather body (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">硬革のボディ（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115959">
-        <xliff:source>Studded leather body(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Studded leather body (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">トゲ付きのボディ（守備力&lt;Num0&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8282,40 +8282,40 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115962">
-        <xliff:source>Members: Hard leather shield (with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Hard leather shield  (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：硬革の盾（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115963">
-        <xliff:source>Members: Frog-leather (with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Frog-leather  (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：カエル革（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115964">
-        <xliff:source>Members: Snakeskin armour(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Snakeskin armour (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：蛇革の防具（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115965">
-        <xliff:source>Members: Snakeskin shield (with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Snakeskin shield  (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：蛇革の盾（守備力&lt;Num0&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115966">
-        <xliff:source>Members: Ava's attractor(after Animal Magnetism)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Ava's attractor (after Animal Magnetism)</xliff:source>
+        <xliff:target state="translated">会員：アヴァのアトラクター（「動物の磁性」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8362,8 +8362,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115972">
-        <xliff:source>Members: Spined armour(after The Fremennik Trials, with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Spined armour (after The Fremennik Trials, with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：トゲの防具（「フレメニックの試練」後、守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8386,24 +8386,24 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115975">
-        <xliff:source>Green dragonhide body(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Green dragonhide body (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">緑竜革のボディ（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115976">
-        <xliff:source>Members: Green dragonhide shield (with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Green dragonhide shield  (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：緑竜革の盾（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115977">
-        <xliff:source>Members: Ava's accumulator(after Animal Magnetism)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Ava's accumulator (after Animal Magnetism)</xliff:source>
+        <xliff:target state="translated">会員：アヴァのアキュムレータ（「動物の磁性」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8426,24 +8426,24 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115980">
-        <xliff:source>Members: Blue dragonhide body(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Blue dragonhide body (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：青竜革のボディ（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115981">
-        <xliff:source>Members: Blue dragonhide shield (with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Blue dragonhide shield  (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：青竜革の盾（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115982">
-        <xliff:source>Members: Penance skirt(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Penance skirt (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：ペナンスのスカート（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8466,16 +8466,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115985">
-        <xliff:source>Members: Red dragonhide body(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Red dragonhide body (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：赤竜革のボディ（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115986">
-        <xliff:source>Members: Red dragonhide shield (with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Red dragonhide shield  (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：赤竜革の盾（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8490,24 +8490,24 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115988">
-        <xliff:source>Members: Mixed hide top, cape, and boots(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Mixed hide top, cape, and boots (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：ミックス革のトップ、マント、靴（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115989">
-        <xliff:source>Members: &lt;Num0&gt;rd age range armour(with &lt;Num1&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: &lt;Num0&gt;rd age range armour (with &lt;Num1&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：第&lt;Num0&gt;紀の射手の防具（守備力&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115990">
-        <xliff:source>Members: Ava's Assembler(after Dragon Slayer II)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Ava's Assembler (after Dragon Slayer II)</xliff:source>
+        <xliff:target state="translated">会員：アヴァのアセンブラ（「ドラゴン・スレイヤー２」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8530,32 +8530,32 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115993">
-        <xliff:source>Members: Black dragonhide body(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Black dragonhide body (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：黒竜革のボディ（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115994">
-        <xliff:source>Members: Black dragonhide shield(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Black dragonhide shield (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：黒竜革の盾（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115995">
-        <xliff:source>Members: God dragonhide shields(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: God dragonhide shields (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：神の革の盾（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115996">
-        <xliff:source>Members: God dragonhide armour(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: God dragonhide armour (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：神の革の防具（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8578,32 +8578,32 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115999">
-        <xliff:source>Members: Hueycoatl hide body(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Hueycoatl hide body (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：フエコアトル革のボディ（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116000">
-        <xliff:source>Members: Hueycoatl hide coif(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Hueycoatl hide coif (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：フエコアトル革のコイフ（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116001">
-        <xliff:source>Members: Armadyl armour(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Armadyl armour (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：アーマディルの防具（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116002">
-        <xliff:source>Members: Karil's leather armour(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Karil's leather armour (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：カリルの防具（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8634,40 +8634,40 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116006">
-        <xliff:source>Members: Eclipse set(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Eclipse set (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：エクリプス装備セット（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116007">
-        <xliff:source>Members: Pegasian boots(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Pegasian boots (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：ペガサスの靴（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116008">
-        <xliff:source>Members: Twisted buckler(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Twisted buckler (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：歪みのバックラー（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116009">
-        <xliff:source>Members: Zaryte vambraces(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Zaryte vambraces (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：ザーライトの腕甲（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116010">
-        <xliff:source>Members: Masori armour(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Masori armour (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">会員：マゾーリの防具（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -8682,16 +8682,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116012">
-        <xliff:source>Light ballistaAmmo: All Javelins</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Light ballista Ammo: All Javelins</xliff:source>
+        <xliff:target state="translated">軽量バリスタ：投槍に全種対応</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116013">
-        <xliff:source>Heavy ballista (after Monkey Madness II)Ammo: All Javelins</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Heavy ballista (after Monkey Madness II) Ammo: All Javelins</xliff:source>
+        <xliff:target state="translated">重量バリスタ（「サルの狂気２」後）：投槍に全種対応</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -11218,48 +11218,48 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116329">
-        <xliff:source>Members: Chivalry(with &lt;Num0&gt; Defence, after King's Ransom)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Chivalry (with &lt;Num0&gt; Defence, after King's Ransom)</xliff:source>
+        <xliff:target state="translated">会員：騎士道（守備力&lt;Num0&gt;と「王の身代金」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116330">
-        <xliff:source>Members: Piety(with &lt;Num0&gt; Defence, after King's Ransom)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Piety (with &lt;Num0&gt; Defence, after King's Ransom)</xliff:source>
+        <xliff:target state="translated">会員：敬神（守備力&lt;Num0&gt;と「王の身代金」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116331">
-        <xliff:source>Members: Rigour(with &lt;Num0&gt; Defence, from Chambers of Xeric)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Rigour (with &lt;Num0&gt; Defence, from Chambers of Xeric)</xliff:source>
+        <xliff:target state="translated">会員：困苦（守備力&lt;Num0&gt;、ゼリックの部屋から入手）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116332">
-        <xliff:source>Members: Augury(with &lt;Num0&gt; Defence, from Chambers of Xeric)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Augury (with &lt;Num0&gt; Defence, from Chambers of Xeric)</xliff:source>
+        <xliff:target state="translated">会員:会員：困苦（守備力&lt;Num0&gt;、ゼリックの部屋から入手）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116333">
-        <xliff:source>Initiate armour(after Recruitment Drive, with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Initiate armour (after Recruitment Drive, with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">新信者の防具（「採用活動」と守備力&lt;Num0&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116334">
-        <xliff:source>Proselyte armour(after Slug Menace, with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Proselyte armour (after Slug Menace, with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">改宗者の防具（「ナメクジの脅威」と守備力&lt;Num0&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -15170,8 +15170,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116823">
-        <xliff:source>Xerician armour(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Xerician armour (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">ゼリックの防具（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -15186,88 +15186,88 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116825">
-        <xliff:source>Mystic robes(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Mystic robes (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">秘伝のローブ（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116826">
-        <xliff:source>Enchanted robes(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Enchanted robes (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">魔法のローブ（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116827">
-        <xliff:source>Robes of darkness(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Robes of darkness (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">闇のローブ（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116828">
-        <xliff:source>Splitbark armour(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Splitbark armour (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">分樹皮の防具（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116829">
-        <xliff:source>Skeletal armour(after The Fremmenik Trials, with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Skeletal armour (after The Fremmenik Trials, with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">骨の防具（「フレメニックの試練」後、守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116830">
-        <xliff:source>Infinity robes(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Infinity robes (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">無限のローブ（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116831">
-        <xliff:source>Swampbark armour(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Swampbark armour (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">沼樹皮の鎧（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116832">
-        <xliff:source>God capes(after Mage Arena)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>God capes (after Mage Arena)</xliff:source>
+        <xliff:target state="translated">神々のマント（「魔術師アリーナ１」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116833">
-        <xliff:source>Bloodbark armour(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Bloodbark armour (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">血樹皮の防具（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116834">
-        <xliff:source>Lunar armour(after Lunar Diplomacy, with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Lunar armour (after Lunar Diplomacy, with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">ルーナの防具（「ルーナ族との外交」後、守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116835">
-        <xliff:source>&lt;Num0&gt;rd age robes(with &lt;Num1&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>&lt;Num0&gt;rd age robes (with &lt;Num1&gt; Defence)</xliff:source>
+        <xliff:target state="translated">第&lt;Num0&gt;紀のローブ（守備力&lt;Num1&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -15282,56 +15282,56 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116837">
-        <xliff:source>Dagon'hai robes(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Dagon'hai robes (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">ダゴンハイローブ（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116838">
-        <xliff:source>Ahrims robes(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Ahrims robes (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">アリムのローブ（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116839">
-        <xliff:source>Boots of brimstone(with &lt;Num0&gt; Defence and Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Boots of brimstone (with &lt;Num0&gt; Defence and Ranged)</xliff:source>
+        <xliff:target state="translated">ブリムストーンの靴（守備力と遠射&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116840">
-        <xliff:source>Eternal boots(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Eternal boots (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">不朽の靴（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116841">
-        <xliff:source>Frostmoon robes(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Frostmoon robes (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">ブルームーンのローブ（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116842">
-        <xliff:source>Ancestral robes(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Ancestral robes (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">祖先のローブ（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116843">
-        <xliff:source>Virtus robes(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Virtus robes (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">ヴァータスのローブ（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -15466,16 +15466,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116860">
-        <xliff:source>Members: Ancient staff(requires Desert Treasure I and &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Ancient staff (requires Desert Treasure I and &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：古代の杖（「砂漠の宝１」と攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116861">
-        <xliff:source>Members: Slayer's staff(with &lt;Num0&gt; Slayer)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Slayer's staff (with &lt;Num0&gt; Slayer)</xliff:source>
+        <xliff:target state="translated">会員：討伐者の杖（討伐&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -15514,16 +15514,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116866">
-        <xliff:source>Members: God staves(requires Mage Arena I)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: God staves (requires Mage Arena I)</xliff:source>
+        <xliff:target state="translated">会員：神々の杖（「魔術師アリーナ２」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116867">
-        <xliff:source>Members: TokTz-Mej-Tal(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: TokTz-Mej-Tal (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：トクツ・メジ・タル（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -15554,16 +15554,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116871">
-        <xliff:source>Members: Ahrim's staff(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Ahrim's staff (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：アリムの杖（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116872">
-        <xliff:source>Members: Ancient sceptre(requires Secrets of the North, &lt;Num0&gt; Attack and &lt;Num1&gt; Strength)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Ancient sceptre (requires Secrets of the North, &lt;Num0&gt; Attack and &lt;Num1&gt; Strength)</xliff:source>
+        <xliff:target state="translated">会員：古代の笏（「北陸の秘密」と攻撃力&lt;Num0&gt;と腕力&lt;Num1&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -15578,8 +15578,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116874">
-        <xliff:source>Members: Nightmare Staff (without orb)(with &lt;Num0&gt; Hitpoints)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Nightmare Staff (without orb) (with &lt;Num0&gt; Hitpoints)</xliff:source>
+        <xliff:target state="translated">会員：悪夢の杖（オーブ無）（体力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -15610,8 +15610,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116878">
-        <xliff:source>Members: Staff of Balance(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Staff of Balance (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：平衡の杖（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -15626,16 +15626,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116880">
-        <xliff:source>Members: Slayer's staff (e)(with &lt;Num0&gt; Slayer)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Slayer's staff (e) (with &lt;Num0&gt; Slayer)</xliff:source>
+        <xliff:target state="translated">会員：討伐者の杖（魔）（討伐&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116881">
-        <xliff:source>Members: Frostmoon Spear(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Frostmoon Spear (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">会員：ブルームーンの槍（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -15674,8 +15674,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116886">
-        <xliff:source>Members: Nightmare Staff (with orb)(with &lt;Num0&gt; Hitpoints)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Members: Nightmare Staff (with orb) (with &lt;Num0&gt; Hitpoints)</xliff:source>
+        <xliff:target state="translated">会員：悪夢の杖（オーブ有）（体力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -17970,8 +17970,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117173">
-        <xliff:source>Spiny helmet(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Spiny helmet (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">トゲの兜（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -18010,8 +18010,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117178">
-        <xliff:source>Mirror shield(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Mirror shield (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">鏡の盾（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -18026,8 +18026,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117180">
-        <xliff:source>Harpie bug lantern(not a light source)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Harpie bug lantern (not a light source)</xliff:source>
+        <xliff:target state="translated">虫ランタン（光源ではない）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -18074,48 +18074,48 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117186">
-        <xliff:source>Leaf-bladed spear and sword(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Leaf-bladed spear and sword (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">葉刃の槍と剣（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117187">
-        <xliff:source>Leaf-bladed battleaxe(with &lt;Num0&gt; Attack)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Leaf-bladed battleaxe (with &lt;Num0&gt; Attack)</xliff:source>
+        <xliff:target state="translated">葉刃の戦斧（攻撃力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117188">
-        <xliff:source>Broad arrows(with &lt;Num0&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Broad arrows (with &lt;Num0&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">太矢（遠射&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117189">
-        <xliff:source>Broad bolts(with &lt;Num0&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Broad bolts (with &lt;Num0&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">太ボルト（遠射&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117190">
-        <xliff:source>Slayer's staff(with &lt;Num0&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Slayer's staff (with &lt;Num0&gt; Magic)</xliff:source>
+        <xliff:target state="translated">討伐者の杖（魔法&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117191">
-        <xliff:source>Slayer's staff (e)(with &lt;Num0&gt; Magic)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Slayer's staff (e) (with &lt;Num0&gt; Magic)</xliff:source>
+        <xliff:target state="translated">討伐者の杖（魔）（魔法&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -18138,16 +18138,16 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117194">
-        <xliff:source>V's shield(with &lt;Num0&gt; Defence)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>V's shield (with &lt;Num0&gt; Defence)</xliff:source>
+        <xliff:target state="translated">Vの盾（守備力&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117195">
-        <xliff:source>Amethyst broad bolts(with &lt;Num0&gt; Ranged)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Amethyst broad bolts (with &lt;Num0&gt; Ranged)</xliff:source>
+        <xliff:target state="translated">アメシストの太ボルト（遠射&lt;Num0&gt;も）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -18162,72 +18162,72 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117197">
-        <xliff:source>Wilderness master(no requirements)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Wilderness master (no requirements)</xliff:source>
+        <xliff:target state="translated">ウィルダネスの達人（条件無し）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117198">
-        <xliff:source>Draynor Village master(after A Porcine of Interest)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Draynor Village master (after A Porcine of Interest)</xliff:source>
+        <xliff:target state="translated">ドレイナー村の達人（「重要参考豚」後）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117199">
-        <xliff:source>Burthorpe master(with level &lt;Num0&gt; combat)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Burthorpe master (with level &lt;Num0&gt; combat)</xliff:source>
+        <xliff:target state="translated">バーソープの達人（戦闘レベル&lt;Num0&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117200">
-        <xliff:source>Canifis master(with level &lt;Num0&gt; combat)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Canifis master (with level &lt;Num0&gt; combat)</xliff:source>
+        <xliff:target state="translated">キャナフィスの達人（戦闘レベル&lt;Num0&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117201">
-        <xliff:source>Edgeville Dungeon master(with level &lt;Num0&gt; combat)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Edgeville Dungeon master (with level &lt;Num0&gt; combat)</xliff:source>
+        <xliff:target state="translated">エッジビル・ダンジョンの達人（戦闘レベル&lt;Num0&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117202">
-        <xliff:source>Zanaris master(with level &lt;Num0&gt; combat)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Zanaris master (with level &lt;Num0&gt; combat)</xliff:source>
+        <xliff:target state="translated">ザナリスの達人（戦闘レベル&lt;Num0&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117203">
-        <xliff:source>Mount Karuulm master(with level &lt;Num0&gt; combat)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Mount Karuulm master (with level &lt;Num0&gt; combat)</xliff:source>
+        <xliff:target state="translated">カルールム山の達人（戦闘レベル&lt;Num0&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117204">
-        <xliff:source>Gnome Stronghold master(with level &lt;Num0&gt; combat)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Gnome Stronghold master (with level &lt;Num0&gt; combat)</xliff:source>
+        <xliff:target state="translated">ノーム要塞の達人（戦闘レベル&lt;Num0&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117205">
-        <xliff:source>Shilo Village master(with level &lt;Num0&gt; combat)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Shilo Village master (with level &lt;Num0&gt; combat)</xliff:source>
+        <xliff:target state="translated">シャイロ村の達人（戦闘レベル&lt;Num0&gt;）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -18650,8 +18650,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117258">
-        <xliff:source>Make and place a scarecrowProtects sweetcorn from birds</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Make and place a scarecrow Protects sweetcorn from birds</xliff:source>
+        <xliff:target state="translated">カカシを作成・設置すればコーンを鳥から守る</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -19594,24 +19594,24 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117376">
-        <xliff:source>Occult altar(upgrade from Ancient)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Occult altar (upgrade from Ancient)</xliff:source>
+        <xliff:target state="translated">オカルトの祭壇（古代版から昇格）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117377">
-        <xliff:source>Occult altar(upgrade from Lunar)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Occult altar (upgrade from Lunar)</xliff:source>
+        <xliff:target state="translated">オカルトの祭壇（ルーナ版から昇格）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117378">
-        <xliff:source>Occult altar(upgrade from Dark)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Occult altar (upgrade from Dark)</xliff:source>
+        <xliff:target state="translated">オカルトの祭壇（暗黒版から昇格）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -21946,8 +21946,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117670">
-        <xliff:source>Marble garden bench(decoration only)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Marble garden bench (decoration only)</xliff:source>
+        <xliff:target state="translated">大理石のガーデンベンチ（装飾のみ）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -21970,8 +21970,8 @@ source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117673">
-        <xliff:source>Obsidian garden bench(decoration only)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:source>Obsidian garden bench (decoration only)</xliff:source>
+        <xliff:target state="translated">黒曜石のガーデンベンチ（装飾のみ）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
