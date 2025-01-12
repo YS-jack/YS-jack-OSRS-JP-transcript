@@ -60,7 +60,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27021">
         <xliff:source>A fan of Niles, Miles and Giles.</xliff:source>
-        <xliff:target/>
+        <xliff:target state="translated">ナイルズ、マイルズ、ガイルズに憧れた男。</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Piles
@@ -1604,7 +1604,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27214">
         <xliff:source>Yar! Shiver me timbers!</xliff:source>
-        <xliff:target/>
+        <xliff:target state="translated">ヤーShiver me timbers!</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Pirate
@@ -3756,7 +3756,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="27483">
         <xliff:source>Yep. Definitely a chicken.</xliff:source>
-        <xliff:target/>
+        <xliff:target state="translated">そうだ。Definitely a chicken.</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Chicken
@@ -32484,7 +32484,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="31074">
         <xliff:source>What?</xliff:source>
-        <xliff:target/>
+        <xliff:target state="translated">え？</xliff:target>
         <xliff:note>category: examine
 sub_category: npc
 source: Blood Cloud
@@ -35921,6 +35921,30 @@ source: Ghost Cat
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14109</xliff:note></xliff:trans-unit><xliff:trans-unit id="31616"><xliff:source>All dressed up for Halloween!</xliff:source><xliff:target/><xliff:note>category: examine
 sub_category: npc
 source: Stray dog
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14112</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14112</xliff:note></xliff:trans-unit><xliff:trans-unit id="31617"><xliff:source>A small odd-looking spider.</xliff:source><xliff:target/><xliff:note>category: examine
+sub_category: npc
+source: Araxyte
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=11174</xliff:note></xliff:trans-unit><xliff:trans-unit id="31618"><xliff:source>A large odd-looking spider.</xliff:source><xliff:target/><xliff:note>category: examine
+sub_category: npc
+source: Araxyte
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=11175</xliff:note></xliff:trans-unit><xliff:trans-unit id="31619"><xliff:source>A very large odd-looking spider.</xliff:source><xliff:target/><xliff:note>category: examine
+sub_category: npc
+source: Araxyte
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=11176</xliff:note></xliff:trans-unit><xliff:trans-unit id="31620"><xliff:source>The custodian of this museum.</xliff:source><xliff:target/><xliff:note>category: examine
+sub_category: npc
+source: Curator Herminius
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13297</xliff:note></xliff:trans-unit><xliff:trans-unit id="31621"><xliff:source>A rocky horror.</xliff:source><xliff:target/><xliff:note>category: examine
+sub_category: npc
+source: Golem guard
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14125</xliff:note></xliff:trans-unit><xliff:trans-unit id="31622"><xliff:source>This dung beetle has mistaken you for its staple diet.</xliff:source><xliff:target/><xliff:note>category: examine
+sub_category: npc
+source: Small scarab
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14126</xliff:note></xliff:trans-unit><xliff:trans-unit id="31623"><xliff:source>Looks kind of shifty...</xliff:source><xliff:target/><xliff:note>category: examine
+sub_category: npc
+source: Jonny the Beard
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14138</xliff:note></xliff:trans-unit><xliff:trans-unit id="31624"><xliff:source>They can help you travel to hard to reach places...</xliff:source><xliff:target/><xliff:note>category: examine
+sub_category: npc
+source: League Navigator
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14145</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
