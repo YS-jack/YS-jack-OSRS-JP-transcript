@@ -1333,7 +1333,6 @@ autochat	自動チャット
 Private	個別	チャットの種類
 Bond Pouch	ボンド入れ
 Inventory	カバン
-Special Attack	奥義
 Overview	概要
 Collection Log	取得アイテム一覧
 guide prices	参考価格
@@ -1621,3 +1620,4 @@ accuracy	命中率	accurateは正確さだが、accuracyは命中率とする。
 Tentacle	触手
 Penance	ペナンス	本当は「懺悔」だがモンスターやアイテム名等は固有名詞としてこれを使う
 multicombat	混戦
+Special Attack	必殺技
