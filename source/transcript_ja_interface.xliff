@@ -25612,7 +25612,8 @@ source: characterSummaryTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118416"><xliff:source>Wilderness</xliff:source><xliff:target state="translated">ウィルダネス</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: achievementDiaryTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118417"><xliff:source>Level &lt;Num0&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit>
+<xliff:trans-unit id="118417"><xliff:source>Level &lt;Num0&gt;</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118418"><xliff:source>Protect Item</xliff:source><xliff:target/><xliff:note>category: interface
