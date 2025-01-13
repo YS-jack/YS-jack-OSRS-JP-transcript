@@ -1,4 +1,5 @@
-<?xml version="1.0"?><xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <xliff:file source-language="en" target-language="ja" datatype="plaintext" original="transcript.db">
     <xliff:body>
       <xliff:trans-unit id="112584">
@@ -1380,6 +1381,33 @@ source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112901"><xliff:source>Flare</xliff:source><xliff:target state="translated">フレア</xliff:target><xliff:note>category: name
 sub_category: menu
 source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112902"><xliff:source>Senntisten Teleport</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112903"><xliff:source>Paddewwa Teleport</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112904"><xliff:source>Shadow Burst</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112905"><xliff:source>Kharyrll Teleport</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112906"><xliff:source>Dareeyak Teleport</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112907"><xliff:source>Shadow Blitz</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112908"><xliff:source>Lassar Teleport</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112909"><xliff:source>Shadow Barrage</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112910"><xliff:source>Grand Exchange</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: accountManagementTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
