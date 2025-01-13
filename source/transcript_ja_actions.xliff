@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version="1.0"?><xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <xliff:file source-language="en" target-language="ja" datatype="plaintext" original="transcript.db">
     <xliff:body>
       <xliff:trans-unit id="41258">
@@ -724,7 +723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41348">
         <xliff:source>Rellekka</xliff:source>
-        <xliff:target state="translated">レレカへ移動</xliff:target>
+        <xliff:target state="translated">レレカ</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Maria Gunnars
@@ -732,7 +731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41349">
         <xliff:source>Neitiznot</xliff:source>
-        <xliff:target state="translated">ネイチズノットへ移動</xliff:target>
+        <xliff:target state="translated">ネイチズノット</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Maria Gunnars
@@ -740,7 +739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41350">
         <xliff:source>Jatizso</xliff:source>
-        <xliff:target state="translated">ジャチゾへ移動</xliff:target>
+        <xliff:target state="translated">ジャチゾ</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Mord Gunnars
@@ -1156,7 +1155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41402">
         <xliff:source>Pirate's Cove</xliff:source>
-        <xliff:target state="translated">海賊の隠れ家へ移動</xliff:target>
+        <xliff:target state="translated">海賊の隠れ家</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Lokar Searunner
@@ -1724,7 +1723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41473">
         <xliff:source>Port Sarim</xliff:source>
-        <xliff:target state="translated">サリム港へ移動</xliff:target>
+        <xliff:target state="translated">サリム港</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Captain Magoro
@@ -1732,7 +1731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41474">
         <xliff:source>Port Piscarilius</xliff:source>
-        <xliff:target state="translated">ピスカリリウス港へ移動</xliff:target>
+        <xliff:target state="translated">ピスカリリウス港</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Captain Magoro
@@ -2028,7 +2027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41511">
         <xliff:source>Land's End</xliff:source>
-        <xliff:target state="translated">ランズ・エンドへ移動</xliff:target>
+        <xliff:target state="translated">ランズ・エンド</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Veos
@@ -2060,7 +2059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41515">
         <xliff:source>Ardougne</xliff:source>
-        <xliff:target state="translated">アルドインへ移動</xliff:target>
+        <xliff:target state="translated">アルドイン</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Captain Barnaby
@@ -2068,7 +2067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41516">
         <xliff:source>Brimhaven</xliff:source>
-        <xliff:target state="translated">ブリムヘブンへ移動</xliff:target>
+        <xliff:target state="translated">ブリムヘブン</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Captain Barnaby
@@ -2076,7 +2075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41517">
         <xliff:source>Rimmington</xliff:source>
-        <xliff:target state="translated">リミングトンへ移動</xliff:target>
+        <xliff:target state="translated">リミングトン</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Captain Barnaby
@@ -2156,7 +2155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41527">
         <xliff:source>Island of Stone</xliff:source>
-        <xliff:target state="translated">ストーン島へ移動</xliff:target>
+        <xliff:target state="translated">ストーン島</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Haskell
@@ -4620,7 +4619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41835">
         <xliff:source>Ardougne</xliff:source>
-        <xliff:target state="translated">アルドインへ移動</xliff:target>
+        <xliff:target state="translated">アルドイン</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Lever
@@ -4628,7 +4627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41836">
         <xliff:source>Edgeville</xliff:source>
-        <xliff:target state="translated">エッジビルへ移動</xliff:target>
+        <xliff:target state="translated">エッジビル</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Lever
@@ -9894,19 +9893,19 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109789"><xliff:source>Switch tab</xliff:source><xliff:target state="translated">タブ切り替え</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109790"><xliff:source>Configure filter</xliff:source><xliff:target state="translated">フィルタ設定</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109790"><xliff:source>Configure filter</xliff:source><xliff:target state="translated">絞込設定</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109791"><xliff:source>&lt;colNum0&gt;Game:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ゲーム:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109792"><xliff:source>&lt;colNum0&gt;Game:&lt;/col&gt; Filter</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ゲーム:&lt;/col&gt; フィルタ</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109792"><xliff:source>&lt;colNum0&gt;Game:&lt;/col&gt; Filter</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ゲーム:&lt;/col&gt; 絞込</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109793"><xliff:source>Setup your autochat</xliff:source><xliff:target state="translated">自動チャット設定</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109794"><xliff:source>Filter public chat</xliff:source><xliff:target state="translated">公共チャットをフィルタ</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109794"><xliff:source>Filter public chat</xliff:source><xliff:target state="translated">公共チャットをフィルター</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109795"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;公共:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
@@ -9999,7 +9998,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109824"><xliff:source>Enable prayer reordering</xliff:source><xliff:target state="translated">祈りの再配置有効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109825"><xliff:source>Disable prayer filtering</xliff:source><xliff:target state="translated">祈りのフィルタ有効</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109825"><xliff:source>Disable prayer filtering</xliff:source><xliff:target state="translated">祈りのフィルター有効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109826"><xliff:source>Prayer</xliff:source><xliff:target state="translated">祈り</xliff:target><xliff:note>category: actions
@@ -10323,13 +10322,13 @@ source: wornEquipmentTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109932"><xliff:source>Disable prayer reordering</xliff:source><xliff:target state="translated">祈りの再配置無効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109933"><xliff:source>Enable prayer filtering</xliff:source><xliff:target state="translated">祈りのフィルタ有効</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109933"><xliff:source>Enable prayer filtering</xliff:source><xliff:target state="translated">祈りのフィルター有効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109934"><xliff:source>Disable spell reordering</xliff:source><xliff:target state="translated">魔法の再配置無効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109935"><xliff:source>Enable spell filtering</xliff:source><xliff:target state="translated">魔法のフィルタ有効</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109935"><xliff:source>Enable spell filtering</xliff:source><xliff:target state="translated">魔法のフィルター有効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109936"><xliff:source>Show notifications</xliff:source><xliff:target state="translated">通知を表示</xliff:target><xliff:note>category: actions
@@ -10797,19 +10796,19 @@ source: Pumpkin patch
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55621</xliff:note></xliff:trans-unit><xliff:trans-unit id="110090"><xliff:source>Carve-pumpkin</xliff:source><xliff:target state="translated">カボチャを彫る</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Pumpkin carving table
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55641</xliff:note></xliff:trans-unit><xliff:trans-unit id="110091"><xliff:source>Setup</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55641</xliff:note></xliff:trans-unit><xliff:trans-unit id="110091"><xliff:source>Setup</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: actions
 sub_category: npc
 source: Ironman tutor
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=311</xliff:note></xliff:trans-unit><xliff:trans-unit id="110092"><xliff:source>Drink-from</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=311</xliff:note></xliff:trans-unit><xliff:trans-unit id="110092"><xliff:source>Drink-from</xliff:source><xliff:target state="translated">から飲む</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Cauldron
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=2024</xliff:note></xliff:trans-unit><xliff:trans-unit id="110093"><xliff:source>Big-search</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=2024</xliff:note></xliff:trans-unit><xliff:trans-unit id="110093"><xliff:source>Big-search</xliff:source><xliff:target state="translated">よく探す</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Reward pool
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=41297</xliff:note></xliff:trans-unit><xliff:trans-unit id="110094"><xliff:source>Take-chisel</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=41297</xliff:note></xliff:trans-unit><xliff:trans-unit id="110094"><xliff:source>Take-chisel</xliff:source><xliff:target state="translated">ノミを取る</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Weak cells
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=43733</xliff:note></xliff:trans-unit><xliff:trans-unit id="110095"><xliff:source>Channel (Varlamore)</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=43733</xliff:note></xliff:trans-unit><xliff:trans-unit id="110095"><xliff:source>Channel (Varlamore)</xliff:source><xliff:target state="translated">転換（ヴァーラモー）</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Waystone
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55866</xliff:note></xliff:trans-unit></xliff:body>
