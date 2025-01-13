@@ -25613,280 +25613,112 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118416"><xli
 sub_category: mainTabs
 source: achievementDiaryTab
 wiki_url: None</xliff:note></xliff:trans-unit>
-<xliff:trans-unit id="118417"><xliff:source>Level &lt;Num0&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+<xliff:trans-unit id="118417"><xliff:source>Filters</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118418"><xliff:source>Protect Item</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118418"><xliff:source>Prayer Filters</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118419"><xliff:source>Keep &lt;Num1&gt; extra item if you die.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118419"><xliff:source>Show lower tiers of tiered prayers</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118420"><xliff:source>Redemption</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118420"><xliff:source>Show tiered prayers even if multi-skill prayers are available</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118421"><xliff:source>Heals you when damaged</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118421"><xliff:source>Show &lt;colNum0&gt;Rapid Healing&lt;/col&gt; prayers</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118422"><xliff:source>and health falls</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118422"><xliff:source>Show prayers you lack the Prayer level to activate</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118423"><xliff:source>below &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118423"><xliff:source>Show prayers you lack the requirements to activate</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118424"><xliff:source>Rapid Heal</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118424"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Protect Item&lt;br&gt;Keep &lt;Num1&gt; extra item if you die.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118425"><xliff:source>&lt;Num1&gt;x restore rate for</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118425"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Redemption&lt;br&gt;Heals you when damaged&lt;br&gt;and health falls&lt;br&gt;below &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118426"><xliff:source>Hitpoints stat.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118426"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rapid Heal&lt;br&gt;&lt;Num1&gt;x restore rate for&lt;br&gt;Hitpoints stat.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118427"><xliff:source>Sharp Eye</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118427"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Sharp Eye&lt;br&gt;Increases your Ranging by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118428"><xliff:source>Increases your Ranging by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118428"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Mystic Will&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118429"><xliff:source>Mystic Will</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118429"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rapid Restore&lt;br&gt;&lt;Num1&gt;x restore rate for all stats&lt;br&gt;except Hitpoints and Prayer.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118430"><xliff:source>Increases your magical attack and defence by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118430"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Steel Skin&lt;br&gt;Increases your defence by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118431"><xliff:source>Rapid Restore</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118431"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Clarity of Thought&lt;br&gt;Increases your attack by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118432"><xliff:source>&lt;Num1&gt;x restore rate for all stats</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118432"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Mystic Lore&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118433"><xliff:source>except Hitpoints and Prayer.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118433"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Thick Skin&lt;br&gt;Increases your defence by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118434"><xliff:source>Steel Skin</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118434"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Retribution&lt;br&gt;Inflicts damage to nearby&lt;br&gt;targets if you die.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118435"><xliff:source>Increases your defence by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118435"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Protect from Magic&lt;br&gt;Protection from magical attacks.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118436"><xliff:source>Clarity of Thought</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118436"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Protect from Missiles&lt;br&gt;Protection from ranged attacks.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118437"><xliff:source>Increases your attack by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118437"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Protect from Melee&lt;br&gt;Protection from close attacks.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118438"><xliff:source>Mystic Lore</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118438"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Ultimate Strength&lt;br&gt;Increases your strength by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118439"><xliff:source>Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118439"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Improved Reflexes&lt;br&gt;Increases your attack by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118440"><xliff:source>Thick Skin</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118440"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Piety&lt;br&gt;Increases your defence by &lt;Num1&gt;%, strength by &lt;Num2&gt;%, and attack by &lt;Num3&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118441"><xliff:source>Retribution</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118441"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Eagle Eye&lt;br&gt;Increases your Ranging by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118442"><xliff:source>Inflicts damage to nearby</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118442"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Mystic Might&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118443"><xliff:source>targets if you die.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118443"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Incredible Reflexes&lt;br&gt;Increases your attack by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118444"><xliff:source>Protect from Magic</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118444"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rock Skin&lt;br&gt;Increases your defence by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118445"><xliff:source>Protection from magical attacks.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118445"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Hawk Eye&lt;br&gt;Increases your Ranging by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118446"><xliff:source>Protect from Missiles</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118446"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Burst of Strength&lt;br&gt;Increases your strength by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118447"><xliff:source>Protection from ranged attacks.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118447"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Smite&lt;br&gt;&lt;Num1&gt;/&lt;Num2&gt; of damage dealt is&lt;br&gt;also removed from&lt;br&gt;opponent's Prayer.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118448"><xliff:source>Protect from Melee</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118448"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Preserve&lt;br&gt;Boosted stats last &lt;Num1&gt;% longer.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118449"><xliff:source>Protection from close attacks.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118449"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Augury&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;% and your defence by &lt;Num3&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118450"><xliff:source>Ultimate Strength</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118450"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rigour&lt;br&gt;Increases your ranged attack by &lt;Num1&gt;% and damage by &lt;Num2&gt;%, and your defence by &lt;Num3&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118451"><xliff:source>Increases your strength by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118451"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Superhuman Strength&lt;br&gt;Increases your strength by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118452"><xliff:source>Improved Reflexes</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118453"><xliff:source>Piety</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118454"><xliff:source>Increases your defence by &lt;Num1&gt;%, strength by &lt;Num2&gt;%, and attack by &lt;Num3&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118455"><xliff:source>Eagle Eye</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118456"><xliff:source>Mystic Might</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118457"><xliff:source>Incredible Reflexes</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118458"><xliff:source>Rock Skin</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118459"><xliff:source>Hawk Eye</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118460"><xliff:source>Burst of Strength</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118461"><xliff:source>Smite</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118462"><xliff:source>&lt;Num1&gt;/&lt;Num2&gt; of damage dealt is</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118463"><xliff:source>also removed from</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118464"><xliff:source>opponent's Prayer.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118465"><xliff:source>Preserve</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118466"><xliff:source>Boosted stats last &lt;Num1&gt;% longer.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118467"><xliff:source>Augury</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118468"><xliff:source>Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;% and your defence by &lt;Num3&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118469"><xliff:source>Rigour</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118470"><xliff:source>Increases your ranged attack by &lt;Num1&gt;% and damage by &lt;Num2&gt;%, and your defence by &lt;Num3&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118471"><xliff:source>Superhuman Strength</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118472"><xliff:source>Chivalry</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118473"><xliff:source>Filters</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118474"><xliff:source>Prayer Filters</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118475"><xliff:source>Show lower tiers of tiered prayers</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118476"><xliff:source>Show tiered prayers even if multi-skill prayers are available</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118477"><xliff:source>Show &lt;colNum0&gt;Rapid Healing&lt;/col&gt; prayers</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118478"><xliff:source>Show prayers you lack the Prayer level to activate</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118479"><xliff:source>Show prayers you lack the requirements to activate</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118480"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Protect Item&lt;br&gt;Keep &lt;Num1&gt; extra item if you die.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118481"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Redemption&lt;br&gt;Heals you when damaged&lt;br&gt;and health falls&lt;br&gt;below &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118482"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rapid Heal&lt;br&gt;&lt;Num1&gt;x restore rate for&lt;br&gt;Hitpoints stat.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118483"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Sharp Eye&lt;br&gt;Increases your Ranging by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118484"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Mystic Will&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118485"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rapid Restore&lt;br&gt;&lt;Num1&gt;x restore rate for all stats&lt;br&gt;except Hitpoints and Prayer.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118486"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Steel Skin&lt;br&gt;Increases your defence by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118487"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Clarity of Thought&lt;br&gt;Increases your attack by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118488"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Mystic Lore&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118489"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Thick Skin&lt;br&gt;Increases your defence by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118490"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Retribution&lt;br&gt;Inflicts damage to nearby&lt;br&gt;targets if you die.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118491"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Protect from Magic&lt;br&gt;Protection from magical attacks.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118492"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Protect from Missiles&lt;br&gt;Protection from ranged attacks.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118493"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Protect from Melee&lt;br&gt;Protection from close attacks.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118494"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Ultimate Strength&lt;br&gt;Increases your strength by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118495"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Improved Reflexes&lt;br&gt;Increases your attack by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118496"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Piety&lt;br&gt;Increases your defence by &lt;Num1&gt;%, strength by &lt;Num2&gt;%, and attack by &lt;Num3&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118497"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Eagle Eye&lt;br&gt;Increases your Ranging by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118498"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Mystic Might&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118499"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Incredible Reflexes&lt;br&gt;Increases your attack by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118500"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rock Skin&lt;br&gt;Increases your defence by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118501"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Hawk Eye&lt;br&gt;Increases your Ranging by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118502"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Burst of Strength&lt;br&gt;Increases your strength by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118503"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Smite&lt;br&gt;&lt;Num1&gt;/&lt;Num2&gt; of damage dealt is&lt;br&gt;also removed from&lt;br&gt;opponent's Prayer.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118504"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Preserve&lt;br&gt;Boosted stats last &lt;Num1&gt;% longer.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118505"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Augury&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;% and your defence by &lt;Num3&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118506"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rigour&lt;br&gt;Increases your ranged attack by &lt;Num1&gt;% and damage by &lt;Num2&gt;%, and your defence by &lt;Num3&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118507"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Superhuman Strength&lt;br&gt;Increases your strength by &lt;Num1&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
-sub_category: mainTabs
-source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118508"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Chivalry&lt;br&gt;Increases your defence by &lt;Num1&gt;%, strength by &lt;Num2&gt;%, and attack by &lt;Num3&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118452"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Chivalry&lt;br&gt;Increases your defence by &lt;Num1&gt;%, strength by &lt;Num2&gt;%, and attack by &lt;Num3&gt;%.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
