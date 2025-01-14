@@ -14244,7 +14244,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116707">
         <xliff:source>Shadow rush</xliff:source>
-        <xliff:target state="translated">シャドー・ラッシュ</xliff:target>
+        <xliff:target state="translated">シャドウ・ラッシュ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -14292,7 +14292,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116713">
         <xliff:source>Shadow burst</xliff:source>
-        <xliff:target state="translated">シャドー・バースト</xliff:target>
+        <xliff:target state="translated">シャドウ・バースト</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -14340,7 +14340,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116719">
         <xliff:source>Shadow blitz</xliff:source>
-        <xliff:target state="translated">シャドー・ブリッツ</xliff:target>
+        <xliff:target state="translated">シャドウ・ブリッツ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -14388,7 +14388,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116725">
         <xliff:source>Shadow barrage</xliff:source>
-        <xliff:target state="translated">シャドー・バラージ</xliff:target>
+        <xliff:target state="translated">シャドウ・バラージ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -25721,43 +25721,43 @@ source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118452"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Chivalry&lt;br&gt;Increases your defence by &lt;Num1&gt;%, strength by &lt;Num2&gt;%, and attack by &lt;Num3&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;騎士道&lt;br&gt;守備力+&lt;Num1&gt;%、腕力+&lt;Num2&gt;%、&lt;br&gt;攻撃力+&lt;Num3&gt;%</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118453"><xliff:source>Filters</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118453"><xliff:source>Filters</xliff:source><xliff:target state="translated">絞込</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118454"><xliff:source>Lumbridge Home Teleport</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118454"><xliff:source>Lumbridge Home Teleport</xliff:source><xliff:target state="translated">ランブリッジ帰還ワープ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118455"><xliff:source>Requires no runes - recharge time &lt;Num0&gt; mins. Warning: This spell takes a long time to cast and will be interrupted by combat.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118455"><xliff:source>Requires no runes - recharge time &lt;Num0&gt; mins. Warning: This spell takes a long time to cast and will be interrupted by combat.</xliff:source><xliff:target state="translated">ルーン不要。再使用まで&lt;Num0&gt;分必要。警告：長時間の詠唱が必要、戦闘で中断される</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118456"><xliff:source>Level &lt;Num0&gt;: Wind Strike</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118456"><xliff:source>Level &lt;Num0&gt;: Wind Strike</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：ウィンド・ストライク</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118457"><xliff:source>A basic Air missile</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118457"><xliff:source>A basic Air missile</xliff:source><xliff:target state="translated">基礎的な大気魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118458"><xliff:source>Crossbow Bolt Enchantments</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118458"><xliff:source>Crossbow Bolt Enchantments</xliff:source><xliff:target state="translated">ボルトに魔法付与</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118459"><xliff:source>View the various crossbow bolt enchantment spells (&lt;Num0&gt;+ Magic required)</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118459"><xliff:source>View the various crossbow bolt enchantment spells (&lt;Num0&gt;+ Magic required)</xliff:source><xliff:target state="translated">可能なボルトの魔法付与を確認&lt;br&gt;（魔法Lv&lt;Num0&gt;+）</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118460"><xliff:source>Level &lt;Num0&gt;: Water Strike</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118460"><xliff:source>Level &lt;Num0&gt;: Water Strike</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：ウォーター・ストライク</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118461"><xliff:source>A basic Water missile</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118461"><xliff:source>A basic Water missile</xliff:source><xliff:target state="translated">基礎的な水魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118462"><xliff:source>Jewellery Enchantments</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118462"><xliff:source>Jewellery Enchantments</xliff:source><xliff:target state="translated">宝石に魔法付与</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118463"><xliff:source>View the various jewellery enchantment spells (&lt;Num0&gt;+ Magic required)</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118463"><xliff:source>View the various jewellery enchantment spells (&lt;Num0&gt;+ Magic required)</xliff:source><xliff:target state="translated">可能な宝石の魔法付与を確認&lt;br&gt;（魔法Lv&lt;Num0&gt;+）</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118464"><xliff:source>Level &lt;Num0&gt;: Earth Strike</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118464"><xliff:source>Level &lt;Num0&gt;: Earth Strike</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：アース・ストライク</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118465"><xliff:source>A basic Earth missile</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118465"><xliff:source>A basic Earth missile</xliff:source><xliff:target state="translated">基礎的な土魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118466"><xliff:source>Level &lt;Num0&gt;: Weaken</xliff:source><xliff:target/><xliff:note>category: interface
@@ -26096,7 +26096,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118577"><xliff:source>A very high level Fire missile</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118578"><xliff:source>Edgeville Home Teleport</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118578"><xliff:source>Edgeville Home Teleport</xliff:source><xliff:target state="translated">エッジビル帰還ワープ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118579"><xliff:source>Level &lt;Num0&gt;: Smoke Rush</xliff:source><xliff:target/><xliff:note>category: interface
@@ -26222,7 +26222,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118619"><xliff:source>Level &lt;Num0&gt;: Ghorrock Teleport</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118620"><xliff:source>Lunar Home Teleport</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118620"><xliff:source>Lunar Home Teleport</xliff:source><xliff:target state="translated">ルーナ帰還ワープ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118621"><xliff:source>Level &lt;Num0&gt;: Bake Pie</xliff:source><xliff:target/><xliff:note>category: interface
@@ -26441,7 +26441,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118692"><xliff:source>Level &lt;Num0&gt;: Recharge Dragonstone</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118693"><xliff:source>Recharges enchanted dragonstone jewellery</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118693"><xliff:source>Recharges enchanted dragonstone jewellery</xliff:source><xliff:target state="translated">竜石の宝石をチャージ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118694"><xliff:source>Level &lt;Num0&gt;: Tele Group Catherby</xliff:source><xliff:target/><xliff:note>category: interface
@@ -26480,7 +26480,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118705"><xliff:source>Change to another spellbook for &lt;Num0&gt; spell cast</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118706"><xliff:source>Arceuus Home Teleport</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118706"><xliff:source>Arceuus Home Teleport</xliff:source><xliff:target state="translated">アルセウス帰還ワープ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118707"><xliff:source>Level &lt;Num0&gt;: Arceuus Library Teleport</xliff:source><xliff:target/><xliff:note>category: interface
@@ -26552,7 +26552,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118729"><xliff:source>Level &lt;Num0&gt;: Adept Reanimation</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118730"><xliff:source>Reanimates a medium levelled creature</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118730"><xliff:source>Reanimates a medium levelled creature</xliff:source><xliff:target state="translated">中級モンスターを蘇生する</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118731"><xliff:source>Level &lt;Num0&gt;: Inferior Demonbane</xliff:source><xliff:target/><xliff:note>category: interface
@@ -26760,6 +26760,36 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118798"><xli
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118799"><xliff:source>Enable icon resizing (outside PvP areas)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118800"><xliff:source>Level &lt;Num0&gt;: Lvl-&lt;Num1&gt; Enchant</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118801"><xliff:source>For use on sapphire and opal jewellery</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118802"><xliff:source>For use on emerald and jade jewellery</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118803"><xliff:source>For use on ruby and topaz jewellery</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118804"><xliff:source>For use on diamond jewellery</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118805"><xliff:source>For use on dragonstone jewellery</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118806"><xliff:source>For use on onyx jewellery</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118807"><xliff:source>For use on zenyte jewellery</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118808"><xliff:source>Back</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118809"><xliff:source>Return to the full spellbook view</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
