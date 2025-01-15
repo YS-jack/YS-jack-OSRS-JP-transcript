@@ -25726,7 +25726,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118454"><xliff:source>Lumbridge Home Teleport</xliff:source><xliff:target state="translated">ランブリッジ帰還ワープ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118455"><xliff:source>Requires no runes - recharge time &lt;Num0&gt; mins. Warning: This spell takes a long time to cast and will be interrupted by combat.</xliff:source><xliff:target state="translated">ルーン不要。再使用まで&lt;Num0&gt;分必要。警告：長時間の詠唱が必要、戦闘で中断される</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118455"><xliff:source>Requires no runes - recharge time &lt;Num0&gt; mins. Warning: This spell takes a long time to cast and will be interrupted by combat.</xliff:source><xliff:target state="translated">ルーン不要、使用後&lt;Num0&gt;分間は使用不可警告：長時間の詠唱が必要、戦闘で中断される</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118456"><xliff:source>Level &lt;Num0&gt;: Wind Strike</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：ウィンド・ストライク</xliff:target><xliff:note>category: interface
@@ -26101,13 +26101,13 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118579"><xliff:source>Level &lt;Num0&gt;: Smoke Rush</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：スモーク・ラッシュ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118580"><xliff:source>A single target smoke attack</xliff:source><xliff:target state="translated">煙魔法の単体攻撃</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118580"><xliff:source>A single target smoke attack</xliff:source><xliff:target state="translated">煙の単体攻撃魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118581"><xliff:source>Level &lt;Num0&gt;: Shadow Rush</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：シャドウ・ラッシュ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118582"><xliff:source>A single target shadow attack</xliff:source><xliff:target state="translated">影魔法の単体攻撃</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118582"><xliff:source>A single target shadow attack</xliff:source><xliff:target state="translated">影の単体攻撃魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118583"><xliff:source>Level &lt;Num0&gt;: Paddewwa Teleport</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：パデワ・ワープ</xliff:target><xliff:note>category: interface
@@ -26119,7 +26119,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118585"><xliff:source>Level &lt;Num0&gt;: Smoke Burst</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：スモーク・バースト</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118586"><xliff:source>A multi-target smoke attack</xliff:source><xliff:target state="translated">煙魔法の範囲攻撃</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118586"><xliff:source>A multi-target smoke attack</xliff:source><xliff:target state="translated">煙の範囲攻撃魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118587"><xliff:source>Level &lt;Num0&gt;: Senntisten Teleport</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：センチステン・ワープ</xliff:target><xliff:note>category: interface
@@ -26128,19 +26128,19 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118588"><xliff:source>Level &lt;Num0&gt;: Ice Rush</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：アイス・ラッシュ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118589"><xliff:source>A single target ice attack</xliff:source><xliff:target state="translated">氷魔法の単体攻撃</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118589"><xliff:source>A single target ice attack</xliff:source><xliff:target state="translated">氷の単体攻撃魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118590"><xliff:source>Level &lt;Num0&gt;: Blood Rush</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：ブラッド・ラッシュ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118591"><xliff:source>A single target blood attack</xliff:source><xliff:target state="translated">血魔法の単体攻撃</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118591"><xliff:source>A single target blood attack</xliff:source><xliff:target state="translated">血の単体攻撃魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118592"><xliff:source>Level &lt;Num0&gt;: Shadow Burst</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：シャドウ・バースト</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118593"><xliff:source>A multi-target shadow attack</xliff:source><xliff:target state="translated">影魔法の範囲攻撃</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118593"><xliff:source>A multi-target shadow attack</xliff:source><xliff:target state="translated">影の範囲攻撃魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118594"><xliff:source>Level &lt;Num0&gt;: Kharyrll Teleport</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：カリール・ワープ</xliff:target><xliff:note>category: interface
@@ -26149,13 +26149,13 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118595"><xliff:source>Level &lt;Num0&gt;: Blood Burst</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：ブラッド・バースト</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118596"><xliff:source>A multi-target blood attack</xliff:source><xliff:target state="translated">血魔法の範囲攻撃</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118596"><xliff:source>A multi-target blood attack</xliff:source><xliff:target state="translated">血の範囲攻撃魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118597"><xliff:source>Level &lt;Num0&gt;: Ice Burst</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：アイス・バースト</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118598"><xliff:source>A multi-target ice attack</xliff:source><xliff:target state="translated">氷魔法の範囲攻撃</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118598"><xliff:source>A multi-target ice attack</xliff:source><xliff:target state="translated">氷の範囲攻撃魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118599"><xliff:source>Level &lt;Num0&gt;: Dareeyak Teleport</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：ダリーヤク・ワープ</xliff:target><xliff:note>category: interface
@@ -26164,13 +26164,13 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118600"><xliff:source>Level &lt;Num0&gt;: Shadow Blitz</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：シャドウ・ブリッツ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118601"><xliff:source>A single target strong shadow attack</xliff:source><xliff:target state="translated">影魔法の強い単体攻撃</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118601"><xliff:source>A single target strong shadow attack</xliff:source><xliff:target state="translated">影の強い単体攻撃魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118602"><xliff:source>Level &lt;Num0&gt;: Smoke Blitz</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：スモーク・ブリッツ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118603"><xliff:source>A single target strong smoke attack</xliff:source><xliff:target state="translated">煙魔法の強い単体攻撃</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118603"><xliff:source>A single target strong smoke attack</xliff:source><xliff:target state="translated">煙の強い単体攻撃魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118604"><xliff:source>Level &lt;Num0&gt;: Lassar Teleport</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：ラサー・ワープ</xliff:target><xliff:note>category: interface
@@ -26179,13 +26179,13 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118605"><xliff:source>Level &lt;Num0&gt;: Blood Blitz</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：ブラッド・ブリッツ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118606"><xliff:source>A single target strong blood attack</xliff:source><xliff:target state="translated">血魔法の強い単体攻撃</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118606"><xliff:source>A single target strong blood attack</xliff:source><xliff:target state="translated">血の強い単体攻撃魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118607"><xliff:source>Level &lt;Num0&gt;: Ice Blitz</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：アイス・ブリッツ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118608"><xliff:source>A single target strong ice attack</xliff:source><xliff:target state="translated">氷魔法の強い単体攻撃</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118608"><xliff:source>A single target strong ice attack</xliff:source><xliff:target state="translated">氷の強い単体攻撃魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118609"><xliff:source>Level &lt;Num0&gt;: Carrallanger Teleport</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：カラランガー・ワープ</xliff:target><xliff:note>category: interface
@@ -26194,7 +26194,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118610"><xliff:source>Level &lt;Num0&gt;: Blood Barrage</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：ブラッド・バラージ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118611"><xliff:source>A multi-target strong blood attack</xliff:source><xliff:target state="translated">血魔法の強い範囲攻撃</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118611"><xliff:source>A multi-target strong blood attack</xliff:source><xliff:target state="translated">血の強い範囲攻撃魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118612"><xliff:source>Level &lt;Num0&gt;: Annakarl Teleport</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：アナカール・ワープ</xliff:target><xliff:note>category: interface
@@ -26203,19 +26203,19 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118613"><xliff:source>Level &lt;Num0&gt;: Shadow Barrage</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：シャドウ・バラージ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118614"><xliff:source>A multi-target strong shadow attack</xliff:source><xliff:target state="translated">影魔法の強い範囲攻撃</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118614"><xliff:source>A multi-target strong shadow attack</xliff:source><xliff:target state="translated">影の強い範囲攻撃魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118615"><xliff:source>Level &lt;Num0&gt;: Smoke Barrage</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：スモーク・バラージ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118616"><xliff:source>A multi-target strong smoke attack</xliff:source><xliff:target state="translated">煙魔法の強い範囲攻撃</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118616"><xliff:source>A multi-target strong smoke attack</xliff:source><xliff:target state="translated">煙の強い範囲攻撃魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118617"><xliff:source>Level &lt;Num0&gt;: Ice Barrage</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：アイス・バラージ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118618"><xliff:source>A multi-target strong ice attack</xliff:source><xliff:target state="translated">氷魔法の強い範囲攻撃</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118618"><xliff:source>A multi-target strong ice attack</xliff:source><xliff:target state="translated">氷の強い範囲攻撃魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118619"><xliff:source>Level &lt;Num0&gt;: Ghorrock Teleport</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：ゴロック・ワープ</xliff:target><xliff:note>category: interface
@@ -26491,7 +26491,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118709"><xliff:source>Level &lt;Num0&gt;: Basic Reanimation</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：基本蘇生術</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118710"><xliff:source>Reanimates a low levelled creature</xliff:source><xliff:target state="translated">低級生物を蘇生</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118710"><xliff:source>Reanimates a low levelled creature</xliff:source><xliff:target state="translated">低級モンスターを蘇生</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118711"><xliff:source>Level &lt;Num0&gt;: Draynor Manor Teleport</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：ドレイナー邸宅ワープ</xliff:target><xliff:note>category: interface
@@ -26506,16 +26506,16 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118714"><xliff:source>Teleports you to the grave north west of the Kebos Battlefront</xliff:source><xliff:target state="translated">ケボス戦線の北西の墓地にワープ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118715"><xliff:source>Level &lt;Num0&gt;: Resurrect Lesser Skeleton</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：下級スケルトン復活術式</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118715"><xliff:source>Level &lt;Num0&gt;: Resurrect Lesser Skeleton</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：下位スケルトン復活術式</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118716"><xliff:source>Calls upon a lesser skeletal thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘する下級スケルトンのスロールを呼ぶ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118716"><xliff:source>Calls upon a lesser skeletal thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘する下位スケルトンのスロールを呼ぶ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118717"><xliff:source>Level &lt;Num0&gt;: Resurrect Lesser Ghost</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：下級ゴースト復活術式</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118717"><xliff:source>Level &lt;Num0&gt;: Resurrect Lesser Ghost</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：下位ゴースト復活術式</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118718"><xliff:source>Calls upon a lesser ghostly thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘する下級ゴーストのスロールを呼ぶ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118718"><xliff:source>Calls upon a lesser ghostly thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘する下位ゴーストのスロールを呼ぶ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118719"><xliff:source>Level &lt;Num0&gt;: Ghostly Grasp</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：霊的掌握</xliff:target><xliff:note>category: interface
@@ -26536,10 +26536,10 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118724"><xliff:source>Teleports you to the Mind Altar</xliff:source><xliff:target state="translated">心の祭壇にワープ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118725"><xliff:source>Level &lt;Num0&gt;: Resurrect Lesser Zombie</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：下級ゾンビ復活術式</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118725"><xliff:source>Level &lt;Num0&gt;: Resurrect Lesser Zombie</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：下位ゾンビ復活術式</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118726"><xliff:source>Calls upon a lesser zombified thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘する下級ゾンビのスロールを呼ぶ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118726"><xliff:source>Calls upon a lesser zombified thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘する下位ゾンビのスロールを呼ぶ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118727"><xliff:source>Level &lt;Num0&gt;: Salve Graveyard Teleport</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：サルヴ基地ワープ</xliff:target><xliff:note>category: interface
@@ -26554,7 +26554,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118730"><xliff:source>Reanimates a medium levelled creature</xliff:source><xliff:target state="translated">中級モンスターを蘇生する</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118731"><xliff:source>Level &lt;Num0&gt;: Inferior Demonbane</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：劣勢・悪魔殺し</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118731"><xliff:source>Level &lt;Num0&gt;: Inferior Demonbane</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：下級悪魔殺し</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118732"><xliff:source>Hits a demon for minor damage</xliff:source><xliff:target state="translated">悪魔に小ダメージを与える</xliff:target><xliff:note>category: interface
@@ -26566,16 +26566,16 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118734"><xliff:source>Reduces your chance of being caught when pickpocketing</xliff:source><xliff:target state="translated">スリをして見つかる確率を下げる</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118735"><xliff:source>Level &lt;Num0&gt;: Resurrect Superior Skeleton</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：中級スケルトン復活術式</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118735"><xliff:source>Level &lt;Num0&gt;: Resurrect Superior Skeleton</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：中位スケルトン復活術式</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118736"><xliff:source>Calls upon a superior skeletal thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘する中級スケルトンのスロールを呼ぶ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118736"><xliff:source>Calls upon a superior skeletal thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘する中位スケルトンのスロールを呼ぶ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118737"><xliff:source>Level &lt;Num0&gt;: Resurrect Superior Ghost</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：中級ゴースト復活術式</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118737"><xliff:source>Level &lt;Num0&gt;: Resurrect Superior Ghost</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：中位ゴースト復活術式</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118738"><xliff:source>Calls upon a superior ghostly thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘する中級ゴーストのスロールを呼ぶ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118738"><xliff:source>Calls upon a superior ghostly thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘する中位ゴーストのスロールを呼ぶ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118739"><xliff:source>Level &lt;Num0&gt;: Skeletal Grasp</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：スケルトン掌握</xliff:target><xliff:note>category: interface
@@ -26596,10 +26596,10 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118744"><xliff:source>Teleports you to Fenkenstrain's Castle</xliff:source><xliff:target state="translated">フェンケンストレイン城にワープ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118745"><xliff:source>Level &lt;Num0&gt;: Resurrect Superior Zombie</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：中級ゾンビ復活術式</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118745"><xliff:source>Level &lt;Num0&gt;: Resurrect Superior Zombie</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：中位ゾンビ復活術式</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118746"><xliff:source>Calls upon a superior zombified thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘する中級ゾンビのスロールを呼ぶ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118746"><xliff:source>Calls upon a superior zombified thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘する中位ゾンビのスロールを呼ぶ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118747"><xliff:source>Level &lt;Num0&gt;: Mark of Darkness</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：闇の刻印</xliff:target><xliff:note>category: interface
@@ -26662,22 +26662,22 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118766"><xliff:source>Gives you protection from the effects of offensive Arceuus spells and demonic attacks</xliff:source><xliff:target state="translated">攻撃的なアルセウス魔法と悪魔の攻撃から防御してくれる</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118767"><xliff:source>Level &lt;Num0&gt;: Resurrect Greater Ghost</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：上級ゴースト復活術式</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118767"><xliff:source>Level &lt;Num0&gt;: Resurrect Greater Ghost</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：上位ゴースト復活術式</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118768"><xliff:source>Calls upon a greater ghostly thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘すると上級ゴーストのスロールを呼ぶ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118769"><xliff:source>Level &lt;Num0&gt;: Resurrect Greater Skeleton</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：上級スケルトン復活術式</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118769"><xliff:source>Level &lt;Num0&gt;: Resurrect Greater Skeleton</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：上位スケルトン復活術式</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118770"><xliff:source>Calls upon a greater skeletal thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘する上級スケルトンのスロールを呼ぶ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118770"><xliff:source>Calls upon a greater skeletal thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘する上位スケルトンのスロールを呼ぶ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118771"><xliff:source>Level &lt;Num0&gt;: Resurrect Greater Zombie</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：上級ゾンビ復活術式</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118771"><xliff:source>Level &lt;Num0&gt;: Resurrect Greater Zombie</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：上位ゾンビ復活術式</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118772"><xliff:source>Calls upon a greater zombified thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘する上級ゾンビのスロールを呼ぶ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118772"><xliff:source>Calls upon a greater zombified thrall to fight alongside you</xliff:source><xliff:target state="translated">共闘する上位ゾンビのスロールを呼ぶ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118773"><xliff:source>Level &lt;Num0&gt;: Resurrect Crops</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：作物蘇生</xliff:target><xliff:note>category: interface
