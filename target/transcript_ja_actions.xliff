@@ -10811,6 +10811,15 @@ source: Weak cells
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=43733</xliff:note></xliff:trans-unit><xliff:trans-unit id="110095"><xliff:source>Channel (Varlamore)</xliff:source><xliff:target state="translated">転換（ヴァーラモー）</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Waystone
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55866</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55866</xliff:note></xliff:trans-unit><xliff:trans-unit id="110096"><xliff:source>Punch</xliff:source><xliff:target state="translated">殴る</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110097"><xliff:source>Kick</xliff:source><xliff:target state="translated">蹴る</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110098"><xliff:source>Unarmed</xliff:source><xliff:target state="translated">素手</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

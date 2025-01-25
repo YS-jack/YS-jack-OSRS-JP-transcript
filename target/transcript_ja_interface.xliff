@@ -27100,6 +27100,15 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118912"><xliff:source>For use on zenyte jewellery&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">ゼナイトの宝石用&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118913"><xliff:source>Unarmed</xliff:source><xliff:target state="translated">素手</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118914"><xliff:source>Punch</xliff:source><xliff:target state="translated">殴る</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118915"><xliff:source>Kick</xliff:source><xliff:target state="translated">蹴る</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
