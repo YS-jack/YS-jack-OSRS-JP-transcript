@@ -27296,7 +27296,10 @@ source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118977"><xliff:source>You are currently talking in the &lt;col=ffffff&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt; channel.</xliff:source><xliff:target state="translated">現在&lt;col=ffffff&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;チャンネルに参加中</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118978"><xliff:source>You have currently loaded &lt;col=ffb83f&gt;&lt;!PLAYER_NAME0&gt;&lt;/col&gt;, which is not a PvP Arena group.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118978"><xliff:source>You have currently loaded &lt;col=ffb83f&gt;&lt;!PLAYER_NAME0&gt;&lt;/col&gt;, which is not a PvP Arena group.</xliff:source><xliff:target state="translated">見学中のクラン&lt;col=ffb83f&gt;&lt;!PLAYER_NAME0&gt;&lt;/col&gt;はPvPアリーナのクランではありません。</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118979"><xliff:source>Click &lt;colNum0&gt;Find&lt;/col&gt; to find a PvP Arena group.  Once you've found a suitable group, &lt;colNum1&gt;sign up&lt;/col&gt; to be invited to its fights.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
