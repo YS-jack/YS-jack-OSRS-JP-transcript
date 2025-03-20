@@ -27302,6 +27302,24 @@ source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118979"><xliff:source>Click &lt;colNum0&gt;Find&lt;/col&gt; to find a PvP Arena group.  Once you've found a suitable group, &lt;colNum1&gt;sign up&lt;/col&gt; to be invited to its fights.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118980"><xliff:source>&lt;Num0&gt;v&lt;Num1&gt; Tournament</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118981"><xliff:source>&lt;Num0&gt;v&lt;Num1&gt; Duels</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118982"><xliff:source>&lt;img=1&gt; Official Group</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118983"><xliff:source>Loading player list...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118984"><xliff:source>&lt;colNum0&gt;Sign up&lt;/col&gt; to be invited to fights.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118985"><xliff:source>&lt;colNum0&gt;Sign up&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
