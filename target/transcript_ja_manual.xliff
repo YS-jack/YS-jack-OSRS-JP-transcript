@@ -211,7 +211,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109289">
         <xliff:source>Yes</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">はい</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -227,7 +227,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109291">
         <xliff:source>Bow</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">お辞儀する</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -235,7 +235,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109292">
         <xliff:source>Angry</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">怒る</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -243,7 +243,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109293">
         <xliff:source>Think</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">考える</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -251,7 +251,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109294">
         <xliff:source>Wave</xliff:source>
-        <xliff:target state="translated">波</xliff:target>
+        <xliff:target state="translated">ウェーブ</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -259,7 +259,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109295">
         <xliff:source>Shrug</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">肩をすくめる</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -267,7 +267,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109296">
         <xliff:source>Cheer</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">応援する</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -275,7 +275,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109297">
         <xliff:source>Beckon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">手招き</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -283,7 +283,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109298">
         <xliff:source>Laugh</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">笑う</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -291,7 +291,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109299">
         <xliff:source>Jump for Joy</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">喜びのジャンプ</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -299,7 +299,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109300">
         <xliff:source>Yawn</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">あくび</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -307,7 +307,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109301">
         <xliff:source>Dance</xliff:source>
-        <xliff:target state="translated">と踊る</xliff:target>
+        <xliff:target state="translated">踊る</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -315,7 +315,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109302">
         <xliff:source>Jig</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ジグダンス</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -331,7 +331,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109304">
         <xliff:source>Headbang</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ヘドバン</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -339,7 +339,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109305">
         <xliff:source>Cry</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">泣く</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -347,7 +347,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109306">
         <xliff:source>Blow Kiss</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">投げキス</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -355,7 +355,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109307">
         <xliff:source>Panic</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">パニック</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -363,7 +363,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109308">
         <xliff:source>Raspberry</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">からかう</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -371,7 +371,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109309">
         <xliff:source>Clap</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">拍手</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -379,7 +379,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109310">
         <xliff:source>Salute</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">敬礼</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -387,7 +387,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109311">
         <xliff:source>Goblin Bow</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ゴブリンのお辞儀</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -395,7 +395,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109312">
         <xliff:source>Goblin Salute</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ゴブリンの敬礼</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -403,7 +403,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109313">
         <xliff:source>Glass Box</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ガラスの箱</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -411,7 +411,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109314">
         <xliff:source>Climb Rope</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ロープを登る</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -419,7 +419,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109315">
         <xliff:source>Lean</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">寄りかかる</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -427,7 +427,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109316">
         <xliff:source>Glass Wall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ガラスの壁</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -435,7 +435,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109317">
         <xliff:source>Idea</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アイデア</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -443,7 +443,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109318">
         <xliff:source>Stamp</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">踏み鳴らす</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -451,7 +451,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109319">
         <xliff:source>Flap</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">パタパタ</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -459,7 +459,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109320">
         <xliff:source>Slap Head</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">頭ペチン</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -467,7 +467,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109321">
         <xliff:source>Zombie Walk</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ゾンビ歩き</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -475,7 +475,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109322">
         <xliff:source>Zombie Dance</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ゾンビダンス</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -483,7 +483,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109323">
         <xliff:source>Scared</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">怯える</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -491,7 +491,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109324">
         <xliff:source>Rabbit Hop</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ウサギだピョン</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -499,7 +499,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109325">
         <xliff:source>Skill Cape</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">スキルのマント</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -507,7 +507,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109326">
         <xliff:source>Zombie Hand</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ゾンビの手</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -515,7 +515,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109327">
         <xliff:source>Air Guitar</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エアギター</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -523,7 +523,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109328">
         <xliff:source>Sit up</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">上体起こし</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -531,7 +531,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109329">
         <xliff:source>Push up</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">腕立て伏せ</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -539,7 +539,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109330">
         <xliff:source>Star jump</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">スタージャンプ</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -547,7 +547,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109331">
         <xliff:source>Jog</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ジョギング</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -555,7 +555,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109332">
         <xliff:source>Flex</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">筋肉自慢</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -563,7 +563,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109333">
         <xliff:source>Hypermobile Drinker</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ハイパーモバイル・ドリンカー</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -571,7 +571,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109334">
         <xliff:source>Uri transform</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ウリに変身</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -579,7 +579,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109335">
         <xliff:source>Smooth dance</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">なめらかなダンス</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -587,7 +587,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109336">
         <xliff:source>Crazy dance</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ヤバいダンス</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -595,7 +595,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109337">
         <xliff:source>Premier Shield</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">プレミアの盾</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -603,7 +603,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109338">
         <xliff:source>Explore</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">探検</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -611,7 +611,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109339">
         <xliff:source>Relic unlock</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">遺物の解放</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -627,7 +627,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109341">
         <xliff:source>Trick</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">トリック</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -635,7 +635,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109342">
         <xliff:source>Fortis Salute</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フォーティスの敬礼</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -651,7 +651,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109344">
         <xliff:source>Sit down</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">座る</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -10127,172 +10127,172 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110549"><xliff:source>Mage Training Arena</xliff:source><xliff:target state="translated">魔術師の訓練所</xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110550"><xliff:source>Yes</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110550"><xliff:source>Yes</xliff:source><xliff:target state="translated">はい</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110551"><xliff:source>No</xliff:source><xliff:target state="translated">いいえ</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110552"><xliff:source>Bow</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110552"><xliff:source>Bow</xliff:source><xliff:target state="translated">お辞儀する</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110553"><xliff:source>Angry</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110553"><xliff:source>Angry</xliff:source><xliff:target state="translated">怒る</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110554"><xliff:source>Think</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110554"><xliff:source>Think</xliff:source><xliff:target state="translated">考える</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110555"><xliff:source>Wave</xliff:source><xliff:target state="translated">波</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110555"><xliff:source>Wave</xliff:source><xliff:target state="translated">ウェーブ</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110556"><xliff:source>Shrug</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110556"><xliff:source>Shrug</xliff:source><xliff:target state="translated">肩をすくめる</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110557"><xliff:source>Cheer</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110557"><xliff:source>Cheer</xliff:source><xliff:target state="translated">応援する</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110558"><xliff:source>Beckon</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110558"><xliff:source>Beckon</xliff:source><xliff:target state="translated">手招き</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110559"><xliff:source>Laugh</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110559"><xliff:source>Laugh</xliff:source><xliff:target state="translated">笑う</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110560"><xliff:source>Jump for Joy</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110560"><xliff:source>Jump for Joy</xliff:source><xliff:target state="translated">喜びのジャンプ</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110561"><xliff:source>Yawn</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110561"><xliff:source>Yawn</xliff:source><xliff:target state="translated">あくび</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110562"><xliff:source>Dance</xliff:source><xliff:target state="translated">と踊る</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110562"><xliff:source>Dance</xliff:source><xliff:target state="translated">踊る</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110563"><xliff:source>Jig</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110563"><xliff:source>Jig</xliff:source><xliff:target state="translated">ジグダンス</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110564"><xliff:source>Spin</xliff:source><xliff:target state="translated">回す</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110565"><xliff:source>Headbang</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110565"><xliff:source>Headbang</xliff:source><xliff:target state="translated">ヘドバン</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110566"><xliff:source>Cry</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110566"><xliff:source>Cry</xliff:source><xliff:target state="translated">泣く</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110567"><xliff:source>Blow Kiss</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110567"><xliff:source>Blow Kiss</xliff:source><xliff:target state="translated">投げキス</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110568"><xliff:source>Panic</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110568"><xliff:source>Panic</xliff:source><xliff:target state="translated">パニック</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110569"><xliff:source>Raspberry</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110569"><xliff:source>Raspberry</xliff:source><xliff:target state="translated">からかう</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110570"><xliff:source>Clap</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110570"><xliff:source>Clap</xliff:source><xliff:target state="translated">拍手</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110571"><xliff:source>Salute</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110571"><xliff:source>Salute</xliff:source><xliff:target state="translated">敬礼</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110572"><xliff:source>Goblin Bow</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110572"><xliff:source>Goblin Bow</xliff:source><xliff:target state="translated">ゴブリンのお辞儀</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110573"><xliff:source>Goblin Salute</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110573"><xliff:source>Goblin Salute</xliff:source><xliff:target state="translated">ゴブリンの敬礼</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110574"><xliff:source>Glass Box</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110574"><xliff:source>Glass Box</xliff:source><xliff:target state="translated">ガラスの箱</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110575"><xliff:source>Climb Rope</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110575"><xliff:source>Climb Rope</xliff:source><xliff:target state="translated">ロープを登る</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110576"><xliff:source>Lean</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110576"><xliff:source>Lean</xliff:source><xliff:target state="translated">寄りかかる</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110577"><xliff:source>Glass Wall</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110577"><xliff:source>Glass Wall</xliff:source><xliff:target state="translated">ガラスの壁</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110578"><xliff:source>Idea</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110578"><xliff:source>Idea</xliff:source><xliff:target state="translated">アイデア</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110579"><xliff:source>Stamp</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110579"><xliff:source>Stamp</xliff:source><xliff:target state="translated">踏み鳴らす</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110580"><xliff:source>Flap</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110580"><xliff:source>Flap</xliff:source><xliff:target state="translated">パタパタ</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110581"><xliff:source>Slap Head</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110581"><xliff:source>Slap Head</xliff:source><xliff:target state="translated">頭ペチン</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110582"><xliff:source>Zombie Walk</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110582"><xliff:source>Zombie Walk</xliff:source><xliff:target state="translated">ゾンビ歩き</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110583"><xliff:source>Zombie Dance</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110583"><xliff:source>Zombie Dance</xliff:source><xliff:target state="translated">ゾンビダンス</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110584"><xliff:source>Scared</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110584"><xliff:source>Scared</xliff:source><xliff:target state="translated">怯える</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110585"><xliff:source>Rabbit Hop</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110585"><xliff:source>Rabbit Hop</xliff:source><xliff:target state="translated">ウサギだピョン</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110586"><xliff:source>Skill Cape</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110586"><xliff:source>Skill Cape</xliff:source><xliff:target state="translated">スキルのマント</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110587"><xliff:source>Zombie Hand</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110587"><xliff:source>Zombie Hand</xliff:source><xliff:target state="translated">ゾンビの手</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110588"><xliff:source>Air Guitar</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110588"><xliff:source>Air Guitar</xliff:source><xliff:target state="translated">エアギター</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110589"><xliff:source>Sit up</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110589"><xliff:source>Sit up</xliff:source><xliff:target state="translated">上体起こし</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110590"><xliff:source>Push up</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110590"><xliff:source>Push up</xliff:source><xliff:target state="translated">腕立て伏せ</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110591"><xliff:source>Star jump</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110591"><xliff:source>Star jump</xliff:source><xliff:target state="translated">スタージャンプ</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110592"><xliff:source>Jog</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110592"><xliff:source>Jog</xliff:source><xliff:target state="translated">ジョギング</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110593"><xliff:source>Flex</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110593"><xliff:source>Flex</xliff:source><xliff:target state="translated">筋肉自慢</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110594"><xliff:source>Hypermobile Drinker</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110594"><xliff:source>Hypermobile Drinker</xliff:source><xliff:target state="translated">ハイパーモバイル・ドリンカー</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110595"><xliff:source>Uri transform</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110595"><xliff:source>Uri transform</xliff:source><xliff:target state="translated">ウリに変身</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110596"><xliff:source>Smooth dance</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110596"><xliff:source>Smooth dance</xliff:source><xliff:target state="translated">なめらかなダンス</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110597"><xliff:source>Crazy dance</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110597"><xliff:source>Crazy dance</xliff:source><xliff:target state="translated">ヤバいダンス</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110598"><xliff:source>Premier Shield</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110598"><xliff:source>Premier Shield</xliff:source><xliff:target state="translated">プレミアの盾</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110599"><xliff:source>Explore</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110599"><xliff:source>Explore</xliff:source><xliff:target state="translated">探検</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110600"><xliff:source>Relic unlock</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110600"><xliff:source>Relic unlock</xliff:source><xliff:target state="translated">遺物の解放</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110601"><xliff:source>Party</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110602"><xliff:source>Trick</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110602"><xliff:source>Trick</xliff:source><xliff:target state="translated">トリック</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110603"><xliff:source>Fortis Salute</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110603"><xliff:source>Fortis Salute</xliff:source><xliff:target state="translated">フォーティスの敬礼</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110604"><xliff:source>Crab dance</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110605"><xliff:source>Sit down</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110605"><xliff:source>Sit down</xliff:source><xliff:target state="translated">座る</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110606"><xliff:source>Bald</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
