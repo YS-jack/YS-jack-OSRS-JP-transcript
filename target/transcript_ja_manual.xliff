@@ -1483,7 +1483,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109448">
         <xliff:source>Goblin Village</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ゴブリンの村</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -10604,7 +10604,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110708"><xliff:source>Gnome Stronghold</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110709"><xliff:source>Goblin Village</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110709"><xliff:source>Goblin Village</xliff:source><xliff:target state="translated">ゴブリンの村</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110710"><xliff:source>Isafdar</xliff:source><xliff:target state="translated">イサフダー</xliff:target><xliff:note>category: manual
