@@ -1,4 +1,5 @@
-<?xml version="1.0"?><xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <xliff:file source-language="en" target-language="ja" datatype="plaintext" original="transcript.db">
     <xliff:body>
       <xliff:trans-unit id="112584">
@@ -627,7 +628,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112662">
         <xliff:source>Old School Website</xliff:source>
-        <xliff:target state="translated">オールドスクールのサイト</xliff:target>
+        <xliff:target state="translated">ホームページ</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: accountManagementTab
@@ -635,7 +636,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112663">
         <xliff:source>Customer Support</xliff:source>
-        <xliff:target state="translated">サポートセンタ</xliff:target>
+        <xliff:target state="translated">サポート</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: accountManagementTab
@@ -659,7 +660,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112666">
         <xliff:source>Old School Wiki</xliff:source>
-        <xliff:target state="translated">オールドスクール・ウィキ</xliff:target>
+        <xliff:target state="translated">ウィキサイト</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: accountManagementTab
@@ -1407,6 +1408,9 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112910"><xliff:source>Grand Exchange</xliff:source><xliff:target state="translated">グランド・エクスチェンジ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112911"><xliff:source>&lt;col=ff9040&gt;PvP Arena&lt;/col&gt; options</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
