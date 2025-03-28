@@ -29969,12 +29969,258 @@ source: musicTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119868"><xliff:source>All</xliff:source><xliff:target state="translated">全て</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: musicTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119869"><xliff:source>Locked</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119869"><xliff:source>Locked</xliff:source><xliff:target state="translated">未開放</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: musicTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119870"><xliff:source>Unlocked</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119870"><xliff:source>Unlocked</xliff:source><xliff:target state="translated">開放済</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119871"><xliff:source>Your Attack level is used to determine how likely you are to hit your target in melee combat. A higher Attack level will give you a better chance to hit.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119872"><xliff:source>Additionally, a higher Attack level will allow you to wield more powerful weapons. A weapon with a higher Attack bonus will give you more accuracy in combat.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119873"><xliff:source>You can select your Attack style from the Combat Options side panel. Different enemies are weaker or stronger against different Attack styles, so choose carefully.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119874"><xliff:source>As with any skill, you will restore &lt;Num0&gt; missing Hitpoint every minute, but the best way of recovering Hitpoints is by eating food.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119875"><xliff:source>Mining allows you to get various minerals from the world, for use in other skills; primarily Smithing.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119876"><xliff:source>To mine a rock, simply interact with it while holding a pickaxe you have the level to use and you'll start mining it. Eventually, you'll collect the ore and the rock will deplete. Low level rocks will replenish themselves fairly quickly, but higher level ones will take longer and longer to come back.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119877"><xliff:source>At higher mining levels, you'll have an increased chance of successfully mining a rock. You'll also be able to use more powerful pickaxes, which decrease the amount of time between mining attempts.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119878"><xliff:source>Note that while most pickaxes have an Attack level requirement to equip them, you're still able to use them from within your inventory if you have the required Mining level.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119879"><xliff:source>Your Strength level determines your max hit in combat. Whenever you hit your opponent, you will deal a random amount of damage up to your max hit.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119880"><xliff:source>Most weapons have a Strength bonus that will also increase your max hit. You can view your Strength bonus (and all of your equipment's stats) by selecting 'View equipment stats' under the Worn Equipment side panel.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119881"><xliff:source>Agility - Members Only</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119882"><xliff:source>Agility both increases the rate at which your Run Energy replenishes while not running and decreases the rate at which it drains while you run.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119883"><xliff:source>You will also gain access to useful shortcuts across Gielinor; these are marked with a green arrow on your map.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119884"><xliff:source>In order to train your Agility skill, you will need an Agility course; these are a series of obstacles that reward experience upon completion.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119885"><xliff:source>Smithing lets you convert raw ores into useful metals, then use those metals to make your own weapons and armour.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119886"><xliff:source>To smelt ores, simply take the mix of ores you need to any furnace and you'll be able to convert them into bars.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119887"><xliff:source>Once you have your bars, grab a hammer and take them to an anvil. Bigger items will need more bars to make.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119888"><xliff:source>As you advance your Smithing level, you'll be able to make make more gear out of higher quality metals.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119889"><xliff:source>Your Defence level determines how likely you are to block enemy attacks. The chances of this happening increase with your level, but be careful; you are never guaranteed to block every attack!</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119890"><xliff:source>Additionally, a higher Defence level will allow you to equip more powerful shields and armour. As well as giving you better defensive stats, some armour will also increase your Attack or Strength bonuses as well.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119891"><xliff:source>Herblore - Members Only</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119892"><xliff:source>Herblore allows you to make potions with herbs and ingredients found across Gielinor.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119893"><xliff:source>To make a potion, you first need to clean a grimy herb, then combine it with a vial of water to make an unfinished potion. You can then add the secondary ingredient(s) to complete the potion.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119894"><xliff:source>Fishing allows you to gather fish at various points across Gielinor. Typically, these will be indicated by moving bubbles on the surface of the water.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119895"><xliff:source>Different fish require different equipment to catch; for instance, you need a fishing net to catch shrimp, but a fishing rod and bait to catch sardines.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119896"><xliff:source>As your Fishing level increases, you'll gain access to more varieties of fish to catch, as well as having a higher chance of successfully catching fish when you try.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119897"><xliff:source>Your Ranged level determines how accurate you are with ranged weapons, as well as how much damage they do. A higher Ranged level will result in more hits that do more damage.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119898"><xliff:source>Most ranged weapons will need a specific kind of ammunition to go with them; for instance, bows will need arrows and crossbows will need bolts.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119899"><xliff:source>As your Ranged level increases, you will also get access to more powerful weapons and ammunition. Typically, each ranged weapon can only handle ammo up to a certain level; for instance, an oak bow can only fire bronze, iron or steel arrows, but not mithril.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119900"><xliff:source>Thieving - Members Only</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119901"><xliff:source>Thieving lets you steal items from various people and stalls. Be careful, as people won't take too kindly to you going through their pockets, and might call the guards on you, or may take matters into their own hands.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119902"><xliff:source>As your Thieving level increases, the odds of you successfully stealing from your target will increase. You will also gain access to more lucrative targets with more valuable loot.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119903"><xliff:source>Cooking is a skill that lets you make all kinds of delicious food that will typically restore your Hitpoints, amongst providing other benefits.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119904"><xliff:source>At its most basic, Cooking can be done by simply taking raw meats and fish to either a fire or a range. You'll get better results overall if you use a range, though.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119905"><xliff:source>Some foods will require you to prepare your ingredients before you can cook them. For example, you first need to mix flour and water into a dough before you can bake them into bread.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119906"><xliff:source>As your Cooking level increases, you'll get access to an increasing list of recipes. You'll also find that you accidentally burn your food less of the time as well.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119907"><xliff:source>Prayer allows you to access different prayers, available from the Prayer side panel. Each prayer offers a different powerful benefit.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119908"><xliff:source>Using prayers will drain your prayer points over time. Once you run out of prayer points, you will be unable to use any prayers. You can restore your prayer points by praying at an altar.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119909"><xliff:source>Some pieces of equipment will grant you a Prayer bonus, which will reduce the rate at which your prayer points are drained.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119910"><xliff:source>The most common way to increase your Prayer level is to offer the remains of the enemies you kill. Burying their bones and scattering their ashes will award you Prayer experience.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119911"><xliff:source>Crafting - Members Only</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119912"><xliff:source>Crafting is a wide-ranging skill that allows you to create various pieces of armour, jewellery, equipment and more.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119913"><xliff:source>To craft armour out of animal hides, you'll typically first need to take the hides to a tanner to get them tanned, then combine them with a needle and thread, which can be acquired from certain crafting shops in the world.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119914"><xliff:source>To make pottery, you'll need to obtain some soft clay, obtained by adding water to clay. You can then use a pottery wheel to shape the clay into an unfired item, which you can then finish in a pottery oven.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119915"><xliff:source>To make jewellery, you'll need to first get a crafting mould. You can then take that mould and some gold or silver bars to a furnace to craft your jewellery. At higher crafting levels, you can cut gems and mould them simultaneously to create jewellery which you can enchant!</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119916"><xliff:source>Firemaking is a skill that allows you to make fires. To do so, simply use a tinderbox on a set of logs and you'll attempt to light them on fire.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119917"><xliff:source>Higher Firemaking levels will allow you to burn logs that grant more experience, as well as allowing you to burn them quicker.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119918"><xliff:source>Magic grants you access to a wide variety of spells. To cast each spell, you will need a specific set of runes. You can see the runes required by inspecting the spell in either the side panel, or in their tab in this skill guide.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119919"><xliff:source>You can use certain pieces of equipment to replace runes in order to cast spells. For instance, an equipped staff of air counts as an infinite supply of air runes.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119920"><xliff:source>Staves can also be used to auto-cast certain offensive spells in combat; to enable this, equip your staff, go to the Combat Options side panel, and select one of the 'Spell' options.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119921"><xliff:source>Fletching - Members Only</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119922"><xliff:source>Fletching allows you to create various ranged weapons, as well as ammunition to go with them.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119923"><xliff:source>Making bows requires bowstring, which can be made from flax at a spinning wheel. You can use a knife on some logs to carve an unfinished bow, then add the bowstring to complete the weapon.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119924"><xliff:source>To create arrows, you'll first need to carve logs into arrow shafts with a knife, then tip the arrow shafts with feathers. Finally, you'll need to add some arrow heads.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119925"><xliff:source>To make bolts, you only need to combine unfinished bolts with feathers. You can also chisel gemstones down into bolt tips, with each gemstone being able to top a different bolt.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119926"><xliff:source>Woodcutting allows you to chop down trees to obtain logs. Most trees in the game can be chopped down with an axe.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119927"><xliff:source>Increasing your Woodcutting level will give you a higher chance of successfully chopping a tree. You'll also gain access to more trees to cut down.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119928"><xliff:source>In addition to this, higher Woodcutting levels grant access to more powerful axes, which also increase the chance of chopping trees. Note that you can still use an axe in your inventory if you have the Woodcutting level for it, even if you don't have the Attack level to equip it.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119929"><xliff:source>Runecrafting is the skill that allows you to convert essences into runes, which you can use to cast spells.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119930"><xliff:source>To create runes, you'll first need some essence and a talisman of the rune you want to make. You can use the talisman to both locate and access the runic altar, which is where the runes are crafted.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119931"><xliff:source>Higher Runecrafting levels will allow you to craft more kinds of runes. At higher levels, you'll also be able to make multiple runes per essence.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119932"><xliff:source>Slayer - Members Only</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119933"><xliff:source>Slayer is a skill that lets you fight increasingly dangerous and lucrative monsters. Some monsters can only be fought if you have a high enough Slayer level.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119934"><xliff:source>To get started with Slayer, you'll first need a Slayer task, which can be obtained from a Slayer Master. You can then kill the assigned target to get Slayer experience.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119935"><xliff:source>Once you've completed five tasks, you can start earning reward points, which can be used to skip or block tasks you don't want, or purchase various items and benefits like extended tasks.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119936"><xliff:source>Farming - Members Only</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119937"><xliff:source>Farming allows you to grow various flowers, vegetables, trees, herbs and more in farming patches across Gielinor.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119938"><xliff:source>To get started, you'll need some seeds and a seed dibber, as well as a rake to de-weed the patch you want to use.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119939"><xliff:source>Once you've cleared the patch, you can add your seed to it. You can also optionally water it with a watering can or add a bucket of compost to decrease the chances of your plant becoming diseased.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119940"><xliff:source>It'll take a while for your plant to grow, so feel free to explore the world and come back to it later!</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119941"><xliff:source>Once your plant has grown, you might need another tool to collect the harvest. For instance, you'll need a shovel to dig up potatoes.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119942"><xliff:source>If you're worried about your crops becoming diseased, most crops can be protected by the nearby gardeners, but they'll want specific produce in return.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119943"><xliff:source>As your Farming level increases, you'll gain access to more crops to grow, as well as obtaining greater yields when harvesting.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119944"><xliff:source>Construction - Members Only</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119945"><xliff:source>Construction gives you access to your very owned Player-Owned House. To get started, you'll need to buy a house from an Estate agent.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119946"><xliff:source>Once you have a house, you'll need to build furniture. Most furniture can be built with planks, which can be obtained via taking logs to a sawmill.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119947"><xliff:source>To build furniture, grab a hammer and a saw, enter your house in build mode, select a hotspot and select the furniture you want to build.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119948"><xliff:source>As your Construction level increases, you'll be able to build bigger houses, gain access to more kinds of room in your house, and be able to build fancier furniture.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119949"><xliff:source>Hunter - Members Only</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119950"><xliff:source>Hunter lets you track and catch a wide variety of wildlife, granting access to various unique materials in the process.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119951"><xliff:source>Each animal you can hunt will typically be found in a specfic locale, and will require different gear. Make sure you come prepared!</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119952"><xliff:source>As your Hunter level improves, not only will you be able to hunt a wider variety of creatures, but you'll also be able to maintain more traps simultaneously, and they will successfully trap creatures more often.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
