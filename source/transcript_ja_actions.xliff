@@ -10821,7 +10821,7 @@ source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110098"><xliff:source>Unarmed</xliff:source><xliff:target state="translated">素手</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110099"><xliff:source>(Members)</xliff:source><xliff:target state="translated">（会員）</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110099"><xliff:source>(Members)</xliff:source><xliff:target state="translated">（会員限定）</xliff:target><xliff:note>category: actions
 sub_category: item
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110100"><xliff:source>Collection Overview</xliff:source><xliff:target state="translated">取得アイテム概要</xliff:target><xliff:note>category: actions
@@ -10851,12 +10851,18 @@ source: musicTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110108"><xliff:source>Open</xliff:source><xliff:target state="translated">開く</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: musicTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110109"><xliff:source>Choose spell</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110109"><xliff:source>Choose spell</xliff:source><xliff:target state="translated">呪文を選択</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110110"><xliff:source>Focus</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110110"><xliff:source>Focus</xliff:source><xliff:target state="translated">集中</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110111"><xliff:source>Join &lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt; channel</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110112"><xliff:source>Teleport to &lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
