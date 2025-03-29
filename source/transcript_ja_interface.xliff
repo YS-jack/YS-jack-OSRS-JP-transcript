@@ -30524,9 +30524,63 @@ source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120053"><xliff:source>Zeah Runecrafting</xliff:source><xliff:target state="translated">ゼヤでルーン作り</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120054"><xliff:source>World Switcher</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120054"><xliff:source>World Switcher</xliff:source><xliff:target state="translated">世界変更</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: logoutTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120055"><xliff:source>House Options</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120056"><xliff:source>Viewer</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120057"><xliff:source>On</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120058"><xliff:source>Off</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120059"><xliff:source>Building Mode</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120060"><xliff:source>Teleport Inside</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120061"><xliff:source>Default Building Mode</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120062"><xliff:source>Doors</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120063"><xliff:source>Expel Guests</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120064"><xliff:source>Leave House</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120065"><xliff:source>Call Servant</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120066"><xliff:source>Number of rooms: &lt;Num0&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120067"><xliff:source>Toggle Building mode on and off, allowing construction within your house.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120068"><xliff:source>Toggle teleport location inside (on) or outside (off) of the house.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120069"><xliff:source>Toggle Building mode by default when teleport inside the house.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120070"><xliff:source>Render house doors as initially closed.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120071"><xliff:source>Render house doors as initially open.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120072"><xliff:source>Do not render doors.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: generalUI
+source: 
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
