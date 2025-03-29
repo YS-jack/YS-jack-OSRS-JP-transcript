@@ -388,7 +388,6 @@ fairy ring	妖精の輪
 Seed Dibber	種まき器	アイテム名
 Ancient	古代
 Lunar	ルーナ
-jewellery	宝石
 Grand Exchange	グランド・エクスチェンジ	GE!
 Camelot	カメロット	地名
 Seers' Village	シアーズ村	地名
@@ -1195,7 +1194,6 @@ Sacred	聖なる
 Sacred	神聖な
 Sarcophagus	サルコファガス
 Crystal tree	水晶樹
-Soft clay	軟らかい粘土
 Cart	カート	ただしMine cartの場合はトロッコ
 Seal	証印
 Sceptre	笏	魔法使いの武器
@@ -1667,3 +1665,7 @@ ammo	弾	遠距離武器に使う矢やボルトの総称
 ammunition	弾	遠距離武器で使う矢やボルトなどの総称
 loot	物資
 Prayer bonus	祈りボーナス	装備のbonousの訳は（スキル名）＋ボーナス
+jewellery	宝飾品
+Soft clay	柔らかい粘土
+pottery wheel	陶芸用のろくろ
+pottery oven	陶芸用の窯
