@@ -30224,9 +30224,21 @@ source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119953"><xliff:source>You are currently talking in the &lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt; channel.</xliff:source><xliff:target state="translated">現在&lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;のチャンネルに参加中</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119954"><xliff:source>You have currently loaded &lt;colNum0&gt;&lt;!PLAYER_NAME0&gt;&lt;/col&gt;, which is not a PvP Arena group.</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119954"><xliff:source>You have currently loaded &lt;colNum0&gt;&lt;!PLAYER_NAME0&gt;&lt;/col&gt;, which is not a PvP Arena group.</xliff:source><xliff:target state="translated">見学中のクラン&lt;colNum0&gt;&lt;!PLAYER_NAME0&gt;&lt;/col&gt;はPvPアリーナのクランではありません。</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119955"><xliff:source>Time Played: &lt;colNum0&gt;&lt;Num0&gt; days, &lt;Num1&gt; minutes&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119956"><xliff:source>Time Played: &lt;colNum0&gt;&lt;Num0&gt; days, &lt;Num1&gt; minute&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119957"><xliff:source>Time Played: &lt;colNum0&gt;&lt;Num0&gt; day, &lt;Num1&gt; minutes&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119958"><xliff:source>Time Played: &lt;colNum0&gt;&lt;Num0&gt; day, &lt;Num1&gt; minute&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
