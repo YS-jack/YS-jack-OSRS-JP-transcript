@@ -3059,7 +3059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41640">
         <xliff:source>Private</xliff:source>
-        <xliff:target state="translated">専用</xliff:target>
+        <xliff:target state="translated">個別</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Crevice
@@ -10884,6 +10884,18 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110119"><xli
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110120"><xliff:source>Move</xliff:source><xliff:target state="translated">動かす</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110121"><xliff:source>&lt;colNum0&gt;Trade:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;取引:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110122"><xliff:source>&lt;colNum0&gt;Trade:&lt;/col&gt; Show none</xliff:source><xliff:target state="translated">&lt;colNum0&gt;取引:&lt;/col&gt; 非表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110123"><xliff:source>&lt;colNum0&gt;Trade:&lt;/col&gt; Show friends</xliff:source><xliff:target state="translated">&lt;colNum0&gt;取引:&lt;/col&gt; 友達表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110124"><xliff:source>&lt;colNum0&gt;Trade:&lt;/col&gt; Show all</xliff:source><xliff:target state="translated">&lt;colNum0&gt;取引:&lt;/col&gt; 全表示</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
