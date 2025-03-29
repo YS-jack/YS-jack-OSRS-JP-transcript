@@ -30593,7 +30593,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120076"><xliff:source>Public </xliff:source><xliff:target state="translated">公共 </xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120077"><xliff:source>Private </xliff:source><xliff:target state="translated">専用 </xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120077"><xliff:source>Private </xliff:source><xliff:target state="translated">個別 </xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120078"><xliff:source>Channel </xliff:source><xliff:target state="translated">転換 </xliff:target><xliff:note>category: interface
@@ -30608,63 +30608,141 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120081"><xliff:source>Trade </xliff:source><xliff:target state="translated">取引 </xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120082"><xliff:source> &lt;colNum0&gt;Friends&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;友達&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120082"><xliff:source> &lt;colNum0&gt;Friends&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;友&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120083"><xliff:source> &lt;colNum0&gt;Filtered&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;絞込&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120083"><xliff:source> &lt;colNum0&gt;Filtered&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;絞&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120084"><xliff:source> &lt;colNum0&gt;Autochat&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;自動&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120084"><xliff:source> &lt;colNum0&gt;Autochat&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;動&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120085"><xliff:source> &lt;colNum0&gt;Off&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;オフ&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120085"><xliff:source> &lt;colNum0&gt;Off&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;無&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120086"><xliff:source> &lt;colNum0&gt;Hide&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;非表示&lt;/col	&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120086"><xliff:source> &lt;colNum0&gt;Hide&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;隠&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120087"><xliff:source>All</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120087"><xliff:source>All</xliff:source><xliff:target state="translated">全て</xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120088"><xliff:source>Game </xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120088"><xliff:source>Game </xliff:source><xliff:target state="translated"> ゲーム </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120089"><xliff:source>Public </xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120089"><xliff:source>Public </xliff:source><xliff:target state="translated"> 公共 </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120090"><xliff:source>Private </xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120090"><xliff:source>Private </xliff:source><xliff:target state="translated"> 個別 </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120091"><xliff:source> On</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120091"><xliff:source> On</xliff:source><xliff:target state="translated"> 有  </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120092"><xliff:source>Channel </xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120092"><xliff:source>Channel </xliff:source><xliff:target state="translated"> チャネ </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120093"><xliff:source>Clan </xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120093"><xliff:source>Clan </xliff:source><xliff:target state="translated"> クラン </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120094"><xliff:source>Trade </xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120094"><xliff:source>Trade </xliff:source><xliff:target state="translated"> 取引 </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120095"><xliff:source>Group </xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120095"><xliff:source>Group </xliff:source><xliff:target state="translated"> グル </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120096"><xliff:source> &lt;colNum0&gt;Autochat&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120096"><xliff:source> &lt;colNum0&gt;Autochat&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;動&lt;/col&gt;  </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120097"><xliff:source> &lt;colNum0&gt;Friends&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120097"><xliff:source> &lt;colNum0&gt;Friends&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;友&lt;/col&gt;  </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120098"><xliff:source> &lt;colNum0&gt;Filtered&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120098"><xliff:source> &lt;colNum0&gt;Filtered&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;絞&lt;/col&gt;  </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120099"><xliff:source> &lt;colNum0&gt;Hide&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120099"><xliff:source> &lt;colNum0&gt;Hide&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;隠&lt;/col&gt;  </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120100"><xliff:source> &lt;colNum0&gt;Off&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120100"><xliff:source> &lt;colNum0&gt;Off&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;無&lt;/col&gt;  </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120101"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Redemption&lt;br&gt;Heals you when damaged&lt;br&gt;and health falls&lt;br&gt;below &lt;Num1&gt;%.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120102"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Protect Item&lt;br&gt;Keep &lt;Num1&gt; extra item if you die.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120103"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Incredible Reflexes&lt;br&gt;Increases your attack by &lt;Num1&gt;%.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120104"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Sharp Eye&lt;br&gt;Increases your Ranging by &lt;Num1&gt;%.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120105"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Mystic Will&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120106"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Thick Skin&lt;br&gt;Increases your defence by &lt;Num1&gt;%.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120107"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Protect from Melee&lt;br&gt;Protection from close attacks.&lt;br&gt;(Drain: &lt;Num1&gt;pt per &lt;Num2&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120108"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Protect from Missiles&lt;br&gt;Protection from ranged attacks.&lt;br&gt;(Drain: &lt;Num1&gt;pt per &lt;Num2&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120109"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rock Skin&lt;br&gt;Increases your defence by &lt;Num1&gt;%.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120110"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Retribution&lt;br&gt;Inflicts damage to nearby&lt;br&gt;targets if you die.&lt;br&gt;(Drain: &lt;Num1&gt;pt per &lt;Num2&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120111"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Eagle Eye&lt;br&gt;Increases your Ranging by &lt;Num1&gt;%.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120112"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Piety&lt;br&gt;Increases your defence by &lt;Num1&gt;%, strength by &lt;Num2&gt;%, and attack by &lt;Num3&gt;%.&lt;br&gt;(Drain: &lt;Num4&gt;pt per &lt;Num5&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120113"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Ultimate Strength&lt;br&gt;Increases your strength by &lt;Num1&gt;%.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120114"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Improved Reflexes&lt;br&gt;Increases your attack by &lt;Num1&gt;%.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120115"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Burst of Strength&lt;br&gt;Increases your strength by &lt;Num1&gt;%.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120116"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Mystic Lore&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;%.&lt;br&gt;(Drain: &lt;Num3&gt;pt per &lt;Num4&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120117"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Augury&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;% and your defence by &lt;Num3&gt;%.&lt;br&gt;(Drain: &lt;Num4&gt;pt per &lt;Num5&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120118"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Hawk Eye&lt;br&gt;Increases your Ranging by &lt;Num1&gt;%.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120119"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Chivalry&lt;br&gt;Increases your defence by &lt;Num1&gt;%, strength by &lt;Num2&gt;%, and attack by &lt;Num3&gt;%.&lt;br&gt;(Drain: &lt;Num4&gt;pt per &lt;Num5&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120120"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Superhuman Strength&lt;br&gt;Increases your strength by &lt;Num1&gt;%.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120121"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rigour&lt;br&gt;Increases your ranged attack by &lt;Num1&gt;% and damage by &lt;Num2&gt;%, and your defence by &lt;Num3&gt;%.&lt;br&gt;(Drain: &lt;Num4&gt;pt per &lt;Num5&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120122"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Smite&lt;br&gt;&lt;Num1&gt;/&lt;Num2&gt; of damage dealt is&lt;br&gt;also removed from&lt;br&gt;opponent's Prayer.&lt;br&gt;(Drain: &lt;Num3&gt;pt per &lt;Num4&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120123"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Preserve&lt;br&gt;Boosted stats last &lt;Num1&gt;% longer.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120124"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Steel Skin&lt;br&gt;Increases your defence by &lt;Num1&gt;%.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120125"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rapid Restore&lt;br&gt;&lt;Num1&gt;x restore rate for all stats&lt;br&gt;except Hitpoints and Prayer.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120126"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Clarity of Thought&lt;br&gt;Increases your attack by &lt;Num1&gt;%.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
