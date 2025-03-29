@@ -10850,6 +10850,12 @@ source: musicTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110108"><xliff:source>Open</xliff:source><xliff:target state="translated">開く</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110109"><xliff:source>Choose spell</xliff:source><xliff:target state="translated">呪文を選択</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110110"><xliff:source>Focus</xliff:source><xliff:target state="translated">集中</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
