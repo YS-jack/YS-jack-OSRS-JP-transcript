@@ -30776,6 +30776,21 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120137"><xliff:source>You last logged in &lt;Num0&gt; days ago.</xliff:source><xliff:target/><xliff:note>category: interface
 sub_category: loginScreen
 source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120138"><xliff:source>You last logged in &lt;Num0&gt; hours, &lt;Num1&gt; minutes ago.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120139"><xliff:source>You last logged in &lt;Num0&gt; days, &lt;Num1&gt; hours ago.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120140"><xliff:source>You last logged in &lt;Num0&gt; days, &lt;Num1&gt; minutes ago.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120141"><xliff:source>You last logged in &lt;Num0&gt; days, &lt;Num1&gt; hours, &lt;Num2&gt; minutes ago.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120142"><xliff:source>You are not a member. Subscribe to access extra skills, areas, quests, and more.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: loginScreen
+source: 
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
