@@ -32032,7 +32032,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120556"><xliff:source>Pop It</xliff:source><xliff:target state="translated">潰せ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120557"><xliff:source>Perfect Verzik</xliff:source><xliff:target state="translated">ヴェージックに完全勝利</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120557"><xliff:source>Perfect Verzik</xliff:source><xliff:target state="translated">ヴァージックに完全勝利</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120558"><xliff:source>Back in My Day...</xliff:source><xliff:target state="translated">今はいいよね、昔は、、</xliff:target><xliff:note>category: interface
@@ -33091,7 +33091,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120909"><xliff:source>Description: &lt;colNum0&gt;Kill Zulrah &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ズルラを&lt;Num0&gt;回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120910"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood: Entry Mode &lt;Num0&gt; time.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：ストーリーモードを&lt;Num0&gt;回制覇する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120910"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood: Entry Mode &lt;Num0&gt; time.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：初心者モードを&lt;Num0&gt;回制覇する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120911"><xliff:source>Description: &lt;colNum0&gt;Kill Venenatis &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ヴェネナティスを&lt;Num0&gt;回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
@@ -33244,502 +33244,502 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120960"><xliff:source>Description: &lt;colNum0&gt;Kill the Grotesque Guardians whilst completing the "Don't look at the eclipse", "Prison Break", "Granite footwork", "Heal no more", "Static Awareness" and "Done before dusk" tasks.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;グロテスク・ガーディアンを「月食を見るな」「脱獄」「花崗岩のフットワーク」「回復はもうやめ」「不変的意識」「夕暮れ前に終わらせる」の条件を全て満たして倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120961"><xliff:source>Description: &lt;colNum0&gt;Kill the Grotesque Guardians in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120961"><xliff:source>Description: &lt;colNum0&gt;Kill the Grotesque Guardians in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;グロテスク・ガーディアンを&lt;Num0&gt;分以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120962"><xliff:source>Description: &lt;colNum0&gt;Kill the Grotesque Guardians &lt;Num0&gt; times without leaving the instance.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120962"><xliff:source>Description: &lt;colNum0&gt;Kill the Grotesque Guardians &lt;Num0&gt; times without leaving the instance.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;グロテスク・ガーディアンを&lt;Num0&gt;回連続で、インスタンスから離れずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120963"><xliff:source>Description: &lt;colNum0&gt;Complete the Corrupted Gauntlet &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120963"><xliff:source>Description: &lt;colNum0&gt;Complete the Corrupted Gauntlet &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;変異ゴーントレットを&lt;Num0&gt;回攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120964"><xliff:source>Description: &lt;colNum0&gt;Kill the Corrupted Hunllef without taking damage off prayer.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120964"><xliff:source>Description: &lt;colNum0&gt;Kill the Corrupted Hunllef without taking damage off prayer.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;変異ハンレフから防御祈り対象外のダメージを受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120965"><xliff:source>Description: &lt;colNum0&gt;Complete the Gauntlet &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120965"><xliff:source>Description: &lt;colNum0&gt;Complete the Gauntlet &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ゴーントレットを&lt;Num0&gt;回攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120966"><xliff:source>Description: &lt;colNum0&gt;Kill the Crystalline Hunllef without taking damage off prayer.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120966"><xliff:source>Description: &lt;colNum0&gt;Kill the Crystalline Hunllef without taking damage off prayer.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;結晶体ハンレフから防御祈り対象外のダメージを受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120967"><xliff:source>Description: &lt;colNum0&gt;Kill the Crystalline Hunllef without making an egniol potion within the Gauntlet.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120967"><xliff:source>Description: &lt;colNum0&gt;Kill the Crystalline Hunllef without making an egniol potion within the Gauntlet.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;結晶体ハンレフをエグニオル薬液を調合せずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120968"><xliff:source>Description: &lt;colNum0&gt;Kill the Crystalline Hunllef with a full set of perfected armour equipped.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120968"><xliff:source>Description: &lt;colNum0&gt;Kill the Crystalline Hunllef with a full set of perfected armour equipped.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;結晶体ハンレフを全身「完全」な防具を装備した状態で倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120969"><xliff:source>Description: &lt;colNum0&gt;Kill the Crystalline Hunllef without making more than one attuned weapon.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120969"><xliff:source>Description: &lt;colNum0&gt;Kill the Crystalline Hunllef without making more than one attuned weapon.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;結晶体ハンレフを、武器を作らず、もしくは１つだけ作って倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120970"><xliff:source>Description: &lt;colNum0&gt;Kill Glough in less than &lt;Num0&gt; minutes and &lt;Num1&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120970"><xliff:source>Description: &lt;colNum0&gt;Kill Glough in less than &lt;Num0&gt; minutes and &lt;Num1&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;グローを&lt;Num0&gt;分&lt;Num1&gt;秒以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120971"><xliff:source>Description: &lt;colNum0&gt;Kill Hespori without losing any prayer points.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120971"><xliff:source>Description: &lt;colNum0&gt;Kill Hespori without losing any prayer points.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ヘスポリを祈力ポイントを消費せずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120972"><xliff:source>Description: &lt;colNum0&gt;Kill the Hespori in less than &lt;Num0&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120972"><xliff:source>Description: &lt;colNum0&gt;Kill the Hespori in less than &lt;Num0&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ヘスポリを&lt;Num0&gt;秒以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120973"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120973"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;錬金術ヒドラを&lt;Num0&gt;回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120974"><xliff:source>Description: &lt;colNum0&gt;Complete the Fight Caves once.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120974"><xliff:source>Description: &lt;colNum0&gt;Complete the Fight Caves once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ファイト・ケーヴズを一回攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120975"><xliff:source>Description: &lt;colNum0&gt;Complete the Fight Caves with only melee.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120975"><xliff:source>Description: &lt;colNum0&gt;Complete the Fight Caves with only melee.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ファイト・ケーヴズを近接攻撃だけで制覇する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120976"><xliff:source>Description: &lt;colNum0&gt;Kill the Kalphite Queen by using the Vengeance spell as the finishing blow.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120976"><xliff:source>Description: &lt;colNum0&gt;Kill the Kalphite Queen by using the Vengeance spell as the finishing blow.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;女王カルファイトに「復讐」の魔法でとどめを刺す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120977"><xliff:source>Description: &lt;colNum0&gt;Kill the Kalphite Queen using only the Verac's Flail as a weapon.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120977"><xliff:source>Description: &lt;colNum0&gt;Kill the Kalphite Queen using only the Verac's Flail as a weapon.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;女王カルファイトを「ヴェラックの鎖鎌」だけで倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120978"><xliff:source>Description: &lt;colNum0&gt;Kill the Mimic once.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120978"><xliff:source>Description: &lt;colNum0&gt;Kill the Mimic once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ミミックを一回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120979"><xliff:source>Description: &lt;colNum0&gt;Kill the Giant Mole with &lt;Num0&gt; or fewer instances of damage.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120979"><xliff:source>Description: &lt;colNum0&gt;Kill the Giant Mole with &lt;Num0&gt; or fewer instances of damage.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;巨大モグラを&lt;Num0&gt;回以下の攻撃回数で倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120980"><xliff:source>Description: &lt;colNum0&gt;Kill The Nightmare &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120980"><xliff:source>Description: &lt;colNum0&gt;Kill The Nightmare &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ザ・ナイトメアを&lt;Num0&gt;回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120981"><xliff:source>Description: &lt;colNum0&gt;Kill two Husks at the same time.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120981"><xliff:source>Description: &lt;colNum0&gt;Kill two Husks at the same time.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ハスクを２体同時に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120982"><xliff:source>Description: &lt;colNum0&gt;Kill the Nightmare solo.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120982"><xliff:source>Description: &lt;colNum0&gt;Kill the Nightmare solo.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ザ・ナイトメアをソロで倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120983"><xliff:source>Description: &lt;colNum0&gt;Defeat the Nightmare (Solo) in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120983"><xliff:source>Description: &lt;colNum0&gt;Defeat the Nightmare (Solo) in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ザ・ナイトメアをソロで&lt;Num0&gt;分以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120984"><xliff:source>Description: &lt;colNum0&gt;Defeat the Nightmare (&lt;Num0&gt;-scale) in less than &lt;Num1&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120984"><xliff:source>Description: &lt;colNum0&gt;Defeat the Nightmare (&lt;Num0&gt;-scale) in less than &lt;Num1&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ザ・ナイトメア（&lt;Num0&gt;人分）を&lt;Num1&gt;分以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120985"><xliff:source>Description: &lt;colNum0&gt;Kill Dagannoth Prime whilst under attack by Dagannoth Supreme and Dagannoth Rex.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120985"><xliff:source>Description: &lt;colNum0&gt;Kill Dagannoth Prime whilst under attack by Dagannoth Supreme and Dagannoth Rex.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ダガノス・スプリームとレックスから攻撃されながらダガノス・プライムを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120986"><xliff:source>Description: &lt;colNum0&gt;Kill Prime using a Rune Thrownaxe special attack, bounced off Dagannoth Rex.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120986"><xliff:source>Description: &lt;colNum0&gt;Kill Prime using a Rune Thrownaxe special attack, bounced off Dagannoth Rex.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;「ルーンの投げ斧」の必殺技を使い、ダガノス・レックスからバウンスした斧でプライムを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120987"><xliff:source>Description: &lt;colNum0&gt;Kill Dagannoth Rex whilst under attack by Dagannoth Supreme and Dagannoth Prime.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120987"><xliff:source>Description: &lt;colNum0&gt;Kill Dagannoth Rex whilst under attack by Dagannoth Supreme and Dagannoth Prime.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ダガノス・スプリームとプライムに攻撃されながらレックスを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120988"><xliff:source>Description: &lt;colNum0&gt;Kill Dagannoth Rex and one other Dagannoth king at the exact same time.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120988"><xliff:source>Description: &lt;colNum0&gt;Kill Dagannoth Rex and one other Dagannoth king at the exact same time.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ダガノス・レックスと他１体のダガノス・キングを同時に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120989"><xliff:source>Description: &lt;colNum0&gt;Kill Commander Zilyana in a privately rented instance with melee only.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120989"><xliff:source>Description: &lt;colNum0&gt;Kill Commander Zilyana in a privately rented instance with melee only.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ジリアナ司令官を専用インスタンス内で近接武器だけで倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120990"><xliff:source>Description: &lt;colNum0&gt;Kill The Fragment of Seren in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120990"><xliff:source>Description: &lt;colNum0&gt;Kill The Fragment of Seren in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;セレンの欠片を&lt;Num0&gt;分以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120991"><xliff:source>Description: &lt;colNum0&gt;Kill Zulrah by using the Vengeance spell as the finishing blow.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120991"><xliff:source>Description: &lt;colNum0&gt;Kill Zulrah by using the Vengeance spell as the finishing blow.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ズルラに「復讐」の魔法でとどめを刺す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120992"><xliff:source>Description: &lt;colNum0&gt;Kill &lt;Num0&gt; Snakelings simultaneously.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120992"><xliff:source>Description: &lt;colNum0&gt;Kill &lt;Num0&gt; Snakelings simultaneously.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;子ヘビを&lt;Num0&gt;体同時に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120993"><xliff:source>Description: &lt;colNum0&gt;Kill Zulrah in less than &lt;Num0&gt; minute &lt;Num1&gt; seconds, without a slayer task.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120993"><xliff:source>Description: &lt;colNum0&gt;Kill Zulrah in less than &lt;Num0&gt; minute &lt;Num1&gt; seconds, without a slayer task.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ズルラを、討伐依頼でないときに、&lt;Num0&gt;分&lt;Num1&gt;秒以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120994"><xliff:source>Description: &lt;colNum0&gt;Kill Dagannoth Supreme whilst under attack by Dagannoth Prime and Dagannoth Rex.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120994"><xliff:source>Description: &lt;colNum0&gt;Kill Dagannoth Supreme whilst under attack by Dagannoth Prime and Dagannoth Rex.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ダガノス・プライムとレックスに攻撃されながらスプリームを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120995"><xliff:source>Description: &lt;colNum0&gt;Kill all three Dagannoth Kings within &lt;Num0&gt; seconds of the first one.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120995"><xliff:source>Description: &lt;colNum0&gt;Kill all three Dagannoth Kings within &lt;Num0&gt; seconds of the first one.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ダガノス・キング全３体を、最初の一体の討伐時刻から&lt;Num0&gt;秒以内に倒す。</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120996"><xliff:source>Description: &lt;colNum0&gt;Defeat the Maiden of Sugadinti in the Theatre of Blood: Entry Mode without letting any bloodspawn live for longer than &lt;Num0&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120996"><xliff:source>Description: &lt;colNum0&gt;Defeat the Maiden of Sugadinti in the Theatre of Blood: Entry Mode without letting any bloodspawn live for longer than &lt;Num0&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：初心者モードのスガジンチの乙女を、血の腹子を&lt;Num0&gt;秒以上生かさずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120997"><xliff:source>Description: &lt;colNum0&gt;Defeat the Pestilent Bloat in the Theatre of Blood: Entry Mode with everyone having a salve amulet equipped.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120997"><xliff:source>Description: &lt;colNum0&gt;Defeat the Pestilent Bloat in the Theatre of Blood: Entry Mode with everyone having a salve amulet equipped.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：初心者モードで疫病のブロートを、チームメンバー全員でサルヴのアミュレットを装備して倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120998"><xliff:source>Description: &lt;colNum0&gt;In the Theatre of Blood: Entry Mode, enter the Pestilent Bloat room from the opposite side.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120998"><xliff:source>Description: &lt;colNum0&gt;In the Theatre of Blood: Entry Mode, enter the Pestilent Bloat room from the opposite side.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：初心者モードで、疫病のブロートの部屋に反対側から入る。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120999"><xliff:source>Description: &lt;colNum0&gt;Defeat the Pestilent Bloat in the Theatre of Blood: Entry Mode by using a crystal halberd special attack as your final attack.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120999"><xliff:source>Description: &lt;colNum0&gt;Defeat the Pestilent Bloat in the Theatre of Blood: Entry Mode by using a crystal halberd special attack as your final attack.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：初心者モードで疫病のブロートに水晶の矛槍の必殺技でとどめを刺す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121000"><xliff:source>Description: &lt;colNum0&gt;In the Theatre of Blood: Entry Mode, freeze any &lt;Num0&gt; Nylocas with a single Ice Barrage spell.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121000"><xliff:source>Description: &lt;colNum0&gt;In the Theatre of Blood: Entry Mode, freeze any &lt;Num0&gt; Nylocas with a single Ice Barrage spell.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：初心者モードで、&lt;Num0&gt;体のニロカスを「アイス・バラージ」の呪文１回で凍らせる。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121001"><xliff:source>Description: &lt;colNum0&gt;Defeat Sotetseg in the Theatre of Blood: Entry Mode after having split the big ball with your entire team. This must be done with a group size of at least &lt;Num0&gt;.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121001"><xliff:source>Description: &lt;colNum0&gt;Defeat Sotetseg in the Theatre of Blood: Entry Mode after having split the big ball with your entire team. This must be done with a group size of at least &lt;Num0&gt;.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：初心者モードでソテツセグを、大きなボールをチームで分けてから倒す。これは&lt;Num0&gt;人以上のチームで行う必要がある。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121002"><xliff:source>Description: &lt;colNum0&gt;Kill Xarpus in the Theatre of Blood: Entry Mode without him reflecting any damage to anyone.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121002"><xliff:source>Description: &lt;colNum0&gt;Kill Xarpus in the Theatre of Blood: Entry Mode without him reflecting any damage to anyone.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：初心者モードでハープスから誰も反射ダメージをくらわずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121003"><xliff:source>Description: &lt;colNum0&gt;Survive Verzik Vitur's pillar phase in the Theatre of Blood: Entry Mode without losing a single pillar.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121003"><xliff:source>Description: &lt;colNum0&gt;Survive Verzik Vitur's pillar phase in the Theatre of Blood: Entry Mode without losing a single pillar.&lt;/col&gt;</xliff:source><xliff:target state="translated">ソテツセグを、血の劇場：初心者モードでヴァージック・ヴァーチャーの柱のフェーズで、一本も柱を壊されずに突破する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121004"><xliff:source>Description: &lt;colNum0&gt;Survive Verzik Vitur's second phase in the Theatre of Blood: Entry Mode without anyone getting bounced by Verzik.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121004"><xliff:source>Description: &lt;colNum0&gt;Survive Verzik Vitur's second phase in the Theatre of Blood: Entry Mode without anyone getting bounced by Verzik.&lt;/col&gt;</xliff:source><xliff:target state="translated">ソテツセグを、血の劇場：初心者モードでヴェージック・ヴァーチャーの第２フェーズで、誰もヴァージックに押し返されずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121005"><xliff:source>Description: &lt;colNum0&gt;In the Theatre of Blood: Entry Mode, successfully pass on the green ball to a team mate.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121005"><xliff:source>Description: &lt;colNum0&gt;In the Theatre of Blood: Entry Mode, successfully pass on the green ball to a team mate.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：初心者モードで、緑のボールを仲間にパスする。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121006"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121006"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場を&lt;Num0&gt;回制覇する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121007"><xliff:source>Description: &lt;colNum0&gt;Kill the Thermonuclear Smoke Devil &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121007"><xliff:source>Description: &lt;colNum0&gt;Kill the Thermonuclear Smoke Devil &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;熱核スモーク・デビルを&lt;Num0&gt;回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121008"><xliff:source>Description: &lt;colNum0&gt;Kill the Thermonuclear Smoke Devil without it hitting anyone.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121008"><xliff:source>Description: &lt;colNum0&gt;Kill the Thermonuclear Smoke Devil without it hitting anyone.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;熱核スモーク・デビルが誰かを攻撃する前に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121009"><xliff:source>Description: &lt;colNum0&gt;Kill the Thermonuclear Smoke Devil using only special attacks.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121009"><xliff:source>Description: &lt;colNum0&gt;Kill the Thermonuclear Smoke Devil using only special attacks.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;熱核スモーク・デビルを必殺技だけで倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121010"><xliff:source>Description: &lt;colNum0&gt;Kill Vorkath &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121010"><xliff:source>Description: &lt;colNum0&gt;Kill Vorkath &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ヴォーカスを&lt;Num0&gt;回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121011"><xliff:source>Description: &lt;colNum0&gt;Kill Vorkath using melee weapons only.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121011"><xliff:source>Description: &lt;colNum0&gt;Kill Vorkath using melee weapons only.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ヴォーカスを近接武器だけで倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121012"><xliff:source>Description: &lt;colNum0&gt;Kill Vorkath's zombified spawn without using crumble undead.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121012"><xliff:source>Description: &lt;colNum0&gt;Kill Vorkath's zombified spawn without using crumble undead.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ヴォーカスが召喚するゾンビ化した腹子を「アンデッド崩し」を遣わずに倒す。</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121013"><xliff:source>Description: &lt;colNum0&gt;Complete a Chambers of Xeric Challenge mode raid in the target time.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121013"><xliff:source>Description: &lt;colNum0&gt;Complete a Chambers of Xeric Challenge mode raid in the target time.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;目標時間内にゼリックの部屋のチャレンジモードのレイドを成功させる。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121014"><xliff:source>Description: &lt;colNum0&gt;Complete the Chambers of Xeric &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121014"><xliff:source>Description: &lt;colNum0&gt;Complete the Chambers of Xeric &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ゼリックの部屋を&lt;Num0&gt;回攻略する。</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121015"><xliff:source>Description: &lt;colNum0&gt;Kill the Vanguards without them resetting their health.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121015"><xliff:source>Description: &lt;colNum0&gt;Kill the Vanguards without them resetting their health.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;前衛が体力を回復する前に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121016"><xliff:source>Description: &lt;colNum0&gt;Kill the Vanguards within &lt;Num0&gt; seconds of the first one dying.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121016"><xliff:source>Description: &lt;colNum0&gt;Kill the Vanguards within &lt;Num0&gt; seconds of the first one dying.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;前衛を全て、最初の一体を倒してから&lt;Num0&gt;秒以内に全て倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121017"><xliff:source>Description: &lt;colNum0&gt;Kill the Abyssal Portal without forcing Vespula to land.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121017"><xliff:source>Description: &lt;colNum0&gt;Kill the Abyssal Portal without forcing Vespula to land.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ヴェスプラに着陸させずに深淵のポータルを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121018"><xliff:source>Description: &lt;colNum0&gt;Kill the Muttadile without letting her or her baby recover hitpoints from the meat tree.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121018"><xliff:source>Description: &lt;colNum0&gt;Kill the Muttadile without letting her or her baby recover hitpoints from the meat tree.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ムタジルを、それとその腹子が肉の木で体力を回復する前に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121019"><xliff:source>Description: &lt;colNum0&gt;Receive kill-credit for a Stone Guardian without taking damage from falling rocks.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121019"><xliff:source>Description: &lt;colNum0&gt;Receive kill-credit for a Stone Guardian without taking damage from falling rocks.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;落石からダメージを受けずに石の守護者を自分で倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121020"><xliff:source>Description: &lt;colNum0&gt;Complete a Chambers of Xeric raid without anyone dying.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121020"><xliff:source>Description: &lt;colNum0&gt;Complete a Chambers of Xeric raid without anyone dying.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ゼリックの部屋を誰も死なずに攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121021"><xliff:source>Description: &lt;colNum0&gt;Receive kill-credit for a Lizardman Shaman without taking damage from any shamans in the room.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121021"><xliff:source>Description: &lt;colNum0&gt;Receive kill-credit for a Lizardman Shaman without taking damage from any shamans in the room.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;シャーマンからダメージを受けずにリザード・シャーマンを自分で倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121022"><xliff:source>Description: &lt;colNum0&gt;Receive kill-credit for the Ice Demon without taking any damage.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121022"><xliff:source>Description: &lt;colNum0&gt;Receive kill-credit for the Ice Demon without taking any damage.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;氷の悪魔からダメージを受けずに自分で倒す。</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121023"><xliff:source>Description: &lt;colNum0&gt;Receive kill-credit for the Ice Demon without activating the Protect from Range prayer.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121023"><xliff:source>Description: &lt;colNum0&gt;Receive kill-credit for the Ice Demon without activating the Protect from Range prayer.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;発射体防御の祈りを発動せずに氷の悪魔を倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121024"><xliff:source>Description: &lt;colNum0&gt;Finish off the Ice Demon with a fire spell.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121024"><xliff:source>Description: &lt;colNum0&gt;Finish off the Ice Demon with a fire spell.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;氷の悪魔に火魔法でとどめを刺す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121025"><xliff:source>Description: &lt;colNum0&gt;Kill Zalcano &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121025"><xliff:source>Description: &lt;colNum0&gt;Kill Zalcano &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ザルカーノを&lt;Num0&gt;回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121026"><xliff:source>Description: &lt;colNum0&gt;Kill Zalcano &lt;Num0&gt; times in a row without leaving or getting hit by the following: Falling rocks, rock explosions, Zalcano powering up, or standing in a red symbol.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121026"><xliff:source>Description: &lt;colNum0&gt;Kill Zalcano &lt;Num0&gt; times in a row without leaving or getting hit by the following: Falling rocks, rock explosions, Zalcano powering up, or standing in a red symbol.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;つぎの攻撃を受けずにザルカーノを&lt;Num0&gt;回連続で倒す：落石、岩の爆破、ザルカーノの貯め、赤シンボルを踏む&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121027"><xliff:source>Description: &lt;colNum0&gt;Receive imbued tephra from a golem.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121027"><xliff:source>Description: &lt;colNum0&gt;Receive imbued tephra from a golem.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;魔法付与のテフラをゴーレムから入手する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121028"><xliff:source>Description: &lt;colNum0&gt;Kill Zalcano as the player who has dealt the most damage to her.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121028"><xliff:source>Description: &lt;colNum0&gt;Kill Zalcano as the player who has dealt the most damage to her.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ザルカーノにチーム内で一番ダメージを与えて倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121029"><xliff:source>Description: &lt;colNum0&gt;Kill K'ril Tsutsaroth in a privately rented instance without taking any of his melee hits.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121029"><xliff:source>Description: &lt;colNum0&gt;Kill K'ril Tsutsaroth in a privately rented instance without taking any of his melee hits.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;クリル・ツツァロスを専用インスタンス内で近接ダメージを受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121030"><xliff:source>Description: &lt;colNum0&gt;Defeat K'ril Tsutsaroth in a privately rented instance using only demonbane spells.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121030"><xliff:source>Description: &lt;colNum0&gt;Defeat K'ril Tsutsaroth in a privately rented instance using only demonbane spells.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;クリル・ツツァロスを専用インスタンス内で悪魔特攻魔法だけで倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121031"><xliff:source>Description: &lt;colNum0&gt;Kill a Jal-Zek within the Inferno.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121031"><xliff:source>Description: &lt;colNum0&gt;Kill a Jal-Zek within the Inferno.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ジャル・ゼクをインフェルノ内で倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121032"><xliff:source>Description: &lt;colNum0&gt;Complete the Fight Caves after surviving a hit from TzTok-Jad without praying.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121032"><xliff:source>Description: &lt;colNum0&gt;Complete the Fight Caves after surviving a hit from TzTok-Jad without praying.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ファイト・ケーヴズを、祈りで防御せずにジャッドの攻撃を一回受けてから攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121033"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's second challenge.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121033"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's second challenge.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの２番目の挑戦に達成する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121034"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's first challenge in less than &lt;Num0&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121034"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's first challenge in less than &lt;Num0&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの最初の挑戦を&lt;Num0&gt;秒以内に達成する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121035"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's second challenge with only melee.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121035"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's second challenge with only melee.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの２番目の挑戦を近接攻撃だけで達成する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121036"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare once.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121036"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;フォサニの悪夢を一回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121037"><xliff:source>Description: &lt;colNum0&gt;Kill Nex once.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121037"><xliff:source>Description: &lt;colNum0&gt;Kill Nex once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ネックスを一回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121038"><xliff:source>Description: &lt;colNum0&gt;Kill Nex without anyone dying.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121038"><xliff:source>Description: &lt;colNum0&gt;Kill Nex without anyone dying.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ネックスを誰も死なずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121039"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut once.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121039"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓を一回踏破する。</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121040"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut (Expert mode) once.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121040"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut (Expert mode) once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓（専門家モード）で一回踏破する。</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121041"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut in a group of two or more without anyone dying.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121041"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut in a group of two or more without anyone dying.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓を二人以上のチームで誰も死なずに踏破する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121042"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut solo without dying.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121042"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut solo without dying.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓をソロで死なずに踏破する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121043"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut without using any supplies from the Helpful Spirit and without anyone dying. Honey locusts are included in this restriction.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121043"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut without using any supplies from the Helpful Spirit and without anyone dying. Honey locusts are included in this restriction.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓を親切な精霊がくれる物資を消費せずに、誰も死なずに踏破する。蜂蜜バッタも消費してはいけない。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121044"><xliff:source>Description: &lt;colNum0&gt;Defeat Akkha without dropping any materialising orbs and without dying yourself.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121044"><xliff:source>Description: &lt;colNum0&gt;Defeat Akkha without dropping any materialising orbs and without dying yourself.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;霊体のオーブを踏んで壊さずにアクハを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121045"><xliff:source>Description: &lt;colNum0&gt;Defeat Ba-Ba after only attacking the non-weakened boulders in the rolling boulder phase, without dying yourself. The Boulderdash invocation must be activated.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121045"><xliff:source>Description: &lt;colNum0&gt;Defeat Ba-Ba after only attacking the non-weakened boulders in the rolling boulder phase, without dying yourself. The Boulderdash invocation must be activated.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;バーバを、転がる巨石のフェーズで弱体化していない巨石だけを攻撃してから倒す。ブルダーラッシュの祈願を発動している必要がある。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121046"><xliff:source>Description: &lt;colNum0&gt;Defeat the Wardens after staggering the boss a maximum of twice during phase two, without dying yourself.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121046"><xliff:source>Description: &lt;colNum0&gt;Defeat the Wardens after staggering the boss a maximum of twice during phase two, without dying yourself.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ボスをフェーズ２で２回までよろめかせて、死なずに監視者たちを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121047"><xliff:source>Description: &lt;colNum0&gt;Complete the Het room without taking any hits from the light beam or orbs. You must destroy the core after one exposure.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121047"><xliff:source>Description: &lt;colNum0&gt;Complete the Het room without taking any hits from the light beam or orbs. You must destroy the core after one exposure.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ヘットの部屋を光線とオーブからダメージを受けずに突破する。コアは最初の出現で破壊する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121048"><xliff:source>Description: &lt;colNum0&gt;Complete the Apmeken room in a group of two or more, without anyone allowing any dangers to trigger, standing in venom or being hit by a volatile baboon. You must complete this room in less than three minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121048"><xliff:source>Description: &lt;colNum0&gt;Complete the Apmeken room in a group of two or more, without anyone allowing any dangers to trigger, standing in venom or being hit by a volatile baboon. You must complete this room in less than three minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アプメケンの部屋を二人以上のチームで、だれも罠を発動せず、猛毒に立ち入らず、混乱したヒヒに攻撃されずに突破する。これを三分以内に達成する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121049"><xliff:source>Description: &lt;colNum0&gt;Complete the Crondis room without letting a crocodile get to the tree, without anyone losing water from their container and in under one minute.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121049"><xliff:source>Description: &lt;colNum0&gt;Complete the Crondis room without letting a crocodile get to the tree, without anyone losing water from their container and in under one minute.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;クロンジスの部屋で、ワニが木に到達せず、だれも水を容器からこぼさずに、一分以内で突破する。</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121050"><xliff:source>Description: &lt;colNum0&gt;Defeat Ba-Ba after destroying four or fewer rolling boulders in total without dying yourself.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121050"><xliff:source>Description: &lt;colNum0&gt;Defeat Ba-Ba after destroying four or fewer rolling boulders in total without dying yourself.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;破壊した巨石の数が合計４個以下で死なずにバーバを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121051"><xliff:source>Description: &lt;colNum0&gt;Kill the Phantom Muspah in less than &lt;Num0&gt; minutes without a slayer task.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121051"><xliff:source>Description: &lt;colNum0&gt;Kill the Phantom Muspah in less than &lt;Num0&gt; minutes without a slayer task.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ファントム・マスパを討伐依頼なしで&lt;Num0&gt;分以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121052"><xliff:source>Description: &lt;colNum0&gt;Kill the Phantom Muspah &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121052"><xliff:source>Description: &lt;colNum0&gt;Kill the Phantom Muspah &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ファントム・マスパを&lt;Num0&gt;回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121053"><xliff:source>Description: &lt;colNum0&gt;Kill the Phantom Muspah without running.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121053"><xliff:source>Description: &lt;colNum0&gt;Kill the Phantom Muspah without running.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ファントム・マスパを走らずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121054"><xliff:source>Description: &lt;colNum0&gt;Drain the Phantom Muspah's Prayer with three different sources in one kill.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121054"><xliff:source>Description: &lt;colNum0&gt;Drain the Phantom Muspah's Prayer with three different sources in one kill.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ファントム・マスパを倒すまでにその祈力を三つの方法で削る。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121055"><xliff:source>Description: &lt;colNum0&gt;Kill Duke Sucellus once.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121055"><xliff:source>Description: &lt;colNum0&gt;Kill Duke Sucellus once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;スケラス公爵を一回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121056"><xliff:source>Description: &lt;colNum0&gt;Kill Vardorvis once.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121056"><xliff:source>Description: &lt;colNum0&gt;Kill Vardorvis once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ヴァードーヴィスを一回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121057"><xliff:source>Description: &lt;colNum0&gt;Kill the Whisperer once.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121057"><xliff:source>Description: &lt;colNum0&gt;Kill the Whisperer once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ウィスパラーを一回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121058"><xliff:source>Description: &lt;colNum0&gt;Kill the Leviathan once.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121058"><xliff:source>Description: &lt;colNum0&gt;Kill the Leviathan once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;リヴァイアサンを一回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121059"><xliff:source>Description: &lt;colNum0&gt;Kill Duke Sucellus in less than &lt;Num0&gt;:&lt;Num1&gt; minutes without a slayer task.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121059"><xliff:source>Description: &lt;colNum0&gt;Kill Duke Sucellus in less than &lt;Num0&gt;:&lt;Num1&gt; minutes without a slayer task.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;スケラス公爵を討伐依頼なしで&lt;Num0&gt;分&lt;Num1&gt;秒以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121060"><xliff:source>Description: &lt;colNum0&gt;Kill Vardorvis in less than &lt;Num0&gt;:&lt;Num1&gt; minutes without a slayer task.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121060"><xliff:source>Description: &lt;colNum0&gt;Kill Vardorvis in less than &lt;Num0&gt;:&lt;Num1&gt; minutes without a slayer task.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ヴァードーヴィスを討伐依頼なしで&lt;Num0&gt;分&lt;Num1&gt;秒以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121061"><xliff:source>Description: &lt;colNum0&gt;Kill the Whisperer in less than &lt;Num0&gt;:&lt;Num1&gt; without a slayer task.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121061"><xliff:source>Description: &lt;colNum0&gt;Kill the Whisperer in less than &lt;Num0&gt;:&lt;Num1&gt; without a slayer task.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ウィスパラーを討伐依頼なしで&lt;Num0&gt;分&lt;Num1&gt;秒以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121062"><xliff:source>Description: &lt;colNum0&gt;Kill the Leviathan in less than &lt;Num0&gt;:&lt;Num1&gt; without a slayer task.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121062"><xliff:source>Description: &lt;colNum0&gt;Kill the Leviathan in less than &lt;Num0&gt;:&lt;Num1&gt; without a slayer task.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;リヴァイアサンを討伐依頼なしで&lt;Num0&gt;分&lt;Num1&gt;秒以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121063"><xliff:source>Description: &lt;colNum0&gt;Kill the Whisperer whilst only being on the Arceuus spellbook.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121063"><xliff:source>Description: &lt;colNum0&gt;Kill the Whisperer whilst only being on the Arceuus spellbook.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ウィスパラーを、魔導書がアルセウス魔法の書である状態で倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121064"><xliff:source>Description: &lt;colNum0&gt;Defeat a Moon before they start their second special attack.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121064"><xliff:source>Description: &lt;colNum0&gt;Defeat a Moon before they start their second special attack.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;任意のムーンを二回目の必殺技が使われる前に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121065"><xliff:source>Description: &lt;colNum0&gt;Complete Wave &lt;Num0&gt; without taking avoidable damage from a Manticore.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121065"><xliff:source>Description: &lt;colNum0&gt;Complete Wave &lt;Num0&gt; without taking avoidable damage from a Manticore.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;マンティコアの回避可能な攻撃は全て回避してウェーブ&lt;Num0&gt;を突破する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121066"><xliff:source>Description: &lt;colNum0&gt;Complete Wave &lt;Num0&gt; without the Minotaur ever healing other enemies.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121066"><xliff:source>Description: &lt;colNum0&gt;Complete Wave &lt;Num0&gt; without the Minotaur ever healing other enemies.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ミノタウロスに他の敵を回復させずにウェーブ&lt;Num0&gt;を突破する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121067"><xliff:source>Description: &lt;colNum0&gt;Kill a Jaguar Warrior using a Claw-type weapon special attack.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121067"><xliff:source>Description: &lt;colNum0&gt;Kill a Jaguar Warrior using a Claw-type weapon special attack.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ジャガーの戦士を鉤爪系の武器の必殺技で倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121068"><xliff:source>Description: &lt;colNum0&gt;Kill a Tormented Demon.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121068"><xliff:source>Description: &lt;colNum0&gt;Kill a Tormented Demon.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;苦悩する悪魔を倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121069"><xliff:source>Description: &lt;colNum0&gt;Kill a Tormented Demon whilst their shield is inactive.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121069"><xliff:source>Description: &lt;colNum0&gt;Kill a Tormented Demon whilst their shield is inactive.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;苦悩する悪魔のシールドが発動していない間に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121070"><xliff:source>Description: &lt;colNum0&gt;Kill two Tormented Demons within &lt;Num0&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121070"><xliff:source>Description: &lt;colNum0&gt;Kill two Tormented Demons within &lt;Num0&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;苦悩する悪魔２体を&lt;Num0&gt;秒以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121071"><xliff:source>Description: &lt;colNum0&gt;Hit three Tormented Demons within &lt;Num0&gt; seconds using a ballista or a crossbow.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121071"><xliff:source>Description: &lt;colNum0&gt;Hit three Tormented Demons within &lt;Num0&gt; seconds using a ballista or a crossbow.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;バリスタもしくは洋弓銃で苦悩する悪魔３体を&lt;Num0&gt;秒以内に攻撃する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121072"><xliff:source>Description: &lt;colNum0&gt;Kill Araxxor &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121072"><xliff:source>Description: &lt;colNum0&gt;Kill Araxxor &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アラクソーを&lt;Num0&gt;回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121073"><xliff:source>Description: &lt;colNum0&gt;Kill Araxxor after destroying six eggs.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121073"><xliff:source>Description: &lt;colNum0&gt;Kill Araxxor after destroying six eggs.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アラクソーの卵を６個破壊してからアラクソーを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121074"><xliff:source>Description: &lt;colNum0&gt;Kill Araxxor &lt;Num0&gt; times in &lt;Num1&gt;:&lt;Num2&gt;.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121074"><xliff:source>Description: &lt;colNum0&gt;Kill Araxxor &lt;Num0&gt; times in &lt;Num1&gt;:&lt;Num2&gt;.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アラクソーを&lt;Num0&gt;回、&lt;Num1&gt;:&lt;Num2&gt;以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121075"><xliff:source>Description: &lt;colNum0&gt;Kill the Hueycoatl in &lt;Num0&gt;:&lt;Num1&gt;&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121075"><xliff:source>Description: &lt;colNum0&gt;Kill the Hueycoatl in &lt;Num0&gt;:&lt;Num1&gt;&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;フエコアトルを&lt;Num0&gt;:&lt;Num1&gt;以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121076"><xliff:source>Description: &lt;colNum0&gt;Kill the Hueycoatl perfectly &lt;Num0&gt; times without leaving. To get a perfect kill, you must not take any avoidable damage from the Hueycoatl's lightning attack, tail slam attack or off-prayer projectile attacks.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121076"><xliff:source>Description: &lt;colNum0&gt;Kill the Hueycoatl perfectly &lt;Num0&gt; times without leaving. To get a perfect kill, you must not take any avoidable damage from the Hueycoatl's lightning attack, tail slam attack or off-prayer projectile attacks.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;フエコアトルを&lt;Num0&gt;回完璧に、退場せずに倒す。完璧に倒すには、回避可能なフエコアトルの雷攻撃と尻尾叩きに当たらず、発射体攻撃を祈り防御で防ぐ必要がある。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121077"><xliff:source>Description: &lt;colNum0&gt;Kill Amoxliatl in less than &lt;Num0&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121077"><xliff:source>Description: &lt;colNum0&gt;Kill Amoxliatl in less than &lt;Num0&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;エモックスリアトルを&lt;Num0&gt;秒以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121078"><xliff:source>Description: &lt;colNum0&gt;Kill Amoxliatl without losing any prayer points.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121078"><xliff:source>Description: &lt;colNum0&gt;Kill Amoxliatl without losing any prayer points.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;エモックスリアトルを祈力ポイントを消費せずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121079"><xliff:source>Description: &lt;colNum0&gt;Kill the Royal Titans without losing any prayer points.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121079"><xliff:source>Description: &lt;colNum0&gt;Kill the Royal Titans without losing any prayer points.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;高貴な巨人を祈力ポイントを消費せずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121080"><xliff:source>Description: &lt;colNum0&gt;Kill Kree'arra in a privately rented instance without ever attacking him directly.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121080"><xliff:source>Description: &lt;colNum0&gt;Kill Kree'arra in a privately rented instance without ever attacking him directly.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;クリアーラを専用インスタンス内で、直接攻撃せずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121081"><xliff:source>Description: &lt;colNum0&gt;Kill Kree'arra in a privately rented instance without taking any melee damage from the boss or his bodyguards.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121081"><xliff:source>Description: &lt;colNum0&gt;Kill Kree'arra in a privately rented instance without taking any melee damage from the boss or his bodyguards.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;クリアーラを専用インスタンス内で、ボスとボディーガードから近接ダメージを受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121082"><xliff:source>Description: &lt;colNum0&gt;Kill Skotizo with the final source of damage being a Chinchompa explosion.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121082"><xliff:source>Description: &lt;colNum0&gt;Kill Skotizo with the final source of damage being a Chinchompa explosion.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;スコティーゾにチンチョンパの爆発ダメージでとどめを刺す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121083"><xliff:source>Description: &lt;colNum0&gt;Kill Cerberus without any of the Summoned Souls being spawned.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121083"><xliff:source>Description: &lt;colNum0&gt;Kill Cerberus without any of the Summoned Souls being spawned.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ケルベロスを霊が召喚される前に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121084"><xliff:source>Description: &lt;colNum0&gt;Kill the Grotesque Guardians &lt;Num0&gt; times in a row without leaving the instance, whilst completing the Perfect Grotesque Guardians task every time.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121084"><xliff:source>Description: &lt;colNum0&gt;Kill the Grotesque Guardians &lt;Num0&gt; times in a row without leaving the instance, whilst completing the Perfect Grotesque Guardians task every time.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;グロテスク・ガーディアンを&lt;Num0&gt;回連続、同じインスタンス内で倒す。ただし毎回「グロテスク・ガーディアンに完全勝利」の条件を満たす必要がある。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121085"><xliff:source>Description: &lt;colNum0&gt;Kill the Grotesque Guardians in less than &lt;Num0&gt;:&lt;Num1&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121085"><xliff:source>Description: &lt;colNum0&gt;Kill the Grotesque Guardians in less than &lt;Num0&gt;:&lt;Num1&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;グロテスク・ガーディアンを&lt;Num0&gt;:&lt;Num1&gt;以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121086"><xliff:source>Description: &lt;colNum0&gt;Kill the Corrupted Hunllef without taking damage from: Tornadoes, Damaging Floor or Stomp Attacks. Also, do not take damage off prayer and do not attack the Corrupted Hunllef with the wrong weapon.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121086"><xliff:source>Description: &lt;colNum0&gt;Kill the Corrupted Hunllef without taking damage from: Tornadoes, Damaging Floor or Stomp Attacks. Also, do not take damage off prayer and do not attack the Corrupted Hunllef with the wrong weapon.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;変異ハンレフを竜巻、ダメージを与える床、踏みつけ攻撃からダメージを受けずに倒す。さらに、受ける攻撃は全て正しい祈りの防御で軽減し、変異ハンレフが祈りで防御していない武器でのみ攻撃する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121087"><xliff:source>Description: &lt;colNum0&gt;Kill the Corrupted Hunllef without making any armour within the Corrupted Gauntlet.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121087"><xliff:source>Description: &lt;colNum0&gt;Kill the Corrupted Hunllef without making any armour within the Corrupted Gauntlet.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;変異ハンレフを防具を作らずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121088"><xliff:source>Description: &lt;colNum0&gt;Kill the Corrupted Hunllef with a full set of perfected corrupted armour equipped.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121088"><xliff:source>Description: &lt;colNum0&gt;Kill the Corrupted Hunllef with a full set of perfected corrupted armour equipped.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;変異ハンレフを「完全」な防具を装備して倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121089"><xliff:source>Description: &lt;colNum0&gt;Complete a Corrupted Gauntlet in less than &lt;Num0&gt; minutes and &lt;Num1&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121089"><xliff:source>Description: &lt;colNum0&gt;Complete a Corrupted Gauntlet in less than &lt;Num0&gt; minutes and &lt;Num1&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;変異ゴーントレットを&lt;Num0&gt;分&lt;Num1&gt;秒以内に攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121090"><xliff:source>Description: &lt;colNum0&gt;Kill the Crystalline Hunllef without taking damage from: Tornadoes, Damaging Floor or Stomp Attacks. Also, do not take damage off prayer and do not attack the Crystalline Hunllef with the wrong weapon.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121090"><xliff:source>Description: &lt;colNum0&gt;Kill the Crystalline Hunllef without taking damage from: Tornadoes, Damaging Floor or Stomp Attacks. Also, do not take damage off prayer and do not attack the Crystalline Hunllef with the wrong weapon.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;結晶体ハンレフを竜巻、ダメージを与える床、踏みつけ攻撃からダメージを受けずに倒す。さらに、受ける攻撃は全て正しい祈りの防御で軽減し、結晶体ハンレフが祈りで防御していない武器でのみ攻撃する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121091"><xliff:source>Description: &lt;colNum0&gt;Kill the Crystalline Hunllef without making any armour within the Gauntlet.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121091"><xliff:source>Description: &lt;colNum0&gt;Kill the Crystalline Hunllef without making any armour within the Gauntlet.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;結晶体ハンレフを防具を作らずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121092"><xliff:source>Description: &lt;colNum0&gt;Complete the Gauntlet in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121092"><xliff:source>Description: &lt;colNum0&gt;Complete the Gauntlet in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ザ・ゴーントレットを&lt;Num0&gt;分以内に攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121093"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra without being hit by the acid pool attack.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121093"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra without being hit by the acid pool attack.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;錬金術ヒドラを酸溜まり攻撃に当たらずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121094"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra without being hit by the lightning attack.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121094"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra without being hit by the lightning attack.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;錬金術ヒドラを雷攻撃に当たらずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121095"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra without being hit by the flame wall attack.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121095"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra without being hit by the flame wall attack.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;錬金術ヒドラを炎の壁の攻撃に当たらずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121096"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra without empowering it.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121096"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra without empowering it.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;錬金術ヒドラが強化される前に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121097"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra without letting it spawn a flame wall attack.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121097"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra without letting it spawn a flame wall attack.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;錬金術ヒドラが炎の壁の攻撃をする前に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121098"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra without taking any damage.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121098"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra without taking any damage.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;錬金術ヒドラをダメージを受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121099"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra in less than &lt;Num0&gt; minute &lt;Num1&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121099"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra in less than &lt;Num0&gt; minute &lt;Num1&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;錬金術ヒドラを&lt;Num0&gt;:&lt;Num1&gt;以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121100"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra &lt;Num0&gt; times without leaving the room.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121100"><xliff:source>Description: &lt;colNum0&gt;Kill the Alchemical Hydra &lt;Num0&gt; times without leaving the room.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;錬金術ヒドラを&lt;Num0&gt;回連続で部屋から出ずに倒す。</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121101"><xliff:source>Description: &lt;colNum0&gt;Complete the Fight Caves &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121101"><xliff:source>Description: &lt;colNum0&gt;Complete the Fight Caves &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ファイト・ケーヴズを&lt;Num0&gt;回攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121102"><xliff:source>Description: &lt;colNum0&gt;Complete the Fight caves without letting any of the Yt-MejKot heal.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121102"><xliff:source>Description: &lt;colNum0&gt;Complete the Fight caves without letting any of the Yt-MejKot heal.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ファイト・ケーヴズを、イト・メジュコトに回復させずに攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121103"><xliff:source>Description: &lt;colNum0&gt;Complete the Fight Caves without being attacked by a Tz-Kih.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121103"><xliff:source>Description: &lt;colNum0&gt;Complete the Fight Caves without being attacked by a Tz-Kih.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ファイト・ケーヴズをツズ・キフに攻撃されずに攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121104"><xliff:source>Description: &lt;colNum0&gt;Complete the Fight Caves in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121104"><xliff:source>Description: &lt;colNum0&gt;Complete the Fight Caves in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ファイト・ケーヴズを&lt;Num0&gt;分以内に攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121105"><xliff:source>Description: &lt;colNum0&gt;Kill the Nightmare without any player taking damage from the following attacks: Nightmare rifts, an un-cured parasite explosion, Corpse flowers or the Nightmare's Surge. Also, no player can take damage off prayer or have their attacks slowed by the Nightmare spores.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121105"><xliff:source>Description: &lt;colNum0&gt;Kill the Nightmare without any player taking damage from the following attacks: Nightmare rifts, an un-cured parasite explosion, Corpse flowers or the Nightmare's Surge. Also, no player can take damage off prayer or have their attacks slowed by the Nightmare spores.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ザ・ナイトメアを、悪夢の裂け目・未治癒の寄生虫の破裂・死体の花・悪夢のサージから誰もダメージを受けずに倒す。また、誰も防御の祈り対象外の攻撃を受けず、悪夢の胞子により攻撃速度を低下されないこと。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121106"><xliff:source>Description: &lt;colNum0&gt;Kill Commander Zilyana in a privately rented instance without attacking her directly.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121106"><xliff:source>Description: &lt;colNum0&gt;Kill Commander Zilyana in a privately rented instance without attacking her directly.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ジリアナ司令官を専用インスタンス内で直接攻撃せずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121107"><xliff:source>Description: &lt;colNum0&gt;Kill Zulrah whilst taking no damage from the following: Snakelings, Venom Clouds, Zulrah's Green or Crimson phase.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121107"><xliff:source>Description: &lt;colNum0&gt;Kill Zulrah whilst taking no damage from the following: Snakelings, Venom Clouds, Zulrah's Green or Crimson phase.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ズルラを、子ヘビ、猛毒の霧、ズルラが緑か赤のフェーズのどれからもダメージを受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121108"><xliff:source>Description: &lt;colNum0&gt;Kill Zulrah in less than &lt;Num0&gt; minute, without a slayer task.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121108"><xliff:source>Description: &lt;colNum0&gt;Kill Zulrah in less than &lt;Num0&gt; minute, without a slayer task.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ズルラを&lt;Num0&gt;分以内に討伐依頼なしで倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121109"><xliff:source>Description: &lt;colNum0&gt;Kill The Maiden of Sugadinti without anyone in the team losing any prayer points.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121109"><xliff:source>Description: &lt;colNum0&gt;Kill The Maiden of Sugadinti without anyone in the team losing any prayer points.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;スガジンチの乙女を祈力ポイントをだれも消費せずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121110"><xliff:source>Description: &lt;colNum0&gt;Kill The Maiden of Sugadinti without anyone in the team taking damage from the following sources: Blood Spawn projectiles and Blood Spawn trails. Also, without taking damage off prayer and without letting any of the Nylocas Matomenos heal The Maiden.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121110"><xliff:source>Description: &lt;colNum0&gt;Kill The Maiden of Sugadinti without anyone in the team taking damage from the following sources: Blood Spawn projectiles and Blood Spawn trails. Also, without taking damage off prayer and without letting any of the Nylocas Matomenos heal The Maiden.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;スガジンチの乙女を、血の腹子の発射体と跡によるダメージを誰も受けずに倒す。また、受ける攻撃は全て正しい祈りの防御で軽減し、ニロカス・マトメノスに乙女を回復させてはいけない。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121111"><xliff:source>Description: &lt;colNum0&gt;Kill the Pestilent Bloat before he shuts down for the third time.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121111"><xliff:source>Description: &lt;colNum0&gt;Kill the Pestilent Bloat before he shuts down for the third time.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;疫病のブロートを、それが３回停止するまでに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121112"><xliff:source>Description: &lt;colNum0&gt;Kill the Pestilent Bloat without anyone in the team taking damage from the following sources: Pestilent flies, Falling body parts or The Pestilent Bloats stomp attack.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121112"><xliff:source>Description: &lt;colNum0&gt;Kill the Pestilent Bloat without anyone in the team taking damage from the following sources: Pestilent flies, Falling body parts or The Pestilent Bloats stomp attack.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;疫病のブロートを、疫病の虫、落下する体の部位、疫病のブロートの踏みつけ攻撃で誰もダメージを受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121113"><xliff:source>Description: &lt;colNum0&gt;Kill the Nylocas Vasilias without anyone in the team attacking any Nylocas with the wrong attack style, without letting a pillar collapse and without getting hit by any of the Nylocas Vasilias attacks whilst off prayer.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121113"><xliff:source>Description: &lt;colNum0&gt;Kill the Nylocas Vasilias without anyone in the team attacking any Nylocas with the wrong attack style, without letting a pillar collapse and without getting hit by any of the Nylocas Vasilias attacks whilst off prayer.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ニロカス・ヴァシリアスを、誤った攻撃スタイルで攻撃せず、柱を壊されず、祈りの防御なしでニロカス・ヴァシリアスの攻撃を誰も受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121114"><xliff:source>Description: &lt;colNum0&gt;Kill Sotetseg after surviving at least &lt;Num0&gt; ball attacks without sharing the damage and without anyone dying throughout the fight.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121114"><xliff:source>Description: &lt;colNum0&gt;Kill Sotetseg after surviving at least &lt;Num0&gt; ball attacks without sharing the damage and without anyone dying throughout the fight.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ソテツセグを、その玉の攻撃を&lt;Num0&gt;回受け止めてから倒す。この際ダメージを共有してはいけず、戦闘で誰も死んではいけない。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121115"><xliff:source>Description: &lt;colNum0&gt;Kill Sotetseg without anyone in the team stepping on the wrong tile in the maze, without getting hit by the tornado and without taking any damage from Sotetseg's attacks whilst off prayer.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121115"><xliff:source>Description: &lt;colNum0&gt;Kill Sotetseg without anyone in the team stepping on the wrong tile in the maze, without getting hit by the tornado and without taking any damage from Sotetseg's attacks whilst off prayer.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ソテツセグを、誰も迷路の誤ったタイルを踏まずに、竜巻に当たらずに、ソテツセグの攻撃を必ず正しい防御の祈りで軽減して倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121116"><xliff:source>Description: &lt;colNum0&gt;Kill Xarpus without anyone in the team using a ranged or magic weapon.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121116"><xliff:source>Description: &lt;colNum0&gt;Kill Xarpus without anyone in the team using a ranged or magic weapon.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ハープスを誰も遠射武器と魔法武器を使わずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121117"><xliff:source>Description: &lt;colNum0&gt;Kill Xarpus without anyone in the team taking any damage from Xarpus' attacks and without letting an exhumed heal Xarpus more than twice.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121117"><xliff:source>Description: &lt;colNum0&gt;Kill Xarpus without anyone in the team taking any damage from Xarpus' attacks and without letting an exhumed heal Xarpus more than twice.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ハープスを、誰もそれからダメージを受けずに、掘り起こされた遺体に３回以上ハープスを回復されずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121118"><xliff:source>Description: &lt;colNum0&gt;Kill Verzik without any Nylocas being frozen and without anyone taking damage from the Nylocas.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121118"><xliff:source>Description: &lt;colNum0&gt;Kill Verzik without any Nylocas being frozen and without anyone taking damage from the Nylocas.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ニロカスを凍結刺せずに、誰もニロカスからダメージを受けずにヴァージックを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121119"><xliff:source>Description: &lt;colNum0&gt;Defeat Verzik Vitur without anyone in the team taking damage from Verzik Vitur's attacks other than her spider form's correctly prayed against regular magical and ranged attacks.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121119"><xliff:source>Description: &lt;colNum0&gt;Defeat Verzik Vitur without anyone in the team taking damage from Verzik Vitur's attacks other than her spider form's correctly prayed against regular magical and ranged attacks.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ヴァージック・ヴァーチャーを、防御の祈りで軽減したそれのクモ形態時の魔法か遠射攻撃以外のダメージを受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121120"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood without any member of the team equipping a Scythe of Vitur.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121120"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood without any member of the team equipping a Scythe of Vitur.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場を誰も「ヴァーチャーの大鎌」を装備せずに攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121121"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood (Trio) in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121121"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood (Trio) in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場（トリオ）を&lt;Num0&gt;分以内に攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121122"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood (&lt;Num0&gt;-scale) in less than &lt;Num1&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121122"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood (&lt;Num0&gt;-scale) in less than &lt;Num1&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場（&lt;Num0&gt;人分）を&lt;Num1&gt;分以内に攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121123"><xliff:source>Description: &lt;colNum0&gt;Hit Vorkath &lt;Num0&gt; times during the acid special without getting hit by his rapid fire or the acid pools.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121123"><xliff:source>Description: &lt;colNum0&gt;Hit Vorkath &lt;Num0&gt; times during the acid special without getting hit by his rapid fire or the acid pools.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ヴォーカスを、酸の必殺技中、酸の連射にも酸溜まりにも当たらずに、&lt;Num0&gt;回攻撃する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121124"><xliff:source>Description: &lt;colNum0&gt;Kill Vorkath &lt;Num0&gt; times without taking any damage from his special attacks and without leaving his area.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121124"><xliff:source>Description: &lt;colNum0&gt;Kill Vorkath &lt;Num0&gt; times without taking any damage from his special attacks and without leaving his area.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ヴォーカスの必殺技からダメージを受けず、エリアを離れずに&lt;Num0&gt;回連続で倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121125"><xliff:source>Description: &lt;colNum0&gt;Kill Vorkath in less than &lt;Num0&gt; minute and &lt;Num1&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121125"><xliff:source>Description: &lt;colNum0&gt;Kill Vorkath in less than &lt;Num0&gt; minute and &lt;Num1&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ヴォーカスを&lt;Num0&gt;:&lt;Num1&gt;以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121126"><xliff:source>Description: &lt;colNum0&gt;Kill Vorkath &lt;Num0&gt; times without leaving his area.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121126"><xliff:source>Description: &lt;colNum0&gt;Kill Vorkath &lt;Num0&gt; times without leaving his area.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ヴォーカスを&lt;Num0&gt;回、エリアを離れずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121127"><xliff:source>Description: &lt;colNum0&gt;Complete the Chambers of Xeric: Challenge Mode &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
