@@ -33460,13 +33460,13 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121032"><xliff:source>Description: &lt;colNum0&gt;Complete the Fight Caves after surviving a hit from TzTok-Jad without praying.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ファイト・ケーヴズを、祈りで防御せずにジャッドの攻撃を一回受けてから攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121033"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's second challenge.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの２番目の挑戦に達成する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121033"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's second challenge.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの２番目の挑戦に成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121034"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's first challenge in less than &lt;Num0&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの最初の挑戦を&lt;Num0&gt;秒以内に達成する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121034"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's first challenge in less than &lt;Num0&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの最初の挑戦を&lt;Num0&gt;秒以内に成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121035"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's second challenge with only melee.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの２番目の挑戦を近接攻撃だけで達成する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121035"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's second challenge with only melee.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの２番目の挑戦を近接攻撃だけで成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121036"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;フォサニの悪夢を一回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
@@ -33481,7 +33481,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121039"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓を一回踏破する。</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121040"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut (Expert mode) once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓（専門家モード）で一回踏破する。</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121040"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut (Expert mode) once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓（専門家モード）を一回踏破する。</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121041"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut in a group of two or more without anyone dying.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓を二人以上のチームで誰も死なずに踏破する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
@@ -33781,106 +33781,106 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121139"><xliff:source>Description: &lt;colNum0&gt;Clear the Crystal Crabs room without wasting an orb after the first crystal has been activated.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;水晶のカニの部屋を、最初の水晶が発動してから１つも無駄にせずに攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121140"><xliff:source>Description: &lt;colNum0&gt;Kill the Great Olm in a solo raid without taking damage from any of the following: Teleport portals, Fire Walls, Healing pools, Crystal Bombs, Crystal Burst or Prayer Orbs. You also cannot let his claws regenerate or take damage from the same acid pool back to back.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;You also cannot let his claws regenerate or take damage from the same acid pool back to back.&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121140"><xliff:source>Description: &lt;colNum0&gt;Kill the Great Olm in a solo raid without taking damage from any of the following: Teleport portals, Fire Walls, Healing pools, Crystal Bombs, Crystal Burst or Prayer Orbs. You also cannot let his claws regenerate or take damage from the same acid pool back to back.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;偉大なるオルムをソロで、次の必殺技によるダメージを受けずに倒す：ワープの水晶、火の壁、回復の溜まり、水晶爆弾、水晶の破裂、祈りのオーブただし、オルムの鉤爪を復活させてはならず、さらに同じ酸の溜まりからダメージを連続で受けてはならない。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121141"><xliff:source>Description: &lt;colNum0&gt;Kill the Great Olm in a trio raid without any team member taking damage from any of the following: Teleport portals, Fire Walls, Healing pools, Crystal Bombs, Crystal Burst or Prayer Orbs. You also cannot let his claws regenerate or take damage from the same acid pool back to back.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121141"><xliff:source>Description: &lt;colNum0&gt;Kill the Great Olm in a trio raid without any team member taking damage from any of the following: Teleport portals, Fire Walls, Healing pools, Crystal Bombs, Crystal Burst or Prayer Orbs. You also cannot let his claws regenerate or take damage from the same acid pool back to back.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;偉大なるオルムをトリオで、次の必殺技によるダメージを受けずに倒す：ワープの水晶、火の壁、回復の溜まり、水晶爆弾、水晶の破裂、祈りのオーブただし、オルムの鉤爪を復活させてはならず、さらに同じ酸の溜まりからダメージを連続で受けてはならない。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121142"><xliff:source>Description: &lt;colNum0&gt;Kill Tekton without taking any damage.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121142"><xliff:source>Description: &lt;colNum0&gt;Kill Tekton without taking any damage.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;テクトンを、ダメージを受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121143"><xliff:source>Description: &lt;colNum0&gt;Complete a Chambers of Xeric (Solo) in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121143"><xliff:source>Description: &lt;colNum0&gt;Complete a Chambers of Xeric (Solo) in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ゼリックの部屋（ソロ）を&lt;Num0&gt;分以内に攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121144"><xliff:source>Description: &lt;colNum0&gt;Complete a Chambers of Xeric (Trio) in less than &lt;Num0&gt; minutes and &lt;Num1&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121144"><xliff:source>Description: &lt;colNum0&gt;Complete a Chambers of Xeric (Trio) in less than &lt;Num0&gt; minutes and &lt;Num1&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ゼリックの部屋（トリオ）を&lt;Num0&gt;分以内に攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121145"><xliff:source>Description: &lt;colNum0&gt;Complete a Chambers of Xeric (&lt;Num0&gt;-scale) in less than &lt;Num1&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121145"><xliff:source>Description: &lt;colNum0&gt;Complete a Chambers of Xeric (&lt;Num0&gt;-scale) in less than &lt;Num1&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ゼリックの部屋（&lt;Num0&gt;人分）を&lt;Num1&gt;分以内に攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121146"><xliff:source>Description: &lt;colNum0&gt;Kill TzKal-Zuk without letting a pillar fall before wave &lt;Num0&gt;.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121146"><xliff:source>Description: &lt;colNum0&gt;Kill TzKal-Zuk without letting a pillar fall before wave &lt;Num0&gt;.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ウェーブ&lt;Num0&gt;以前に柱を一本も破壊されずにツズカル・ザックを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121147"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's fourth challenge.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121147"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's fourth challenge.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの４番目の挑戦に成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121148"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's third challenge in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121148"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's third challenge in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの３番の挑戦を&lt;Num0&gt;分以内に成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121149"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's fourth challenge with only melee.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121149"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's fourth challenge with only melee.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの４番目の挑戦を近接攻撃だけで成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121150"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's third challenge without having anything in your inventory.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121150"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's third challenge without having anything in your inventory.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの３番の挑戦にカバンに何も入れずに成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121151"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's third challenge while using a different attack style for each JalTok-Jad.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121151"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's third challenge while using a different attack style for each JalTok-Jad.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの３番の挑戦に、各ジャルトク・ジャッドに別の攻撃スタイルを使って成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121152"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood: Hard Mode within the challenge time.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121152"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood: Hard Mode within the challenge time.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：ハードモードを時間内に攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121153"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood: Entry Mode in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121153"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood: Entry Mode in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：初心者モードを&lt;Num0&gt;分以内に攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121154"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121154"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;フォサーニの悪夢を&lt;Num0&gt;回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121155"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare within &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121155"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare within &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;フォサーニの悪夢を&lt;Num0&gt;分以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121156"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare while killing every husk and parasite in one hit.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121156"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare while killing every husk and parasite in one hit.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ハスクと寄生虫を全て一撃で倒して、フォサーニの悪夢を倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121157"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare without her disabling your prayer.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121157"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare without her disabling your prayer.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;フォサーニの悪夢に祈りを解除されずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121158"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare without letting a sleepwalker reach her during the desperation phase.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121158"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare without letting a sleepwalker reach her during the desperation phase.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;絶望のフェーズ中、スリープウォーカーをフォサーニの悪夢まで到達させずにフォサーニを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121159"><xliff:source>Description: &lt;colNum0&gt;Kill Nex &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121159"><xliff:source>Description: &lt;colNum0&gt;Kill Nex &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ネックスを&lt;Num0&gt;回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121160"><xliff:source>Description: &lt;colNum0&gt;Kill Nex without letting her heal from her Blood Siphon special attack.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121160"><xliff:source>Description: &lt;colNum0&gt;Kill Nex without letting her heal from her Blood Siphon special attack.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ネックスにブラッド・サイフォンで回復されずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121161"><xliff:source>Description: &lt;colNum0&gt;Kill Nex without anyone taking damage from any Ice special attack.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121161"><xliff:source>Description: &lt;colNum0&gt;Kill Nex without anyone taking damage from any Ice special attack.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ネックスの氷の特殊攻撃でダメージを受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121162"><xliff:source>Description: &lt;colNum0&gt;Kill Nex without anyone being hit by the Smoke Dash special attack&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121162"><xliff:source>Description: &lt;colNum0&gt;Kill Nex without anyone being hit by the Smoke Dash special attack&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ネックスのスモーク・ダッシュ攻撃を受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121163"><xliff:source>Description: &lt;colNum0&gt;Kill Nex with three or less players inside the arena at the start of the fight.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121163"><xliff:source>Description: &lt;colNum0&gt;Kill Nex with three or less players inside the arena at the start of the fight.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;参加者が三人以下の状態で戦闘を開始して、ネックスを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121164"><xliff:source>Description: &lt;colNum0&gt;Kill Nex without anyone being hit by the Shadow Smash attack.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121164"><xliff:source>Description: &lt;colNum0&gt;Kill Nex without anyone being hit by the Shadow Smash attack.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ネックスのシャドー・スマッシュ攻撃を受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121165"><xliff:source>Description: &lt;colNum0&gt;Complete a full Tombs of Amascut raid only using supplies given inside the tomb and without anyone dying.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121165"><xliff:source>Description: &lt;colNum0&gt;Complete a full Tombs of Amascut raid only using supplies given inside the tomb and without anyone dying.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓のレイドを、墓地内で入手した物資のみを使用し、誰も死なずに踏破する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121166"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121166"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓を&lt;Num0&gt;回踏破する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121167"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut (normal) within &lt;Num0&gt; mins at any group size.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121167"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut (normal) within &lt;Num0&gt; mins at any group size.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓（通常）を&lt;Num0&gt;分以内に任意のグループサイズで踏破する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121168"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut raid at level &lt;Num0&gt; or above without anyone dying.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121168"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut raid at level &lt;Num0&gt; or above without anyone dying.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓をレベル&lt;Num0&gt;以上で誰も死なずに踏破する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121169"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut (Expert mode) &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121169"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut (Expert mode) &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓（専門家モード）を&lt;Num0&gt;回踏破する。</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121170"><xliff:source>Description: &lt;colNum0&gt;Defeat Ba-Ba with all Ba-Ba invocations activated and the path levelled up to at least four, without dying yourself.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121170"><xliff:source>Description: &lt;colNum0&gt;Defeat Ba-Ba with all Ba-Ba invocations activated and the path levelled up to at least four, without dying yourself.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;バーバを、バーバの祈願全て発動した状態で、全ての通路をレベル４以上まで上げ、死なずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121171"><xliff:source>Description: &lt;colNum0&gt;Defeat Zebak with all Zebak invocations activated and the path levelled up to at least four, without dying yourself.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121171"><xliff:source>Description: &lt;colNum0&gt;Defeat Zebak with all Zebak invocations activated and the path levelled up to at least four, without dying yourself.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ゼバックを、ゼバックの祈願全て発動した状態で、全ての通路をレベル４以上まで上げ、死なずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121172"><xliff:source>Description: &lt;colNum0&gt;Defeat Kephri with all Kephri invocations activated and the path levelled up to at least four, without dying yourself.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121172"><xliff:source>Description: &lt;colNum0&gt;Defeat Kephri with all Kephri invocations activated and the path levelled up to at least four, without dying yourself.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ケフリを、ケフリの祈願全て発動した状態で、全ての通路をレベル４以上まで上げ、死なずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121173"><xliff:source>Description: &lt;colNum0&gt;Defeat Kephri without letting her heal above &lt;Num0&gt;% after the first down. The 'Medic' invocation must be activated. You must do this without dying yourself.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121173"><xliff:source>Description: &lt;colNum0&gt;Defeat Kephri without letting her heal above &lt;Num0&gt;% after the first down. The 'Medic' invocation must be activated. You must do this without dying yourself.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ケフリを、それが最初にダウンしてから&lt;Num0&gt;%以上回復させずに倒す。祈願「衛生兵」を発動していなければならない。また、死んではいけない。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121174"><xliff:source>Description: &lt;colNum0&gt;Defeat Elidinis' Warden in phase three of the Wardens fight with 'Aerial Assault', 'Stay vigilant' and 'Insanity' invocations activated and without dying yourself.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
