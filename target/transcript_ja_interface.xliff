@@ -9323,7 +9323,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116092">
         <xliff:source>Can pick-lock the door to the Grubby Chest in the Forthos Dungeon.</xliff:source>
-        <xliff:target state="translated">フォーソスダンジョンの汚い宝箱への扉</xliff:target>
+        <xliff:target state="translated">フォーソス・ダンジョンの汚い宝箱への扉</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -31144,7 +31144,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120260"><xliff:source>Back to Our Roots</xliff:source><xliff:target state="translated">原点回帰</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120261"><xliff:source>Moons of Peril Speed-Trialist</xliff:source><xliff:target state="translated">危険なムーンの走者</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120261"><xliff:source>Moons of Peril Speed-Trialist</xliff:source><xliff:target state="translated">危険の月の走者</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120262"><xliff:source>Hueycoatl Champion</xliff:source><xliff:target state="translated">フエコアトルの王者</xliff:target><xliff:note>category: interface
@@ -31366,7 +31366,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120334"><xliff:source>Betrayal</xliff:source><xliff:target state="translated">裏切り</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120335"><xliff:source>Moons of Peril Speed-Chaser</xliff:source><xliff:target state="translated">危険なムーン・疾風迅雷</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120335"><xliff:source>Moons of Peril Speed-Chaser</xliff:source><xliff:target state="translated">危険の月・疾風迅雷</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120336"><xliff:source>Fat of the Land</xliff:source><xliff:target state="translated">土地の恵</xliff:target><xliff:note>category: interface
@@ -32146,7 +32146,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120594"><xliff:source>Theatre of Blood: SM Speed-Chaser</xliff:source><xliff:target state="translated">血の劇場：ストーリー版・疾風迅雷</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120595"><xliff:source>Phosani's Master</xliff:source><xliff:target state="translated">フォサニの師匠</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120595"><xliff:source>Phosani's Master</xliff:source><xliff:target state="translated">フォサーニの師匠</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120596"><xliff:source>Phosani's Speedchaser</xliff:source><xliff:target state="translated">フォサーニ・疾風迅雷</xliff:target><xliff:note>category: interface
@@ -32200,7 +32200,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120612"><xliff:source>Ba-Bananza</xliff:source><xliff:target state="translated">バーバンザイ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120613"><xliff:source>Rockin' around the croc</xliff:source><xliff:target state="translated">ワニワニと賑やかな時間</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120613"><xliff:source>Rockin' around the croc</xliff:source><xliff:target state="translated">ワニワニ楽しい時間</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120614"><xliff:source>Doesn't bug me</xliff:source><xliff:target state="translated">虫は気にならない</xliff:target><xliff:note>category: interface
@@ -33469,7 +33469,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121035"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's second challenge with only melee.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの２番目の挑戦を近接攻撃だけで成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121036"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;フォサニの悪夢を一回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121036"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;フォサーニの悪夢を一回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121037"><xliff:source>Description: &lt;colNum0&gt;Kill Nex once.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ネックスを一回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
@@ -33805,16 +33805,16 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121147"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's fourth challenge.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの４番目の挑戦に成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121148"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's third challenge in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの３番の挑戦を&lt;Num0&gt;分以内に成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121148"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's third challenge in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの３番目の挑戦を&lt;Num0&gt;分以内に成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121149"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's fourth challenge with only melee.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの４番目の挑戦を近接攻撃だけで成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121150"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's third challenge without having anything in your inventory.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの３番の挑戦にカバンに何も入れずに成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121150"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's third challenge without having anything in your inventory.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの３番目の挑戦にカバンに何も入れずに成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121151"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's third challenge while using a different attack style for each JalTok-Jad.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの３番の挑戦に、各ジャルトク・ジャッドに別の攻撃スタイルを使って成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121151"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's third challenge while using a different attack style for each JalTok-Jad.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの３番目の挑戦に、各ジャルトク・ジャッドに別の攻撃スタイルを使って成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121152"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood: Hard Mode within the challenge time.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：ハードモードを時間内に攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
@@ -34093,649 +34093,649 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121243"><xliff:source>Description: &lt;colNum0&gt;Complete the Inferno &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;インフェルノを&lt;Num0&gt;回攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121244"><xliff:source>Description: &lt;colNum0&gt;Kill TzKal-Zuk without letting Jal-ImKot dig during any wave in the Inferno.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121244"><xliff:source>Description: &lt;colNum0&gt;Kill TzKal-Zuk without letting Jal-ImKot dig during any wave in the Inferno.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;インフェルノで、ジャル・イムコトに潜らせずにツズカル・ザックを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121245"><xliff:source>Description: &lt;colNum0&gt;Complete wave &lt;Num0&gt; of the Inferno within &lt;Num1&gt; seconds of the first JalTok-Jad dying.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121245"><xliff:source>Description: &lt;colNum0&gt;Complete wave &lt;Num0&gt; of the Inferno within &lt;Num1&gt; seconds of the first JalTok-Jad dying.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;インフェルノのウェーブ&lt;Num0&gt;を、最初のジャルトク・ジャッドを倒した&lt;Num1&gt;秒以内に突破する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121246"><xliff:source>Description: &lt;colNum0&gt;Kill TzKal-Zuk without being attacked by TzKal-Zuk and without taking damage from a JalTok-Jad.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121246"><xliff:source>Description: &lt;colNum0&gt;Kill TzKal-Zuk without being attacked by TzKal-Zuk and without taking damage from a JalTok-Jad.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツズカル・ザックに攻撃されず、ジャルトク・ジャッドからダメージを受けずにツズカル・ザックを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121247"><xliff:source>Description: &lt;colNum0&gt;Kill TzKal-Zuk without letting your hitpoints fall below &lt;Num0&gt; during any wave in the Inferno.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121247"><xliff:source>Description: &lt;colNum0&gt;Kill TzKal-Zuk without letting your hitpoints fall below &lt;Num0&gt; during any wave in the Inferno.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;インフェルノ攻略中、一度も体力が&lt;Num0&gt;以下まで落ちることなくツズカル・ザックを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121248"><xliff:source>Description: &lt;colNum0&gt;Kill TzKal-Zuk without equipping a Twisted Bow within the Inferno.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121248"><xliff:source>Description: &lt;colNum0&gt;Kill TzKal-Zuk without equipping a Twisted Bow within the Inferno.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;インフェルノ攻略中、歪みの弓を装備することなくツズカル・ザックを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121249"><xliff:source>Description: &lt;colNum0&gt;Kill TzKal-Zuk without using any magic spells during any wave in the Inferno.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121249"><xliff:source>Description: &lt;colNum0&gt;Kill TzKal-Zuk without using any magic spells during any wave in the Inferno.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;インフェルノ攻略中、魔法の呪文を唱えることなくツズカル・ザックを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121250"><xliff:source>Description: &lt;colNum0&gt;Kill TzKal-Zuk without equipping any range or mage weapons before wave &lt;Num0&gt;.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121250"><xliff:source>Description: &lt;colNum0&gt;Kill TzKal-Zuk without equipping any range or mage weapons before wave &lt;Num0&gt;.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ウェーブ&lt;Num0&gt;まで遠射・魔法武器を装備することなくツズカル・ザックを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121251"><xliff:source>Description: &lt;colNum0&gt;Kill TzKal-Zuk without killing the JalTok-Jad which spawns during wave &lt;Num0&gt;.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121251"><xliff:source>Description: &lt;colNum0&gt;Kill TzKal-Zuk without killing the JalTok-Jad which spawns during wave &lt;Num0&gt;.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ウェーブ&lt;Num0&gt;でスポーンするジャルトク・ジャッドを倒さずにツズカル・ザックを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121252"><xliff:source>Description: &lt;colNum0&gt;Complete the Inferno in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121252"><xliff:source>Description: &lt;colNum0&gt;Complete the Inferno in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;インフェルノを&lt;Num0&gt;分以内に攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121253"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's sixth challenge.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121253"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's sixth challenge.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの６番目の挑戦に成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121254"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's fifth challenge in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121254"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's fifth challenge in less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの５番目の挑戦を&lt;Num0&gt;分以内に成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121255"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's fifth and sixth challenges back to back without failing.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121255"><xliff:source>Description: &lt;colNum0&gt;Complete TzHaar-Ket-Rak's fifth and sixth challenges back to back without failing.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ツザー・ケット・ラクの５番目と６番目の挑戦に連続で成功する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121256"><xliff:source>Description: &lt;colNum0&gt;Defeat the Maiden of Sugadinti in the Theatre of Blood: Hard Mode without letting blood spawns create more than &lt;Num0&gt; blood trails.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121256"><xliff:source>Description: &lt;colNum0&gt;Defeat the Maiden of Sugadinti in the Theatre of Blood: Hard Mode without letting blood spawns create more than &lt;Num0&gt; blood trails.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：ハードモードのスガジンチの乙女を、血の腹子が&lt;Num0&gt;個より多くの血痕を付ける前に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121257"><xliff:source>Description: &lt;colNum0&gt;Defeat the Pestilent Bloat in the Theatre of Blood: Hard Mode with at least &lt;Num0&gt; people in the room, without anyone in your team standing on top of each other.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121257"><xliff:source>Description: &lt;colNum0&gt;Defeat the Pestilent Bloat in the Theatre of Blood: Hard Mode with at least &lt;Num0&gt; people in the room, without anyone in your team standing on top of each other.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：ハードモードの疫病のブロートを、&lt;Num0&gt;人以上のチームで、誰も他の人と同じタイルに入らずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121258"><xliff:source>Description: &lt;colNum0&gt;In the Theatre of Blood: Hard Mode, complete the Nylocas room without ever letting the Nylocas Prinkipas change styles.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121258"><xliff:source>Description: &lt;colNum0&gt;In the Theatre of Blood: Hard Mode, complete the Nylocas room without ever letting the Nylocas Prinkipas change styles.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：ハードモードで、ニロカス・プリンキパスがスタイル変更する前にニロカスの部屋を突破する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121259"><xliff:source>Description: &lt;colNum0&gt;Defeat Sotetseg in the Theatre of Blood: Hard Mode without anyone sharing the ball with anyone, without anyone dying, and without anyone taking damage from any of its other attacks or stepping on the wrong tile in the maze.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121259"><xliff:source>Description: &lt;colNum0&gt;Defeat Sotetseg in the Theatre of Blood: Hard Mode without anyone sharing the ball with anyone, without anyone dying, and without anyone taking damage from any of its other attacks or stepping on the wrong tile in the maze.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：ハードモードのソテツセグを、誰もボールを他の人と共有せず、誰も死なず、誰もその他のダメージを受けず、誰も迷路の間違ったタイルを踏まずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121260"><xliff:source>Description: &lt;colNum0&gt;Defeat Xarpus in the Theatre of Blood: Hard Mode after letting the exhumeds heal him to full health and without anyone in the team taking any damage.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121260"><xliff:source>Description: &lt;colNum0&gt;Defeat Xarpus in the Theatre of Blood: Hard Mode after letting the exhumeds heal him to full health and without anyone in the team taking any damage.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：ハードモードのハープスを、掘り起こされた遺体がそれを体力満タンまで回復させてから、誰もダメージを受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121261"><xliff:source>Description: &lt;colNum0&gt;Defeat Verzik Vitur in the Theatre of Blood: Hard Mode without anyone in your team causing a Nylocas to explode by getting too close.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121261"><xliff:source>Description: &lt;colNum0&gt;Defeat Verzik Vitur in the Theatre of Blood: Hard Mode without anyone in your team causing a Nylocas to explode by getting too close.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：ハードモードのヴァージック・ヴァーチャーを、誰もニロカスに近づいて爆発させずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121262"><xliff:source>Description: &lt;colNum0&gt;When Verzik Vitur in the Theatre of Blood: Hard Mode uses her yellow power blast attack while the tornadoes are active, have everyone get through the attack without taking damage. This cannot be completed with one player alive&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121262"><xliff:source>Description: &lt;colNum0&gt;When Verzik Vitur in the Theatre of Blood: Hard Mode uses her yellow power blast attack while the tornadoes are active, have everyone get through the attack without taking damage. This cannot be completed with one player alive&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：ハードモードのヴァージック・ヴァーチャーが黄色い力の波動攻撃を竜巻があるときに使われた際、誰もダメージを受けずにその攻撃をしのぐ。&lt;/col&gt;これを生存者一人で達成しても無効。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121263"><xliff:source>Description: &lt;colNum0&gt;Defeat Verzik Vitur in the Theatre of Blood: Hard Mode without anyone attacking her with a melee weapon during her third phase.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121263"><xliff:source>Description: &lt;colNum0&gt;Defeat Verzik Vitur in the Theatre of Blood: Hard Mode without anyone attacking her with a melee weapon during her third phase.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：ハードモードのヴァージック・ヴァーチャーを、３フェーズ目で誰もそれを近接武器で攻撃せずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121264"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood: Hard Mode within the challenge time, with no deaths and without anyone buying anything from a supply chest.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121264"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood: Hard Mode within the challenge time, with no deaths and without anyone buying anything from a supply chest.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：ハードモードを制限時間内に、誰も死なずに、誰も物資箱から物を買わずに攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121265"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood: Hard Mode (Trio) with an overall time of less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121265"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood: Hard Mode (Trio) with an overall time of less than &lt;Num0&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：ハードモード（トリオ）を&lt;Num0&gt;分以内に攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121266"><xliff:source>Description: &lt;colNum0&gt; Complete the Theatre of Blood: Hard Mode (&lt;Num0&gt;-scale) with an overall time of less than &lt;Num1&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121266"><xliff:source>Description: &lt;colNum0&gt; Complete the Theatre of Blood: Hard Mode (&lt;Num0&gt;-scale) with an overall time of less than &lt;Num1&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：ハードモード（&lt;Num0&gt;人分）を&lt;Num1&gt;分以内に攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121267"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood: Hard Mode (&lt;Num0&gt;-scale) with an overall time of less than &lt;Num1&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121267"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood: Hard Mode (&lt;Num0&gt;-scale) with an overall time of less than &lt;Num1&gt; minutes.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：ハードモード（&lt;Num0&gt;人分）を&lt;Num1&gt;分以内に攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121268"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood: Hard Mode &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121268"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood: Hard Mode &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場：ハードモードを&lt;Num0&gt;回制覇する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121269"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare while only taking damage from husks, power blasts and weakened parasites. Also, without becoming infected by spores or letting a sleepwalker reach Phosani's Nightmare.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121269"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare while only taking damage from husks, power blasts and weakened parasites. Also, without becoming infected by spores or letting a sleepwalker reach Phosani's Nightmare.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;フォサーニの悪夢をハスク、力の波動、弱体化した寄生虫以外からのダメージを受けずに倒す。また、胞子に感染されず、スリープウォーカーをフォサーニの悪夢に到達させてはいけない。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121270"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare within &lt;Num0&gt; minutes and &lt;Num1&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121270"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare within &lt;Num0&gt; minutes and &lt;Num1&gt; seconds.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;フォサーニの悪夢を&lt;Num0&gt;分&lt;Num1&gt;秒以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121271"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare &lt;Num0&gt; times in a row without leaving Phosani's Dream.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121271"><xliff:source>Description: &lt;colNum0&gt;Kill Phosani's Nightmare &lt;Num0&gt; times in a row without leaving Phosani's Dream.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;フォサーニの悪夢を&lt;Num0&gt;回、フォサーニの夢から出ずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121272"><xliff:source>Description: &lt;colNum0&gt;Kill Nex with two or less players inside the arena at the start of the fight.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121272"><xliff:source>Description: &lt;colNum0&gt;Kill Nex with two or less players inside the arena at the start of the fight.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;参加者が二人以下の状態で戦闘を開始して、ネックスを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121273"><xliff:source>Description: &lt;colNum0&gt;Kill Nex whilst a player is coughing.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121273"><xliff:source>Description: &lt;colNum0&gt;Kill Nex whilst a player is coughing.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ネックスをプレイヤーが咳をしている最中に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121274"><xliff:source>Description: &lt;colNum0&gt;Kill Nex whilst completing the requirements for There is no escape, Shadows move, A siphon will solve this, and Contain this!&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121274"><xliff:source>Description: &lt;colNum0&gt;Kill Nex whilst completing the requirements for There is no escape, Shadows move, A siphon will solve this, and Contain this!&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ネックスを次の業績の条件を全て満たして倒す：「逃げ場などない！」「影が動く」「抽出すれば解決する」「これを封じ込めろ！」&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121275"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut (expert) within &lt;Num0&gt; mins at any group size.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121275"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut (expert) within &lt;Num0&gt; mins at any group size.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓（専門）を&lt;Num0&gt;分以内に任意のグループサイズで踏破する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121276"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut at raid level &lt;Num0&gt; or above without anyone dying.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121276"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut at raid level &lt;Num0&gt; or above without anyone dying.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓をレベル&lt;Num0&gt;以上で誰も死なずに踏破する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121277"><xliff:source>Description: &lt;colNum0&gt;Complete a Tombs of Amascut raid with every single boss invocation activated and without anyone dying.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121277"><xliff:source>Description: &lt;colNum0&gt;Complete a Tombs of Amascut raid with every single boss invocation activated and without anyone dying.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓のレイドを、全ての祈願を発動して、誰も死なずに攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121278"><xliff:source>Description: &lt;colNum0&gt;Defeat Akkha with all Akkha invocations activated and the path levelled up to at least four, without dying yourself.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121278"><xliff:source>Description: &lt;colNum0&gt;Defeat Akkha with all Akkha invocations activated and the path levelled up to at least four, without dying yourself.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アクハの祈願を全て発動し、通路をレベル４以上まで上げ、自分は死なずにアクハを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121279"><xliff:source>Description: &lt;colNum0&gt;Defeat Zebak without losing a single prayer point. You must also meet the conditions of the 'Rockin' Around The Croc' achievement.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121279"><xliff:source>Description: &lt;colNum0&gt;Defeat Zebak without losing a single prayer point. You must also meet the conditions of the 'Rockin' Around The Croc' achievement.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ゼバックを祈力ポイントを消費せずに倒す。これに加えて「ワニワニ楽しい時間」の条件を満たしている必要がある。</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121280"><xliff:source>Description: &lt;colNum0&gt;Complete 'Perfect Het' and 'Perfect Akkha' in a single run of the Tombs of Amascut.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121280"><xliff:source>Description: &lt;colNum0&gt;Complete 'Perfect Het' and 'Perfect Akkha' in a single run of the Tombs of Amascut.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓のレイドを、業績「ヘットに完全勝利」「アクハに完全勝利」を１回のレイドで達成して攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121281"><xliff:source>Description: &lt;colNum0&gt;Complete 'Perfect Apmeken' and 'Perfect Ba-Ba' in a single run of the Tombs of Amascut.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121281"><xliff:source>Description: &lt;colNum0&gt;Complete 'Perfect Apmeken' and 'Perfect Ba-Ba' in a single run of the Tombs of Amascut.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓のレイドを、業績「アプメケンに完全勝利」「バーバに完全勝利」を１回のレイドで達成して攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121282"><xliff:source>Description: &lt;colNum0&gt;Complete 'Perfect Crondis' and 'Perfect Zebak' in a single run of the Tombs of Amascut.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121282"><xliff:source>Description: &lt;colNum0&gt;Complete 'Perfect Crondis' and 'Perfect Zebak' in a single run of the Tombs of Amascut.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓のレイドを、業績「クロンジスに完全勝利」「ゼバックに完全勝利」を１回のレイドで達成して攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121283"><xliff:source>Description: &lt;colNum0&gt;Complete 'Perfect Scabaras' and 'Perfect Kephri' in a single run of Tombs of Amascut.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121283"><xliff:source>Description: &lt;colNum0&gt;Complete 'Perfect Scabaras' and 'Perfect Kephri' in a single run of Tombs of Amascut.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓のレイドを、業績「スカラバスに完全勝利」「ケフリに完全勝利」を１回のレイドで達成して攻略する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121284"><xliff:source>Description: &lt;colNum0&gt;Complete 'Perfect Wardens' at expert or above.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121284"><xliff:source>Description: &lt;colNum0&gt;Complete 'Perfect Wardens' at expert or above.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;「監視者に完全勝利」を専門以上で達成する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121285"><xliff:source>Description: &lt;colNum0&gt;Kill the Phantom Muspah whilst completing Walk Straight Pray True, Space is Tight &amp; Can't Escape.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121285"><xliff:source>Description: &lt;colNum0&gt;Kill the Phantom Muspah whilst completing Walk Straight Pray True, Space is Tight &amp; Can't Escape.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ファントム・マスパを業績「まっすぐ進んで祈る」「限られた空間」「逃げられない」を全て」達成して倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121286"><xliff:source>Description: &lt;colNum0&gt;Kill the Phantom Muspah in less than &lt;Num0&gt; minute and &lt;Num1&gt; seconds without a slayer task.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121286"><xliff:source>Description: &lt;colNum0&gt;Kill the Phantom Muspah in less than &lt;Num0&gt; minute and &lt;Num1&gt; seconds without a slayer task.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ファントム・マスパを討伐依頼なしで&lt;Num0&gt;分&lt;Num1&gt;秒以内に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121287"><xliff:source>Description: &lt;colNum0&gt;Kill Awakened Duke Sucellus.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121287"><xliff:source>Description: &lt;colNum0&gt;Kill Awakened Duke Sucellus.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;覚醒したスケラス公爵を倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121288"><xliff:source>Description: &lt;colNum0&gt;Kill Awakened Vardorvis.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121288"><xliff:source>Description: &lt;colNum0&gt;Kill Awakened Vardorvis.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;覚醒したヴァードーヴィスを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121289"><xliff:source>Description: &lt;colNum0&gt;Kill the Awakened Whisperer.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121289"><xliff:source>Description: &lt;colNum0&gt;Kill the Awakened Whisperer.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;覚醒したウィスパラーを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121290"><xliff:source>Description: &lt;colNum0&gt;Kill the Awakened Leviathan.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121290"><xliff:source>Description: &lt;colNum0&gt;Kill the Awakened Leviathan.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;覚醒したリヴァイアサンを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121291"><xliff:source>Description: &lt;colNum0&gt;Kill Vardorvis after surviving for &lt;Num0&gt; minutes of Vardorvis' max speed, and never leaving the centre &lt;Num1&gt; tiles.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121291"><xliff:source>Description: &lt;colNum0&gt;Kill Vardorvis after surviving for &lt;Num0&gt; minutes of Vardorvis' max speed, and never leaving the centre &lt;Num1&gt; tiles.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ヴァードーヴィスの最大速度を&lt;Num0&gt;分間耐えて、中心タイルから&lt;Num1&gt;マス以上離れないでヴァードーヴィスを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121292"><xliff:source>Description: &lt;colNum0&gt;Kill the Leviathan using only Mithril ammunition whilst having no more than &lt;Num0&gt; Hitpoints throughout the entire fight.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121292"><xliff:source>Description: &lt;colNum0&gt;Kill the Leviathan using only Mithril ammunition whilst having no more than &lt;Num0&gt; Hitpoints throughout the entire fight.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;リヴァイアサンをミスリル製の弾だけを使って、体力が常に&lt;Num0&gt;以下の状態を保ってリヴァイアサンを倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121293"><xliff:source>Description: &lt;colNum0&gt;Kill the Whisperer whilst spending less than &lt;Num0&gt; seconds in the pre-enrage shadow realm.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121293"><xliff:source>Description: &lt;colNum0&gt;Kill the Whisperer whilst spending less than &lt;Num0&gt; seconds in the pre-enrage shadow realm.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ウィスパラーを、暴走前の影の領域で&lt;Num0&gt;秒以上滞在せずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121294"><xliff:source>Description: &lt;colNum0&gt;Kill Duke Sucellus whilst only attacking the boss on the same tick Duke attacks you.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121294"><xliff:source>Description: &lt;colNum0&gt;Kill Duke Sucellus whilst only attacking the boss on the same tick Duke attacks you.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;スケラス公爵を、それが攻撃するティックだけ自分も攻撃して倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121295"><xliff:source>Description: &lt;colNum0&gt;Defeat Sol Heredit &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121295"><xliff:source>Description: &lt;colNum0&gt;Defeat Sol Heredit &lt;Num0&gt; times.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ソル・ヘレディットを&lt;Num0&gt;回倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121296"><xliff:source>Description: &lt;colNum0&gt;Defeat Sol Heredit without running during the fight with him.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121296"><xliff:source>Description: &lt;colNum0&gt;Defeat Sol Heredit without running during the fight with him.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ソル・ヘレディットを、それとの戦闘中は走らずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121297"><xliff:source>Description: &lt;colNum0&gt;Defeat Sol Heredit without taking any damage from his Spear, Shield, Grapple or Triple Attack.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121297"><xliff:source>Description: &lt;colNum0&gt;Defeat Sol Heredit without taking any damage from his Spear, Shield, Grapple or Triple Attack.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ソル・ヘレディットを、その槍、盾、グラップル、３連続攻撃のダメージを受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121298"><xliff:source>Description: &lt;colNum0&gt;Defeat Sol Heredit with the "Bees! II", "Quartet", and "Solarflare II" modifiers active.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121298"><xliff:source>Description: &lt;colNum0&gt;Defeat Sol Heredit with the "Bees! II", "Quartet", and "Solarflare II" modifiers active.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ソル・ヘレディットを業績「ハチ! ２」「カルテット」「太陽フレア２」の効果発動して倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121299"><xliff:source>Description: &lt;colNum0&gt;Kill Araxxor perfectly, without hitting it during the enrage phase.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121299"><xliff:source>Description: &lt;colNum0&gt;Kill Araxxor perfectly, without hitting it during the enrage phase.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アラクソーに完全勝利する、暴走フェーズ中は攻撃せずに。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121300"><xliff:source>Description: &lt;colNum0&gt;Kill Araxxor without the boss ever moving.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121300"><xliff:source>Description: &lt;colNum0&gt;Kill Araxxor without the boss ever moving.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アラクソーを移動させずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121301"><xliff:source>Description: &lt;colNum0&gt;Kill the Hueycoatl in &lt;Num0&gt;:&lt;Num1&gt; with three or fewer players.&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121301"><xliff:source>Description: &lt;colNum0&gt;Kill the Hueycoatl in &lt;Num0&gt;:&lt;Num1&gt; with three or fewer players.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;フエコアトルを&lt;Num0&gt;:&lt;Num1&gt;以内に３人以下のチームで倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121302"><xliff:source>Combat Achievements - Bosses</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121302"><xliff:source>Combat Achievements - Bosses</xliff:source><xliff:target state="translated">戦闘実績：ボス</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121303"><xliff:source>Search:</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121303"><xliff:source>Search:</xliff:source><xliff:target state="translated">検索：</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121304"><xliff:source>&lt;colNum0&gt;Level:&lt;/col&gt;&lt;colNum1&gt; &lt;Num0&gt;&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121304"><xliff:source>&lt;colNum0&gt;Level:&lt;/col&gt;&lt;colNum1&gt; &lt;Num0&gt;&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;レベル：&lt;/col&gt;&lt;colNum1&gt;&lt;Num0&gt;&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121305"><xliff:source>&lt;colNum0&gt;Level:&lt;/col&gt;&lt;colNum1&gt; N/A&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121305"><xliff:source>&lt;colNum0&gt;Level:&lt;/col&gt;&lt;colNum1&gt; N/A&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;レベル:&lt;/col&gt;&lt;colNum1&gt; N/A&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121306"><xliff:source>Combat Achievements - Abyssal Sire</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121306"><xliff:source>Combat Achievements - Abyssal Sire</xliff:source><xliff:target state="translated">戦闘実績：深淵の雄親</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121307"><xliff:source>An Abyssal Sire is a stronger and larger abyssal demon found within the Abyssal Nexus.  Attack Styles - Melee, Special Immunities - Poison, Venom Slayer Categories - Abyssal Demon</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121307"><xliff:source>An Abyssal Sire is a stronger and larger abyssal demon found within the Abyssal Nexus.  Attack Styles - Melee, Special Immunities - Poison, Venom Slayer Categories - Abyssal Demon</xliff:source><xliff:target state="translated">深淵の雄親とは強くて大きい深淵の悪魔であり、深淵のネクサスに生息する。&lt;br&gt;&lt;br&gt;攻撃スタイル：近接&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：深淵の悪魔</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121308"><xliff:source>Difficulty</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121308"><xliff:source>Difficulty</xliff:source><xliff:target state="translated">難易度</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121309"><xliff:source>Kill Count: &lt;colNum0&gt;&lt;Num0&gt;&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121309"><xliff:source>Kill Count: &lt;colNum0&gt;&lt;Num0&gt;&lt;/col&gt;</xliff:source><xliff:target state="translated">キル数：&lt;colNum0&gt;&lt;Num0&gt;&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121310"><xliff:source>Combat Level: &lt;colNum0&gt;&lt;Num0&gt;&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121310"><xliff:source>Combat Level: &lt;colNum0&gt;&lt;Num0&gt;&lt;/col&gt;</xliff:source><xliff:target state="translated">戦闘レベル：&lt;colNum0&gt;&lt;Num0&gt;&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121311"><xliff:source>Boss list</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121311"><xliff:source>Boss list</xliff:source><xliff:target state="translated">ボス一覧</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121312"><xliff:source>Reset time</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121312"><xliff:source>Reset time</xliff:source><xliff:target state="translated">タイムをリセット</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121313"><xliff:source>Tasks Completed: &lt;Num0&gt;/&lt;Num1&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121313"><xliff:source>Tasks Completed: &lt;Num0&gt;/&lt;Num1&gt;</xliff:source><xliff:target state="translated">業績のクリア数：&lt;Num0&gt;/&lt;Num1&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121314"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Slayer - An abyssal demon slayer task  Combat Achievement task difficulty: - Hard - Elite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121314"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Slayer - An abyssal demon slayer task  Combat Achievement task difficulty: - Hard - Elite</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-討伐レベル&lt;Num0&gt;&lt;br&gt;-深淵の悪魔の討伐依頼&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121315"><xliff:source>Combat Achievements - Alchemical Hydra</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121315"><xliff:source>Combat Achievements - Alchemical Hydra</xliff:source><xliff:target state="translated">戦闘実績：錬金術ヒドラ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121316"><xliff:source>The Alchemical Hydra is a boss found in the depths of the Karuulm Slayer Dungeon within Mount Karuulm.  Attack Styles - Ranged, Magic Immunities - Poison, Venom Slayer Categories - Hydra</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121316"><xliff:source>The Alchemical Hydra is a boss found in the depths of the Karuulm Slayer Dungeon within Mount Karuulm.  Attack Styles - Ranged, Magic Immunities - Poison, Venom Slayer Categories - Hydra</xliff:source><xliff:target state="translated">錬金術ヒドラは狩るルーム山のカルールム討伐ダンジョンの奥底に生息するボスモンスター。攻撃スタイル：遠射・魔法&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：ヒドラ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121317"><xliff:source>Personal Best: &lt;colNum0&gt;N/A&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121317"><xliff:source>Personal Best: &lt;colNum0&gt;N/A&lt;/col&gt;</xliff:source><xliff:target state="translated">自己ベスト：&lt;colNum0&gt;N/A&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121318"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Slayer - A hydra slayer task  Combat Achievement task difficulty: - Elite - Master - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121318"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Slayer - A hydra slayer task  Combat Achievement task difficulty: - Elite - Master - Grandmaster</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-討伐レベル&lt;Num0&gt;&lt;br&gt;-ヒドラの討伐依頼&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-超級&lt;br&gt;-達人&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121319"><xliff:source>Combat Achievements - Amoxliatl</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121319"><xliff:source>Combat Achievements - Amoxliatl</xliff:source><xliff:target state="translated">戦闘実績 : エモックスリアトル</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121320"><xliff:source>Amoxliatl is a boss found within the Ruins of Tapoyauik in Varlamore.  Attack Styles - Magic, Special Immunities - Poison, Venom Slayer Categories - Lesser Nagua</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121320"><xliff:source>Amoxliatl is a boss found within the Ruins of Tapoyauik in Varlamore.  Attack Styles - Magic, Special Immunities - Poison, Venom Slayer Categories - Lesser Nagua</xliff:source><xliff:target state="translated">エモックスリアトルはヴァーラモーの廃墟に生息するボスモンスター。攻撃スタイル：魔法&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：下位のナーガ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121321"><xliff:source>Mandatory requirements: - The Heart of Darkness  Combat Achievement task difficulty: - Medium - Hard - Elite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121321"><xliff:source>Mandatory requirements: - The Heart of Darkness  Combat Achievement task difficulty: - Medium - Hard - Elite</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-クエスト「暗黒の心臓」&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-中級&lt;br&gt;-上級&lt;br&gt;-超級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121322"><xliff:source>Combat Achievements - Araxxor</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121322"><xliff:source>Combat Achievements - Araxxor</xliff:source><xliff:target state="translated">戦闘実績 : アラクソー</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121323"><xliff:source>Araxxor is a boss found within the Morytania Spider Cave, north east of Darkmeyer.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - Araxyte, Spider</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121323"><xliff:source>Araxxor is a boss found within the Morytania Spider Cave, north east of Darkmeyer.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - Araxyte, Spider</xliff:source><xliff:target state="translated">アラクソーはダークメヤー北東のモリタニア蜘蛛洞窟に生息するボスモンスター。攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：猛毒&lt;br&gt;討伐依頼のカテゴリ：アラキサイト、クモ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121324"><xliff:source>Mandatory requirements: - Priest in Peril - &lt;Num0&gt; Slayer</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121324"><xliff:source>Mandatory requirements: - Priest in Peril - &lt;Num0&gt; Slayer</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-クエスト「危機に瀕した司祭」&lt;br&gt;-討伐レベル&lt;Num0&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121325"><xliff:source>Combat Achievements - Barrows</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121325"><xliff:source>Combat Achievements - Barrows</xliff:source><xliff:target state="translated">戦闘実績 : バロウズ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121326"><xliff:source>The Barrows are a series of six burial mounds located in Morytania.  Each of the six Barrows Brothers (Ahrim, Dharok, Guthan, Karil, Torag and Verac) attack with a specific combat style and unique abilities granted by their armour and weaponry.  Attack Styles - Magic, Ranged, Melee Immunities - None Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121326"><xliff:source>The Barrows are a series of six burial mounds located in Morytania.  Each of the six Barrows Brothers (Ahrim, Dharok, Guthan, Karil, Torag and Verac) attack with a specific combat style and unique abilities granted by their armour and weaponry.  Attack Styles - Magic, Ranged, Melee Immunities - None Slayer Categories - None</xliff:source><xliff:target state="translated">バロウズは、モリタニアにある6つの古墳群である。6人のバローズ兄弟（アリム、ダロック、ガサン、カリル、トーラッグ、ヴェラック）はそれぞれ、特定の戦闘スタイルと、鎧や武器によって付与されたユニークな能力で攻撃する。攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：なし&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121327"><xliff:source>Mandatory requirements: - Access to Morytania - Spade  Combat Achievment task difficulty: - Easy - Medium - Hard</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121327"><xliff:source>Mandatory requirements: - Access to Morytania - Spade  Combat Achievment task difficulty: - Easy - Medium - Hard</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-モリタニアへのアクセス&lt;br&gt;-シャベル&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-初級&lt;br&gt;-中級&lt;br&gt;-上級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121328"><xliff:source>Combat Achievements - Bryophyta</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121328"><xliff:source>Combat Achievements - Bryophyta</xliff:source><xliff:target state="translated">戦闘実績 : ブリオフィタ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121329"><xliff:source>Bryophyta the Moss Giantess, is the moss giant boss who can be found in her lair in the Varrock Sewers.  In order to access Bryophyta's lair, a mossy key, obtained from killing a Moss Giant, is required.  Attack Styles - Melee, Magic Immunities - None Slayer Categories - Moss Giant</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121329"><xliff:source>Bryophyta the Moss Giantess, is the moss giant boss who can be found in her lair in the Varrock Sewers.  In order to access Bryophyta's lair, a mossy key, obtained from killing a Moss Giant, is required.  Attack Styles - Melee, Magic Immunities - None Slayer Categories - Moss Giant</xliff:source><xliff:target state="translated">コケの巨人ブリオフィタは、ヴァロック下水道の住処にいるコケの巨人のボスモンスター。ブリオフィタの巣窟に入るには、コケの巨人を倒すことで入手可能な苔むしたカギが必要。攻撃スタイル：近接・魔法&lt;br&gt;特殊耐性：なし&lt;br&gt;討伐依頼のカテゴリ：コケの巨人</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121330"><xliff:source>Mandatory requirements: - Mossy key  Combat Achievement task difficulty: - Easy - Medium</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121330"><xliff:source>Mandatory requirements: - Mossy key  Combat Achievement task difficulty: - Easy - Medium</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-苔むしたカギ&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-初級&lt;br&gt;-中級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121331"><xliff:source>Combat Achievements - Callisto</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121331"><xliff:source>Combat Achievements - Callisto</xliff:source><xliff:target state="translated">戦闘実績 : カリスト</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121332"><xliff:source>Callisto is an enormous bear empowered by the corruption of the Wilderness. He resides south of the Demonic Ruins in the Wilderness.  Attack Styles - Melee, Special Immunities - Poison, Venom, Magic Slayer Categories - Bear</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121332"><xliff:source>Callisto is an enormous bear empowered by the corruption of the Wilderness. He resides south of the Demonic Ruins in the Wilderness.  Attack Styles - Melee, Special Immunities - Poison, Venom, Magic Slayer Categories - Bear</xliff:source><xliff:target state="translated">カリストはウィルダネスの腐敗により強化された巨大なクマ。ウィルダネスの悪魔の廃墟の南に生息する。攻撃スタイル：近接&lt;br&gt;特殊耐性：毒・猛毒・魔法&lt;br&gt;討伐依頼のカテゴリ：クマ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121333"><xliff:source>There are no mandatory requirements to fight Callisto.  Combat Achievement task difficulty: - Hard - Elite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121333"><xliff:source>There are no mandatory requirements to fight Callisto.  Combat Achievement task difficulty: - Hard - Elite</xliff:source><xliff:target state="translated">カリストと戦うための必須条件はない。&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121334"><xliff:source>Combat Achievements - Cerberus</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121334"><xliff:source>Combat Achievements - Cerberus</xliff:source><xliff:target state="translated">戦闘実績 : ケルベロス</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121335"><xliff:source>Cerberus is a stronger and larger three-headed hellhound boss, which is located in her lair, deep beneath the Taverley Dungeon in the cave to the north-east of the hellhound pit.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - Hellhound</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121335"><xliff:source>Cerberus is a stronger and larger three-headed hellhound boss, which is located in her lair, deep beneath the Taverley Dungeon in the cave to the north-east of the hellhound pit.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - Hellhound</xliff:source><xliff:target state="translated">ケルベロスはより強く、より大きな3つの頭を持つヘルハウンドのボスで、タベリー・ダンジョンの地下深く、ヘルハウンドの穴の北東にある洞窟に彼女の隠れ家がある。攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：ヘルハウンド</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121336"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Slayer - A hellhound slayer task  Combat Achievement task difficulty: - Elite - Master</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121336"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Slayer - A hellhound slayer task  Combat Achievement task difficulty: - Elite - Master</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-討伐レベル&lt;Num0&gt;&lt;br&gt;-ヘルハウンドの討伐依頼&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-超級&lt;br&gt;-達人</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121337"><xliff:source>Combat Achievements - Chaos Elemental</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121337"><xliff:source>Combat Achievements - Chaos Elemental</xliff:source><xliff:target state="translated">戦闘実績：混沌エレメンタル</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121338"><xliff:source>The Chaos Elemental is a dark cloud with six tentacles that dwells within the deep Wilderness, just west of the Rogues' Castle.  Attack Styles - Melee, Ranged, Magic Immunities - Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121338"><xliff:source>The Chaos Elemental is a dark cloud with six tentacles that dwells within the deep Wilderness, just west of the Rogues' Castle.  Attack Styles - Melee, Ranged, Magic Immunities - Venom Slayer Categories - None</xliff:source><xliff:target state="translated">混沌エレメンタルは6本の触手を持つ暗雲で、ローグ城のすぐ西にあるウィルダネス深部に棲んでいる。攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121339"><xliff:source>There are no mandatory requirements to fight the Chaos Elemental.  Combat Achievement task difficulty: - Hard - Elite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121339"><xliff:source>There are no mandatory requirements to fight the Chaos Elemental.  Combat Achievement task difficulty: - Hard - Elite</xliff:source><xliff:target state="translated">混沌エレメンタルと戦うための必須条件はない。&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121340"><xliff:source>Combat Achievements - Chaos Fanatic</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121340"><xliff:source>Combat Achievements - Chaos Fanatic</xliff:source><xliff:target state="translated">戦闘実績：混沌の狂信者</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121341"><xliff:source>The Chaos Fanatic is a demi-boss that resides west of the Lava Maze.  Attack Styles - Magic, Special Immunities - None Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121341"><xliff:source>The Chaos Fanatic is a demi-boss that resides west of the Lava Maze.  Attack Styles - Magic, Special Immunities - None Slayer Categories - None</xliff:source><xliff:target state="translated">混沌の狂信者は溶岩迷路の西に住むデミボス。攻撃スタイル：魔法&lt;br&gt;特殊耐性：なし&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121342"><xliff:source>There are no mandatory requirements to fight the Chaos Fanatic.  Combat Achievement task difficulty: - Medium - Hard</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121342"><xliff:source>There are no mandatory requirements to fight the Chaos Fanatic.  Combat Achievement task difficulty: - Medium - Hard</xliff:source><xliff:target state="translated">混沌の狂信者と戦うための必須条件はない。&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-中級&lt;br&gt;-上級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121343"><xliff:source>Combat Achievements - Crazy Archaeologist</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121343"><xliff:source>Combat Achievements - Crazy Archaeologist</xliff:source><xliff:target state="translated">戦闘実績：狂った考古学者</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121344"><xliff:source>The Crazy Archaeologist is a demi-boss that resides in the ruins south of The Forgotten Cemetery.  Attack Styles - Melee, Ranged, Special Immunities - None Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121344"><xliff:source>The Crazy Archaeologist is a demi-boss that resides in the ruins south of The Forgotten Cemetery.  Attack Styles - Melee, Ranged, Special Immunities - None Slayer Categories - None</xliff:source><xliff:target state="translated">狂った考古学者は忘却のセメトリーの南の廃墟に住むデミボス。攻撃スタイル：近接・遠射&lt;br&gt;特殊耐性：なし&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121345"><xliff:source>There are no mandatory requirements to fight the Crazy Archaeologist.  Combat Achievement task difficulty: - Medium - Hard</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121345"><xliff:source>There are no mandatory requirements to fight the Crazy Archaeologist.  Combat Achievement task difficulty: - Medium - Hard</xliff:source><xliff:target state="translated">狂った考古学者と戦うための必須条件はない。&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-中級&lt;br&gt;-上級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121346"><xliff:source>Combat Achievements - Chambers of Xeric</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121346"><xliff:source>Combat Achievements - Chambers of Xeric</xliff:source><xliff:target state="translated">戦闘実績：ゼリックの部屋</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121347"><xliff:source>The Chambers of Xeric is a large cave system found underneath Mount Quidamortem in the Kebos Lowlands.  The Chambers of Xeric will scale to the number of players (&lt;Num0&gt;-&lt;Num1&gt;) and their stats.  The Chambers of Xeric has a challenge mode difficulty setting for more experienced raiders.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121347"><xliff:source>The Chambers of Xeric is a large cave system found underneath Mount Quidamortem in the Kebos Lowlands.  The Chambers of Xeric will scale to the number of players (&lt;Num0&gt;-&lt;Num1&gt;) and their stats.  The Chambers of Xeric has a challenge mode difficulty setting for more experienced raiders.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">ゼリックの部屋はケボス低地のクイダモーテム山の地下に存在する大洞窟群。ゼリックの部屋は参加人数（&lt;Num0&gt;から&lt;Num1&gt;人）に応じて強さが変わる。ゼリックの部屋には上級者用にチャレンジモードがある。攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121348"><xliff:source>There are no mandatory requirements to enter the Chambers of Xeric.  Combat Achievement task difficulty: - Elite - Master - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121348"><xliff:source>There are no mandatory requirements to enter the Chambers of Xeric.  Combat Achievement task difficulty: - Elite - Master - Grandmaster</xliff:source><xliff:target state="translated">ゼリックの部屋に挑戦する必須条件はない。&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-超級&lt;br&gt;-達人&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121349"><xliff:source>Combat Achievements - Chambers of Xeric: Challenge Mode</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121349"><xliff:source>Combat Achievements - Chambers of Xeric: Challenge Mode</xliff:source><xliff:target state="translated">戦闘実績：ゼリックの部屋：チャレンジモード</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121350"><xliff:source>Combat Achievements - Corporeal Beast</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121350"><xliff:source>Combat Achievements - Corporeal Beast</xliff:source><xliff:target state="translated">戦闘実績：コーポリアル・ビースト</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121351"><xliff:source>The Corporeal Beast is a group boss that can be found residing in its cave found east of the Graveyard of Shadows in the Wilderness.  Attack Styles - Melee, Magic, Special. Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121351"><xliff:source>The Corporeal Beast is a group boss that can be found residing in its cave found east of the Graveyard of Shadows in the Wilderness.  Attack Styles - Melee, Magic, Special. Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">コーポリアル・ビーストはグループボスで、ウィルダネスの影の墓の東にある洞窟にいる。攻撃スタイル：近接・魔法・特殊&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121352"><xliff:source>There are no mandatory requirements to fight the Corporeal Beast.  Combat Achievement task difficulty: - Elite - Master</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121352"><xliff:source>There are no mandatory requirements to fight the Corporeal Beast.  Combat Achievement task difficulty: - Elite - Master</xliff:source><xliff:target state="translated">コーポリアル・ビーストと戦うための必須条件はない。&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-達人&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121353"><xliff:source>Combat Achievements - Commander Zilyana</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121353"><xliff:source>Combat Achievements - Commander Zilyana</xliff:source><xliff:target state="translated">戦闘実績：ジリアーナ司令官</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121354"><xliff:source>Commander Zilyana represents Saradomin as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Magic Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121354"><xliff:source>Commander Zilyana represents Saradomin as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Magic Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">ジリアーナ司令官はトロールハイムの北にある神戦ダンジョンにいる4人の将軍の1人としてサラドミンを代表している。攻撃スタイル：近接・魔法&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121355"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Agility - Rope  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121355"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Agility - Rope  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-運動神経レベル&lt;Num0&gt;&lt;br&gt;-ロープ&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級&lt;br&gt;-達人&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121356"><xliff:source>Combat Achievements - Crystalline Hunllef</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121356"><xliff:source>Combat Achievements - Crystalline Hunllef</xliff:source><xliff:target state="translated">戦闘実績：結晶体ハンレフ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121357"><xliff:source>The Crystalline Hunllef is a boss located within The Gauntlet, an activity within the elven capital city of Prifddinas.  Attack Styles - Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121357"><xliff:source>The Crystalline Hunllef is a boss located within The Gauntlet, an activity within the elven capital city of Prifddinas.  Attack Styles - Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">結晶体ハンレフはザ・ゴーントレットのボス。ゴーントレットとはエルフの首都プリフディナスでのアクティビティ。攻撃スタイル：遠射・魔法&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121358"><xliff:source>Personal Best: &lt;colNum0&gt;&lt;Num0&gt;:&lt;Num1&gt;&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121358"><xliff:source>Personal Best: &lt;colNum0&gt;&lt;Num0&gt;:&lt;Num1&gt;&lt;/col&gt;</xliff:source><xliff:target state="translated">自己ベスト：&lt;colNum0&gt;&lt;Num0&gt;:&lt;Num1&gt;&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121359"><xliff:source>Mandatory requirements: - Song of the Elves  Combat Achievement task difficulty: - Elite - Master - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121359"><xliff:source>Mandatory requirements: - Song of the Elves  Combat Achievement task difficulty: - Elite - Master - Grandmaster</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-クエスト「エルフの歌」&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-超級&lt;br&gt;-達人&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121360"><xliff:source>Combat Achievements - Corrupted Hunllef</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121360"><xliff:source>Combat Achievements - Corrupted Hunllef</xliff:source><xliff:target state="translated">戦闘実績：変異ハンレフ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121361"><xliff:source>The Corrupted Hunllef is the boss located within The Corrupted Gauntlet, an activity within the elven capital city of Prifddinas.  Access to The Corrupted Gauntlet is unlocked by completing The Gauntlet.  Attack Styles - Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121361"><xliff:source>The Corrupted Hunllef is the boss located within The Corrupted Gauntlet, an activity within the elven capital city of Prifddinas.  Access to The Corrupted Gauntlet is unlocked by completing The Gauntlet.  Attack Styles - Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">変異ハンレフは変異ゴーントレットのボス。ゴーントレットとはエルフの首都プリフディナスでのアクティビティ。変異ゴーントレットに挑戦するには先にザ・ゴーントレットの攻略に成功する必要がある。攻撃スタイル：遠射・魔法&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121362"><xliff:source>Mandatory requirements: - Song of the Elves - Access to The Corrupted Gauntlet  Combat Achievement task difficulty: - Elite - Master - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121362"><xliff:source>Mandatory requirements: - Song of the Elves - Access to The Corrupted Gauntlet  Combat Achievement task difficulty: - Elite - Master - Grandmaster</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-クエスト「エルフの歌」&lt;br&gt;-通常ゴーントレットの攻略に成功すること&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-超級&lt;br&gt;-達人&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121363"><xliff:source>Combat Achievements - Dagannoth Prime</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121363"><xliff:source>Combat Achievements - Dagannoth Prime</xliff:source><xliff:target state="translated">戦闘実績：ダガノス・プライム</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121364"><xliff:source>Dagannoth Prime is one of the three Dagannoth Kings found within the Waterbirth Island Dungeon, along with fellow kings Dagannoth Rex and Dagannoth Supreme.  Attack Style - Magic Immunities - Venom Slayer Categories - Dagannoth</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121364"><xliff:source>Dagannoth Prime is one of the three Dagannoth Kings found within the Waterbirth Island Dungeon, along with fellow kings Dagannoth Rex and Dagannoth Supreme.  Attack Style - Magic Immunities - Venom Slayer Categories - Dagannoth</xliff:source><xliff:target state="translated">ダガノス・プライムはダガノス・キングの一人であり、ウォーターバース島のダンジョンに他のダガノス・キングであるダガノス・レックスとダガノス・スプリームと共に生息する。攻撃スタイル：魔法&lt;br&gt;特殊耐性：猛毒&lt;br&gt;討伐依頼のカテゴリ：ダガノス</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121365"><xliff:source>There are no mandatory requirements to access the Waterbirth Island Dungeon.  Combat Achievement task difficulty: - Medium - Hard - Elite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121365"><xliff:source>There are no mandatory requirements to access the Waterbirth Island Dungeon.  Combat Achievement task difficulty: - Medium - Hard - Elite</xliff:source><xliff:target state="translated">ウォーターバース島のダンジョンに入るための必須条件はない。&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-中級&lt;br&gt;-上級&lt;br&gt;-超級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121366"><xliff:source>Combat Achievements - Dagannoth Rex</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121366"><xliff:source>Combat Achievements - Dagannoth Rex</xliff:source><xliff:target state="translated">戦闘実績：ダガノス・レックス</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121367"><xliff:source>Dagannoth Rex is one of the three Dagannoth Kings found within the Waterbirth Island Dungeon, along with fellow kings Dagannoth Supreme and Dagannoth Prime.  Attack Style - Melee Immunities - Venom Slayer Categories - Dagannoth</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121367"><xliff:source>Dagannoth Rex is one of the three Dagannoth Kings found within the Waterbirth Island Dungeon, along with fellow kings Dagannoth Supreme and Dagannoth Prime.  Attack Style - Melee Immunities - Venom Slayer Categories - Dagannoth</xliff:source><xliff:target state="translated">ダガノス・レックスはダガノス・キングの一人であり、ウォーターバース島のダンジョンに他のダガノス・キングであるダガノス・プライムとダガノス・スプリームと共に生息する。攻撃スタイル：近接&lt;br&gt;特殊耐性：猛毒&lt;br&gt;討伐依頼のカテゴリ：ダガノス</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121368"><xliff:source>Combat Achievements - Dagannoth Supreme</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121368"><xliff:source>Combat Achievements - Dagannoth Supreme</xliff:source><xliff:target state="translated">戦闘実績：ダガノス・スプリーム</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121369"><xliff:source>Dagannoth Supreme is one of the three Dagannoth Kings found within the Waterbirth Island Dungeon, along with fellow kings Dagannoth Rex and Dagannoth Prime.  Attack Style - Ranged Immunities - Venom Slayer Categories - Dagannoth</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121369"><xliff:source>Dagannoth Supreme is one of the three Dagannoth Kings found within the Waterbirth Island Dungeon, along with fellow kings Dagannoth Rex and Dagannoth Prime.  Attack Style - Ranged Immunities - Venom Slayer Categories - Dagannoth</xliff:source><xliff:target state="translated">ダガノス・スプリームはダガノス・キングの一人であり、ウォーターバース島のダンジョンに他のダガノス・キングであるダガノス・レックスとダガノス・プライムと共に生息する。攻撃スタイル：遠射&lt;br&gt;特殊耐性：猛毒&lt;br&gt;討伐依頼のカテゴリ：ダガノス</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121370"><xliff:source>Combat Achievements - Deranged Archaeologist</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121370"><xliff:source>Combat Achievements - Deranged Archaeologist</xliff:source><xliff:target state="translated">戦闘実績：錯乱した考古学者</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121371"><xliff:source>The Deranged Archaeologist is a demi-boss located on Fossil Island, at the southern reaches of the Tar Swamp.  Attack Styles - Melee, Ranged, Special Immunities - None Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121371"><xliff:source>The Deranged Archaeologist is a demi-boss located on Fossil Island, at the southern reaches of the Tar Swamp.  Attack Styles - Melee, Ranged, Special Immunities - None Slayer Categories - None</xliff:source><xliff:target state="translated">錯乱した考古学者は化石島のリーのタール沼の南端に住むデミボス。攻撃スタイル：近接・遠射&lt;br&gt;特殊耐性：なし&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121372"><xliff:source>Mandatory requirements: - A woodcutting axe - Bone Voyage  Combat Achievement task difficulty: - Easy - Medium</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121372"><xliff:source>Mandatory requirements: - A woodcutting axe - Bone Voyage  Combat Achievement task difficulty: - Easy - Medium</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-木こりの斧&lt;br&gt;-クエスト「骨の航海」&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-初級&lt;br&gt;-中級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121373"><xliff:source>Combat Achievements - Duke Sucellus</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121373"><xliff:source>Combat Achievements - Duke Sucellus</xliff:source><xliff:target state="translated">戦闘実績：スケラス公爵</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121374"><xliff:source>Duke Sucellus is a boss found within Ghorrock Prison, deep beneath Weiss.  Attack Styles - Melee, Magic, Special Immunities - Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121374"><xliff:source>Duke Sucellus is a boss found within Ghorrock Prison, deep beneath Weiss.  Attack Styles - Melee, Magic, Special Immunities - Venom Slayer Categories - None</xliff:source><xliff:target state="translated">スケラス公爵はウェイスの地下深くにあるゴロック刑務所に捕らわれているボス。攻撃スタイル：近接・魔法&lt;br&gt;特殊耐性：猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121375"><xliff:source>Mandatory requirements: - Desert Treasure II - The Fallen Empire</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121375"><xliff:source>Mandatory requirements: - Desert Treasure II - The Fallen Empire</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-クエスト「砂漠の宝２：墜ちた帝国」</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121376"><xliff:source>Combat Achievements - Fortis Colosseum</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121376"><xliff:source>Combat Achievements - Fortis Colosseum</xliff:source><xliff:target state="translated">戦闘実績：フォーティス闘技場</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121377"><xliff:source>Sol Heredit is the final boss of the Fortis Colosseum, located in Civitas illa Fortis in Varlamore.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121377"><xliff:source>Sol Heredit is the final boss of the Fortis Colosseum, located in Civitas illa Fortis in Varlamore.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - None</xliff:source><xliff:target state="translated">ソル・ヘレディットはヴァーラモーのシビリタス・イラ・フォーチスにあるフォーティス闘技場の最終ボス。攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121378"><xliff:source>Mandatory requirements: - Children of the Sun</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121378"><xliff:source>Mandatory requirements: - Children of the Sun</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-クエスト「太陽の子」</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121379"><xliff:source>Combat Achievements - General Graardor</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121379"><xliff:source>Combat Achievements - General Graardor</xliff:source><xliff:target state="translated">戦闘実績：グラドー将軍</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121380"><xliff:source>General Graardor represents Bandos as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Ranged Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121380"><xliff:source>General Graardor represents Bandos as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Ranged Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">グラドー将軍はトロールハイムの北にある神戦ダンジョンにいる4人の将軍の1人としてバンドスを代表している。攻撃スタイル：近接・遠射&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121381"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Strength - Hammer  Combat Achievement task difficulty: - Hard - Elite - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121381"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Strength - Hammer  Combat Achievement task difficulty: - Hard - Elite - Grandmaster</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-腕力レベル&lt;Num0&gt;&lt;br&gt;-ハンマー&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121382"><xliff:source>Combat Achievements - Giant Mole</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121382"><xliff:source>Combat Achievements - Giant Mole</xliff:source><xliff:target state="translated">戦闘実績：巨大モグラ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121383"><xliff:source>The Giant Mole is found within its lair, found underneath Falador Park.  Attack Style - Melee Immunities - Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121383"><xliff:source>The Giant Mole is found within its lair, found underneath Falador Park.  Attack Style - Melee Immunities - Venom Slayer Categories - None</xliff:source><xliff:target state="translated">巨大モグラはファラドー公園の地下に暮らす。攻撃スタイル：近接&lt;br&gt;特殊耐性：猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121384"><xliff:source>Mandatory requirements: - Light Source - Spade  Combat Achievement task difficulty: - Easy - Medium - Hard - Elite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121384"><xliff:source>Mandatory requirements: - Light Source - Spade  Combat Achievement task difficulty: - Easy - Medium - Hard - Elite</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-光源&lt;br&gt;-シャベル&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-初級&lt;br&gt;-中級&lt;br&gt;-上級&lt;br&gt;-超級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121385"><xliff:source>Combat Achievements - Grotesque Guardians</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121385"><xliff:source>Combat Achievements - Grotesque Guardians</xliff:source><xliff:target state="translated">戦闘実績：グロテスク・ガーディアン</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121386"><xliff:source>The Grotesque Guardians, Dusk and Dawn, can be found on the Slayer Tower's rooftop, through the entrance on the upper floor.  In order to unlock access to the roof, a brittle key, obtained from killing a gargoyle whilst on a gargoyle slayer task, is required.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - Gargoyle</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121386"><xliff:source>The Grotesque Guardians, Dusk and Dawn, can be found on the Slayer Tower's rooftop, through the entrance on the upper floor.  In order to unlock access to the roof, a brittle key, obtained from killing a gargoyle whilst on a gargoyle slayer task, is required.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - Gargoyle</xliff:source><xliff:target state="translated">グロテスク・ガーディアンのダスクとドーンは討伐の塔の最上階の入口から登れる屋上にいる。屋上に行くには脆いカギが必要。このカギはガーゴイルの討伐依頼で倒すガーゴイルから入手可能。攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：ガーゴイル</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121387"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Slayer - A gargoyle slayer task - Access to the Slayer Tower roof  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121387"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Slayer - A gargoyle slayer task - Access to the Slayer Tower roof  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-討伐レベル&lt;Num0&gt;&lt;br&gt;-ガーゴイルの討伐依頼&lt;br&gt;-討伐の塔の屋上の解放&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級&lt;br&gt;-達人&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121388"><xliff:source>Combat Achievements - Hespori</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121388"><xliff:source>Combat Achievements - Hespori</xliff:source><xliff:target state="translated">戦闘実績 : ヘスポリ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121389"><xliff:source>The Hespori is a rare carnivorous plant that becomes conscious and highly aggressive once fully grown.  In order to fight it, a Hespori seed must be planted and fully grown in the Hespori patch within the west wing of the Farming Guild.  Attack Styles - Ranged, Magic Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121389"><xliff:source>The Hespori is a rare carnivorous plant that becomes conscious and highly aggressive once fully grown.  In order to fight it, a Hespori seed must be planted and fully grown in the Hespori patch within the west wing of the Farming Guild.  Attack Styles - Ranged, Magic Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">ヘスポリは珍しい食虫植物で、完全に成長すると意識を持ち、非常に攻撃的になる。ヘスポリと戦うには、ヘスポリの種を農業ギルドの西棟にあるヘスポリ用の畑に植え、完全に成長させる必要がある。攻撃スタイル：魔法・遠射&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121390"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Farming - Hespori Seed  Combat Achievement task difficulty: - Hard - Elite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121390"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Farming - Hespori Seed  Combat Achievement task difficulty: - Hard - Elite</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-農業レベル&lt;Num0&gt;&lt;br&gt;-ヘスポリの種&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121391"><xliff:source>Combat Achievements - The Hueycoatl</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121391"><xliff:source>Combat Achievements - The Hueycoatl</xliff:source><xliff:target state="translated">戦闘実績 : フエコアトル</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121392"><xliff:source>The Hueycoatl is a boss found atop the Darkfrost in Varlamore.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121392"><xliff:source>The Hueycoatl is a boss found atop the Darkfrost in Varlamore.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">フエコアトルはヴァーラモーのダークフロスト頂上に住むボス。攻撃スタイル：近接・遠射・魔法・特殊&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121393"><xliff:source>Combat Achievements - Kalphite Queen</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121393"><xliff:source>Combat Achievements - Kalphite Queen</xliff:source><xliff:target state="translated">戦闘実績：女王カルファイト</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121394"><xliff:source>The Kalphite Queen is the strongest of the kalphites, residing in the Kalphite Lair within the Kharidian Desert.  Attack Styles - Melee, Ranged, Mage Immunities - Venom Slayer Categories - Kalphite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121394"><xliff:source>The Kalphite Queen is the strongest of the kalphites, residing in the Kalphite Lair within the Kharidian Desert.  Attack Styles - Melee, Ranged, Mage Immunities - Venom Slayer Categories - Kalphite</xliff:source><xliff:target state="translated">女王カルファイトはカルファイトの中で最も強く、カリジア砂漠のカルファイトの巣窟に住んでいる。攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：猛毒&lt;br&gt;討伐依頼のカテゴリ：カルファイト</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121395"><xliff:source>Mandatory requirements: - Rope x&lt;Num0&gt;  Combat Achievement task difficulty: - Hard - Elite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121395"><xliff:source>Mandatory requirements: - Rope x&lt;Num0&gt;  Combat Achievement task difficulty: - Hard - Elite</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-ロープを&lt;Num0&gt;本&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121396"><xliff:source>Combat Achievements - King Black Dragon</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121396"><xliff:source>Combat Achievements - King Black Dragon</xliff:source><xliff:target state="translated">戦闘実績：黒竜王</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121397"><xliff:source>The King Black Dragon is a three-headed black dragon found in his lair, deep within the Wilderness, west of the Lava Maze.  Attack Styles - Melee, Dragonfire Immunities - None Slayer Categories - Black Dragon</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121397"><xliff:source>The King Black Dragon is a three-headed black dragon found in his lair, deep within the Wilderness, west of the Lava Maze.  Attack Styles - Melee, Dragonfire Immunities - None Slayer Categories - Black Dragon</xliff:source><xliff:target state="translated">黒竜王は、溶岩迷路の西、ウィルダネス深部にある隠れ家で発見された3つの頭を持つ黒竜である。攻撃スタイル：近接・竜の炎&lt;br&gt;特殊耐性：なし&lt;br&gt;討伐依頼のカテゴリ：黒竜</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121398"><xliff:source>Mandatory requirements: - Dragon Slayer  Combat Achievement task difficulty: - Easy - Medium - Hard</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121398"><xliff:source>Mandatory requirements: - Dragon Slayer  Combat Achievement task difficulty: - Easy - Medium - Hard</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-クエスト「ドラゴン・スレイヤー」&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-初級&lt;br&gt;-中級&lt;br&gt;-上級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121399"><xliff:source>Combat Achievements - Kraken</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121399"><xliff:source>Combat Achievements - Kraken</xliff:source><xliff:target state="translated">戦闘実績 : クラーケン</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121400"><xliff:source>The Kraken is a stronger and larger cave kraken, found within Lieve's cave north of Eagles' Peak. It sleeps underwater until disturbed.  Attack Styles - Magic Immunities - Venom Slayer Categories - Cave Kraken</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121400"><xliff:source>The Kraken is a stronger and larger cave kraken, found within Lieve's cave north of Eagles' Peak. It sleeps underwater until disturbed.  Attack Styles - Magic Immunities - Venom Slayer Categories - Cave Kraken</xliff:source><xliff:target state="translated">クラーケンは、ワシの峰の北にあるリーヴの洞窟内にいる、より強く大きな洞窟のクラーケンである。邪魔が入るまで水中で眠っている。攻撃スタイル：魔法&lt;br&gt;特殊耐性：猛毒&lt;br&gt;討伐依頼のカテゴリ：洞窟クラーケン</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121401"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Slayer - A cave kraken slayer task  Combat Achievement task difficulty: - Hard - Elite - Master</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121401"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Slayer - A cave kraken slayer task  Combat Achievement task difficulty: - Hard - Elite - Master</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-討伐レベル&lt;Num0&gt;&lt;br&gt;-洞窟ヒドラの討伐依頼&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級&lt;br&gt;-達人</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121402"><xliff:source>Combat Achievements - Kree'arra</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121402"><xliff:source>Combat Achievements - Kree'arra</xliff:source><xliff:target state="translated">戦闘実績 : クリアーラ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121403"><xliff:source>Kree'arra represents Armadyl as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Ranged, Ranged-based Magic, Melee Immunities - Melee, Poison, Venom Slayer Categories - Aviansie</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121403"><xliff:source>Kree'arra represents Armadyl as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Ranged, Ranged-based Magic, Melee Immunities - Melee, Poison, Venom Slayer Categories - Aviansie</xliff:source><xliff:target state="translated">クリアーラはトロールハイムの北にある神戦ダンジョンにいる4人の将軍の1人としてアーマディルを代表している。攻撃スタイル：遠射・遠射依存の魔法・近接&lt;br&gt;特殊耐性：近接・毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：アヴィアンシー</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121404"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Ranged - Crossbow - Mithril Grapple  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121404"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Ranged - Crossbow - Mithril Grapple  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-遠射レベル&lt;Num0&gt;&lt;br&gt;-洋弓銃&lt;br&gt;-ミスリルのグラップル&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級&lt;br&gt;-達人&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121405"><xliff:source>Combat Achievements - K'ril Tsutsaroth</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121405"><xliff:source>Combat Achievements - K'ril Tsutsaroth</xliff:source><xliff:target state="translated">戦闘実績：クリル・ツツァロス</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121406"><xliff:source>K'ril Tsutsaroth represents Zamorak as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Magic, Special Immunities - Poison, Venom Slayer Categories - Greater Demon</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121406"><xliff:source>K'ril Tsutsaroth represents Zamorak as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Magic, Special Immunities - Poison, Venom Slayer Categories - Greater Demon</xliff:source><xliff:target state="translated">クリル・ツツァロスはトロールハイムの北にある神戦ダンジョンにいる4人の将軍の1人としてザモラックを代表している。攻撃スタイル：近接・魔法・特殊&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：上位悪魔</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121407"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Hitpoints  Combat Achievement task difficulty: - Hard - Elite - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121407"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Hitpoints  Combat Achievement task difficulty: - Hard - Elite - Grandmaster</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-体力レベル&lt;Num0&gt;&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121408"><xliff:source>Combat Achievements - The Leviathan</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121408"><xliff:source>Combat Achievements - The Leviathan</xliff:source><xliff:target state="translated">戦闘実績 : リヴァイアサン</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121409"><xliff:source>The Leviathan is a boss found within the Scar, which can be accessed through the Temple of the Eye.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121409"><xliff:source>The Leviathan is a boss found within the Scar, which can be accessed through the Temple of the Eye.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - None</xliff:source><xliff:target state="translated">リヴァイアサンはザ・アイの寺院から行ける 傷跡 にいるボスだ。攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121410"><xliff:source>Combat Achievements - The Mimic</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121410"><xliff:source>Combat Achievements - The Mimic</xliff:source><xliff:target state="translated">戦闘実績 : ミミック</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121411"><xliff:source>The Mimic is a boss occasionally found disguised as either Elite or Master clue scroll reward caskets.  Mimics can only be found after speaking to the strange casket upstairs in Watson's house in Great Kourend.  Attack Styles - Melee, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121411"><xliff:source>The Mimic is a boss occasionally found disguised as either Elite or Master clue scroll reward caskets.  Mimics can only be found after speaking to the strange casket upstairs in Watson's house in Great Kourend.  Attack Styles - Melee, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">ミミックは超級や達人の宝さがしの巻物の報酬の宝箱を装ったボスである。ミミックは、グレート・クーレンドにあるワトソンの家の2階にある奇妙な宝箱に話しかけないと見つからない。攻撃スタイル：近接・魔法・特殊&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121412"><xliff:source>Mandatory requirements: - Mimic caskets enabled - A mimic casket  Combat Achievement task difficulty: - Elite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121412"><xliff:source>Mandatory requirements: - Mimic caskets enabled - A mimic casket  Combat Achievement task difficulty: - Elite</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-ミミックの宝箱が有効&lt;br&gt;-ミミックの宝箱&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-超級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121413"><xliff:source>Combat Achievements - Moons of Peril</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121413"><xliff:source>Combat Achievements - Moons of Peril</xliff:source><xliff:target state="translated">戦闘実績：危険の月</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121414"><xliff:source>The Moons of Peril are three bosses found in Neypotzli beneath the city of Cam Torum in Varlamore.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121414"><xliff:source>The Moons of Peril are three bosses found in Neypotzli beneath the city of Cam Torum in Varlamore.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - None</xliff:source><xliff:target state="translated">危険の月は、ヴァーラモーのカム・トルムの街の地下にあるネイポズリにいる3体のボスだ。攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121415"><xliff:source>Mandatory requirements: - Perilous Moons</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121415"><xliff:source>Mandatory requirements: - Perilous Moons</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-クエスト「危険な月」</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121416"><xliff:source>Combat Achievements - Nex</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121416"><xliff:source>Combat Achievements - Nex</xliff:source><xliff:target state="translated">戦闘実績 : ネックス</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121417"><xliff:source>Nex is a boss found in the Ancient Prison, deep within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121417"><xliff:source>Nex is a boss found in the Ancient Prison, deep within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">ネックスはトロールハイムの北にある神戦ダンジョンの古代刑務所のボスだ。攻撃スタイル：近接・遠射・魔法・特殊&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121418"><xliff:source>Mandatory requirements: - The Frozen Door  Combat Achievement task difficulty: - Elite - Master - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121418"><xliff:source>Mandatory requirements: - The Frozen Door  Combat Achievement task difficulty: - Elite - Master - Grandmaster</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-クエスト「凍った扉」&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-超級&lt;br&gt;-達人&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121419"><xliff:source>Combat Achievements - The Nightmare</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121419"><xliff:source>Combat Achievements - The Nightmare</xliff:source><xliff:target state="translated">戦闘実績 : ザ・ナイトメア</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121420"><xliff:source>The Nightmare of Ashihama is a group boss found in the Sisterhood Sanctuary within the town of Slepe in Morytania.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121420"><xliff:source>The Nightmare of Ashihama is a group boss found in the Sisterhood Sanctuary within the town of Slepe in Morytania.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">アシハマの悪夢はモリタニアのスレペの町にあるシスターフッド・サンクチュアリにいるグループボス。攻撃スタイル：近接・遠射・魔法・特殊&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121421"><xliff:source>Mandatory requirements: - Access to Morytania  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121421"><xliff:source>Mandatory requirements: - Access to Morytania  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-モリタニアへのアクセス&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級&lt;br&gt;-達人&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121422"><xliff:source>Combat Achievements - Phosanis Nightmare</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121422"><xliff:source>Combat Achievements - Phosanis Nightmare</xliff:source><xliff:target state="translated">戦闘実績 : フォサーニの悪夢</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121423"><xliff:source>Phosani's Nightmare is a boss found in the Sisterhood Sanctuary within the town of Slepe in Morytania.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121423"><xliff:source>Phosani's Nightmare is a boss found in the Sisterhood Sanctuary within the town of Slepe in Morytania.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">フォサーニの悪夢はモリタニアのスレペの町にあるシスターフッド・サンクチュアリにいるボス。攻撃スタイル：近接・遠射・魔法・特殊&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121424"><xliff:source>Mandatory requirements: - Access to Morytania  Combat Achievement task difficulty: - Elite - Master - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121424"><xliff:source>Mandatory requirements: - Access to Morytania  Combat Achievement task difficulty: - Elite - Master - Grandmaster</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-モリタニアへのアクセス&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-超級&lt;br&gt;-達人&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121425"><xliff:source>Combat Achievements - Obor</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121425"><xliff:source>Combat Achievements - Obor</xliff:source><xliff:target state="translated">戦闘実績 : オーボー</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121426"><xliff:source>Obor the Hill Titan is the strongest of all the hill giants. His lair can be located behind a locked gate found within the hill giant area of the Edgeville Dungeon.  In order to access Obor's lair, a giant key, obtained from killing a Hill Giant, is required.  Attack Styles - Melee, Ranged Immunities - Venom Slayer Categories - Hill Giant</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121426"><xliff:source>Obor the Hill Titan is the strongest of all the hill giants. His lair can be located behind a locked gate found within the hill giant area of the Edgeville Dungeon.  In order to access Obor's lair, a giant key, obtained from killing a Hill Giant, is required.  Attack Styles - Melee, Ranged Immunities - Venom Slayer Categories - Hill Giant</xliff:source><xliff:target state="translated">丘の巨人オーボーは最強の丘の巨人。彼の巣窟はエッジビル・ダンジョンの丘の巨人エリアの閉じられた門の奥にいる。オーボーの巣窟に入るには、丘の巨人を倒すことで入手可能な巨大なカギが必要。攻撃スタイル：近接・弓&lt;br&gt;特殊耐性：猛毒&lt;br&gt;討伐依頼のカテゴリ：丘の巨人</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121427"><xliff:source>Mandatory requirements: - Giant key  Combat Achievement task difficulty: - Easy - Medium</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121427"><xliff:source>Mandatory requirements: - Giant key  Combat Achievement task difficulty: - Easy - Medium</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-巨大なカギ&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-初級&lt;br&gt;-中級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121428"><xliff:source>Combat Achievements - Phantom Muspah</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121428"><xliff:source>Combat Achievements - Phantom Muspah</xliff:source><xliff:target state="translated">戦闘実績：ファントム・マスパ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121429"><xliff:source>The Phantom Muspah is a boss found within Ghorrock Dungeon, deep beneath Weiss.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121429"><xliff:source>The Phantom Muspah is a boss found within Ghorrock Dungeon, deep beneath Weiss.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">ファントム・マスパはウェイスの地下深くにあるゴロックのダンジョンにいるボス。攻撃スタイル：近接・遠射・魔法・特殊&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121430"><xliff:source>Mandatory requirements: - Secrets of the North  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121430"><xliff:source>Mandatory requirements: - Secrets of the North  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-クエスト「北陸の秘密」&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級&lt;br&gt;-達人&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121431"><xliff:source>Combat Achievements - The Royal Titans</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121431"><xliff:source>Combat Achievements - The Royal Titans</xliff:source><xliff:target state="translated">戦闘実績 : 高貴な巨人</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121432"><xliff:source>The Royal Titans, Branda and Eldric, can be found within the Asgarnian Ice Cave, through the tunnel to the north-west.  Attack Styles - Melee, Special Immunities - Poison, Venom Slayer Categories - Ice Giant, Fire Giant</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121432"><xliff:source>The Royal Titans, Branda and Eldric, can be found within the Asgarnian Ice Cave, through the tunnel to the north-west.  Attack Styles - Melee, Special Immunities - Poison, Venom Slayer Categories - Ice Giant, Fire Giant</xliff:source><xliff:target state="translated">高貴な巨人、ブランダとエルドリックは、アスガニアの氷の洞窟から北西のトンネルを抜けたところにいる。攻撃スタイル：近接・特殊&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：氷の巨人、火の巨人</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121433"><xliff:source>There are no mandatory requirements to fight the Royal Titans  Combat Achievement task difficulty: - Easy - Medium - Hard - Elite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121433"><xliff:source>There are no mandatory requirements to fight the Royal Titans  Combat Achievement task difficulty: - Easy - Medium - Hard - Elite</xliff:source><xliff:target state="translated">高貴な巨人と戦うための必須条件はない。&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-初級&lt;br&gt;-中級&lt;br&gt;-上級&lt;br&gt;-超級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121434"><xliff:source>Combat Achievements - Scurrius</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121434"><xliff:source>Combat Achievements - Scurrius</xliff:source><xliff:target state="translated">戦闘実績 : スカリアス</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121435"><xliff:source>Scurrius is a boss found within the Varrock Sewers, which can be accessed through the Dungeon within east Varrock.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - Rat</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121435"><xliff:source>Scurrius is a boss found within the Varrock Sewers, which can be accessed through the Dungeon within east Varrock.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - Rat</xliff:source><xliff:target state="translated">スカリアスはヴァロックの下水道にいるボスで、東ヴァロックのダンジョンから行くことができる。攻撃スタイル：近接・遠射・魔法・特殊&lt;br&gt;特殊耐性：猛毒&lt;br&gt;討伐依頼のカテゴリ：ネズミ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121436"><xliff:source>There are no mandatory requirements to fight Scurrius.  Combat Achievement task difficulty: - Easy - Medium</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121436"><xliff:source>There are no mandatory requirements to fight Scurrius.  Combat Achievement task difficulty: - Easy - Medium</xliff:source><xliff:target state="translated">スカリアスと戦うための必須条件はない。&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-初級&lt;br&gt;-中級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121437"><xliff:source>Combat Achievements - Sarachnis</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121437"><xliff:source>Combat Achievements - Sarachnis</xliff:source><xliff:target state="translated">戦闘実績 : サラチニス</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121438"><xliff:source>Sarachnis is a spider boss found within the Forthos Dungeon south of the Spider Den.  Attack Styles - Melee, Ranged Immunities - Poison, Venom Slayer Categories - Spider</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121438"><xliff:source>Sarachnis is a spider boss found within the Forthos Dungeon south of the Spider Den.  Attack Styles - Melee, Ranged Immunities - Poison, Venom Slayer Categories - Spider</xliff:source><xliff:target state="translated">サラチニスはフォーソス・ダンジョンのクモの巣穴の南にいるクモのボス。攻撃スタイル：近接・遠射&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：クモ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121439"><xliff:source>There are no mandatory requirements to fight Sarachnis.  Combat Achievement task difficulty: - Easy - Medium - Hard</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121439"><xliff:source>There are no mandatory requirements to fight Sarachnis.  Combat Achievement task difficulty: - Easy - Medium - Hard</xliff:source><xliff:target state="translated">サラチニスと戦うための必須条件はない。&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-初級&lt;br&gt;-中級&lt;br&gt;-上級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121440"><xliff:source>Combat Achievements - Scorpia</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121440"><xliff:source>Combat Achievements - Scorpia</xliff:source><xliff:target state="translated">戦闘実績 : スコーピア</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121441"><xliff:source>Scorpia is a large scorpion that resides in a cave beneath the Scorpion Pit. The Scorpion Pit can be found deep within the Wilderness west of the Rogues' Castle.  Attack Styles - Melee Immunities - None Slayer Categories - Scorpion</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121441"><xliff:source>Scorpia is a large scorpion that resides in a cave beneath the Scorpion Pit. The Scorpion Pit can be found deep within the Wilderness west of the Rogues' Castle.  Attack Styles - Melee Immunities - None Slayer Categories - Scorpion</xliff:source><xliff:target state="translated">スコーピアはサソリの巣穴に住む大きなサソリ。サソリの巣穴はウィルダネス深部のローグ上の西にある。攻撃スタイル：近接&lt;br&gt;特殊耐性：なし&lt;br&gt;討伐依頼のカテゴリ：サソリ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121442"><xliff:source>There are no mandatory requirements to fight the Scorpia.  Combat Achievement task difficulty: - Hard - Elite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121442"><xliff:source>There are no mandatory requirements to fight the Scorpia.  Combat Achievement task difficulty: - Hard - Elite</xliff:source><xliff:target state="translated">スコーピアと戦うための必須条件はない。&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121443"><xliff:source>Combat Achievements - Skotizo</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121443"><xliff:source>Combat Achievements - Skotizo</xliff:source><xliff:target state="translated">戦闘実績 : スコティーゾ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121444"><xliff:source>Skotizo is a demonic boss located beneath the Catacombs of Kourend.  Accessing his lair requires the use of a dark totem on the altar found in the centre of the Catacombs.  Attack Styles - Melee, Magic Immunities - Poison, Venom Slayer Categories - Black Demon, Greater Demon.</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121444"><xliff:source>Skotizo is a demonic boss located beneath the Catacombs of Kourend.  Accessing his lair requires the use of a dark totem on the altar found in the centre of the Catacombs.  Attack Styles - Melee, Magic Immunities - Poison, Venom Slayer Categories - Black Demon, Greater Demon.</xliff:source><xliff:target state="translated">スコティーゾはクーレンドの地下墓地のさらに下に潜むボスだ。彼の巣窟に行くには、暗黒トーテムを地下墓地中央の祭壇に使う必要がある。攻撃スタイル：近接・魔法&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：黒悪魔、上位悪魔</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121445"><xliff:source>Mandatory requirements: - A Dark Totem  Combat Achievement task difficulty: - Medium - Hard - Elite - Master</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121445"><xliff:source>Mandatory requirements: - A Dark Totem  Combat Achievement task difficulty: - Medium - Hard - Elite - Master</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-暗黒トーテム&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-中級&lt;br&gt;-上級&lt;br&gt;-超級&lt;br&gt;-達人&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121446"><xliff:source>Combat Achievements - Tempoross</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121446"><xliff:source>Combat Achievements - Tempoross</xliff:source><xliff:target state="translated">戦闘実績 : テンポロス</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121447"><xliff:source>Tempoross is a skilling boss located off the coast of the Ruins of Unkah in the Kharidian Desert.  Attack Styles - Special Immunities - Special Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121447"><xliff:source>Tempoross is a skilling boss located off the coast of the Ruins of Unkah in the Kharidian Desert.  Attack Styles - Special Immunities - Special Slayer Categories - None</xliff:source><xliff:target state="translated">テンポロスはカリジア砂漠のウンカの廃墟近くの港にいるスキルボスだ。攻撃スタイル：特殊&lt;br&gt;特殊耐性：特殊&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121448"><xliff:source>Combat Level: &lt;colNum0&gt;N/A&lt;/col&gt;</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121448"><xliff:source>Combat Level: &lt;colNum0&gt;N/A&lt;/col&gt;</xliff:source><xliff:target state="translated">戦闘レベル： &lt;colNum0&gt;N/A&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121449"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Fishing  Combat Achievement task difficulty: - Easy - Medium - Hard</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121449"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Fishing  Combat Achievement task difficulty: - Easy - Medium - Hard</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-釣りレベル&lt;Num0&gt;&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-初級&lt;br&gt;-中級&lt;br&gt;-上級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121450"><xliff:source>Combat Achievements - Theatre of Blood: Entry Mode</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121450"><xliff:source>Combat Achievements - Theatre of Blood: Entry Mode</xliff:source><xliff:target state="translated">戦闘実績：血の劇場：初心者モード</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121451"><xliff:source>The Theatre of Blood is a large arena located within the castle of Ver Sinhaza in Morytania.  The Theatre of Blood is a raid for &lt;Num0&gt;-&lt;Num1&gt; players.  Entry mode is an easier version of the Theatre of Blood aimed at introducing you to the content and the boss mechanics in a less punishing way.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121451"><xliff:source>The Theatre of Blood is a large arena located within the castle of Ver Sinhaza in Morytania.  The Theatre of Blood is a raid for &lt;Num0&gt;-&lt;Num1&gt; players.  Entry mode is an easier version of the Theatre of Blood aimed at introducing you to the content and the boss mechanics in a less punishing way.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">血の劇場は、モリタニアのベー・シンハザ城内にある大きな闘技場である。血の劇場は&lt;Num0&gt;から&lt;Num1&gt;人用のレイドである。初心者モードは血の劇場の難易度を落としたレイドであり、内容やボスの動きをあまり厳しくない方法で紹介することを目的としている。攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121452"><xliff:source>Mandatory requirements: - Access to Morytania  Combat Achievement task difficulty: - Hard  - Elite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121452"><xliff:source>Mandatory requirements: - Access to Morytania  Combat Achievement task difficulty: - Hard  - Elite</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-モリタニアへのアクセス&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121453"><xliff:source>Combat Achievements - Theatre of Blood</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121453"><xliff:source>Combat Achievements - Theatre of Blood</xliff:source><xliff:target state="translated">戦闘実績：血の劇場</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121454"><xliff:source>The Theatre of Blood is a large arena located within the castle of Ver Sinhaza in Morytania.  The Theatre of Blood is a raid for &lt;Num0&gt;-&lt;Num1&gt; players.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121454"><xliff:source>The Theatre of Blood is a large arena located within the castle of Ver Sinhaza in Morytania.  The Theatre of Blood is a raid for &lt;Num0&gt;-&lt;Num1&gt; players.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">血の劇場は、モリタニアのベー・シンハザ城内にある大きな闘技場である。血の劇場は&lt;Num0&gt;から&lt;Num1&gt;人用のレイドである。攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121455"><xliff:source>Combat Achievements - Theatre of Blood: Hard Mode</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121455"><xliff:source>Combat Achievements - Theatre of Blood: Hard Mode</xliff:source><xliff:target state="translated">戦闘実績：血の劇場：ハードモード</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121456"><xliff:source>The Theatre of Blood is a large arena located within the castle of Ver Sinhaza in Morytania.  The Theatre of Blood is a raid for &lt;Num0&gt;-&lt;Num1&gt; players.  Hard mode is a more challenging experience than the regular raid. Mechanics are harder and more punishing.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121456"><xliff:source>The Theatre of Blood is a large arena located within the castle of Ver Sinhaza in Morytania.  The Theatre of Blood is a raid for &lt;Num0&gt;-&lt;Num1&gt; players.  Hard mode is a more challenging experience than the regular raid. Mechanics are harder and more punishing.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">血の劇場は、モリタニアのベー・シンハザ城内にある大きな闘技場である。血の劇場は&lt;Num0&gt;から&lt;Num1&gt;人用のレイドである。ハードモードは通常のレイドよりも難易度が高く設定されている。仕掛けはより厳しくペナルティも大きい。攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121457"><xliff:source>Mandatory requirements: - Access to Morytania - At least one regular Theatre of Blood completion  Combat Achievement task difficulty: - Master - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121457"><xliff:source>Mandatory requirements: - Access to Morytania - At least one regular Theatre of Blood completion  Combat Achievement task difficulty: - Master - Grandmaster</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-モリタニアへのアクセス&lt;br&gt;-通常の血の劇場を一度は攻略していること&lt;br&gt;&lt;br&gt;戦闘実績タスクの難易度：&lt;br&gt;-達人&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121458"><xliff:source>Combat Achievements - Thermonuclear Smoke Devil</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121458"><xliff:source>Combat Achievements - Thermonuclear Smoke Devil</xliff:source><xliff:target state="translated">戦闘実績：熱核スモーク・デビル</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121459"><xliff:source>The Thermonuclear Smoke Devil is a stronger and larger smoke devil, found within Breive's cave south of Castle Wars.  Attack Styles - Magical Ranged Immunities - Poison, Venom Slayer Categories - Smoke Devil</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
@@ -34747,7 +34747,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121461"><xliff:source>Combat Achievements - Tombs of Amascut: Entry Mode</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121462"><xliff:source>The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for &lt;Num0&gt;-&lt;Num1&gt; players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of less then &lt;Num2&gt; considered an Entry raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121462"><xliff:source>The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for &lt;Num0&gt;-&lt;Num1&gt; players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of less then &lt;Num2&gt; considered an Entry raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for &lt;Num0&gt;-&lt;Num1&gt; players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of less then &lt;Num2&gt; considered an Entry raid.  攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121463"><xliff:source>Mandatory requirements: - Beneath Cursed Sands  Combat Achievement task difficulty: - Medium - Hard - Elite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
@@ -34756,7 +34756,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121464"><xliff:source>Combat Achievements - Tombs of Amascut</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121465"><xliff:source>The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for &lt;Num0&gt;-&lt;Num1&gt; players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of &lt;Num2&gt; to &lt;Num3&gt; considered a standard raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121465"><xliff:source>The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for &lt;Num0&gt;-&lt;Num1&gt; players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of &lt;Num2&gt; to &lt;Num3&gt; considered a standard raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for &lt;Num0&gt;-&lt;Num1&gt; players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of &lt;Num2&gt; to &lt;Num3&gt; considered a standard raid.  攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121466"><xliff:source>Mandatory requirements: - Beneath Cursed Sands  Combat Achievement task difficulty: - Elite - Master - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
@@ -34765,7 +34765,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121467"><xliff:source>Combat Achievements - Tombs of Amascut: Expert Mode</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121468"><xliff:source>The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for &lt;Num0&gt;-&lt;Num1&gt; players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of &lt;Num2&gt; or greater considered an Expert raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121468"><xliff:source>The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for &lt;Num0&gt;-&lt;Num1&gt; players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of &lt;Num2&gt; or greater considered an Expert raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for &lt;Num0&gt;-&lt;Num1&gt; players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of &lt;Num2&gt; or greater considered an Expert raid.  攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121469"><xliff:source>Combat Achievements - TzHaar-Ket-Rak's Challenges</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
@@ -34792,7 +34792,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121476"><xliff:source>TzTok-Jad is the final boss found within the depths of the Fight Caves found within Mor Ul Rek.  Attack Styles - Melee, Ranged, Magic Immunities - Venom Slayer Categories - TzHaar</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121477"><xliff:source>There are no mandatory requirements to attempt the Fight Caves.  Combat Achievement task difficulty: - Elite - Master - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121477"><xliff:source>There are no mandatory requirements to attempt the Fight Caves.  Combat Achievement task difficulty: - Elite - Master - Grandmaster</xliff:source><xliff:target state="translated">There are no mandatory requirements to attempt the Fight Caves.  戦闘実績タスクの難易度：&lt;br&gt;-超級&lt;br&gt;-達人&lt;br&gt;-総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121478"><xliff:source>Combat Achievements - Vardorvis</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
@@ -34807,7 +34807,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121481"><xliff:source>Venenatis is a large poison spider that resides east of the Bone Yard in the Wilderness.  Attack Styles - Melee, Special Immunities - Poison, Venom, Magic Slayer Categories - Spider</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121482"><xliff:source>There are no mandatory requirements to fight Venenatis.  Combat Achievement task difficulty: - Hard - Elite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121482"><xliff:source>There are no mandatory requirements to fight Venenatis.  Combat Achievement task difficulty: - Hard - Elite</xliff:source><xliff:target state="translated">There are no mandatory requirements to fight Venenatis.  戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121483"><xliff:source>Combat Achievements - Vet'ion</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
@@ -34816,7 +34816,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121484"><xliff:source>Vet'ion is a Zamorakian skeletal champion that resides north of the Bone Yard and south of Lava Dragon Isle in the Wilderness.  Attack Styles - Melee, Magic Immunities - Poison, Venom Slayer Categories - Skeleton</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121485"><xliff:source>There are no mandatory requirements to fight Vet'ion.  Combat Achievement task difficulty: - Hard - Elite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121485"><xliff:source>There are no mandatory requirements to fight Vet'ion.  Combat Achievement task difficulty: - Hard - Elite</xliff:source><xliff:target state="translated">There are no mandatory requirements to fight Vet'ion.  戦闘実績タスクの難易度：&lt;br&gt;-上級&lt;br&gt;-超級</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121486"><xliff:source>Combat Achievements - Vorkath</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
@@ -34831,13 +34831,13 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121489"><xliff:source>Combat Achievements - The Whisperer</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121490"><xliff:source>The Whisperer is a boss found within the Lassar Undercity, deep beneath Ice Mountain.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121490"><xliff:source>The Whisperer is a boss found within the Lassar Undercity, deep beneath Ice Mountain.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">The Whisperer is a boss found within the Lassar Undercity, deep beneath Ice Mountain.  攻撃スタイル：近接・遠射・魔法・特殊&lt;br&gt;特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121491"><xliff:source>Combat Achievements - Wintertodt</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121492"><xliff:source>The Wintertodt is a skilling boss located in the Northern Tundras of Great Kourend, east of the Fishing Hamlet.  Attack Styles - Special Immunities - Special Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121492"><xliff:source>The Wintertodt is a skilling boss located in the Northern Tundras of Great Kourend, east of the Fishing Hamlet.  Attack Styles - Special Immunities - Special Slayer Categories - None</xliff:source><xliff:target state="translated">The Wintertodt is a skilling boss located in the Northern Tundras of Great Kourend, east of the Fishing Hamlet.  攻撃スタイル：特殊&lt;br&gt;特殊耐性：特殊&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121493"><xliff:source>Mandatory requirements: - &lt;Num0&gt; Firemaking  Combat Achievement task difficulty: - Easy - Medium - Hard</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
@@ -34846,7 +34846,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121494"><xliff:source>Combat Achievements - Zalcano</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121495"><xliff:source>Zalcano is a demon skilling boss imprisoned beneath the elven capital city of Prifddinas.  Attack Styles - Special Immunities - Special Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121495"><xliff:source>Zalcano is a demon skilling boss imprisoned beneath the elven capital city of Prifddinas.  Attack Styles - Special Immunities - Special Slayer Categories - None</xliff:source><xliff:target state="translated">Zalcano is a demon skilling boss imprisoned beneath the elven capital city of Prifddinas.  攻撃スタイル：特殊&lt;br&gt;特殊耐性：特殊&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121496"><xliff:source>Mandatory requirements: - Song of the Elves - A pickaxe  Combat Achievement task difficulty: - Elite</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
@@ -34855,7 +34855,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121497"><xliff:source>Combat Achievements - Zulrah</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121498"><xliff:source>Zulrah is a snake boss found at their shrine within the Poison Wastes south of Isafdar. The followers of Zul-Andra provide access to the shrine via rowboat.  Attack Styles - Melee, Ranged, Magic. Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121498"><xliff:source>Zulrah is a snake boss found at their shrine within the Poison Wastes south of Isafdar. The followers of Zul-Andra provide access to the shrine via rowboat.  Attack Styles - Melee, Ranged, Magic. Immunities - Poison, Venom Slayer Categories - None</xliff:source><xliff:target state="translated">Zulrah is a snake boss found at their shrine within the Poison Wastes south of Isafdar. The followers of Zul-Andra provide access to the shrine via rowboat.  Attack Styles - Melee, Ranged, Magic. 特殊耐性：毒・猛毒&lt;br&gt;討伐依頼のカテゴリ：なし</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121499"><xliff:source>Mandatory requirements: - Regicide  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
