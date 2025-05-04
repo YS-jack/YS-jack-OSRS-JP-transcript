@@ -30823,19 +30823,19 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120153"><xliff:source>Grandmaster</xliff:source><xliff:target state="translated">総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120154"><xliff:source>Tasks Completed:</xliff:source><xliff:target state="translated">完了タスク：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120154"><xliff:source>Tasks Completed:</xliff:source><xliff:target state="translated">完了タスク数</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120155"><xliff:source>Boss Kill Count:</xliff:source><xliff:target state="translated">ボスのキル数：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120155"><xliff:source>Boss Kill Count:</xliff:source><xliff:target state="translated">ボスの合計キル数</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120156"><xliff:source>Skilling Boss Kill Count:</xliff:source><xliff:target state="translated">スキルボスのキル数：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120156"><xliff:source>Skilling Boss Kill Count:</xliff:source><xliff:target state="translated">スキルボスの合計キル数</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120157"><xliff:source>Raid Completions:</xliff:source><xliff:target state="translated">レイドのクリア数：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120157"><xliff:source>Raid Completions:</xliff:source><xliff:target state="translated">レイドの合計クリア数</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120158"><xliff:source>Top Boss:</xliff:source><xliff:target state="translated">最多キル：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120158"><xliff:source>Top Boss:</xliff:source><xliff:target state="translated">最多キルのボス</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120159"><xliff:source>&lt;!ANY_TRANSLATED0&gt; (&lt;Num0&gt;)</xliff:source><xliff:target state="translated">&lt;!ANY_TRANSLATED0&gt; &lt;asis&gt;(&lt;Num0&gt;)&lt;/asis&gt;</xliff:target><xliff:note>category: interface
@@ -30844,7 +30844,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120160"><xliff:source>Top Skilling Boss:</xliff:source><xliff:target state="translated">最多キルのスキルボス</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120161"><xliff:source>Top Raid:</xliff:source><xliff:target state="translated">クリア数トップのレイド：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120161"><xliff:source>Top Raid:</xliff:source><xliff:target state="translated">最多クリア数のレイド</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120162"><xliff:source>Nothing!</xliff:source><xliff:target state="translated">なし！</xliff:target><xliff:note>category: interface
