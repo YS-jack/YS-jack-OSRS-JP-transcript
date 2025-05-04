@@ -34864,7 +34864,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121500"><xliff:source>Combat Achievements - Rewards</xliff:source><xliff:target state="translated">戦闘実績の報酬</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121501"><xliff:source>&lt;Num0&gt;k XP lamp (minimum skill requirement: &lt;Num1&gt;)</xliff:source><xliff:target state="translated">&lt;Num0&gt;k XPランプ（レベル&lt;Num1&gt;以上のスキルだけに使える）</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121501"><xliff:source>&lt;Num0&gt;k XP lamp (minimum skill requirement: &lt;Num1&gt;)</xliff:source><xliff:target state="translated">&lt;Num0&gt;k XP（レベル&lt;Num1&gt;以上のスキル限定）</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121502"><xliff:source>The drop chance of a &lt;colNum0&gt;Clue Scroll (Easy)&lt;/col&gt; from all sources (excl. implings) is increased by &lt;Num0&gt;%</xliff:source><xliff:target state="translated">&lt;colNum0&gt;宝さがしの巻物（初級）&lt;/col&gt;のドロップ率が&lt;Num0&gt;%上昇（子悪魔を除く）</xliff:target><xliff:note>category: interface
