@@ -1,4 +1,5 @@
-<?xml version="1.0"?><xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <xliff:file source-language="en" target-language="ja" datatype="plaintext" original="transcript.db">
     <xliff:body>
       <xliff:trans-unit id="41258">
@@ -10901,6 +10902,24 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110125"><xliff:source>Leave &lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt; channel</xliff:source><xliff:target state="translated">&lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;のチャンネルから退会</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110126"><xliff:source>Add friend &lt;!PLAYER_NAME0&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110127"><xliff:source>Add ignore &lt;!PLAYER_NAME0&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110128"><xliff:source>Remove friend &lt;!PLAYER_NAME0&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110129"><xliff:source>Remove ignore &lt;!PLAYER_NAME0&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110130"><xliff:source>View Channel</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110131"><xliff:source>Learn More</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: 
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
