@@ -32203,7 +32203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18383">
         <xliff:source>Uncharged cells</xliff:source>
-        <xliff:target state="translated">無チャージなセル</xliff:target>
+        <xliff:target state="translated">無力なセル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Uncharged cells
@@ -36792,6 +36792,99 @@ source: Candy cane crate
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55965</xliff:note></xliff:trans-unit><xliff:trans-unit id="19054"><xliff:source>Broken candy canes</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: object
 source: Broken candy canes
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55967</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55967</xliff:note></xliff:trans-unit><xliff:trans-unit id="19055"><xliff:source>Wizards' Tower Portal</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Wizards' Tower Portal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=2156</xliff:note></xliff:trans-unit><xliff:trans-unit id="19056"><xliff:source>Dark Wizards' Tower Portal</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Dark Wizards' Tower Portal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=2157</xliff:note></xliff:trans-unit><xliff:trans-unit id="19057"><xliff:source>Sorcerer's Tower Portal</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Sorcerer's Tower Portal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=2158</xliff:note></xliff:trans-unit><xliff:trans-unit id="19058"><xliff:source>Carrot scraps</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Carrot scraps
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=2884</xliff:note></xliff:trans-unit><xliff:trans-unit id="19059"><xliff:source>Bounty supply crate</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Bounty supply crate
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=37548</xliff:note></xliff:trans-unit><xliff:trans-unit id="19060"><xliff:source>Frozen Throne</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Frozen Throne
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55979</xliff:note></xliff:trans-unit><xliff:trans-unit id="19061"><xliff:source>Book of Eternal Flame</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Book of Eternal Flame
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55990</xliff:note></xliff:trans-unit><xliff:trans-unit id="19062"><xliff:source>Book of Earthen Might</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Book of Earthen Might
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55991</xliff:note></xliff:trans-unit><xliff:trans-unit id="19063"><xliff:source>Book of Storms</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Book of Storms
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55992</xliff:note></xliff:trans-unit><xliff:trans-unit id="19064"><xliff:source>Teak display</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Teak display
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56110</xliff:note></xliff:trans-unit><xliff:trans-unit id="19065"><xliff:source>Mahogany display</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Mahogany display
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56111</xliff:note></xliff:trans-unit><xliff:trans-unit id="19066"><xliff:source>Gilded display</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Gilded display
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56112</xliff:note></xliff:trans-unit><xliff:trans-unit id="19067"><xliff:source>Oak display</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Oak display
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56130</xliff:note></xliff:trans-unit><xliff:trans-unit id="19068"><xliff:source>Broken gibbet</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Broken gibbet
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56234</xliff:note></xliff:trans-unit><xliff:trans-unit id="19069"><xliff:source>Curiously positioned crate of carrots</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Curiously positioned crate of carrots
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56235</xliff:note></xliff:trans-unit><xliff:trans-unit id="19070"><xliff:source>Conspicuous carrot scraps</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Conspicuous carrot scraps
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56239</xliff:note></xliff:trans-unit><xliff:trans-unit id="19071"><xliff:source>Suspicious carrot scraps</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Suspicious carrot scraps
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56243</xliff:note></xliff:trans-unit><xliff:trans-unit id="19072"><xliff:source>Glowing portal</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Glowing portal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56249</xliff:note></xliff:trans-unit><xliff:trans-unit id="19073"><xliff:source>Yama's throne</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Yama's throne
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56265</xliff:note></xliff:trans-unit><xliff:trans-unit id="19074"><xliff:source>Juice press</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Juice press
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56282</xliff:note></xliff:trans-unit><xliff:trans-unit id="19075"><xliff:source>Sack of grapes</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Sack of grapes
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56295</xliff:note></xliff:trans-unit><xliff:trans-unit id="19076"><xliff:source>Sack of raisins</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Sack of raisins
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56296</xliff:note></xliff:trans-unit><xliff:trans-unit id="19077"><xliff:source>Old bookcase</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Old bookcase
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56298</xliff:note></xliff:trans-unit><xliff:trans-unit id="19078"><xliff:source>Carrot Pin</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Carrot Pin
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56310</xliff:note></xliff:trans-unit><xliff:trans-unit id="19079"><xliff:source>Glyph</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Glyph
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56335</xliff:note></xliff:trans-unit><xliff:trans-unit id="19080"><xliff:source>Shadow pool</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Shadow pool
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56358</xliff:note></xliff:trans-unit><xliff:trans-unit id="19081"><xliff:source>Infernal shale rocks</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Infernal shale rocks
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56359</xliff:note></xliff:trans-unit><xliff:trans-unit id="19082"><xliff:source>Infernal shale deposit</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Infernal shale deposit
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56362</xliff:note></xliff:trans-unit><xliff:trans-unit id="19083"><xliff:source>Infernal shale deposit (Depleted)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Infernal shale deposit (Depleted)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56363</xliff:note></xliff:trans-unit><xliff:trans-unit id="19084"><xliff:source>Pool of ichor</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Pool of ichor
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56367</xliff:note></xliff:trans-unit><xliff:trans-unit id="19085"><xliff:source>Mysterious Portal</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Mysterious Portal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56373</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
